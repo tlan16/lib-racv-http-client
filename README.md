@@ -3,6 +3,7 @@ A http api client of RACV's fuel price [page](https://www.racv.com.au/on-the-roa
 Sample usage:
 
 ```typescript
+import { fetchFuelPrices } from "lib-racv-http-client";
 const prices = await fetchFuelPrices();
 ```
 
