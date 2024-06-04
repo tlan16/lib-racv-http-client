@@ -9,7 +9,7 @@ export const getDecrypted = () => ({
         "siteId": "61378044",
         "Band": "9",
         "longitude": "149.15166891534423",
-        "Name": "BP OPT Cann River"
+        "Name": "BP OPT Cann River",
       },
       {
         "Address": "140 Raglan Parade",
@@ -17,7 +17,7 @@ export const getDecrypted = () => ({
         "siteId": "61378045",
         "Band": "9",
         "longitude": "142.521169",
-        "Name": "BP Warrnambool East"
+        "Name": "BP Warrnambool East",
       },
       {
         "Address": "197-199 Lloyd Street",
@@ -25,7 +25,7 @@ export const getDecrypted = () => ({
         "siteId": "61378046",
         "Band": "9",
         "longitude": "146.241258",
-        "Name": "BP Moe"
+        "Name": "BP Moe",
       },
       {
         "Address": "9 Gazzard Street",
@@ -33,7 +33,7 @@ export const getDecrypted = () => ({
         "siteId": "61378047",
         "Band": "9",
         "longitude": "141.394508",
-        "Name": "Casterton Unmanned"
+        "Name": "Casterton Unmanned",
       },
       {
         "Address": "13 Conness Street",
@@ -41,7 +41,7 @@ export const getDecrypted = () => ({
         "siteId": "61378048",
         "Band": "9",
         "longitude": "146.607802",
-        "Name": "Chiltern Produce"
+        "Name": "Chiltern Produce",
       },
       {
         "Address": "7-15 Forest Street",
@@ -49,7 +49,7 @@ export const getDecrypted = () => ({
         "siteId": "61378049",
         "Band": "9",
         "longitude": "143.605355",
-        "Name": "Colac Bulk Diesel"
+        "Name": "Colac Bulk Diesel",
       },
       {
         "Address": "35 Lowe Street",
@@ -57,7 +57,7 @@ export const getDecrypted = () => ({
         "siteId": "61378050",
         "Band": "9",
         "longitude": "144.375206",
-        "Name": "Corio Bulk Diesel"
+        "Name": "Corio Bulk Diesel",
       },
       {
         "Address": "194-204 Ordish Road",
@@ -65,7 +65,7 @@ export const getDecrypted = () => ({
         "siteId": "61378051",
         "Band": "9",
         "longitude": "145.194801",
-        "Name": "Dandenong Bulk Diesel"
+        "Name": "Dandenong Bulk Diesel",
       },
       {
         "Address": "12 Coleraine Road",
@@ -73,7 +73,7 @@ export const getDecrypted = () => ({
         "siteId": "61378052",
         "Band": "9",
         "longitude": "141.839117",
-        "Name": "Endeavour Petroleum Balmoral"
+        "Name": "Endeavour Petroleum Balmoral",
       },
       {
         "Address": "1 Davis Street",
@@ -81,7 +81,7 @@ export const getDecrypted = () => ({
         "siteId": "61378053",
         "Band": "9",
         "longitude": "146.783474",
-        "Name": "Endeavour Petroleum Heyfield"
+        "Name": "Endeavour Petroleum Heyfield",
       },
       {
         "Address": "94 Birchip - Sea Lake Road",
@@ -89,7 +89,7 @@ export const getDecrypted = () => ({
         "siteId": "61378054",
         "Band": "9",
         "longitude": "142.919474",
-        "Name": "Express Diesel Birchip"
+        "Name": "Express Diesel Birchip",
       },
       {
         "Address": "Old Hamilton Road",
@@ -97,7 +97,7 @@ export const getDecrypted = () => ({
         "siteId": "61378056",
         "Band": "9",
         "longitude": "142.20609412080552",
-        "Name": "Horsham Bulk Diesel"
+        "Name": "Horsham Bulk Diesel",
       },
       {
         "Address": "25-29 Trewin Street",
@@ -105,7 +105,7 @@ export const getDecrypted = () => ({
         "siteId": "61378059",
         "Band": "9",
         "longitude": "143.809915",
-        "Name": "IOR Ballarat"
+        "Name": "IOR Ballarat",
       },
       {
         "Address": "70-94 Victa Rd",
@@ -113,7 +113,7 @@ export const getDecrypted = () => ({
         "siteId": "61378060",
         "Band": "9",
         "longitude": "144.32518",
-        "Name": "IOR Bendigo"
+        "Name": "IOR Bendigo",
       },
       {
         "Address": "Maryvale Road",
@@ -121,7 +121,7 @@ export const getDecrypted = () => ({
         "siteId": "61378062",
         "Band": "9",
         "longitude": "146.446575",
-        "Name": "John Duff & Co Apm Unmanned"
+        "Name": "John Duff & Co Apm Unmanned",
       },
       {
         "Address": "11 Beek Street",
@@ -129,7 +129,7 @@ export const getDecrypted = () => ({
         "siteId": "61378063",
         "Band": "9",
         "longitude": "145.68798465398461",
-        "Name": "Katamatite Fuel & Grocery"
+        "Name": "Katamatite Fuel & Grocery",
       },
       {
         "Address": "2 Weighbridge Place",
@@ -137,7 +137,7 @@ export const getDecrypted = () => ({
         "siteId": "61378064",
         "Band": "9",
         "longitude": "142.84137",
-        "Name": "Lake Bolac Bulk Diesel"
+        "Name": "Lake Bolac Bulk Diesel",
       },
       {
         "Address": "23 Cohuna-Leitchville Road",
@@ -145,7 +145,7 @@ export const getDecrypted = () => ({
         "siteId": "61378065",
         "Band": "9",
         "longitude": "144.214387",
-        "Name": "Liberty Cohuna (Riverland)"
+        "Name": "Liberty Cohuna (Riverland)",
       },
       {
         "Address": "87 Hughes Street",
@@ -153,7 +153,7 @@ export const getDecrypted = () => ({
         "siteId": "61378066",
         "Band": "9",
         "longitude": "142.330957",
-        "Name": "Liberty Ouyen Unmanned"
+        "Name": "Liberty Ouyen Unmanned",
       },
       {
         "Address": "109 High Street",
@@ -161,7 +161,7 @@ export const getDecrypted = () => ({
         "siteId": "61378067",
         "Band": "9",
         "longitude": "143.333967",
-        "Name": "Lismore Bulk Diesel"
+        "Name": "Lismore Bulk Diesel",
       },
       {
         "Address": "2835 Warburton Highway",
@@ -169,7 +169,7 @@ export const getDecrypted = () => ({
         "siteId": "61378068",
         "Band": "9",
         "longitude": "145.64644909325406",
-        "Name": "Local Fuel"
+        "Name": "Local Fuel",
       },
       {
         "Address": "89 Railway Road",
@@ -177,7 +177,7 @@ export const getDecrypted = () => ({
         "siteId": "61378069",
         "Band": "9",
         "longitude": "144.608561",
-        "Name": "Metro Petroleum Elmore"
+        "Name": "Metro Petroleum Elmore",
       },
       {
         "Address": "22 High St",
@@ -185,7 +185,7 @@ export const getDecrypted = () => ({
         "siteId": "61378070",
         "Band": "9",
         "longitude": "145.016634",
-        "Name": "Metro Petroleum Rushworth"
+        "Name": "Metro Petroleum Rushworth",
       },
       {
         "Address": "96 Commercial Road",
@@ -193,7 +193,7 @@ export const getDecrypted = () => ({
         "siteId": "61378071",
         "Band": "9",
         "longitude": "142.36824177546311",
-        "Name": "MG Trading Koroit"
+        "Name": "MG Trading Koroit",
       },
       {
         "Address": "1 Cusack Road",
@@ -201,7 +201,7 @@ export const getDecrypted = () => ({
         "siteId": "61378072",
         "Band": "9",
         "longitude": "145.960558",
-        "Name": "MG Trading Leongatha"
+        "Name": "MG Trading Leongatha",
       },
       {
         "Address": "Foster Street",
@@ -209,7 +209,7 @@ export const getDecrypted = () => ({
         "siteId": "61378073",
         "Band": "9",
         "longitude": "146.97792",
-        "Name": "MG Trading Maffra"
+        "Name": "MG Trading Maffra",
       },
       {
         "Address": "3325 Goulburn Valley Highway",
@@ -217,7 +217,7 @@ export const getDecrypted = () => ({
         "siteId": "61378074",
         "Band": "9",
         "longitude": "145.43138694234523",
-        "Name": "MG Trading Numurkah"
+        "Name": "MG Trading Numurkah",
       },
       {
         "Address": "113-117 Karinie Street",
@@ -225,7 +225,7 @@ export const getDecrypted = () => ({
         "siteId": "61378075",
         "Band": "9",
         "longitude": "143.550022",
-        "Name": "MG Trading Swan Hill"
+        "Name": "MG Trading Swan Hill",
       },
       {
         "Address": "1 Thomas Murrell Crescent",
@@ -233,7 +233,7 @@ export const getDecrypted = () => ({
         "siteId": "61378076",
         "Band": "9",
         "longitude": "145.193035",
-        "Name": "Mobil Diesel Dandenong"
+        "Name": "Mobil Diesel Dandenong",
       },
       {
         "Address": "616 Midland Highway",
@@ -241,7 +241,7 @@ export const getDecrypted = () => ({
         "siteId": "61378077",
         "Band": "9",
         "longitude": "144.332171",
-        "Name": "Mobil Huntly"
+        "Name": "Mobil Huntly",
       },
       {
         "Address": "86 Main Road",
@@ -249,7 +249,7 @@ export const getDecrypted = () => ({
         "siteId": "61378078",
         "Band": "9",
         "longitude": "144.677316",
-        "Name": "Riddells Creek Convenience Store"
+        "Name": "Riddells Creek Convenience Store",
       },
       {
         "Address": "Murray Valley Highway",
@@ -257,7 +257,7 @@ export const getDecrypted = () => ({
         "siteId": "61378079",
         "Band": "9",
         "longitude": "147.883531",
-        "Name": "Independent Mt Mittamatite"
+        "Name": "Independent Mt Mittamatite",
       },
       {
         "Address": "12 Lower Franklin Road",
@@ -265,7 +265,7 @@ export const getDecrypted = () => ({
         "siteId": "61378080",
         "Band": "9",
         "longitude": "146.210824",
-        "Name": "Murray Goulburn Foster"
+        "Name": "Murray Goulburn Foster",
       },
       {
         "Address": "1 Bishop Road",
@@ -273,7 +273,7 @@ export const getDecrypted = () => ({
         "siteId": "61378081",
         "Band": "9",
         "longitude": "142.696846",
-        "Name": "Nandaly Bulk Diesel"
+        "Name": "Nandaly Bulk Diesel",
       },
       {
         "Address": "33-35 Main Street",
@@ -281,7 +281,7 @@ export const getDecrypted = () => ({
         "siteId": "61378082",
         "Band": "9",
         "longitude": "141.47357697056958",
-        "Name": "Petrogas Goroke Fuel Stop"
+        "Name": "Petrogas Goroke Fuel Stop",
       },
       {
         "Address": "37-65 New Dookie Road",
@@ -289,7 +289,7 @@ export const getDecrypted = () => ({
         "siteId": "61378083",
         "Band": "9",
         "longitude": "145.422469",
-        "Name": "Petrogas Shepparton Fuel Stop"
+        "Name": "Petrogas Shepparton Fuel Stop",
       },
       {
         "Address": "Camerons Road",
@@ -297,7 +297,7 @@ export const getDecrypted = () => ({
         "siteId": "61378084",
         "Band": "9",
         "longitude": "141.467995",
-        "Name": "Riodans Edenhope"
+        "Name": "Riodans Edenhope",
       },
       {
         "Address": "420 Barkly Street",
@@ -305,7 +305,7 @@ export const getDecrypted = () => ({
         "siteId": "61378085",
         "Band": "9",
         "longitude": "142.952187",
-        "Name": "Riordan Ararat"
+        "Name": "Riordan Ararat",
       },
       {
         "Address": "6090 Glenelg Highway",
@@ -313,7 +313,7 @@ export const getDecrypted = () => ({
         "siteId": "61378086",
         "Band": "9",
         "longitude": "141.419908",
-        "Name": "Riordan Casterton"
+        "Name": "Riordan Casterton",
       },
       {
         "Address": "164 Garden Street",
@@ -321,7 +321,7 @@ export const getDecrypted = () => ({
         "siteId": "61378087",
         "Band": "9",
         "longitude": "141.588999",
-        "Name": "Riordan Fuels Portland"
+        "Name": "Riordan Fuels Portland",
       },
       {
         "Address": "246 Crete Road",
@@ -329,7 +329,7 @@ export const getDecrypted = () => ({
         "siteId": "61378088",
         "Band": "9",
         "longitude": "142.772421",
-        "Name": "Robinvale Bulk Diesel"
+        "Name": "Robinvale Bulk Diesel",
       },
       {
         "Address": "6 Calder Highway",
@@ -337,7 +337,7 @@ export const getDecrypted = () => ({
         "siteId": "61378089",
         "Band": "9",
         "longitude": "142.85798804504728",
-        "Name": "Sea Lake Bulk Diesel"
+        "Name": "Sea Lake Bulk Diesel",
       },
       {
         "Address": "1274 Whittlesea - Yea Road",
@@ -345,7 +345,7 @@ export const getDecrypted = () => ({
         "siteId": "61378090",
         "Band": "9",
         "longitude": "145.238703",
-        "Name": "Shell Kinglake West"
+        "Name": "Shell Kinglake West",
       },
       {
         "Address": "2 Industrial Drive",
@@ -353,7 +353,7 @@ export const getDecrypted = () => ({
         "siteId": "61378091",
         "Band": "9",
         "longitude": "145.491829",
-        "Name": "Shell Pakenham Unmanned"
+        "Name": "Shell Pakenham Unmanned",
       },
       {
         "Address": "2-4 Cowslip Street",
@@ -361,7 +361,7 @@ export const getDecrypted = () => ({
         "siteId": "61378092",
         "Band": "9",
         "longitude": "145.722173",
-        "Name": "Shell Violet Town"
+        "Name": "Shell Violet Town",
       },
       {
         "Address": "11 Cregan Street",
@@ -369,7 +369,7 @@ export const getDecrypted = () => ({
         "siteId": "61378093",
         "Band": "9",
         "longitude": "142.023526",
-        "Name": "Shell Walpeup"
+        "Name": "Shell Walpeup",
       },
       {
         "Address": "121-135 Old Dookie Road",
@@ -377,7 +377,7 @@ export const getDecrypted = () => ({
         "siteId": "61378094",
         "Band": "9",
         "longitude": "145.431032",
-        "Name": "Shepparton Bulk Diesel"
+        "Name": "Shepparton Bulk Diesel",
       },
       {
         "Address": "1 Tomahawk Creek Road",
@@ -385,7 +385,7 @@ export const getDecrypted = () => ({
         "siteId": "61378095",
         "Band": "9",
         "longitude": "143.21079134494821",
-        "Name": "Simpson Bulk Diesel"
+        "Name": "Simpson Bulk Diesel",
       },
       {
         "Address": "20 Melbourne Road",
@@ -393,7 +393,7 @@ export const getDecrypted = () => ({
         "siteId": "61378096",
         "Band": "9",
         "longitude": "143.263386",
-        "Name": "St Arnaud Bulk Diesel"
+        "Name": "St Arnaud Bulk Diesel",
       },
       {
         "Address": "7 Queen Street",
@@ -401,7 +401,7 @@ export const getDecrypted = () => ({
         "siteId": "61378097",
         "Band": "9",
         "longitude": "143.558084",
-        "Name": "Swan Hill Bulk Diesel"
+        "Name": "Swan Hill Bulk Diesel",
       },
       {
         "Address": "2 Peterborough Road",
@@ -409,7 +409,7 @@ export const getDecrypted = () => ({
         "siteId": "61378098",
         "Band": "9",
         "longitude": "142.929352",
-        "Name": "Terang Bulk Diesel"
+        "Name": "Terang Bulk Diesel",
       },
       {
         "Address": "3 Milburns Road",
@@ -417,7 +417,7 @@ export const getDecrypted = () => ({
         "siteId": "61378102",
         "Band": "9",
         "longitude": "143.226567",
-        "Name": "Unmanned Diesel McLennan"
+        "Name": "Unmanned Diesel McLennan",
       },
       {
         "Address": "6 Webb Drive",
@@ -425,7 +425,7 @@ export const getDecrypted = () => ({
         "siteId": "61378104",
         "Band": "9",
         "longitude": "145.603525",
-        "Name": "Wonthaggi Bulk Diesel"
+        "Name": "Wonthaggi Bulk Diesel",
       },
       {
         "Address": "394 Barkly Street",
@@ -433,7 +433,7 @@ export const getDecrypted = () => ({
         "siteId": "61378105",
         "Band": "9",
         "longitude": "142.949433",
-        "Name": "United Ararat"
+        "Name": "United Ararat",
       },
       {
         "Address": "10 Drapers Road",
@@ -441,7 +441,7 @@ export const getDecrypted = () => ({
         "siteId": "61378106",
         "Band": "9",
         "longitude": "143.626463",
-        "Name": "BP Colac East"
+        "Name": "BP Colac East",
       },
       {
         "Address": "222 McLennan Street",
@@ -449,7 +449,7 @@ export const getDecrypted = () => ({
         "siteId": "61378107",
         "Band": "9",
         "longitude": "145.342607",
-        "Name": "United Mooroopna"
+        "Name": "United Mooroopna",
       },
       {
         "Address": "34 Sydney Rd",
@@ -457,7 +457,7 @@ export const getDecrypted = () => ({
         "siteId": "61378108",
         "Band": "9",
         "longitude": "146.00088334907383",
-        "Name": "Ampol Benalla Depot With Front"
+        "Name": "Ampol Benalla Depot With Front",
       },
       {
         "Address": "53 Fitzgerald St",
@@ -465,7 +465,7 @@ export const getDecrypted = () => ({
         "siteId": "61378109",
         "Band": "9",
         "longitude": "141.58940723928876",
-        "Name": "K&S Freighters"
+        "Name": "K&S Freighters",
       },
       {
         "Address": "14-20 Lindsay St",
@@ -473,7 +473,7 @@ export const getDecrypted = () => ({
         "siteId": "61378110",
         "Band": "9",
         "longitude": "142.44406724398451",
-        "Name": "Ampol Warrnambool Depot"
+        "Name": "Ampol Warrnambool Depot",
       },
       {
         "Address": "47-99 Learmonth St",
@@ -481,7 +481,7 @@ export const getDecrypted = () => ({
         "siteId": "61378111",
         "Band": "9",
         "longitude": "143.81248346400147",
-        "Name": "Apco Alfredton"
+        "Name": "Apco Alfredton",
       },
       {
         "Address": "280 Hume Hwy",
@@ -489,7 +489,7 @@ export const getDecrypted = () => ({
         "siteId": "61378112",
         "Band": "4",
         "longitude": "144.94833723809816",
-        "Name": "7-Eleven Craigieburn South"
+        "Name": "7-Eleven Craigieburn South",
       },
       {
         "Address": "500-550 Torquay Rd",
@@ -497,7 +497,7 @@ export const getDecrypted = () => ({
         "siteId": "61378113",
         "Band": "3",
         "longitude": "144.33649212638929",
-        "Name": "7-Eleven Armstrong Creek Town Centre"
+        "Name": "7-Eleven Armstrong Creek Town Centre",
       },
       {
         "Address": "1585S Thompsons Rd",
@@ -505,7 +505,7 @@ export const getDecrypted = () => ({
         "siteId": "61378114",
         "Band": "9",
         "longitude": "145.31537981719663",
-        "Name": "Ampol Cranbourne North"
+        "Name": "Ampol Cranbourne North",
       },
       {
         "Address": "1100 Doncaster Rd, Doncaster East VIC 3109, Australia",
@@ -513,7 +513,7 @@ export const getDecrypted = () => ({
         "siteId": "61378115",
         "Band": "9",
         "longitude": "145.17059735092622",
-        "Name": "Metro Petroleum Doncaster East"
+        "Name": "Metro Petroleum Doncaster East",
       },
       {
         "Address": "720 Sunbury Rd",
@@ -521,7 +521,7 @@ export const getDecrypted = () => ({
         "siteId": "61378117",
         "Band": "3",
         "longitude": "144.75628335164456",
-        "Name": "7-Eleven Sunbury"
+        "Name": "7-Eleven Sunbury",
       },
       {
         "Address": "650 Hume Hwy",
@@ -529,7 +529,7 @@ export const getDecrypted = () => ({
         "siteId": "61378118",
         "Band": "9",
         "longitude": "144.94191858836061",
-        "Name": "Liberty Jasbe Craigieburn"
+        "Name": "Liberty Jasbe Craigieburn",
       },
       {
         "Address": "196 Melbourne Rd",
@@ -537,7 +537,7 @@ export const getDecrypted = () => ({
         "siteId": "61378119",
         "Band": "3",
         "longitude": "146.86390682242205",
-        "Name": "7-Eleven Wodonga West"
+        "Name": "7-Eleven Wodonga West",
       },
       {
         "Address": "1-19 Nyah Rd",
@@ -545,7 +545,7 @@ export const getDecrypted = () => ({
         "siteId": "61378120",
         "Band": "9",
         "longitude": "143.553866916149",
-        "Name": "Liberty Swan Hill"
+        "Name": "Liberty Swan Hill",
       },
       {
         "Address": "149 High St",
@@ -553,7 +553,7 @@ export const getDecrypted = () => ({
         "siteId": "61378121",
         "Band": "4",
         "longitude": "144.98046801693417",
-        "Name": "7-Eleven Wallan"
+        "Name": "7-Eleven Wallan",
       },
       {
         "Address": "2138 Lavers Hill-Cobden Rd",
@@ -561,7 +561,7 @@ export const getDecrypted = () => ({
         "siteId": "61378122",
         "Band": "9",
         "longitude": "143.2173355834671",
-        "Name": "AG Warehouse Simpson"
+        "Name": "AG Warehouse Simpson",
       },
       {
         "Address": "19 Kiewa E Rd",
@@ -569,7 +569,7 @@ export const getDecrypted = () => ({
         "siteId": "61378123",
         "Band": "9",
         "longitude": "147.02585247727575",
-        "Name": "Murray Goulburn Store"
+        "Name": "Murray Goulburn Store",
       },
       {
         "Address": "14 Beach Rd",
@@ -577,7 +577,7 @@ export const getDecrypted = () => ({
         "siteId": "61378124",
         "Band": "9",
         "longitude": "145.30912292618069",
-        "Name": "Phillip Island Marine"
+        "Name": "Phillip Island Marine",
       },
       {
         "Address": "3 Chatham Ct",
@@ -585,7 +585,7 @@ export const getDecrypted = () => ({
         "siteId": "61378125",
         "Band": "9",
         "longitude": "142.4518236809509",
-        "Name": "Wheelie Waste"
+        "Name": "Wheelie Waste",
       },
       {
         "Address": "111 Lind Ave",
@@ -593,7 +593,7 @@ export const getDecrypted = () => ({
         "siteId": "61378126",
         "Band": "9",
         "longitude": "147.25108735880886",
-        "Name": "Dargo General Store"
+        "Name": "Dargo General Store",
       },
       {
         "Address": "3186 Mt Buller Rd",
@@ -601,7 +601,7 @@ export const getDecrypted = () => ({
         "siteId": "61378127",
         "Band": "9",
         "longitude": "146.39673752792857",
-        "Name": "Mirimbah Store"
+        "Name": "Mirimbah Store",
       },
       {
         "Address": "48 Campbell St",
@@ -609,7 +609,7 @@ export const getDecrypted = () => ({
         "siteId": "61378128",
         "Band": "9",
         "longitude": "142.9105566881413",
-        "Name": "Birchip Motel & Caravan Park"
+        "Name": "Birchip Motel & Caravan Park",
       },
       {
         "Address": "200 Howe St",
@@ -617,7 +617,7 @@ export const getDecrypted = () => ({
         "siteId": "61378129",
         "Band": "9",
         "longitude": "143.80269515712993",
-        "Name": "Octane Miners Rest"
+        "Name": "Octane Miners Rest",
       },
       {
         "Address": "50 Manifold St",
@@ -625,7 +625,7 @@ export const getDecrypted = () => ({
         "siteId": "61378130",
         "Band": "9",
         "longitude": "142.43230041762413",
-        "Name": "Woolsthorpe General Store"
+        "Name": "Woolsthorpe General Store",
       },
       {
         "Address": "17 Blair St",
@@ -633,7 +633,7 @@ export const getDecrypted = () => ({
         "siteId": "61378131",
         "Band": "9",
         "longitude": "141.59270740427496",
-        "Name": "Harrow Garage"
+        "Name": "Harrow Garage",
       },
       {
         "Address": "83 Leakes Rd, Tarneit VIC 3029, Australia",
@@ -641,7 +641,7 @@ export const getDecrypted = () => ({
         "siteId": "61378132",
         "Band": "3",
         "longitude": "144.69880947778628",
-        "Name": "7-Eleven Tarneit Central - Tarneit Park Hub"
+        "Name": "7-Eleven Tarneit Central - Tarneit Park Hub",
       },
       {
         "Address": "2 Club Court",
@@ -649,7 +649,7 @@ export const getDecrypted = () => ({
         "siteId": "61378133",
         "Band": "3",
         "longitude": "144.3511616557297",
-        "Name": "7-Eleven Strathfieldsaye"
+        "Name": "7-Eleven Strathfieldsaye",
       },
       {
         "Address": "275-283 Hume Hwy",
@@ -657,7 +657,7 @@ export const getDecrypted = () => ({
         "siteId": "61378134",
         "Band": "4",
         "longitude": "144.94706647534781",
-        "Name": "7-Eleven Craigieburn South"
+        "Name": "7-Eleven Craigieburn South",
       },
       {
         "Address": "213-219 Midland Hwy",
@@ -665,7 +665,7 @@ export const getDecrypted = () => ({
         "siteId": "61378135",
         "Band": "9",
         "longitude": "144.316380991803",
-        "Name": "Liberty Oil Epsom"
+        "Name": "Liberty Oil Epsom",
       },
       {
         "Address": "779 Dohertys Rd",
@@ -673,7 +673,7 @@ export const getDecrypted = () => ({
         "siteId": "61378136",
         "Band": "3",
         "longitude": "144.72091578465577",
-        "Name": "bp Truganina South"
+        "Name": "bp Truganina South",
       },
       {
         "Address": "27 Cooper St",
@@ -681,7 +681,7 @@ export const getDecrypted = () => ({
         "siteId": "61378137",
         "Band": "9",
         "longitude": "144.96574957308579",
-        "Name": "Liberty Campbellfield"
+        "Name": "Liberty Campbellfield",
       },
       {
         "Address": "1727-1787 Hume Hwy",
@@ -689,7 +689,7 @@ export const getDecrypted = () => ({
         "siteId": "61378138",
         "Band": "9",
         "longitude": "144.95412105978699",
-        "Name": "United Petroleum Campbellfield (Pie Face)"
+        "Name": "United Petroleum Campbellfield (Pie Face)",
       },
       {
         "Address": "2120-2128 Frankston - Flinders Rd",
@@ -697,7 +697,7 @@ export const getDecrypted = () => ({
         "siteId": "61378139",
         "Band": "9",
         "longitude": "145.18339486593857",
-        "Name": "Endeavour Hastings"
+        "Name": "Endeavour Hastings",
       },
       {
         "Address": "3/200-230 James Mirams Dr",
@@ -705,7 +705,7 @@ export const getDecrypted = () => ({
         "siteId": "61378140",
         "Band": "3",
         "longitude": "144.91366893690616",
-        "Name": "EG Ampol Greenvale Lakes"
+        "Name": "EG Ampol Greenvale Lakes",
       },
       {
         "Address": "237 Kororoit Creek Rd",
@@ -713,7 +713,7 @@ export const getDecrypted = () => ({
         "siteId": "61378141",
         "Band": "3",
         "longitude": "144.85427372355565",
-        "Name": "EG Ampol Williamstown"
+        "Name": "EG Ampol Williamstown",
       },
       {
         "Address": "840 Sayers Rd",
@@ -721,7 +721,7 @@ export const getDecrypted = () => ({
         "siteId": "61378142",
         "Band": "9",
         "longitude": "144.66724803190175",
-        "Name": "BP Tarneit (Sayers Road)"
+        "Name": "BP Tarneit (Sayers Road)",
       },
       {
         "Address": "6830 Omeo Hwy",
@@ -729,7 +729,7 @@ export const getDecrypted = () => ({
         "siteId": "61201944",
         "Band": "9",
         "longitude": "147.724299",
-        "Name": "Swifts Creek Service Station"
+        "Name": "Swifts Creek Service Station",
       },
       {
         "Address": "70 Bromley Rd",
@@ -737,7 +737,7 @@ export const getDecrypted = () => ({
         "siteId": "61402773",
         "Band": "6",
         "longitude": "142.770287",
-        "Name": "Ampol Robinvale"
+        "Name": "Ampol Robinvale",
       },
       {
         "Address": " Loddon Valley Highway",
@@ -745,7 +745,7 @@ export const getDecrypted = () => ({
         "siteId": "61402774",
         "Band": "6",
         "longitude": "143.975171",
-        "Name": "Ampol Serpentine"
+        "Name": "Ampol Serpentine",
       },
       {
         "Address": "91-93 High Street",
@@ -753,7 +753,7 @@ export const getDecrypted = () => ({
         "siteId": "61402793",
         "Band": "7",
         "longitude": "143.352344",
-        "Name": "BP Charlton Roadhouse"
+        "Name": "BP Charlton Roadhouse",
       },
       {
         "Address": "575 Melton Highway",
@@ -761,7 +761,7 @@ export const getDecrypted = () => ({
         "siteId": "61205416",
         "Band": "3",
         "longitude": "144.755984",
-        "Name": "Ampol Foodary Hillside"
+        "Name": "Ampol Foodary Hillside",
       },
       {
         "Address": "1148 Green Street",
@@ -769,7 +769,7 @@ export const getDecrypted = () => ({
         "siteId": "61477984",
         "Band": "9",
         "longitude": "146.382598",
-        "Name": "Oxley Roadhouse"
+        "Name": "Oxley Roadhouse",
       },
       {
         "Address": "215 Princes Highway",
@@ -777,7 +777,7 @@ export const getDecrypted = () => ({
         "siteId": "61478139",
         "Band": "9",
         "longitude": "145.385898",
-        "Name": "BP Beaconsfield"
+        "Name": "BP Beaconsfield",
       },
       {
         "Address": "104 High Street",
@@ -785,7 +785,7 @@ export const getDecrypted = () => ({
         "siteId": "61478140",
         "Band": "9",
         "longitude": "143.3532908693289",
-        "Name": "Charlton Tyre & Battery"
+        "Name": "Charlton Tyre & Battery",
       },
       {
         "Address": "261 Dead Horse Lane",
@@ -793,7 +793,7 @@ export const getDecrypted = () => ({
         "siteId": "61478141",
         "Band": "9",
         "longitude": "146.096812",
-        "Name": "Diesel Stop, Simpsons Fuel"
+        "Name": "Diesel Stop, Simpsons Fuel",
       },
       {
         "Address": "Golden Beach Community Hall/Longford-Golden Beach Rd, Golden Beach VIC 3851, Australia",
@@ -801,7 +801,7 @@ export const getDecrypted = () => ({
         "siteId": "61478144",
         "Band": "9",
         "longitude": "147.39921527485782",
-        "Name": "Golden Beach General Store"
+        "Name": "Golden Beach General Store",
       },
       {
         "Address": "Wedge Street",
@@ -809,7 +809,7 @@ export const getDecrypted = () => ({
         "siteId": "61291506",
         "Band": "9",
         "longitude": "142.007152",
-        "Name": "Hamilton Bulk Diesel"
+        "Name": "Hamilton Bulk Diesel",
       },
       {
         "Address": "4 Lowe Street",
@@ -817,7 +817,7 @@ export const getDecrypted = () => ({
         "siteId": "61291509",
         "Band": "9",
         "longitude": "144.37574846204279",
-        "Name": "IOR Corio"
+        "Name": "IOR Corio",
       },
       {
         "Address": "21 High Street",
@@ -825,7 +825,7 @@ export const getDecrypted = () => ({
         "siteId": "61291519",
         "Band": "9",
         "longitude": "142.001135",
-        "Name": "Macarthur General Store"
+        "Name": "Macarthur General Store",
       },
       {
         "Address": "155-175 O'Briens Rd",
@@ -833,7 +833,7 @@ export const getDecrypted = () => ({
         "siteId": "61291522",
         "Band": "9",
         "longitude": "144.37545432985726",
-        "Name": "Riordan Fuels Corio Obriens Road"
+        "Name": "Riordan Fuels Corio Obriens Road",
       },
       {
         "Address": "1294 Goulbourn Valley Highway",
@@ -841,7 +841,7 @@ export const getDecrypted = () => ({
         "siteId": "61291528",
         "Band": "9",
         "longitude": "145.798177",
-        "Name": "Shell Thornton"
+        "Name": "Shell Thornton",
       },
       {
         "Address": "Bellarine Hwy & Coppards Rd",
@@ -849,7 +849,7 @@ export const getDecrypted = () => ({
         "siteId": "61300002",
         "Band": "4",
         "longitude": "144.40201871342239",
-        "Name": "7-Eleven Newcomb"
+        "Name": "7-Eleven Newcomb",
       },
       {
         "Address": "Pearcedale Pde",
@@ -857,7 +857,7 @@ export const getDecrypted = () => ({
         "siteId": "61300003",
         "Band": "3",
         "longitude": "144.917561",
-        "Name": "EG Ampol Broadmeadows"
+        "Name": "EG Ampol Broadmeadows",
       },
       {
         "Address": "77A Roslyn Rd & Corio St",
@@ -865,7 +865,7 @@ export const getDecrypted = () => ({
         "siteId": "61300004",
         "Band": "9",
         "longitude": "144.342855",
-        "Name": "Liberty Belmont"
+        "Name": "Liberty Belmont",
       },
       {
         "Address": "Coburns Rd & High St",
@@ -873,7 +873,7 @@ export const getDecrypted = () => ({
         "siteId": "61300005",
         "Band": "5",
         "longitude": "144.567574",
-        "Name": "EG Ampol Melton"
+        "Name": "EG Ampol Melton",
       },
       {
         "Address": "109 Shannon Av & Manifold St",
@@ -881,7 +881,7 @@ export const getDecrypted = () => ({
         "siteId": "61300006",
         "Band": "4",
         "longitude": "144.337052",
-        "Name": "EG Ampol Geelong West"
+        "Name": "EG Ampol Geelong West",
       },
       {
         "Address": "47 Clyde Rd",
@@ -889,7 +889,7 @@ export const getDecrypted = () => ({
         "siteId": "61300007",
         "Band": "3",
         "longitude": "145.342788",
-        "Name": "EG Ampol Berwick"
+        "Name": "EG Ampol Berwick",
       },
       {
         "Address": "399 Melton Hwy",
@@ -897,7 +897,7 @@ export const getDecrypted = () => ({
         "siteId": "61300009",
         "Band": "3",
         "longitude": "144.775181",
-        "Name": "EG Ampol Watergardens"
+        "Name": "EG Ampol Watergardens",
       },
       {
         "Address": "10-12 Louis St & Rodd",
@@ -905,7 +905,7 @@ export const getDecrypted = () => ({
         "siteId": "61301001",
         "Band": "4",
         "longitude": "144.888668",
-        "Name": "Ampol Airport West"
+        "Name": "Ampol Airport West",
       },
       {
         "Address": "42 Millers Rd & Civic Pde",
@@ -913,7 +913,7 @@ export const getDecrypted = () => ({
         "siteId": "61301007",
         "Band": "9",
         "longitude": "144.839604",
-        "Name": "Liberty Seaholme"
+        "Name": "Liberty Seaholme",
       },
       {
         "Address": "2-6 Central Av & Merton St",
@@ -921,7 +921,7 @@ export const getDecrypted = () => ({
         "siteId": "61301010",
         "Band": "4",
         "longitude": "144.777488",
-        "Name": "EG Ampol Altona Meadows"
+        "Name": "EG Ampol Altona Meadows",
       },
       {
         "Address": "Millers Rd & Kororoit Creek Rd",
@@ -929,7 +929,7 @@ export const getDecrypted = () => ({
         "siteId": "61301016",
         "Band": "3",
         "longitude": "144.844669",
-        "Name": "7-Eleven Altona"
+        "Name": "7-Eleven Altona",
       },
       {
         "Address": "737 Geelong Rd & Burgess St",
@@ -937,7 +937,7 @@ export const getDecrypted = () => ({
         "siteId": "61301021",
         "Band": "9",
         "longitude": "144.834718",
-        "Name": "BP AA Brooklyn"
+        "Name": "BP AA Brooklyn",
       },
       {
         "Address": "777 Geelong Rd & Grieve Parade",
@@ -945,7 +945,7 @@ export const getDecrypted = () => ({
         "siteId": "61301022",
         "Band": "9",
         "longitude": "144.830486",
-        "Name": "Astron Brooklyn South"
+        "Name": "Astron Brooklyn South",
       },
       {
         "Address": "155 Epsom Rd & Ascot",
@@ -953,7 +953,7 @@ export const getDecrypted = () => ({
         "siteId": "61301028",
         "Band": "9",
         "longitude": "144.916507",
-        "Name": "Metro Petroleum Showgrounds"
+        "Name": "Metro Petroleum Showgrounds",
       },
       {
         "Address": "195-197 Ascot Vale Rd & Dunlop Av",
@@ -961,7 +961,7 @@ export const getDecrypted = () => ({
         "siteId": "61301029",
         "Band": "9",
         "longitude": "144.922696",
-        "Name": "Enhance  Ascot Vale"
+        "Name": "Enhance  Ascot Vale",
       },
       {
         "Address": "Mount Alexander Road",
@@ -969,7 +969,7 @@ export const getDecrypted = () => ({
         "siteId": "61301034",
         "Band": "3",
         "longitude": "144.927184",
-        "Name": "7-Eleven Moonee Ponds"
+        "Name": "7-Eleven Moonee Ponds",
       },
       {
         "Address": "277-281 Ballarat Rd & Dodd St",
@@ -977,7 +977,7 @@ export const getDecrypted = () => ({
         "siteId": "61301035",
         "Band": "9",
         "longitude": "144.856339",
-        "Name": "BP AA Braybrook"
+        "Name": "BP AA Braybrook",
       },
       {
         "Address": "147 Devonshire Road",
@@ -985,7 +985,7 @@ export const getDecrypted = () => ({
         "siteId": "61301038",
         "Band": "9",
         "longitude": "144.84577411212175",
-        "Name": "Metro Sunshine"
+        "Name": "Metro Sunshine",
       },
       {
         "Address": "Ballarat Rd",
@@ -993,7 +993,7 @@ export const getDecrypted = () => ({
         "siteId": "61301039",
         "Band": "9",
         "longitude": "144.859053",
-        "Name": "Metro Petroleum Braybrook"
+        "Name": "Metro Petroleum Braybrook",
       },
       {
         "Address": "80 Camp Rd",
@@ -1001,7 +1001,7 @@ export const getDecrypted = () => ({
         "siteId": "61301040",
         "Band": "9",
         "longitude": "144.954207",
-        "Name": "Arrow Petroleum Broadmeadows"
+        "Name": "Arrow Petroleum Broadmeadows",
       },
       {
         "Address": "184 Widford St",
@@ -1009,7 +1009,7 @@ export const getDecrypted = () => ({
         "siteId": "61301044",
         "Band": "9",
         "longitude": "144.926273",
-        "Name": "Metro Petroleum Broadmeadows"
+        "Name": "Metro Petroleum Broadmeadows",
       },
       {
         "Address": "204 Widford St & Jacana Av",
@@ -1017,7 +1017,7 @@ export const getDecrypted = () => ({
         "siteId": "61301045",
         "Band": "3",
         "longitude": "144.926611",
-        "Name": "Ampol Foodary Broadmeadows"
+        "Name": "Ampol Foodary Broadmeadows",
       },
       {
         "Address": "60-64 Holmes St & Donald St",
@@ -1025,7 +1025,7 @@ export const getDecrypted = () => ({
         "siteId": "61301046",
         "Band": "9",
         "longitude": "144.974692",
-        "Name": "Food Plus Fuel"
+        "Name": "Food Plus Fuel",
       },
       {
         "Address": "54 Holmes St &, Donald St",
@@ -1033,7 +1033,7 @@ export const getDecrypted = () => ({
         "siteId": "61301047",
         "Band": "3",
         "longitude": "144.97481411656759",
-        "Name": "Shell Reddy Express Holmes St"
+        "Name": "Shell Reddy Express Holmes St",
       },
       {
         "Address": "179 Lygon St",
@@ -1041,7 +1041,7 @@ export const getDecrypted = () => ({
         "siteId": "61301055",
         "Band": "4",
         "longitude": "144.97144404662703",
-        "Name": "Shell Reddy Express Brunswick"
+        "Name": "Shell Reddy Express Brunswick",
       },
       {
         "Address": "Melville Road",
@@ -1049,7 +1049,7 @@ export const getDecrypted = () => ({
         "siteId": "61301057",
         "Band": "4",
         "longitude": "144.943122",
-        "Name": "7-Eleven West Brunswick"
+        "Name": "7-Eleven West Brunswick",
       },
       {
         "Address": "430 Moreland Rd",
@@ -1057,7 +1057,7 @@ export const getDecrypted = () => ({
         "siteId": "61301065",
         "Band": "3",
         "longitude": "144.945024",
-        "Name": "EG Ampol Coburg"
+        "Name": "EG Ampol Coburg",
       },
       {
         "Address": "117 Elgin St",
@@ -1065,7 +1065,7 @@ export const getDecrypted = () => ({
         "siteId": "61301067",
         "Band": "9",
         "longitude": "144.970705",
-        "Name": "BP AA Carlton"
+        "Name": "BP AA Carlton",
       },
       {
         "Address": "Queen St & Victoria St",
@@ -1073,7 +1073,7 @@ export const getDecrypted = () => ({
         "siteId": "61301069",
         "Band": "4",
         "longitude": "144.785484",
-        "Name": "Coles Express Altona Meadows"
+        "Name": "Coles Express Altona Meadows",
       },
       {
         "Address": "Little Boundary Rd & Pipe Rd",
@@ -1081,7 +1081,7 @@ export const getDecrypted = () => ({
         "siteId": "61301072",
         "Band": "3",
         "longitude": "144.819216",
-        "Name": "Ampol Foodary Laverton North"
+        "Name": "Ampol Foodary Laverton North",
       },
       {
         "Address": "157 Union St & Grantham St",
@@ -1089,7 +1089,7 @@ export const getDecrypted = () => ({
         "siteId": "61301077",
         "Band": "9",
         "longitude": "144.949529",
-        "Name": "Metro Brunswick"
+        "Name": "Metro Brunswick",
       },
       {
         "Address": "142 Dawson St",
@@ -1097,7 +1097,7 @@ export const getDecrypted = () => ({
         "siteId": "61301078",
         "Band": "4",
         "longitude": "144.949333",
-        "Name": "BP Brunswick"
+        "Name": "BP Brunswick",
       },
       {
         "Address": "84-86 Bulla Rd",
@@ -1105,7 +1105,7 @@ export const getDecrypted = () => ({
         "siteId": "61301081",
         "Band": "3",
         "longitude": "144.805312",
-        "Name": "BP Bulla"
+        "Name": "BP Bulla",
       },
       {
         "Address": "72 Hanson Rd & Kingswood Dr",
@@ -1113,7 +1113,7 @@ export const getDecrypted = () => ({
         "siteId": "61301084",
         "Band": "3",
         "longitude": "144.937712",
-        "Name": "BP Craigieburn"
+        "Name": "BP Craigieburn",
       },
       {
         "Address": "810 Ballarat Rd & Station Rd",
@@ -1121,7 +1121,7 @@ export const getDecrypted = () => ({
         "siteId": "61301086",
         "Band": "9",
         "longitude": "144.775433",
-        "Name": "United Deer Park"
+        "Name": "United Deer Park",
       },
       {
         "Address": "420 Craigieburn Road",
@@ -1129,7 +1129,7 @@ export const getDecrypted = () => ({
         "siteId": "61301091",
         "Band": "4",
         "longitude": "144.908334",
-        "Name": "Ampol Foodary Craigieburn Junction"
+        "Name": "Ampol Foodary Craigieburn Junction",
       },
       {
         "Address": "876 Mt Alexander Rd & Buckley St",
@@ -1137,7 +1137,7 @@ export const getDecrypted = () => ({
         "siteId": "61301094",
         "Band": "3",
         "longitude": "144.919913",
-        "Name": "7-Eleven Moonee Ponds"
+        "Name": "7-Eleven Moonee Ponds",
       },
       {
         "Address": "183-185 Pascoe Vale Rd",
@@ -1145,7 +1145,7 @@ export const getDecrypted = () => ({
         "siteId": "61301095",
         "Band": "3",
         "longitude": "144.926294",
-        "Name": "OTR Moonee Ponds"
+        "Name": "OTR Moonee Ponds",
       },
       {
         "Address": "Mount Alexander Road",
@@ -1153,7 +1153,7 @@ export const getDecrypted = () => ({
         "siteId": "61301099",
         "Band": "3",
         "longitude": "144.910302",
-        "Name": "7-Eleven Strathmore"
+        "Name": "7-Eleven Strathmore",
       },
       {
         "Address": "337 Pascoe Vale Rd",
@@ -1161,7 +1161,7 @@ export const getDecrypted = () => ({
         "siteId": "61301101",
         "Band": "9",
         "longitude": "144.927626",
-        "Name": "Jet Essendon"
+        "Name": "Jet Essendon",
       },
       {
         "Address": "249 Keilor Road, Gilbertson St",
@@ -1169,7 +1169,7 @@ export const getDecrypted = () => ({
         "siteId": "61301104",
         "Band": "3",
         "longitude": "144.897341",
-        "Name": "Shell Reddy Express Essendon"
+        "Name": "Shell Reddy Express Essendon",
       },
       {
         "Address": "Keilor Rd & Deakin St",
@@ -1177,7 +1177,7 @@ export const getDecrypted = () => ({
         "siteId": "61301106",
         "Band": "3",
         "longitude": "144.893922",
-        "Name": "EG Ampol Niddrie"
+        "Name": "EG Ampol Niddrie",
       },
       {
         "Address": "Cnr Flemington Rd & Racecourse Rd",
@@ -1185,7 +1185,7 @@ export const getDecrypted = () => ({
         "siteId": "61301120",
         "Band": "3",
         "longitude": "144.941087",
-        "Name": "7-Eleven Flemington"
+        "Name": "7-Eleven Flemington",
       },
       {
         "Address": "Boundary Rd & Racecourse Rd",
@@ -1193,7 +1193,7 @@ export const getDecrypted = () => ({
         "siteId": "61301121",
         "Band": "4",
         "longitude": "144.939679",
-        "Name": "7-Eleven Flemington"
+        "Name": "7-Eleven Flemington",
       },
       {
         "Address": "105-113 Mount Alexander Rd",
@@ -1201,7 +1201,7 @@ export const getDecrypted = () => ({
         "siteId": "61301122",
         "Band": "4",
         "longitude": "144.935887",
-        "Name": "BP Flemington"
+        "Name": "BP Flemington",
       },
       {
         "Address": "32 Napier St & Whitehall St",
@@ -1209,7 +1209,7 @@ export const getDecrypted = () => ({
         "siteId": "61301132",
         "Band": "9",
         "longitude": "144.903625",
-        "Name": "BP Whitehall"
+        "Name": "BP Whitehall",
       },
       {
         "Address": "11 Napier Street",
@@ -1217,7 +1217,7 @@ export const getDecrypted = () => ({
         "siteId": "61301133",
         "Band": "3",
         "longitude": "144.904922",
-        "Name": "Coles Express Footscray"
+        "Name": "Coles Express Footscray",
       },
       {
         "Address": "Station Rd & Brooklyn Rd",
@@ -1225,7 +1225,7 @@ export const getDecrypted = () => ({
         "siteId": "61301144",
         "Band": "5",
         "longitude": "144.574659",
-        "Name": "Coles Express Melton South"
+        "Name": "Coles Express Melton South",
       },
       {
         "Address": "180 Somerville Road",
@@ -1233,7 +1233,7 @@ export const getDecrypted = () => ({
         "siteId": "61301145",
         "Band": "9",
         "longitude": "144.882143",
-        "Name": "Somerville Servo"
+        "Name": "Somerville Servo",
       },
       {
         "Address": "88-94 Williamstown Road",
@@ -1241,7 +1241,7 @@ export const getDecrypted = () => ({
         "siteId": "61301146",
         "Band": "9",
         "longitude": "144.884108",
-        "Name": "BP KINGSVILLE"
+        "Name": "BP KINGSVILLE",
       },
       {
         "Address": "2-6 Gladstone Park Rd & Circular Rd",
@@ -1249,7 +1249,7 @@ export const getDecrypted = () => ({
         "siteId": "61301152",
         "Band": "9",
         "longitude": "144.885675",
-        "Name": "BP AA Gladstone Park"
+        "Name": "BP AA Gladstone Park",
       },
       {
         "Address": "160 Old Geelong Rd",
@@ -1257,7 +1257,7 @@ export const getDecrypted = () => ({
         "siteId": "61301153",
         "Band": "9",
         "longitude": "144.713602",
-        "Name": "United Hoppers Crossing"
+        "Name": "United Hoppers Crossing",
       },
       {
         "Address": "847 Pascoe Vale Rd",
@@ -1265,7 +1265,7 @@ export const getDecrypted = () => ({
         "siteId": "61301158",
         "Band": "4",
         "longitude": "144.915209",
-        "Name": "Ampol Foodary Glenroy"
+        "Name": "Ampol Foodary Glenroy",
       },
       {
         "Address": "213 Glenroy Rd & Pascoe Vale Rd",
@@ -1273,7 +1273,7 @@ export const getDecrypted = () => ({
         "siteId": "61301159",
         "Band": "4",
         "longitude": "144.916681",
-        "Name": "Coles Express Glenroy"
+        "Name": "Coles Express Glenroy",
       },
       {
         "Address": "770 Pascoe Vale Rd & Barwon St",
@@ -1281,7 +1281,7 @@ export const getDecrypted = () => ({
         "siteId": "61301160",
         "Band": "9",
         "longitude": "144.916762",
-        "Name": "Metro Glenroy"
+        "Name": "Metro Glenroy",
       },
       {
         "Address": "137-139 Princes Hwy",
@@ -1289,7 +1289,7 @@ export const getDecrypted = () => ({
         "siteId": "61301163",
         "Band": "3",
         "longitude": "144.680866",
-        "Name": "Shell Reddy Express Werribee Park"
+        "Name": "Shell Reddy Express Werribee Park",
       },
       {
         "Address": "2-8 Morris Rd & Old Geelong Rd",
@@ -1297,7 +1297,7 @@ export const getDecrypted = () => ({
         "siteId": "61301164",
         "Band": "5",
         "longitude": "144.701305",
-        "Name": "BP Wyndham"
+        "Name": "BP Wyndham",
       },
       {
         "Address": "178 Morris Rd & Reserve Rd",
@@ -1305,7 +1305,7 @@ export const getDecrypted = () => ({
         "siteId": "61301167",
         "Band": "9",
         "longitude": "144.703239",
-        "Name": "Apco Hoppers Crossing"
+        "Name": "Apco Hoppers Crossing",
       },
       {
         "Address": "668 Calder Hwy",
@@ -1313,7 +1313,7 @@ export const getDecrypted = () => ({
         "siteId": "61301168",
         "Band": "4",
         "longitude": "144.837367",
-        "Name": "Shell Reddy Express Keilor"
+        "Name": "Shell Reddy Express Keilor",
       },
       {
         "Address": "1 Epsom Rd & Maribyrnong Rd",
@@ -1321,7 +1321,7 @@ export const getDecrypted = () => ({
         "siteId": "61301173",
         "Band": "3",
         "longitude": "144.905978",
-        "Name": "Ampol Foodary Ascot Vale"
+        "Name": "Ampol Foodary Ascot Vale",
       },
       {
         "Address": "1 Old Geelong Rd & Heaths Rd",
@@ -1329,7 +1329,7 @@ export const getDecrypted = () => ({
         "siteId": "61301174",
         "Band": "5",
         "longitude": "144.704291",
-        "Name": "7-Eleven Hoppers Crossing"
+        "Name": "7-Eleven Hoppers Crossing",
       },
       {
         "Address": "50 Mahoneys Rd",
@@ -1337,7 +1337,7 @@ export const getDecrypted = () => ({
         "siteId": "61301175",
         "Band": "9",
         "longitude": "145.004312",
-        "Name": "Liberty Thomastown"
+        "Name": "Liberty Thomastown",
       },
       {
         "Address": "Point Cook Rd",
@@ -1345,7 +1345,7 @@ export const getDecrypted = () => ({
         "siteId": "61301179",
         "Band": "4",
         "longitude": "144.758013",
-        "Name": "Ampol Foodary Seabrook"
+        "Name": "Ampol Foodary Seabrook",
       },
       {
         "Address": "Princes Fwy",
@@ -1353,7 +1353,7 @@ export const getDecrypted = () => ({
         "siteId": "61301180",
         "Band": "4",
         "longitude": "144.761945",
-        "Name": "Coles Express Laverton"
+        "Name": "Coles Express Laverton",
       },
       {
         "Address": "High St & O'Neills Rd",
@@ -1361,7 +1361,7 @@ export const getDecrypted = () => ({
         "siteId": "61301186",
         "Band": "5",
         "longitude": "144.577641",
-        "Name": "Coles Express Thoroughbred"
+        "Name": "Coles Express Thoroughbred",
       },
       {
         "Address": " Cnr High & Station Streets",
@@ -1369,7 +1369,7 @@ export const getDecrypted = () => ({
         "siteId": "61301188",
         "Band": "5",
         "longitude": "144.577055",
-        "Name": "BP Melton"
+        "Name": "BP Melton",
       },
       {
         "Address": "Melbourne Dr & Centre Rd",
@@ -1377,7 +1377,7 @@ export const getDecrypted = () => ({
         "siteId": "61301189",
         "Band": "4",
         "longitude": "144.853936",
-        "Name": "BP Connect The Tulla"
+        "Name": "BP Connect The Tulla",
       },
       {
         "Address": "296 Ascot Vale & Elizabeth",
@@ -1385,7 +1385,7 @@ export const getDecrypted = () => ({
         "siteId": "61301191",
         "Band": "3",
         "longitude": "144.924487",
-        "Name": "EG Ampol Moonee Ponds"
+        "Name": "EG Ampol Moonee Ponds",
       },
       {
         "Address": "795 Mt Alexander Rd & St James",
@@ -1393,7 +1393,7 @@ export const getDecrypted = () => ({
         "siteId": "61301194",
         "Band": "3",
         "longitude": "144.919985",
-        "Name": "Coles Express Moonee Ponds"
+        "Name": "Coles Express Moonee Ponds",
       },
       {
         "Address": "31 Raleigh Rd",
@@ -1401,7 +1401,7 @@ export const getDecrypted = () => ({
         "siteId": "61301196",
         "Band": "9",
         "longitude": "144.89769336441802",
-        "Name": "Astron Maribyrnong"
+        "Name": "Astron Maribyrnong",
       },
       {
         "Address": "33 Raleigh Rd",
@@ -1409,7 +1409,7 @@ export const getDecrypted = () => ({
         "siteId": "61301197",
         "Band": "9",
         "longitude": "144.896975",
-        "Name": "Metro Petroleum Maribyrnong"
+        "Name": "Metro Petroleum Maribyrnong",
       },
       {
         "Address": "32 Raleigh Rd & Navigator St",
@@ -1417,7 +1417,7 @@ export const getDecrypted = () => ({
         "siteId": "61301198",
         "Band": "3",
         "longitude": "144.897458",
-        "Name": "7-Eleven Maribyrnong"
+        "Name": "7-Eleven Maribyrnong",
       },
       {
         "Address": "193 Douglas Pde & Yarra St",
@@ -1425,7 +1425,7 @@ export const getDecrypted = () => ({
         "siteId": "61301199",
         "Band": "9",
         "longitude": "144.894439",
-        "Name": "Panteli's Servo"
+        "Name": "Panteli's Servo",
       },
       {
         "Address": "261-269 Melbourne Rd",
@@ -1433,7 +1433,7 @@ export const getDecrypted = () => ({
         "siteId": "61301200",
         "Band": "9",
         "longitude": "144.886706",
-        "Name": "BP Williamstown"
+        "Name": "BP Williamstown",
       },
       {
         "Address": "148 Mason St & Leslie St",
@@ -1441,7 +1441,7 @@ export const getDecrypted = () => ({
         "siteId": "61301205",
         "Band": "9",
         "longitude": "144.870188",
-        "Name": "BP Newport"
+        "Name": "BP Newport",
       },
       {
         "Address": "438 Melbourne Rd",
@@ -1449,7 +1449,7 @@ export const getDecrypted = () => ({
         "siteId": "61301206",
         "Band": "4",
         "longitude": "144.883265",
-        "Name": "7-Eleven Newport"
+        "Name": "7-Eleven Newport",
       },
       {
         "Address": "387 Keilor Rd & Hoffmans Rd",
@@ -1457,7 +1457,7 @@ export const getDecrypted = () => ({
         "siteId": "61301208",
         "Band": "3",
         "longitude": "144.891952",
-        "Name": "7-Eleven Niddrie"
+        "Name": "7-Eleven Niddrie",
       },
       {
         "Address": "45 Flemington Rd & Wreckyn",
@@ -1465,7 +1465,7 @@ export const getDecrypted = () => ({
         "siteId": "61301213",
         "Band": "3",
         "longitude": "144.955102",
-        "Name": "7-Eleven Royal Melbourne"
+        "Name": "7-Eleven Royal Melbourne",
       },
       {
         "Address": "235 Flemington Rd & Abbotsford",
@@ -1473,7 +1473,7 @@ export const getDecrypted = () => ({
         "siteId": "61301219",
         "Band": "9",
         "longitude": "144.947517",
-        "Name": "Liberty North Melbourne"
+        "Name": "Liberty North Melbourne",
       },
       {
         "Address": "Dryburgh St & Arden St",
@@ -1481,7 +1481,7 @@ export const getDecrypted = () => ({
         "siteId": "61301220",
         "Band": "3",
         "longitude": "144.944273",
-        "Name": "EG Ampol North Melbourne"
+        "Name": "EG Ampol North Melbourne",
       },
       {
         "Address": "512 Pascoe Vale Rd & Stewart St",
@@ -1489,7 +1489,7 @@ export const getDecrypted = () => ({
         "siteId": "61301223",
         "Band": "4",
         "longitude": "144.924026",
-        "Name": "7-Eleven Pascoe Vale"
+        "Name": "7-Eleven Pascoe Vale",
       },
       {
         "Address": "Cumberland Road",
@@ -1497,7 +1497,7 @@ export const getDecrypted = () => ({
         "siteId": "61301224",
         "Band": "9",
         "longitude": "144.940569",
-        "Name": "Speedway Quick Stop"
+        "Name": "Speedway Quick Stop",
       },
       {
         "Address": "475-477 Bell St & Reynolds Pde",
@@ -1505,7 +1505,7 @@ export const getDecrypted = () => ({
         "siteId": "61301229",
         "Band": "3",
         "longitude": "144.940629",
-        "Name": "7-Eleven Pascoe Vale"
+        "Name": "7-Eleven Pascoe Vale",
       },
       {
         "Address": "566-570 Bell St",
@@ -1513,7 +1513,7 @@ export const getDecrypted = () => ({
         "siteId": "61301231",
         "Band": "3",
         "longitude": "144.936898",
-        "Name": "EG Ampol Pascoe Vale"
+        "Name": "EG Ampol Pascoe Vale",
       },
       {
         "Address": "Coburns Rd & Barries Rd",
@@ -1521,7 +1521,7 @@ export const getDecrypted = () => ({
         "siteId": "61301232",
         "Band": "5",
         "longitude": "144.567366",
-        "Name": "7-Eleven Melton"
+        "Name": "7-Eleven Melton",
       },
       {
         "Address": "High St",
@@ -1529,7 +1529,7 @@ export const getDecrypted = () => ({
         "siteId": "61301233",
         "Band": "7",
         "longitude": "145.018854",
-        "Name": "Coles Express Epping"
+        "Name": "Coles Express Epping",
       },
       {
         "Address": "43-45 Vesper Drive",
@@ -1537,7 +1537,7 @@ export const getDecrypted = () => ({
         "siteId": "61301242",
         "Band": "3",
         "longitude": "145.294989",
-        "Name": "7-Eleven Narre Warren"
+        "Name": "7-Eleven Narre Warren",
       },
       {
         "Address": "13-17 Heatherton Rd",
@@ -1545,7 +1545,7 @@ export const getDecrypted = () => ({
         "siteId": "61301243",
         "Band": "9",
         "longitude": "145.262094",
-        "Name": "Liberty Endeavour Hills"
+        "Name": "Liberty Endeavour Hills",
       },
       {
         "Address": "183-185 Reynolds Rd",
@@ -1553,7 +1553,7 @@ export const getDecrypted = () => ({
         "siteId": "61301244",
         "Band": "9",
         "longitude": "145.169308",
-        "Name": "United Doncaster East"
+        "Name": "United Doncaster East",
       },
       {
         "Address": "1593 Western Hwy & Derrimut Rd",
@@ -1561,7 +1561,7 @@ export const getDecrypted = () => ({
         "siteId": "61301245",
         "Band": "3",
         "longitude": "144.703224",
-        "Name": "7-Eleven Rockbank"
+        "Name": "7-Eleven Rockbank",
       },
       {
         "Address": "227-231 Mickleham Rd",
@@ -1569,7 +1569,7 @@ export const getDecrypted = () => ({
         "siteId": "61301247",
         "Band": "4",
         "longitude": "144.882336",
-        "Name": "Ampol Foodary Westmeadows"
+        "Name": "Ampol Foodary Westmeadows",
       },
       {
         "Address": "Melbourne Rd & The Avenue",
@@ -1577,7 +1577,7 @@ export const getDecrypted = () => ({
         "siteId": "61301251",
         "Band": "4",
         "longitude": "144.881337",
-        "Name": "Coles Express Spotswood"
+        "Name": "Coles Express Spotswood",
       },
       {
         "Address": "Horne Rd & Macedon St",
@@ -1585,7 +1585,7 @@ export const getDecrypted = () => ({
         "siteId": "61301253",
         "Band": "3",
         "longitude": "144.728685",
-        "Name": "Coles Express Sunbury"
+        "Name": "Coles Express Sunbury",
       },
       {
         "Address": "265 Main Rd W",
@@ -1593,7 +1593,7 @@ export const getDecrypted = () => ({
         "siteId": "61301256",
         "Band": "5",
         "longitude": "144.77986577546309",
-        "Name": "Shell Reddy Express  St Albans"
+        "Name": "Shell Reddy Express  St Albans",
       },
       {
         "Address": "27 St Albans Rd & Percy St",
@@ -1601,7 +1601,7 @@ export const getDecrypted = () => ({
         "siteId": "61301260",
         "Band": "9",
         "longitude": "144.803471",
-        "Name": "Astron St Albans"
+        "Name": "Astron St Albans",
       },
       {
         "Address": "139 Mcintyre Rd & Gee St",
@@ -1609,7 +1609,7 @@ export const getDecrypted = () => ({
         "siteId": "61301264",
         "Band": "9",
         "longitude": "144.830471",
-        "Name": "BP AA Sunshine"
+        "Name": "BP AA Sunshine",
       },
       {
         "Address": "33-37 Taylors Rd",
@@ -1617,7 +1617,7 @@ export const getDecrypted = () => ({
         "siteId": "61301266",
         "Band": "3",
         "longitude": "144.810652",
-        "Name": "7-Eleven St. Albans North"
+        "Name": "7-Eleven St. Albans North",
       },
       {
         "Address": "343 Napier St & York St",
@@ -1625,7 +1625,7 @@ export const getDecrypted = () => ({
         "siteId": "61301269",
         "Band": "9",
         "longitude": "144.918339",
-        "Name": "Marios Service Station"
+        "Name": "Marios Service Station",
       },
       {
         "Address": "53-55 Horne St & Station St",
@@ -1633,7 +1633,7 @@ export const getDecrypted = () => ({
         "siteId": "61301270",
         "Band": "9",
         "longitude": "144.725466",
-        "Name": "BP AA Sunbury"
+        "Name": "BP AA Sunbury",
       },
       {
         "Address": "Greenvale Dr & Mickleham Rd",
@@ -1641,7 +1641,7 @@ export const getDecrypted = () => ({
         "siteId": "61301271",
         "Band": "4",
         "longitude": "144.881474",
-        "Name": "Ampol Foodary Greenvale"
+        "Name": "Ampol Foodary Greenvale",
       },
       {
         "Address": "81 Horne St",
@@ -1649,7 +1649,7 @@ export const getDecrypted = () => ({
         "siteId": "61301275",
         "Band": "3",
         "longitude": "144.723365",
-        "Name": "Ampol Foodary Sunbury"
+        "Name": "Ampol Foodary Sunbury",
       },
       {
         "Address": "431 Ballarat Rd",
@@ -1657,7 +1657,7 @@ export const getDecrypted = () => ({
         "siteId": "61301279",
         "Band": "3",
         "longitude": "144.839782",
-        "Name": "EG Ampol Sunshine North"
+        "Name": "EG Ampol Sunshine North",
       },
       {
         "Address": "Ballarat Rd & Hampshire Rd",
@@ -1665,7 +1665,7 @@ export const getDecrypted = () => ({
         "siteId": "61301281",
         "Band": "3",
         "longitude": "144.833836",
-        "Name": "7-Eleven Sunshine"
+        "Name": "7-Eleven Sunshine",
       },
       {
         "Address": "66-72 Hampshire Road",
@@ -1673,7 +1673,7 @@ export const getDecrypted = () => ({
         "siteId": "61301287",
         "Band": "3",
         "longitude": "144.831423",
-        "Name": "7-Eleven Sunshine"
+        "Name": "7-Eleven Sunshine",
       },
       {
         "Address": "Lots 3 & 4 Sunshine Av & Keilor Rd",
@@ -1681,7 +1681,7 @@ export const getDecrypted = () => ({
         "siteId": "61301290",
         "Band": "4",
         "longitude": "144.801115",
-        "Name": "7-Eleven Taylors Lakes"
+        "Name": "7-Eleven Taylors Lakes",
       },
       {
         "Address": "559 Ballarat Rd & Maylands St",
@@ -1689,7 +1689,7 @@ export const getDecrypted = () => ({
         "siteId": "61301291",
         "Band": "9",
         "longitude": "144.817516",
-        "Name": "United Sunshine"
+        "Name": "United Sunshine",
       },
       {
         "Address": "390 Ballarat Rd & Alford St",
@@ -1697,7 +1697,7 @@ export const getDecrypted = () => ({
         "siteId": "61301292",
         "Band": "3",
         "longitude": "144.843692",
-        "Name": "Coles Express Sunshine"
+        "Name": "Coles Express Sunshine",
       },
       {
         "Address": "25 Melton Highway",
@@ -1705,7 +1705,7 @@ export const getDecrypted = () => ({
         "siteId": "61301295",
         "Band": "3",
         "longitude": "144.797014",
-        "Name": "Coles Express Melton Hwy (Taylors Lakes)"
+        "Name": "Coles Express Melton Hwy (Taylors Lakes)",
       },
       {
         "Address": "210-212 Mickleham Rd",
@@ -1713,7 +1713,7 @@ export const getDecrypted = () => ({
         "siteId": "61301298",
         "Band": "4",
         "longitude": "144.88322895337296",
-        "Name": "Shell Reddy Express Gladstone Park"
+        "Name": "Shell Reddy Express Gladstone Park",
       },
       {
         "Address": "Mickleham Rd & Melrose Dr",
@@ -1721,7 +1721,7 @@ export const getDecrypted = () => ({
         "siteId": "61301299",
         "Band": "4",
         "longitude": "144.879841",
-        "Name": "7-Eleven Tullamarine"
+        "Name": "7-Eleven Tullamarine",
       },
       {
         "Address": "Melrose Dr & Carrick Dr",
@@ -1729,7 +1729,7 @@ export const getDecrypted = () => ({
         "siteId": "61301301",
         "Band": "4",
         "longitude": "144.882935",
-        "Name": "7-Eleven Tullamarine"
+        "Name": "7-Eleven Tullamarine",
       },
       {
         "Address": "160 Military Rd & Milleara",
@@ -1737,7 +1737,7 @@ export const getDecrypted = () => ({
         "siteId": "61301302",
         "Band": "5",
         "longitude": "144.859655",
-        "Name": "Ampol Foodary Avondale Heights"
+        "Name": "Ampol Foodary Avondale Heights",
       },
       {
         "Address": "153-157 Railway Avenue",
@@ -1745,7 +1745,7 @@ export const getDecrypted = () => ({
         "siteId": "61301310",
         "Band": "9",
         "longitude": "144.668546",
-        "Name": "Liberty Werribee"
+        "Name": "Liberty Werribee",
       },
       {
         "Address": "45 Cherry St",
@@ -1753,7 +1753,7 @@ export const getDecrypted = () => ({
         "siteId": "61301311",
         "Band": "3",
         "longitude": "144.664741",
-        "Name": "Ampol Foodary Werribee"
+        "Name": "Ampol Foodary Werribee",
       },
       {
         "Address": "Milleara Rd & Amis Cres",
@@ -1761,7 +1761,7 @@ export const getDecrypted = () => ({
         "siteId": "61301313",
         "Band": "5",
         "longitude": "144.862036",
-        "Name": "7-Eleven Keilor East"
+        "Name": "7-Eleven Keilor East",
       },
       {
         "Address": "Cnr Mcgrath Rd & Ballan Rd",
@@ -1769,7 +1769,7 @@ export const getDecrypted = () => ({
         "siteId": "61301317",
         "Band": "3",
         "longitude": "144.630604",
-        "Name": "7-Eleven East Werribee"
+        "Name": "7-Eleven East Werribee",
       },
       {
         "Address": "Synnot St & Bridge St",
@@ -1777,7 +1777,7 @@ export const getDecrypted = () => ({
         "siteId": "61301319",
         "Band": "3",
         "longitude": "144.660472",
-        "Name": "7-Eleven Werribee"
+        "Name": "7-Eleven Werribee",
       },
       {
         "Address": "147-161 Dandenong Rd & Chapel St",
@@ -1785,7 +1785,7 @@ export const getDecrypted = () => ({
         "siteId": "61301326",
         "Band": "5",
         "longitude": "144.993017",
-        "Name": "Coles Express Windsor (Vic)"
+        "Name": "Coles Express Windsor (Vic)",
       },
       {
         "Address": "97 Ferguson St & Lyons St",
@@ -1793,7 +1793,7 @@ export const getDecrypted = () => ({
         "siteId": "61301334",
         "Band": "9",
         "longitude": "144.896462",
-        "Name": "Metro Petroleum Williamstown"
+        "Name": "Metro Petroleum Williamstown",
       },
       {
         "Address": "14 Kororoit Crk Rd & Champion Rd",
@@ -1801,7 +1801,7 @@ export const getDecrypted = () => ({
         "siteId": "61301336",
         "Band": "3",
         "longitude": "144.887792",
-        "Name": "7-Eleven Williamstown North"
+        "Name": "7-Eleven Williamstown North",
       },
       {
         "Address": "19-37 Punt Rd",
@@ -1809,7 +1809,7 @@ export const getDecrypted = () => ({
         "siteId": "61301337",
         "Band": "5",
         "longitude": "144.982966",
-        "Name": "7-Eleven St Kilda Junction"
+        "Name": "7-Eleven St Kilda Junction",
       },
       {
         "Address": "410 Melton Hwy",
@@ -1817,7 +1817,7 @@ export const getDecrypted = () => ({
         "siteId": "61301340",
         "Band": "3",
         "longitude": "144.78227176686477",
-        "Name": "Shell Reddy Express  Taylors Lakes"
+        "Name": "Shell Reddy Express  Taylors Lakes",
       },
       {
         "Address": "525-527 Melton Highway",
@@ -1825,7 +1825,7 @@ export const getDecrypted = () => ({
         "siteId": "61301345",
         "Band": "9",
         "longitude": "144.765675",
-        "Name": "Liberty Sydenham"
+        "Name": "Liberty Sydenham",
       },
       {
         "Address": " Cnr Kings Rd & Melton Hwy",
@@ -1833,7 +1833,7 @@ export const getDecrypted = () => ({
         "siteId": "61301346",
         "Band": "9",
         "longitude": "144.780648",
-        "Name": "United Taylors Lakes"
+        "Name": "United Taylors Lakes",
       },
       {
         "Address": "Derrimut Rd & Hogans Rd",
@@ -1841,7 +1841,7 @@ export const getDecrypted = () => ({
         "siteId": "61301347",
         "Band": "3",
         "longitude": "144.686135",
-        "Name": "Coles Express Hoppers Crossing"
+        "Name": "Coles Express Hoppers Crossing",
       },
       {
         "Address": "Williamstown Rd & Somerville Rd",
@@ -1849,7 +1849,7 @@ export const getDecrypted = () => ({
         "siteId": "61301350",
         "Band": "3",
         "longitude": "144.883126",
-        "Name": "7-Eleven Yarraville"
+        "Name": "7-Eleven Yarraville",
       },
       {
         "Address": "130-132 Hyde St & Somerville Rd",
@@ -1857,7 +1857,7 @@ export const getDecrypted = () => ({
         "siteId": "61301357",
         "Band": "3",
         "longitude": "144.897159",
-        "Name": "Ampol Foodary Yarraville"
+        "Name": "Ampol Foodary Yarraville",
       },
       {
         "Address": "370 Heaths Rd & Tarneit Rd",
@@ -1865,7 +1865,7 @@ export const getDecrypted = () => ({
         "siteId": "61301360",
         "Band": "3",
         "longitude": "144.665171",
-        "Name": "7-Eleven Werribee"
+        "Name": "7-Eleven Werribee",
       },
       {
         "Address": "1063-1067 Pascoe Vale Rd",
@@ -1873,7 +1873,7 @@ export const getDecrypted = () => ({
         "siteId": "61301361",
         "Band": "4",
         "longitude": "144.917605",
-        "Name": "Ampol Foodary Broadmeadows"
+        "Name": "Ampol Foodary Broadmeadows",
       },
       {
         "Address": "1802-1808 Hume Hwy & Barrys Rd",
@@ -1881,7 +1881,7 @@ export const getDecrypted = () => ({
         "siteId": "61301362",
         "Band": "4",
         "longitude": "144.955639",
-        "Name": "Ampol Foodary Campbellfield"
+        "Name": "Ampol Foodary Campbellfield",
       },
       {
         "Address": "412 Barry Rd",
@@ -1889,7 +1889,7 @@ export const getDecrypted = () => ({
         "siteId": "61301363",
         "Band": "9",
         "longitude": "144.940825",
-        "Name": "Metro Petroleum Coolaroo"
+        "Name": "Metro Petroleum Coolaroo",
       },
       {
         "Address": "Kings Rd & Gillespie Rd",
@@ -1897,7 +1897,7 @@ export const getDecrypted = () => ({
         "siteId": "61301364",
         "Band": "5",
         "longitude": "144.781104",
-        "Name": "7-Eleven St Albans"
+        "Name": "7-Eleven St Albans",
       },
       {
         "Address": "1603 Sydney Rd",
@@ -1905,7 +1905,7 @@ export const getDecrypted = () => ({
         "siteId": "61301365",
         "Band": "4",
         "longitude": "144.955478",
-        "Name": "7-Eleven Campbellfield"
+        "Name": "7-Eleven Campbellfield",
       },
       {
         "Address": "Sharps Rd & Assembly Dr",
@@ -1913,7 +1913,7 @@ export const getDecrypted = () => ({
         "siteId": "61301367",
         "Band": "4",
         "longitude": "144.866549",
-        "Name": "Ampol Foodary Tullamarine"
+        "Name": "Ampol Foodary Tullamarine",
       },
       {
         "Address": "50 South Gippsland Hwy",
@@ -1921,7 +1921,7 @@ export const getDecrypted = () => ({
         "siteId": "61301369",
         "Band": "9",
         "longitude": "145.226758",
-        "Name": "Shell Dandenong South"
+        "Name": "Shell Dandenong South",
       },
       {
         "Address": "Sussex St & Bell St",
@@ -1929,7 +1929,7 @@ export const getDecrypted = () => ({
         "siteId": "61301373",
         "Band": "3",
         "longitude": "144.948823",
-        "Name": "Coles Express Coburg"
+        "Name": "Coles Express Coburg",
       },
       {
         "Address": "303 Bell St & Rose St",
@@ -1937,7 +1937,7 @@ export const getDecrypted = () => ({
         "siteId": "61301374",
         "Band": "9",
         "longitude": "144.948123",
-        "Name": "BP Southvale"
+        "Name": "BP Southvale",
       },
       {
         "Address": "488 Springvale Rd & Hawthorne Rd",
@@ -1945,7 +1945,7 @@ export const getDecrypted = () => ({
         "siteId": "61301376",
         "Band": "3",
         "longitude": "145.170078",
-        "Name": "7-Eleven Nunawading"
+        "Name": "7-Eleven Nunawading",
       },
       {
         "Address": "551-557 Doncaster Rd",
@@ -1953,7 +1953,7 @@ export const getDecrypted = () => ({
         "siteId": "61301377",
         "Band": "2",
         "longitude": "145.119774",
-        "Name": "Coles Express Doncaster"
+        "Name": "Coles Express Doncaster",
       },
       {
         "Address": "269-273 St Georges Rd",
@@ -1961,7 +1961,7 @@ export const getDecrypted = () => ({
         "siteId": "61301378",
         "Band": "9",
         "longitude": "144.984554",
-        "Name": "BP AA North Fitzroy"
+        "Name": "BP AA North Fitzroy",
       },
       {
         "Address": "989 Sydney Rd",
@@ -1969,7 +1969,7 @@ export const getDecrypted = () => ({
         "siteId": "61301382",
         "Band": "9",
         "longitude": "144.963272",
-        "Name": "BP AA North Coburg"
+        "Name": "BP AA North Coburg",
       },
       {
         "Address": "330 Frankston-Cranbourne Rd",
@@ -1977,7 +1977,7 @@ export const getDecrypted = () => ({
         "siteId": "61301383",
         "Band": "6",
         "longitude": "145.163444",
-        "Name": "7-Eleven Karingal"
+        "Name": "7-Eleven Karingal",
       },
       {
         "Address": "26-32 Narre Warren Rd",
@@ -1985,7 +1985,7 @@ export const getDecrypted = () => ({
         "siteId": "61301387",
         "Band": "3",
         "longitude": "145.305362",
-        "Name": "7-Eleven Narre Warren"
+        "Name": "7-Eleven Narre Warren",
       },
       {
         "Address": "1330 Hume Fwy",
@@ -1993,7 +1993,7 @@ export const getDecrypted = () => ({
         "siteId": "61301388",
         "Band": "9",
         "longitude": "144.94809450429921",
-        "Name": "Liberty Kalkallo"
+        "Name": "Liberty Kalkallo",
       },
       {
         "Address": "Hume Highway",
@@ -2001,7 +2001,7 @@ export const getDecrypted = () => ({
         "siteId": "61301391",
         "Band": "4",
         "longitude": "144.945175",
-        "Name": "Coles Express Bunker Hill"
+        "Name": "Coles Express Bunker Hill",
       },
       {
         "Address": "1489 Hume Hwy",
@@ -2009,7 +2009,7 @@ export const getDecrypted = () => ({
         "siteId": "61301392",
         "Band": "4",
         "longitude": "144.956674",
-        "Name": "BP Campbellfield"
+        "Name": "BP Campbellfield",
       },
       {
         "Address": "1243 Hume Highway",
@@ -2017,7 +2017,7 @@ export const getDecrypted = () => ({
         "siteId": "61301395",
         "Band": "3",
         "longitude": "144.960146",
-        "Name": "Ampol Foodary Fawkner"
+        "Name": "Ampol Foodary Fawkner",
       },
       {
         "Address": "1210 Sydney Rd",
@@ -2025,7 +2025,7 @@ export const getDecrypted = () => ({
         "siteId": "61301396",
         "Band": "3",
         "longitude": "144.961465",
-        "Name": "BP Fawkner"
+        "Name": "BP Fawkner",
       },
       {
         "Address": "57 Ballarat Rd",
@@ -2033,7 +2033,7 @@ export const getDecrypted = () => ({
         "siteId": "61301401",
         "Band": "3",
         "longitude": "144.879946",
-        "Name": "Ampol Foodary Maidstone"
+        "Name": "Ampol Foodary Maidstone",
       },
       {
         "Address": "1 Hampstead Rd & Omar St",
@@ -2041,7 +2041,7 @@ export const getDecrypted = () => ({
         "siteId": "61301403",
         "Band": "9",
         "longitude": "144.870833",
-        "Name": "Dayef Maidstone"
+        "Name": "Dayef Maidstone",
       },
       {
         "Address": "265-267 Sydney Rd",
@@ -2049,7 +2049,7 @@ export const getDecrypted = () => ({
         "siteId": "61301407",
         "Band": "9",
         "longitude": "144.965357",
-        "Name": "Shell Coburg"
+        "Name": "Shell Coburg",
       },
       {
         "Address": "523 Cooper Street",
@@ -2057,7 +2057,7 @@ export const getDecrypted = () => ({
         "siteId": "61301408",
         "Band": "9",
         "longitude": "144.97828486346404",
-        "Name": "Caltex Epping"
+        "Name": "Caltex Epping",
       },
       {
         "Address": "Cnr Somerville Rd & Geelong Rd",
@@ -2065,7 +2065,7 @@ export const getDecrypted = () => ({
         "siteId": "61301409",
         "Band": "4",
         "longitude": "144.867741",
-        "Name": "7-Eleven Footscray West"
+        "Name": "7-Eleven Footscray West",
       },
       {
         "Address": "574 Geelong Rd & Mcdonald Rd",
@@ -2073,7 +2073,7 @@ export const getDecrypted = () => ({
         "siteId": "61301412",
         "Band": "9",
         "longitude": "144.847386",
-        "Name": "Ampol Brooklyn Diesel Stop"
+        "Name": "Ampol Brooklyn Diesel Stop",
       },
       {
         "Address": "15 Fitzgerald Rd",
@@ -2081,7 +2081,7 @@ export const getDecrypted = () => ({
         "siteId": "61301413",
         "Band": "3",
         "longitude": "144.782176",
-        "Name": "BP Laverton"
+        "Name": "BP Laverton",
       },
       {
         "Address": "180 Duncans Rd & Edwards Rd",
@@ -2089,7 +2089,7 @@ export const getDecrypted = () => ({
         "siteId": "61301414",
         "Band": "3",
         "longitude": "144.677016",
-        "Name": "7-Eleven Werribee South"
+        "Name": "7-Eleven Werribee South",
       },
       {
         "Address": "West Gate Fwy",
@@ -2097,7 +2097,7 @@ export const getDecrypted = () => ({
         "siteId": "61301416",
         "Band": "9",
         "longitude": "144.919176",
-        "Name": "United Westgate North"
+        "Name": "United Westgate North",
       },
       {
         "Address": "2 West Gate Fwy",
@@ -2105,7 +2105,7 @@ export const getDecrypted = () => ({
         "siteId": "61301417",
         "Band": "9",
         "longitude": "144.918881",
-        "Name": "United Westgate South"
+        "Name": "United Westgate South",
       },
       {
         "Address": "112-120 Main Rd East",
@@ -2113,7 +2113,7 @@ export const getDecrypted = () => ({
         "siteId": "61301419",
         "Band": "9",
         "longitude": "144.820878",
-        "Name": "United St Albans North"
+        "Name": "United St Albans North",
       },
       {
         "Address": "114-116 Sydney Rd",
@@ -2121,7 +2121,7 @@ export const getDecrypted = () => ({
         "siteId": "61301430",
         "Band": "2",
         "longitude": "144.965208",
-        "Name": "Ampol Foodary Coburg"
+        "Name": "Ampol Foodary Coburg",
       },
       {
         "Address": "2 Bell St & Elizabeth St",
@@ -2129,7 +2129,7 @@ export const getDecrypted = () => ({
         "siteId": "61301431",
         "Band": "3",
         "longitude": "144.979697",
-        "Name": "7-Eleven Coburg East"
+        "Name": "7-Eleven Coburg East",
       },
       {
         "Address": "276 Blackshaws Rd",
@@ -2137,7 +2137,7 @@ export const getDecrypted = () => ({
         "siteId": "61301435",
         "Band": "9",
         "longitude": "144.858223",
-        "Name": "United West Fuel Service Centre"
+        "Name": "United West Fuel Service Centre",
       },
       {
         "Address": "Kings Rd & Main Rd West",
@@ -2145,7 +2145,7 @@ export const getDecrypted = () => ({
         "siteId": "61301436",
         "Band": "5",
         "longitude": "144.779123",
-        "Name": "7-Eleven St Albans"
+        "Name": "7-Eleven St Albans",
       },
       {
         "Address": "175-183 Mickleham Rd",
@@ -2153,7 +2153,7 @@ export const getDecrypted = () => ({
         "siteId": "61301438",
         "Band": "4",
         "longitude": "144.882009",
-        "Name": "Shell Reddy Express Tullamarine"
+        "Name": "Shell Reddy Express Tullamarine",
       },
       {
         "Address": "2-4 Somerton Park Dr",
@@ -2161,7 +2161,7 @@ export const getDecrypted = () => ({
         "siteId": "61301439",
         "Band": "4",
         "longitude": "144.9460188134918",
-        "Name": "Ampol Foodary Somerton"
+        "Name": "Ampol Foodary Somerton",
       },
       {
         "Address": "Belgrave-Hallam Rd & Frawley Rd",
@@ -2169,7 +2169,7 @@ export const getDecrypted = () => ({
         "siteId": "61301440",
         "Band": "2",
         "longitude": "145.273738",
-        "Name": "7-Eleven Hallam"
+        "Name": "7-Eleven Hallam",
       },
       {
         "Address": " Cnr Childs Rd & Buch Ave",
@@ -2177,7 +2177,7 @@ export const getDecrypted = () => ({
         "siteId": "61301442",
         "Band": "7",
         "longitude": "145.024097",
-        "Name": "7-Eleven Epping"
+        "Name": "7-Eleven Epping",
       },
       {
         "Address": "206-212 Cooper St & Yale Dr",
@@ -2185,7 +2185,7 @@ export const getDecrypted = () => ({
         "siteId": "61301443",
         "Band": "7",
         "longitude": "145.012152",
-        "Name": "Ampol Foodary Epping"
+        "Name": "Ampol Foodary Epping",
       },
       {
         "Address": "309 Cheltenham & Kingsclere Rd",
@@ -2193,7 +2193,7 @@ export const getDecrypted = () => ({
         "siteId": "61301444",
         "Band": "2",
         "longitude": "145.175859",
-        "Name": "7-Eleven Keysborough"
+        "Name": "7-Eleven Keysborough",
       },
       {
         "Address": "213a Sunshine Road",
@@ -2201,7 +2201,7 @@ export const getDecrypted = () => ({
         "siteId": "61301446",
         "Band": "9",
         "longitude": "144.853032",
-        "Name": "Shell Tottenham"
+        "Name": "Shell Tottenham",
       },
       {
         "Address": "371 Lower Plenty Rd",
@@ -2209,7 +2209,7 @@ export const getDecrypted = () => ({
         "siteId": "61301447",
         "Band": "3",
         "longitude": "145.085592",
-        "Name": "7-Eleven Yallambie"
+        "Name": "7-Eleven Yallambie",
       },
       {
         "Address": "Wellington Rd & Stud Rd",
@@ -2217,7 +2217,7 @@ export const getDecrypted = () => ({
         "siteId": "61301448",
         "Band": "3",
         "longitude": "145.233973",
-        "Name": "7-Eleven Rowville"
+        "Name": "7-Eleven Rowville",
       },
       {
         "Address": "124-130 Somerton Road",
@@ -2225,7 +2225,7 @@ export const getDecrypted = () => ({
         "siteId": "61301449",
         "Band": "4",
         "longitude": "144.939477",
-        "Name": "Ampol Foodary Roxburgh Park"
+        "Name": "Ampol Foodary Roxburgh Park",
       },
       {
         "Address": "459 Frankston-Dandenong Rd",
@@ -2233,7 +2233,7 @@ export const getDecrypted = () => ({
         "siteId": "61301450",
         "Band": "3",
         "longitude": "145.160057",
-        "Name": "Ampol Foodary Carrum Downs"
+        "Name": "Ampol Foodary Carrum Downs",
       },
       {
         "Address": "Dohertys Rd",
@@ -2241,7 +2241,7 @@ export const getDecrypted = () => ({
         "siteId": "61301451",
         "Band": "3",
         "longitude": "144.824335",
-        "Name": "Coles Express Altona North"
+        "Name": "Coles Express Altona North",
       },
       {
         "Address": "93 French St",
@@ -2249,7 +2249,7 @@ export const getDecrypted = () => ({
         "siteId": "61301454",
         "Band": "4",
         "longitude": "142.025824",
-        "Name": "EG Ampol Hamilton"
+        "Name": "EG Ampol Hamilton",
       },
       {
         "Address": "59 Myrtle St",
@@ -2257,7 +2257,7 @@ export const getDecrypted = () => ({
         "siteId": "61301455",
         "Band": "6",
         "longitude": "146.727947",
-        "Name": "Ampol Foodary Myrtleford"
+        "Name": "Ampol Foodary Myrtleford",
       },
       {
         "Address": "7958-7960 Goulburn Valley Highway",
@@ -2265,7 +2265,7 @@ export const getDecrypted = () => ({
         "siteId": "61301456",
         "Band": "9",
         "longitude": "145.392897",
-        "Name": "Ampol Kialla"
+        "Name": "Ampol Kialla",
       },
       {
         "Address": "70 Hallam Rd",
@@ -2273,7 +2273,7 @@ export const getDecrypted = () => ({
         "siteId": "61301461",
         "Band": "3",
         "longitude": "145.267727",
-        "Name": "EG Ampol Hampton Park"
+        "Name": "EG Ampol Hampton Park",
       },
       {
         "Address": "P O Box 739",
@@ -2281,7 +2281,7 @@ export const getDecrypted = () => ({
         "siteId": "61301465",
         "Band": "9",
         "longitude": "145.868732",
-        "Name": "Tarwin Lower General Store"
+        "Name": "Tarwin Lower General Store",
       },
       {
         "Address": "1 Anderson St",
@@ -2289,7 +2289,7 @@ export const getDecrypted = () => ({
         "siteId": "61301469",
         "Band": "9",
         "longitude": "146.95972434987181",
-        "Name": "Shell Bright"
+        "Name": "Shell Bright",
       },
       {
         "Address": "66 Bell St",
@@ -2297,7 +2297,7 @@ export const getDecrypted = () => ({
         "siteId": "61301471",
         "Band": "4",
         "longitude": "145.375487",
-        "Name": "Ampol Foodary Yarra Glen-Yarraview Mtrs"
+        "Name": "Ampol Foodary Yarra Glen-Yarraview Mtrs",
       },
       {
         "Address": "4 Dimboola Rd",
@@ -2305,7 +2305,7 @@ export const getDecrypted = () => ({
         "siteId": "61301475",
         "Band": "5",
         "longitude": "142.197919",
-        "Name": "BP Horsham"
+        "Name": "BP Horsham",
       },
       {
         "Address": "Cnr Calder Hwy & Bridgewater Serpentine Rd",
@@ -2313,7 +2313,7 @@ export const getDecrypted = () => ({
         "siteId": "61301481",
         "Band": "4",
         "longitude": "143.937143",
-        "Name": "Ampol Foodary Bridgewater"
+        "Name": "Ampol Foodary Bridgewater",
       },
       {
         "Address": "24 Tuaggra St & Burke",
@@ -2321,7 +2321,7 @@ export const getDecrypted = () => ({
         "siteId": "61301483",
         "Band": "9",
         "longitude": "143.741862",
-        "Name": "United Maryborough"
+        "Name": "United Maryborough",
       },
       {
         "Address": "94-100 Victoria St",
@@ -2329,7 +2329,7 @@ export const getDecrypted = () => ({
         "siteId": "61301485",
         "Band": "5",
         "longitude": "141.643551",
-        "Name": "Ampol Nhill"
+        "Name": "Ampol Nhill",
       },
       {
         "Address": "10 Calder Hwy",
@@ -2337,7 +2337,7 @@ export const getDecrypted = () => ({
         "siteId": "61301486",
         "Band": "9",
         "longitude": "142.999127",
-        "Name": "Shell Berriwillock"
+        "Name": "Shell Berriwillock",
       },
       {
         "Address": "25 Mckenzie",
@@ -2345,7 +2345,7 @@ export const getDecrypted = () => ({
         "siteId": "61301487",
         "Band": "9",
         "longitude": "145.593228",
-        "Name": "Liberty Wonthaggi"
+        "Name": "Liberty Wonthaggi",
       },
       {
         "Address": "779785 Heidelberg Road",
@@ -2353,7 +2353,7 @@ export const getDecrypted = () => ({
         "siteId": "61301500",
         "Band": "2",
         "longitude": "145.032664",
-        "Name": "OTR Alphington"
+        "Name": "OTR Alphington",
       },
       {
         "Address": "103-109 Main Hurstbridge Rd",
@@ -2361,7 +2361,7 @@ export const getDecrypted = () => ({
         "siteId": "61301502",
         "Band": "4",
         "longitude": "145.163127",
-        "Name": "Ampol Foodary Diamond Creek"
+        "Name": "Ampol Foodary Diamond Creek",
       },
       {
         "Address": "111 Manningham Rd & Grant Olsen Av",
@@ -2369,7 +2369,7 @@ export const getDecrypted = () => ({
         "siteId": "61301503",
         "Band": "3",
         "longitude": "145.092971",
-        "Name": "Coles Express Bulleen"
+        "Name": "Coles Express Bulleen",
       },
       {
         "Address": "21 Alexandra Parade",
@@ -2377,7 +2377,7 @@ export const getDecrypted = () => ({
         "siteId": "61301504",
         "Band": "3",
         "longitude": "144.986441",
-        "Name": "Shell Reddy Express Collingwood"
+        "Name": "Shell Reddy Express Collingwood",
       },
       {
         "Address": "Wellington St & Keele St",
@@ -2385,7 +2385,7 @@ export const getDecrypted = () => ({
         "siteId": "61301505",
         "Band": "9",
         "longitude": "144.987931",
-        "Name": "Metro Petroleum Collingwood"
+        "Name": "Metro Petroleum Collingwood",
       },
       {
         "Address": "302 Wellington St & Sackville St",
@@ -2393,7 +2393,7 @@ export const getDecrypted = () => ({
         "siteId": "61301506",
         "Band": "9",
         "longitude": "144.987766",
-        "Name": "Little Sam's Collingwood"
+        "Name": "Little Sam's Collingwood",
       },
       {
         "Address": "274 Diamond Creek Rd",
@@ -2401,7 +2401,7 @@ export const getDecrypted = () => ({
         "siteId": "61301511",
         "Band": "4",
         "longitude": "145.123075",
-        "Name": "BP 2Go Diamond Creek"
+        "Name": "BP 2Go Diamond Creek",
       },
       {
         "Address": "52 Chute St",
@@ -2409,7 +2409,7 @@ export const getDecrypted = () => ({
         "siteId": "61301512",
         "Band": "3",
         "longitude": "145.151766",
-        "Name": "S24 Diamond Creek"
+        "Name": "S24 Diamond Creek",
       },
       {
         "Address": "Main Rd & Mt Pleasant Rd",
@@ -2417,7 +2417,7 @@ export const getDecrypted = () => ({
         "siteId": "61301516",
         "Band": "3",
         "longitude": "145.147246",
-        "Name": "Coles Express Eltham"
+        "Name": "Coles Express Eltham",
       },
       {
         "Address": "Main Rd & Beard St",
@@ -2425,7 +2425,7 @@ export const getDecrypted = () => ({
         "siteId": "61301518",
         "Band": "3",
         "longitude": "145.160684",
-        "Name": "BP Eltham"
+        "Name": "BP Eltham",
       },
       {
         "Address": "1050 Main Rd & Luck St",
@@ -2433,7 +2433,7 @@ export const getDecrypted = () => ({
         "siteId": "61301519",
         "Band": "9",
         "longitude": "145.149152",
-        "Name": "United Eltham"
+        "Name": "United Eltham",
       },
       {
         "Address": "705 High St & Cooper St",
@@ -2441,7 +2441,7 @@ export const getDecrypted = () => ({
         "siteId": "61301520",
         "Band": "7",
         "longitude": "145.023807",
-        "Name": "7-Eleven Epping North"
+        "Name": "7-Eleven Epping North",
       },
       {
         "Address": "490-500 Heidelberg Rd",
@@ -2449,7 +2449,7 @@ export const getDecrypted = () => ({
         "siteId": "61301523",
         "Band": "2",
         "longitude": "145.020063",
-        "Name": "BP AA Fairfield"
+        "Name": "BP AA Fairfield",
       },
       {
         "Address": "Heidelberg Rd & Rathmines St",
@@ -2457,7 +2457,7 @@ export const getDecrypted = () => ({
         "siteId": "61301524",
         "Band": "2",
         "longitude": "145.015645",
-        "Name": "Coles Express Fairfield (Vic)"
+        "Name": "Coles Express Fairfield (Vic)",
       },
       {
         "Address": "390 Nicholson St",
@@ -2465,7 +2465,7 @@ export const getDecrypted = () => ({
         "siteId": "61301530",
         "Band": "9",
         "longitude": "144.976392",
-        "Name": "United Fitzroy"
+        "Name": "United Fitzroy",
       },
       {
         "Address": "75-81 Alexandra Pde & Rae St",
@@ -2473,7 +2473,7 @@ export const getDecrypted = () => ({
         "siteId": "61301532",
         "Band": "3",
         "longitude": "144.978678",
-        "Name": "Coles Express Fitzroy"
+        "Name": "Coles Express Fitzroy",
       },
       {
         "Address": "107 Bradford St",
@@ -2481,7 +2481,7 @@ export const getDecrypted = () => ({
         "siteId": "61301533",
         "Band": "9",
         "longitude": "146.897113",
-        "Name": "Ampol Wodonga"
+        "Name": "Ampol Wodonga",
       },
       {
         "Address": "131 Grimshaw St",
@@ -2489,7 +2489,7 @@ export const getDecrypted = () => ({
         "siteId": "61301534",
         "Band": "4",
         "longitude": "145.099293",
-        "Name": "BP Greensborough"
+        "Name": "BP Greensborough",
       },
       {
         "Address": "131 Broughton Street (Cnr South Gippsland Highway)",
@@ -2497,7 +2497,7 @@ export const getDecrypted = () => ({
         "siteId": "61577383",
         "Band": "9",
         "longitude": "146.66789",
-        "Name": "Endeavour Alberton"
+        "Name": "Endeavour Alberton",
       },
       {
         "Address": "146 Main St & Joyce Av",
@@ -2505,7 +2505,7 @@ export const getDecrypted = () => ({
         "siteId": "61301536",
         "Band": "4",
         "longitude": "145.107045",
-        "Name": "Coles Express Greensborough"
+        "Name": "Coles Express Greensborough",
       },
       {
         "Address": "184 Bell St & Miller St",
@@ -2513,7 +2513,7 @@ export const getDecrypted = () => ({
         "siteId": "61301538",
         "Band": "9",
         "longitude": "145.049354",
-        "Name": "BP AA Heidelberg West"
+        "Name": "BP AA Heidelberg West",
       },
       {
         "Address": "473 Upper Heidelberg Rd & Thames St",
@@ -2521,7 +2521,7 @@ export const getDecrypted = () => ({
         "siteId": "61301544",
         "Band": "9",
         "longitude": "145.056768",
-        "Name": "Dayef Petroleum"
+        "Name": "Dayef Petroleum",
       },
       {
         "Address": "247 Waterdale Rd",
@@ -2529,7 +2529,7 @@ export const getDecrypted = () => ({
         "siteId": "61301553",
         "Band": "9",
         "longitude": "145.045017",
-        "Name": "Ivanhoe Fuel"
+        "Name": "Ivanhoe Fuel",
       },
       {
         "Address": "339 Dalton Rd & Childs Rd",
@@ -2537,7 +2537,7 @@ export const getDecrypted = () => ({
         "siteId": "61301555",
         "Band": "7",
         "longitude": "145.030194",
-        "Name": "7-Eleven Epping"
+        "Name": "7-Eleven Epping",
       },
       {
         "Address": "925 Plenty Rd & Browning St",
@@ -2545,7 +2545,7 @@ export const getDecrypted = () => ({
         "siteId": "61301557",
         "Band": "9",
         "longitude": "145.036583",
-        "Name": "BP AA Kingsbury"
+        "Name": "BP AA Kingsbury",
       },
       {
         "Address": "89 Dunne St",
@@ -2553,7 +2553,7 @@ export const getDecrypted = () => ({
         "siteId": "61301560",
         "Band": "9",
         "longitude": "145.034106",
-        "Name": "Ampol Kingsbury Motors"
+        "Name": "Ampol Kingsbury Motors",
       },
       {
         "Address": "35 Gisborne Cres & Bolderwood Pde",
@@ -2561,7 +2561,7 @@ export const getDecrypted = () => ({
         "siteId": "61301561",
         "Band": "9",
         "longitude": "145.021592",
-        "Name": "BP AA Reservoir"
+        "Name": "BP AA Reservoir",
       },
       {
         "Address": "59 Rattray Road",
@@ -2569,7 +2569,7 @@ export const getDecrypted = () => ({
         "siteId": "61301569",
         "Band": "9",
         "longitude": "145.122126",
-        "Name": "BP Montmorency"
+        "Name": "BP Montmorency",
       },
       {
         "Address": "180 Sherbourne Rd",
@@ -2577,7 +2577,7 @@ export const getDecrypted = () => ({
         "siteId": "61301570",
         "Band": "9",
         "longitude": "145.135694",
-        "Name": "Ampol Montmorency"
+        "Name": "Ampol Montmorency",
       },
       {
         "Address": "153-169 High St",
@@ -2585,7 +2585,7 @@ export const getDecrypted = () => ({
         "siteId": "61301576",
         "Band": "2",
         "longitude": "144.997293",
-        "Name": "Ampol Foodary Northcote"
+        "Name": "Ampol Foodary Northcote",
       },
       {
         "Address": "Victoria Rd & Separation St",
@@ -2593,7 +2593,7 @@ export const getDecrypted = () => ({
         "siteId": "61301577",
         "Band": "3",
         "longitude": "145.011705",
-        "Name": "7-Eleven Northcote"
+        "Name": "7-Eleven Northcote",
       },
       {
         "Address": "225-227 Station St & Separation St",
@@ -2601,7 +2601,7 @@ export const getDecrypted = () => ({
         "siteId": "61301578",
         "Band": "9",
         "longitude": "145.019656",
-        "Name": "Metco Petroleum Fairfield"
+        "Name": "Metco Petroleum Fairfield",
       },
       {
         "Address": "Lot 1, 215 Sherbourne Rd",
@@ -2609,7 +2609,7 @@ export const getDecrypted = () => ({
         "siteId": "61301588",
         "Band": "3",
         "longitude": "145.13710970552253",
-        "Name": "7-Eleven Eltham West"
+        "Name": "7-Eleven Eltham West",
       },
       {
         "Address": "330 Ryans Rd",
@@ -2617,7 +2617,7 @@ export const getDecrypted = () => ({
         "siteId": "61301590",
         "Band": "9",
         "longitude": "145.143168",
-        "Name": "BP Eltham North"
+        "Name": "BP Eltham North",
       },
       {
         "Address": "343-349 Plenty Rd & Gower St",
@@ -2625,7 +2625,7 @@ export const getDecrypted = () => ({
         "siteId": "61301592",
         "Band": "9",
         "longitude": "145.009728",
-        "Name": "Shell Preston - Plenty Road"
+        "Name": "Shell Preston - Plenty Road",
       },
       {
         "Address": "502-506 Plenty Rd & Sylvester",
@@ -2633,7 +2633,7 @@ export const getDecrypted = () => ({
         "siteId": "61301593",
         "Band": "9",
         "longitude": "145.012484",
-        "Name": "Liberty Preston"
+        "Name": "Liberty Preston",
       },
       {
         "Address": "350 Mcdonalds Rd",
@@ -2641,7 +2641,7 @@ export const getDecrypted = () => ({
         "siteId": "61301595",
         "Band": "7",
         "longitude": "145.076049",
-        "Name": "Coles Express South Morang"
+        "Name": "Coles Express South Morang",
       },
       {
         "Address": "485 Bell St & Stott St",
@@ -2649,7 +2649,7 @@ export const getDecrypted = () => ({
         "siteId": "61301597",
         "Band": "3",
         "longitude": "144.994042",
-        "Name": "Coles Express Preston"
+        "Name": "Coles Express Preston",
       },
       {
         "Address": "Childs Rd & Morang Dr",
@@ -2657,7 +2657,7 @@ export const getDecrypted = () => ({
         "siteId": "61301599",
         "Band": "7",
         "longitude": "145.053345",
-        "Name": "7-Eleven Mill Park"
+        "Name": "7-Eleven Mill Park",
       },
       {
         "Address": "408 Bell St & St George Rd",
@@ -2665,7 +2665,7 @@ export const getDecrypted = () => ({
         "siteId": "61301607",
         "Band": "9",
         "longitude": "144.998193",
-        "Name": "BP AA Preston"
+        "Name": "BP AA Preston",
       },
       {
         "Address": "1B Bell St",
@@ -2673,7 +2673,7 @@ export const getDecrypted = () => ({
         "siteId": "61301610",
         "Band": "9",
         "longitude": "145.031242",
-        "Name": "Pearl Energy Preston"
+        "Name": "Pearl Energy Preston",
       },
       {
         "Address": "103 Bell Street",
@@ -2681,7 +2681,7 @@ export const getDecrypted = () => ({
         "siteId": "61301611",
         "Band": "9",
         "longitude": "145.022013",
-        "Name": "United Preston"
+        "Name": "United Preston",
       },
       {
         "Address": "76 Bell St & Chifley Dr",
@@ -2689,7 +2689,7 @@ export const getDecrypted = () => ({
         "siteId": "61301613",
         "Band": "9",
         "longitude": "145.029987",
-        "Name": "United Preston"
+        "Name": "United Preston",
       },
       {
         "Address": "192-202 Broadway Rd",
@@ -2697,7 +2697,7 @@ export const getDecrypted = () => ({
         "siteId": "61301614",
         "Band": "3",
         "longitude": "145.012298",
-        "Name": "Coles Express Reservoir (Vic)"
+        "Name": "Coles Express Reservoir (Vic)",
       },
       {
         "Address": "Murray St",
@@ -2705,7 +2705,7 @@ export const getDecrypted = () => ({
         "siteId": "61301615",
         "Band": "7",
         "longitude": "143.310278",
-        "Name": "Ampol Piangil"
+        "Name": "Ampol Piangil",
       },
       {
         "Address": "139-145 Spring St & Powell St",
@@ -2713,7 +2713,7 @@ export const getDecrypted = () => ({
         "siteId": "61301622",
         "Band": "9",
         "longitude": "145.001071",
-        "Name": "Metro Petroleum Reservoir"
+        "Name": "Metro Petroleum Reservoir",
       },
       {
         "Address": "101-111 Edwardes St & George St",
@@ -2721,7 +2721,7 @@ export const getDecrypted = () => ({
         "siteId": "61301625",
         "Band": "9",
         "longitude": "145.001017",
-        "Name": "Liberty Reservoir"
+        "Name": "Liberty Reservoir",
       },
       {
         "Address": "54 Jones Street",
@@ -2729,7 +2729,7 @@ export const getDecrypted = () => ({
         "siteId": "61301626",
         "Band": "5",
         "longitude": "145.239616",
-        "Name": "Ampol Foodary Avenel"
+        "Name": "Ampol Foodary Avenel",
       },
       {
         "Address": "931 High St",
@@ -2737,7 +2737,7 @@ export const getDecrypted = () => ({
         "siteId": "61301628",
         "Band": "3",
         "longitude": "145.008037",
-        "Name": "Ampol Foodary Reservoir"
+        "Name": "Ampol Foodary Reservoir",
       },
       {
         "Address": "44-50 Northern Hwy",
@@ -2745,7 +2745,7 @@ export const getDecrypted = () => ({
         "siteId": "61301629",
         "Band": "5",
         "longitude": "144.730568",
-        "Name": "Ampol Foodary Echuca Roadhouse"
+        "Name": "Ampol Foodary Echuca Roadhouse",
       },
       {
         "Address": "87 Hughes Pde & Mcfadzean Av",
@@ -2753,7 +2753,7 @@ export const getDecrypted = () => ({
         "siteId": "61301630",
         "Band": "9",
         "longitude": "144.995898",
-        "Name": "BP Reservoir North"
+        "Name": "BP Reservoir North",
       },
       {
         "Address": "71-73 Murray Rd & Albert St",
@@ -2761,7 +2761,7 @@ export const getDecrypted = () => ({
         "siteId": "61301631",
         "Band": "9",
         "longitude": "145.023703",
-        "Name": "Caltex Preston"
+        "Name": "Caltex Preston",
       },
       {
         "Address": "Murray Rd & Chifley Dr",
@@ -2769,7 +2769,7 @@ export const getDecrypted = () => ({
         "siteId": "61301633",
         "Band": "2",
         "longitude": "145.030235",
-        "Name": "Coles Express East Preston"
+        "Name": "Coles Express East Preston",
       },
       {
         "Address": "Lower Plenty Rd & Turnham Av",
@@ -2777,7 +2777,7 @@ export const getDecrypted = () => ({
         "siteId": "61301636",
         "Band": "3",
         "longitude": "145.066662",
-        "Name": "Coles Express Rosanna"
+        "Name": "Coles Express Rosanna",
       },
       {
         "Address": "72 Keon Pde & Dalton Rd",
@@ -2785,7 +2785,7 @@ export const getDecrypted = () => ({
         "siteId": "61301639",
         "Band": "9",
         "longitude": "145.022329",
-        "Name": "BP AA Thomastown - Keon Parade"
+        "Name": "BP AA Thomastown - Keon Parade",
       },
       {
         "Address": "Edgars Rd & Main St",
@@ -2793,7 +2793,7 @@ export const getDecrypted = () => ({
         "siteId": "61301642",
         "Band": "5",
         "longitude": "144.999148",
-        "Name": "7-Eleven Thomastown"
+        "Name": "7-Eleven Thomastown",
       },
       {
         "Address": "123 High St",
@@ -2801,7 +2801,7 @@ export const getDecrypted = () => ({
         "siteId": "61301645",
         "Band": "9",
         "longitude": "145.012843",
-        "Name": "BP AA Thomastown - High Street"
+        "Name": "BP AA Thomastown - High Street",
       },
       {
         "Address": "228-234 Settlement Rd",
@@ -2809,7 +2809,7 @@ export const getDecrypted = () => ({
         "siteId": "61301650",
         "Band": "9",
         "longitude": "145.032703",
-        "Name": "Apco Thomastown"
+        "Name": "Apco Thomastown",
       },
       {
         "Address": "2867 Point Nepean Rd",
@@ -2817,7 +2817,7 @@ export const getDecrypted = () => ({
         "siteId": "61301652",
         "Band": "9",
         "longitude": "144.776329",
-        "Name": "United Blairgowrie"
+        "Name": "United Blairgowrie",
       },
       {
         "Address": "3895 South Gippsland Hwy",
@@ -2825,7 +2825,7 @@ export const getDecrypted = () => ({
         "siteId": "61301655",
         "Band": "9",
         "longitude": "146.215442",
-        "Name": "Endeavour Petroleum Foster"
+        "Name": "Endeavour Petroleum Foster",
       },
       {
         "Address": "370 Maroondah Hwy",
@@ -2833,7 +2833,7 @@ export const getDecrypted = () => ({
         "siteId": "61301657",
         "Band": "7",
         "longitude": "145.523377",
-        "Name": "Ampol Foodary Healesville"
+        "Name": "Ampol Foodary Healesville",
       },
       {
         "Address": "Chenery St",
@@ -2841,7 +2841,7 @@ export const getDecrypted = () => ({
         "siteId": "61301658",
         "Band": "7",
         "longitude": "146.092703",
-        "Name": "Ampol Foodary Mansfield"
+        "Name": "Ampol Foodary Mansfield",
       },
       {
         "Address": "24 Foord St",
@@ -2849,7 +2849,7 @@ export const getDecrypted = () => ({
         "siteId": "61301659",
         "Band": "9",
         "longitude": "146.394105",
-        "Name": "Wahgunyah Service Station"
+        "Name": "Wahgunyah Service Station",
       },
       {
         "Address": "21 Towong St",
@@ -2857,7 +2857,7 @@ export const getDecrypted = () => ({
         "siteId": "61301660",
         "Band": "5",
         "longitude": "147.179749",
-        "Name": "Ampol Tallangatta"
+        "Name": "Ampol Tallangatta",
       },
       {
         "Address": "Cnr Maroondah Hwy & Jones St",
@@ -2865,7 +2865,7 @@ export const getDecrypted = () => ({
         "siteId": "61301661",
         "Band": "9",
         "longitude": "145.852298",
-        "Name": "Metro Petroleum Bonnie Doon"
+        "Name": "Metro Petroleum Bonnie Doon",
       },
       {
         "Address": "Bonegilla Rd",
@@ -2873,7 +2873,7 @@ export const getDecrypted = () => ({
         "siteId": "61301663",
         "Band": "9",
         "longitude": "147.008354",
-        "Name": "Liberty Ebden"
+        "Name": "Liberty Ebden",
       },
       {
         "Address": "11 Mt Dandenong Rd",
@@ -2881,7 +2881,7 @@ export const getDecrypted = () => ({
         "siteId": "61301664",
         "Band": "5",
         "longitude": "145.23940749570079",
-        "Name": "Shell Reddy Express Ringwood"
+        "Name": "Shell Reddy Express Ringwood",
       },
       {
         "Address": "410 St Georges Rd & Harold St",
@@ -2889,7 +2889,7 @@ export const getDecrypted = () => ({
         "siteId": "61301671",
         "Band": "3",
         "longitude": "144.994276",
-        "Name": "BP Rio Motors"
+        "Name": "BP Rio Motors",
       },
       {
         "Address": "High St & Hutton St",
@@ -2897,7 +2897,7 @@ export const getDecrypted = () => ({
         "siteId": "61301672",
         "Band": "2",
         "longitude": "145.000714",
-        "Name": "7-Eleven Thornbury"
+        "Name": "7-Eleven Thornbury",
       },
       {
         "Address": "1996 Frankston-Flinders Rd & Hodgins Rd",
@@ -2905,7 +2905,7 @@ export const getDecrypted = () => ({
         "siteId": "61301673",
         "Band": "9",
         "longitude": "145.183212",
-        "Name": "United Hastings West"
+        "Name": "United Hastings West",
       },
       {
         "Address": "265 Darebin Rd & Station St",
@@ -2913,7 +2913,7 @@ export const getDecrypted = () => ({
         "siteId": "61301680",
         "Band": "9",
         "longitude": "145.020159",
-        "Name": "Shell Thornbury"
+        "Name": "Shell Thornbury",
       },
       {
         "Address": "342 Station St & Darebin Rd",
@@ -2921,7 +2921,7 @@ export const getDecrypted = () => ({
         "siteId": "61301681",
         "Band": "3",
         "longitude": "145.019849",
-        "Name": "7-Eleven Fairfield East"
+        "Name": "7-Eleven Fairfield East",
       },
       {
         "Address": "Watsonia Rd & Grace St",
@@ -2929,7 +2929,7 @@ export const getDecrypted = () => ({
         "siteId": "61301687",
         "Band": "3",
         "longitude": "145.082396",
-        "Name": "BP Watsonia"
+        "Name": "BP Watsonia",
       },
       {
         "Address": "Beech St & Forest St",
@@ -2937,7 +2937,7 @@ export const getDecrypted = () => ({
         "siteId": "61301688",
         "Band": "4",
         "longitude": "145.121055",
-        "Name": "Ampol Foodary Whittlesea"
+        "Name": "Ampol Foodary Whittlesea",
       },
       {
         "Address": "2430 Plenty Rd",
@@ -2945,7 +2945,7 @@ export const getDecrypted = () => ({
         "siteId": "61301691",
         "Band": "9",
         "longitude": "145.114904",
-        "Name": "United Petroleum Whittlesea North"
+        "Name": "United Petroleum Whittlesea North",
       },
       {
         "Address": "246 Epping Rd",
@@ -2953,7 +2953,7 @@ export const getDecrypted = () => ({
         "siteId": "61301692",
         "Band": "4",
         "longitude": "145.03099230688474",
-        "Name": "Coles Express Wollert"
+        "Name": "Coles Express Wollert",
       },
       {
         "Address": "286 Johnston St & Lulie Street",
@@ -2961,7 +2961,7 @@ export const getDecrypted = () => ({
         "siteId": "61301699",
         "Band": "3",
         "longitude": "144.994807",
-        "Name": "EG Ampol Abbotsford"
+        "Name": "EG Ampol Abbotsford",
       },
       {
         "Address": "840 Plenty Rd",
@@ -2969,7 +2969,7 @@ export const getDecrypted = () => ({
         "siteId": "61301702",
         "Band": "7",
         "longitude": "145.090622",
-        "Name": "7-Eleven South Morang"
+        "Name": "7-Eleven South Morang",
       },
       {
         "Address": "1444 Plenty Rd",
@@ -2977,7 +2977,7 @@ export const getDecrypted = () => ({
         "siteId": "61301703",
         "Band": "6",
         "longitude": "145.096505",
-        "Name": "Coles Express Mernda"
+        "Name": "Coles Express Mernda",
       },
       {
         "Address": "Plenty Rd & University Dr",
@@ -2985,7 +2985,7 @@ export const getDecrypted = () => ({
         "siteId": "61301706",
         "Band": "7",
         "longitude": "145.076331",
-        "Name": "Coles Express Mill Park"
+        "Name": "Coles Express Mill Park",
       },
       {
         "Address": "377 Plenty Rd",
@@ -2993,7 +2993,7 @@ export const getDecrypted = () => ({
         "siteId": "61301707",
         "Band": "7",
         "longitude": "145.073076",
-        "Name": "Ampol Foodary Mill Park"
+        "Name": "Ampol Foodary Mill Park",
       },
       {
         "Address": "619 Boronia Rd",
@@ -3001,7 +3001,7 @@ export const getDecrypted = () => ({
         "siteId": "61301708",
         "Band": "3",
         "longitude": "145.231696",
-        "Name": "7-Eleven Wantirna"
+        "Name": "7-Eleven Wantirna",
       },
       {
         "Address": "Gisborne Melton Road",
@@ -3009,7 +3009,7 @@ export const getDecrypted = () => ({
         "siteId": "61301711",
         "Band": "5",
         "longitude": "144.606609",
-        "Name": "Ampol Foodary Melton"
+        "Name": "Ampol Foodary Melton",
       },
       {
         "Address": "114-116 Lime Av",
@@ -3017,7 +3017,7 @@ export const getDecrypted = () => ({
         "siteId": "61301712",
         "Band": "5",
         "longitude": "142.157758",
-        "Name": "EG Ampol Mildura"
+        "Name": "EG Ampol Mildura",
       },
       {
         "Address": "73 Tone Road",
@@ -3025,7 +3025,7 @@ export const getDecrypted = () => ({
         "siteId": "61301714",
         "Band": "5",
         "longitude": "146.303562",
-        "Name": "EG Ampol Wangaratta"
+        "Name": "EG Ampol Wangaratta",
       },
       {
         "Address": "Cnr 15th Street & San Mateo Avenue",
@@ -3033,7 +3033,7 @@ export const getDecrypted = () => ({
         "siteId": "61301716",
         "Band": "5",
         "longitude": "142.142117",
-        "Name": "Ampol Mildura"
+        "Name": "Ampol Mildura",
       },
       {
         "Address": "Seventh Av & Etiwanda Av",
@@ -3041,7 +3041,7 @@ export const getDecrypted = () => ({
         "siteId": "61301718",
         "Band": "9",
         "longitude": "142.174884",
-        "Name": "Liberty Mildura"
+        "Name": "Liberty Mildura",
       },
       {
         "Address": "404-408 Shannon Avenue",
@@ -3049,7 +3049,7 @@ export const getDecrypted = () => ({
         "siteId": "61301727",
         "Band": "4",
         "longitude": "144.333571",
-        "Name": "Ampol Newtown"
+        "Name": "Ampol Newtown",
       },
       {
         "Address": "527 Main Rd",
@@ -3057,7 +3057,7 @@ export const getDecrypted = () => ({
         "siteId": "61301729",
         "Band": "3",
         "longitude": "145.138319",
-        "Name": "EG Ampol Eltham"
+        "Name": "EG Ampol Eltham",
       },
       {
         "Address": "237-241 Whitehorse Rd",
@@ -3065,7 +3065,7 @@ export const getDecrypted = () => ({
         "siteId": "61301730",
         "Band": "9",
         "longitude": "145.162861",
-        "Name": "BP Blackburn"
+        "Name": "BP Blackburn",
       },
       {
         "Address": "190-198 Wellington Rd & Garden Rd",
@@ -3073,7 +3073,7 @@ export const getDecrypted = () => ({
         "siteId": "61301732",
         "Band": "3",
         "longitude": "145.146455",
-        "Name": "EG Ampol Clayton"
+        "Name": "EG Ampol Clayton",
       },
       {
         "Address": "4 Golf Links Rd",
@@ -3081,7 +3081,7 @@ export const getDecrypted = () => ({
         "siteId": "61301734",
         "Band": "3",
         "longitude": "145.137565",
-        "Name": "BP Express Golf Links Road"
+        "Name": "BP Express Golf Links Road",
       },
       {
         "Address": "38-40 Hallam Rd & Melverton Dr",
@@ -3089,7 +3089,7 @@ export const getDecrypted = () => ({
         "siteId": "61301735",
         "Band": "3",
         "longitude": "145.272672",
-        "Name": "7-Eleven Hallam"
+        "Name": "7-Eleven Hallam",
       },
       {
         "Address": "62-82 Gordon St & Mephan St",
@@ -3097,7 +3097,7 @@ export const getDecrypted = () => ({
         "siteId": "61301737",
         "Band": "3",
         "longitude": "144.890011",
-        "Name": "Ampol Foodary Footscray"
+        "Name": "Ampol Foodary Footscray",
       },
       {
         "Address": "Manningham Rd & Bulleen Rd",
@@ -3105,7 +3105,7 @@ export const getDecrypted = () => ({
         "siteId": "61301738",
         "Band": "3",
         "longitude": "145.084012",
-        "Name": "EG Ampol Bulleen"
+        "Name": "EG Ampol Bulleen",
       },
       {
         "Address": "44 Plymouth Rd",
@@ -3113,7 +3113,7 @@ export const getDecrypted = () => ({
         "siteId": "61301739",
         "Band": "5",
         "longitude": "145.267637",
-        "Name": "7-Eleven Croydon Hills"
+        "Name": "7-Eleven Croydon Hills",
       },
       {
         "Address": "286 Poath Rd & North Rd",
@@ -3121,7 +3121,7 @@ export const getDecrypted = () => ({
         "siteId": "61301741",
         "Band": "9",
         "longitude": "145.074942",
-        "Name": "BP Hughesdale (Oakleigh)"
+        "Name": "BP Hughesdale (Oakleigh)",
       },
       {
         "Address": "Heidelberg Rd & Jeffrey Rd",
@@ -3129,7 +3129,7 @@ export const getDecrypted = () => ({
         "siteId": "61301742",
         "Band": "2",
         "longitude": "145.009246",
-        "Name": "EG Ampol Northcote"
+        "Name": "EG Ampol Northcote",
       },
       {
         "Address": "Cnr Mt Dandenong Rd & Mountain View Rd",
@@ -3137,7 +3137,7 @@ export const getDecrypted = () => ({
         "siteId": "61301743",
         "Band": "3",
         "longitude": "145.311115",
-        "Name": "EG Ampol Kilsyth"
+        "Name": "EG Ampol Kilsyth",
       },
       {
         "Address": "Boundary Rd",
@@ -3145,7 +3145,7 @@ export const getDecrypted = () => ({
         "siteId": "61301744",
         "Band": "2",
         "longitude": "145.112028",
-        "Name": "Coles Express Dingley"
+        "Name": "Coles Express Dingley",
       },
       {
         "Address": "747 Springvale Rd",
@@ -3153,7 +3153,7 @@ export const getDecrypted = () => ({
         "siteId": "61301745",
         "Band": "2",
         "longitude": "145.145807",
-        "Name": "EG Ampol Keysborough"
+        "Name": "EG Ampol Keysborough",
       },
       {
         "Address": "493 Burwood Hwy",
@@ -3161,7 +3161,7 @@ export const getDecrypted = () => ({
         "siteId": "61301746",
         "Band": "3",
         "longitude": "145.181283",
-        "Name": "Coles Express Vermont South S/C"
+        "Name": "Coles Express Vermont South S/C",
       },
       {
         "Address": "1419 Main Rd",
@@ -3169,7 +3169,7 @@ export const getDecrypted = () => ({
         "siteId": "61301747",
         "Band": "3",
         "longitude": "145.172927",
-        "Name": "7-Eleven Research"
+        "Name": "7-Eleven Research",
       },
       {
         "Address": "844 Burwood Hwy",
@@ -3177,7 +3177,7 @@ export const getDecrypted = () => ({
         "siteId": "61301748",
         "Band": "3",
         "longitude": "145.274507",
-        "Name": "7-Eleven Mountain Gate"
+        "Name": "7-Eleven Mountain Gate",
       },
       {
         "Address": "Lot C1 Smithfield Rd",
@@ -3185,7 +3185,7 @@ export const getDecrypted = () => ({
         "siteId": "61301749",
         "Band": "3",
         "longitude": "144.918756",
-        "Name": "Coles Express Flemington"
+        "Name": "Coles Express Flemington",
       },
       {
         "Address": "260 Centre Dandenong Rd & Grange Rd",
@@ -3193,7 +3193,7 @@ export const getDecrypted = () => ({
         "siteId": "61301750",
         "Band": "9",
         "longitude": "145.087764",
-        "Name": "Liberty Moorabbin"
+        "Name": "Liberty Moorabbin",
       },
       {
         "Address": "171-173 Hume Hwy & Stanley Dr",
@@ -3201,7 +3201,7 @@ export const getDecrypted = () => ({
         "siteId": "61301751",
         "Band": "4",
         "longitude": "144.948023",
-        "Name": "BP Outbound"
+        "Name": "BP Outbound",
       },
       {
         "Address": "1 Ferntree Gully Road",
@@ -3209,7 +3209,7 @@ export const getDecrypted = () => ({
         "siteId": "61301752",
         "Band": "3",
         "longitude": "145.274782",
-        "Name": "EG Ampol Mountain Gate"
+        "Name": "EG Ampol Mountain Gate",
       },
       {
         "Address": "Mt Dandenong Rd & Lusher Rd",
@@ -3217,7 +3217,7 @@ export const getDecrypted = () => ({
         "siteId": "61301753",
         "Band": "3",
         "longitude": "145.278551",
-        "Name": "Coles Express Croydon"
+        "Name": "Coles Express Croydon",
       },
       {
         "Address": "Derrimut Rd & Hogans Rd",
@@ -3225,7 +3225,7 @@ export const getDecrypted = () => ({
         "siteId": "61301754",
         "Band": "3",
         "longitude": "144.685058",
-        "Name": "EG Ampol Werribee"
+        "Name": "EG Ampol Werribee",
       },
       {
         "Address": "1321 High St",
@@ -3233,7 +3233,7 @@ export const getDecrypted = () => ({
         "siteId": "61301756",
         "Band": "3",
         "longitude": "145.222293",
-        "Name": "Ampol Foodary Wantirna South"
+        "Name": "Ampol Foodary Wantirna South",
       },
       {
         "Address": "47 Gap Road",
@@ -3241,7 +3241,7 @@ export const getDecrypted = () => ({
         "siteId": "61301757",
         "Band": "3",
         "longitude": "144.721524",
-        "Name": "EG Ampol Sunbury (Gap Rd)"
+        "Name": "EG Ampol Sunbury (Gap Rd)",
       },
       {
         "Address": "Mcclelland Dr & Skye Rd",
@@ -3249,7 +3249,7 @@ export const getDecrypted = () => ({
         "siteId": "61301758",
         "Band": "5",
         "longitude": "145.176523",
-        "Name": "EG Ampol Langwarrin - Skye Road"
+        "Name": "EG Ampol Langwarrin - Skye Road",
       },
       {
         "Address": "45 Mcintyre Rd",
@@ -3257,7 +3257,7 @@ export const getDecrypted = () => ({
         "siteId": "61301759",
         "Band": "9",
         "longitude": "144.829085",
-        "Name": "United Sunshine North"
+        "Name": "United Sunshine North",
       },
       {
         "Address": "212 Mahoneys Rd",
@@ -3265,7 +3265,7 @@ export const getDecrypted = () => ({
         "siteId": "61301760",
         "Band": "9",
         "longitude": "144.988736",
-        "Name": "Metro Petroleum Thomastown"
+        "Name": "Metro Petroleum Thomastown",
       },
       {
         "Address": "79 Mitcham Rd",
@@ -3273,7 +3273,7 @@ export const getDecrypted = () => ({
         "siteId": "61301761",
         "Band": "2",
         "longitude": "145.180143",
-        "Name": "7-Eleven Donvale"
+        "Name": "7-Eleven Donvale",
       },
       {
         "Address": "Lot 2 Western Ring Rd",
@@ -3281,7 +3281,7 @@ export const getDecrypted = () => ({
         "siteId": "61301762",
         "Band": "3",
         "longitude": "144.804644",
-        "Name": "7-Eleven Ardeer"
+        "Name": "7-Eleven Ardeer",
       },
       {
         "Address": "Lot 5 Western Ring Rd",
@@ -3289,7 +3289,7 @@ export const getDecrypted = () => ({
         "siteId": "61301763",
         "Band": "3",
         "longitude": "144.809082",
-        "Name": "7-Eleven Ardeer"
+        "Name": "7-Eleven Ardeer",
       },
       {
         "Address": "Hanson St & Craigieburn Rd W",
@@ -3297,7 +3297,7 @@ export const getDecrypted = () => ({
         "siteId": "61301765",
         "Band": "3",
         "longitude": "144.938294",
-        "Name": "Coles Express Craigieburn"
+        "Name": "Coles Express Craigieburn",
       },
       {
         "Address": "945 Pascoe Vale Rd",
@@ -3305,7 +3305,7 @@ export const getDecrypted = () => ({
         "siteId": "61301767",
         "Band": "4",
         "longitude": "144.914819",
-        "Name": "Coles Express Jacana"
+        "Name": "Coles Express Jacana",
       },
       {
         "Address": "42-46 Mcmahons Rd & Cranbourne Rd",
@@ -3313,7 +3313,7 @@ export const getDecrypted = () => ({
         "siteId": "61301768",
         "Band": "3",
         "longitude": "145.135842",
-        "Name": "7-Eleven Frankston"
+        "Name": "7-Eleven Frankston",
       },
       {
         "Address": "159 Springvale Rd & Rosalie",
@@ -3321,7 +3321,7 @@ export const getDecrypted = () => ({
         "siteId": "61301769",
         "Band": "9",
         "longitude": "145.153962",
-        "Name": "Caltex Springvale"
+        "Name": "Caltex Springvale",
       },
       {
         "Address": "Station Rd & Calder Hwy",
@@ -3329,7 +3329,7 @@ export const getDecrypted = () => ({
         "siteId": "61301771",
         "Band": "5",
         "longitude": "144.591485",
-        "Name": "Ampol Foodary Gisborne"
+        "Name": "Ampol Foodary Gisborne",
       },
       {
         "Address": "380 Morris Rd & Sayers Rd",
@@ -3337,7 +3337,7 @@ export const getDecrypted = () => ({
         "siteId": "61301772",
         "Band": "3",
         "longitude": "144.706843",
-        "Name": "7-Eleven Hoppers Crossing"
+        "Name": "7-Eleven Hoppers Crossing",
       },
       {
         "Address": "151-167 Kings Rd & Taylors Rd",
@@ -3345,7 +3345,7 @@ export const getDecrypted = () => ({
         "siteId": "61301773",
         "Band": "5",
         "longitude": "144.781606",
-        "Name": "Ampol Foodary St Albans"
+        "Name": "Ampol Foodary St Albans",
       },
       {
         "Address": "132-136 Somerton Rd",
@@ -3353,7 +3353,7 @@ export const getDecrypted = () => ({
         "siteId": "61301774",
         "Band": "9",
         "longitude": "144.938529",
-        "Name": "Astron Somerton"
+        "Name": "Astron Somerton",
       },
       {
         "Address": "64 Portarlington Rd & Wilsons Rd",
@@ -3361,7 +3361,7 @@ export const getDecrypted = () => ({
         "siteId": "61301778",
         "Band": "9",
         "longitude": "144.393141",
-        "Name": "Apco Newcomb"
+        "Name": "Apco Newcomb",
       },
       {
         "Address": "601 Skipton Street",
@@ -3369,7 +3369,7 @@ export const getDecrypted = () => ({
         "siteId": "61301780",
         "Band": "9",
         "longitude": "143.844659",
-        "Name": "Apco Ballarat"
+        "Name": "Apco Ballarat",
       },
       {
         "Address": "702 Creswick Road",
@@ -3377,7 +3377,7 @@ export const getDecrypted = () => ({
         "siteId": "61301782",
         "Band": "9",
         "longitude": "143.850733",
-        "Name": "BP 2 Go North Ballarat"
+        "Name": "BP 2 Go North Ballarat",
       },
       {
         "Address": "523 Main Road",
@@ -3385,7 +3385,7 @@ export const getDecrypted = () => ({
         "siteId": "61301785",
         "Band": "9",
         "longitude": "143.868531",
-        "Name": "Apco Ballarat"
+        "Name": "Apco Ballarat",
       },
       {
         "Address": "1 Thompson Rd",
@@ -3393,7 +3393,7 @@ export const getDecrypted = () => ({
         "siteId": "61301788",
         "Band": "9",
         "longitude": "145.141103",
-        "Name": "United Patterson Lakes"
+        "Name": "United Patterson Lakes",
       },
       {
         "Address": "220 Tenth St",
@@ -3401,7 +3401,7 @@ export const getDecrypted = () => ({
         "siteId": "61301791",
         "Band": "9",
         "longitude": "142.151751",
-        "Name": "Ampol Depot Mildura"
+        "Name": "Ampol Depot Mildura",
       },
       {
         "Address": "719-721 Fifteenth Street",
@@ -3409,7 +3409,7 @@ export const getDecrypted = () => ({
         "siteId": "61301793",
         "Band": "5",
         "longitude": "142.146484",
-        "Name": "Coles Express Mildura"
+        "Name": "Coles Express Mildura",
       },
       {
         "Address": "7 Saviges Rd",
@@ -3417,7 +3417,7 @@ export const getDecrypted = () => ({
         "siteId": "61301796",
         "Band": "9",
         "longitude": "146.258131",
-        "Name": "Independent Moe"
+        "Name": "Independent Moe",
       },
       {
         "Address": "96 Moore St",
@@ -3425,7 +3425,7 @@ export const getDecrypted = () => ({
         "siteId": "61301797",
         "Band": "9",
         "longitude": "146.262881",
-        "Name": "Liberty Moe"
+        "Name": "Liberty Moe",
       },
       {
         "Address": "134 George St",
@@ -3433,7 +3433,7 @@ export const getDecrypted = () => ({
         "siteId": "61301803",
         "Band": "9",
         "longitude": "146.399506",
-        "Name": "Liberty Morwell"
+        "Name": "Liberty Morwell",
       },
       {
         "Address": "34 Monash Rd",
@@ -3441,7 +3441,7 @@ export const getDecrypted = () => ({
         "siteId": "61301804",
         "Band": "9",
         "longitude": "146.289855",
-        "Name": "Liberty Newborough"
+        "Name": "Liberty Newborough",
       },
       {
         "Address": "6 Shakespeare Street",
@@ -3449,7 +3449,7 @@ export const getDecrypted = () => ({
         "siteId": "61301807",
         "Band": "9",
         "longitude": "146.535326",
-        "Name": "United Traralgon"
+        "Name": "United Traralgon",
       },
       {
         "Address": "355 Thompson Rd",
@@ -3457,7 +3457,7 @@ export const getDecrypted = () => ({
         "siteId": "61301815",
         "Band": "9",
         "longitude": "144.344805",
-        "Name": "Apco Geelong North"
+        "Name": "Apco Geelong North",
       },
       {
         "Address": "298-304 Princes Hwy & Station St",
@@ -3465,7 +3465,7 @@ export const getDecrypted = () => ({
         "siteId": "61301821",
         "Band": "9",
         "longitude": "144.369017",
-        "Name": "BP AA Norlane"
+        "Name": "BP AA Norlane",
       },
       {
         "Address": "468 Melbourne Rd & The Centreway",
@@ -3473,7 +3473,7 @@ export const getDecrypted = () => ({
         "siteId": "61301822",
         "Band": "4",
         "longitude": "144.354733",
-        "Name": "Coles Express Norlane"
+        "Name": "Coles Express Norlane",
       },
       {
         "Address": "Swanston St & Ryrie St",
@@ -3481,7 +3481,7 @@ export const getDecrypted = () => ({
         "siteId": "61301823",
         "Band": "4",
         "longitude": "144.367501",
-        "Name": "7-Eleven Geelong"
+        "Name": "7-Eleven Geelong",
       },
       {
         "Address": "350 Humffray Street North",
@@ -3489,7 +3489,7 @@ export const getDecrypted = () => ({
         "siteId": "61301825",
         "Band": "9",
         "longitude": "143.902551",
-        "Name": "Mobil Brown Hill"
+        "Name": "Mobil Brown Hill",
       },
       {
         "Address": "911 Doveton Street",
@@ -3497,7 +3497,7 @@ export const getDecrypted = () => ({
         "siteId": "61301827",
         "Band": "9",
         "longitude": "143.858644",
-        "Name": "Ballarat Taxis"
+        "Name": "Ballarat Taxis",
       },
       {
         "Address": "Gillies St & Grevilla St",
@@ -3505,7 +3505,7 @@ export const getDecrypted = () => ({
         "siteId": "61301829",
         "Band": "9",
         "longitude": "143.824836",
-        "Name": "United Wendouree"
+        "Name": "United Wendouree",
       },
       {
         "Address": "94-100 Heatherton Rd & Hallam North Rd",
@@ -3513,7 +3513,7 @@ export const getDecrypted = () => ({
         "siteId": "61301835",
         "Band": "9",
         "longitude": "145.279012",
-        "Name": "United Narre Warren Nth"
+        "Name": "United Narre Warren Nth",
       },
       {
         "Address": "51-65 Cheltenham Rd & Greaves",
@@ -3521,7 +3521,7 @@ export const getDecrypted = () => ({
         "siteId": "61301838",
         "Band": "2",
         "longitude": "145.208286",
-        "Name": "Shell Reddy Express Dandenong"
+        "Name": "Shell Reddy Express Dandenong",
       },
       {
         "Address": "183-187 Sladen St",
@@ -3529,7 +3529,7 @@ export const getDecrypted = () => ({
         "siteId": "61301840",
         "Band": "9",
         "longitude": "145.285844",
-        "Name": "United Cranbourne"
+        "Name": "United Cranbourne",
       },
       {
         "Address": "275 Princes Highway",
@@ -3537,7 +3537,7 @@ export const getDecrypted = () => ({
         "siteId": "61301842",
         "Band": "9",
         "longitude": "146.405391",
-        "Name": "United South Morwell"
+        "Name": "United South Morwell",
       },
       {
         "Address": "90 Seventh St & Magnolia",
@@ -3545,7 +3545,7 @@ export const getDecrypted = () => ({
         "siteId": "61301843",
         "Band": "5",
         "longitude": "142.168699",
-        "Name": "Ampol Mildura"
+        "Name": "Ampol Mildura",
       },
       {
         "Address": "1025 -1027 Burwood Hwy & Station St",
@@ -3553,7 +3553,7 @@ export const getDecrypted = () => ({
         "siteId": "61301844",
         "Band": "3",
         "longitude": "145.291909",
-        "Name": "7-Eleven Ferntree Gully"
+        "Name": "7-Eleven Ferntree Gully",
       },
       {
         "Address": "5913 Midland Highway",
@@ -3561,7 +3561,7 @@ export const getDecrypted = () => ({
         "siteId": "61301846",
         "Band": "9",
         "longitude": "145.980795",
-        "Name": "Metro Petroleum Benalla North"
+        "Name": "Metro Petroleum Benalla North",
       },
       {
         "Address": "79 Bridge St West",
@@ -3569,7 +3569,7 @@ export const getDecrypted = () => ({
         "siteId": "61301850",
         "Band": "9",
         "longitude": "145.966654",
-        "Name": "The Gas Garage Benalla"
+        "Name": "The Gas Garage Benalla",
       },
       {
         "Address": "88 Stawell Road",
@@ -3577,7 +3577,7 @@ export const getDecrypted = () => ({
         "siteId": "61301852",
         "Band": "5",
         "longitude": "142.204788",
-        "Name": "Ampol Foodary Horsham"
+        "Name": "Ampol Foodary Horsham",
       },
       {
         "Address": "Northern Hwy",
@@ -3585,7 +3585,7 @@ export const getDecrypted = () => ({
         "siteId": "61301855",
         "Band": "9",
         "longitude": "144.748992",
-        "Name": "Shell Echuca"
+        "Name": "Shell Echuca",
       },
       {
         "Address": "269-275 High St & Cedar St",
@@ -3593,7 +3593,7 @@ export const getDecrypted = () => ({
         "siteId": "61301858",
         "Band": "9",
         "longitude": "144.263028",
-        "Name": "Westside Petroleum Golden Square"
+        "Name": "Westside Petroleum Golden Square",
       },
       {
         "Address": "185 Marong Rd",
@@ -3601,7 +3601,7 @@ export const getDecrypted = () => ({
         "siteId": "61301860",
         "Band": "9",
         "longitude": "144.245476",
-        "Name": "United Bendigo One Stop"
+        "Name": "United Bendigo One Stop",
       },
       {
         "Address": "2E Thistle Street",
@@ -3609,7 +3609,7 @@ export const getDecrypted = () => ({
         "siteId": "61301861",
         "Band": "9",
         "longitude": "144.269975",
-        "Name": "BP OPT Golden Square"
+        "Name": "BP OPT Golden Square",
       },
       {
         "Address": "35-37 Main Road",
@@ -3617,7 +3617,7 @@ export const getDecrypted = () => ({
         "siteId": "61301862",
         "Band": "9",
         "longitude": "144.245547",
-        "Name": "Apco Bendigo"
+        "Name": "Apco Bendigo",
       },
       {
         "Address": "446-450 High St & Oak St",
@@ -3625,7 +3625,7 @@ export const getDecrypted = () => ({
         "siteId": "61301868",
         "Band": "4",
         "longitude": "144.249816",
-        "Name": "Ampol Foodary Golden Square"
+        "Name": "Ampol Foodary Golden Square",
       },
       {
         "Address": "344-350 Raglan Street",
@@ -3633,7 +3633,7 @@ export const getDecrypted = () => ({
         "siteId": "61301869",
         "Band": "9",
         "longitude": "147.091868",
-        "Name": "DSS BP Sale"
+        "Name": "DSS BP Sale",
       },
       {
         "Address": "187 Eaglehawk Rd & Cunnen St",
@@ -3641,7 +3641,7 @@ export const getDecrypted = () => ({
         "siteId": "61301870",
         "Band": "3",
         "longitude": "144.258075",
-        "Name": "BP Long Gully"
+        "Name": "BP Long Gully",
       },
       {
         "Address": "485 Raglan Pde",
@@ -3649,7 +3649,7 @@ export const getDecrypted = () => ({
         "siteId": "61301884",
         "Band": "9",
         "longitude": "142.489839",
-        "Name": "Apco Warrnambool"
+        "Name": "Apco Warrnambool",
       },
       {
         "Address": "122 French St & Railway Pde",
@@ -3657,7 +3657,7 @@ export const getDecrypted = () => ({
         "siteId": "61301888",
         "Band": "9",
         "longitude": "142.028713",
-        "Name": "Mobil Hamilton"
+        "Name": "Mobil Hamilton",
       },
       {
         "Address": "79 Cox St",
@@ -3665,7 +3665,7 @@ export const getDecrypted = () => ({
         "siteId": "61301889",
         "Band": "9",
         "longitude": "142.026837",
-        "Name": "United Hamilton"
+        "Name": "United Hamilton",
       },
       {
         "Address": "35 Port Fairy Rd",
@@ -3673,7 +3673,7 @@ export const getDecrypted = () => ({
         "siteId": "61301890",
         "Band": "9",
         "longitude": "142.009664",
-        "Name": "Ampol Hamilton Depot Front"
+        "Name": "Ampol Hamilton Depot Front",
       },
       {
         "Address": "77 Benalla Road",
@@ -3681,7 +3681,7 @@ export const getDecrypted = () => ({
         "siteId": "61301893",
         "Band": "9",
         "longitude": "145.420486",
-        "Name": "Liberty Shepparton"
+        "Name": "Liberty Shepparton",
       },
       {
         "Address": "8010 Golulburn Valley Highway",
@@ -3689,7 +3689,7 @@ export const getDecrypted = () => ({
         "siteId": "61301894",
         "Band": "9",
         "longitude": "145.393771",
-        "Name": "United Kialla"
+        "Name": "United Kialla",
       },
       {
         "Address": "Cnr Benella Rd & Archer St",
@@ -3697,7 +3697,7 @@ export const getDecrypted = () => ({
         "siteId": "61301895",
         "Band": "4",
         "longitude": "145.41334738525009",
-        "Name": "7-Eleven Shepparton East"
+        "Name": "7-Eleven Shepparton East",
       },
       {
         "Address": "446 Princes Hwy",
@@ -3705,7 +3705,7 @@ export const getDecrypted = () => ({
         "siteId": "61301900",
         "Band": "9",
         "longitude": "144.380131",
-        "Name": "Metro Petroleum Corio"
+        "Name": "Metro Petroleum Corio",
       },
       {
         "Address": "262 Princes Hwy",
@@ -3713,7 +3713,7 @@ export const getDecrypted = () => ({
         "siteId": "61301903",
         "Band": "9",
         "longitude": "144.366304",
-        "Name": "Ampol Corio"
+        "Name": "Ampol Corio",
       },
       {
         "Address": " 262 Princes Hwy Cnr Harpur Rd",
@@ -3721,7 +3721,7 @@ export const getDecrypted = () => ({
         "siteId": "61301904",
         "Band": "4",
         "longitude": "144.365613",
-        "Name": "Ampol Corio"
+        "Name": "Ampol Corio",
       },
       {
         "Address": "402-412 Melbourne Rd & Surrey",
@@ -3729,7 +3729,7 @@ export const getDecrypted = () => ({
         "siteId": "61301907",
         "Band": "4",
         "longitude": "144.354028",
-        "Name": "BP North Geelong"
+        "Name": "BP North Geelong",
       },
       {
         "Address": "247 Melbourne Rd",
@@ -3737,7 +3737,7 @@ export const getDecrypted = () => ({
         "siteId": "61301909",
         "Band": "4",
         "longitude": "144.354209",
-        "Name": "Coles Express Geelong North"
+        "Name": "Coles Express Geelong North",
       },
       {
         "Address": "202-210 Latrobe Tce & Gordon Av",
@@ -3745,7 +3745,7 @@ export const getDecrypted = () => ({
         "siteId": "61301910",
         "Band": "4",
         "longitude": "144.352992",
-        "Name": "Coles Express Latrobe Terrace"
+        "Name": "Coles Express Latrobe Terrace",
       },
       {
         "Address": "367-369 Moorabool St & Verner St",
@@ -3753,7 +3753,7 @@ export const getDecrypted = () => ({
         "siteId": "61301912",
         "Band": "9",
         "longitude": "144.355923",
-        "Name": "Apco Geelong South"
+        "Name": "Apco Geelong South",
       },
       {
         "Address": "57 Ormond Rd & Mckillop St",
@@ -3761,7 +3761,7 @@ export const getDecrypted = () => ({
         "siteId": "61301915",
         "Band": "9",
         "longitude": "144.375296",
-        "Name": "Apco Geelong East"
+        "Name": "Apco Geelong East",
       },
       {
         "Address": " Cnr Shannan Av & Aberden St",
@@ -3769,7 +3769,7 @@ export const getDecrypted = () => ({
         "siteId": "61301918",
         "Band": "9",
         "longitude": "144.335394",
-        "Name": "United Manifold Heights"
+        "Name": "United Manifold Heights",
       },
       {
         "Address": "694 Bellarine Hwy",
@@ -3777,7 +3777,7 @@ export const getDecrypted = () => ({
         "siteId": "61301921",
         "Band": "4",
         "longitude": "144.457918",
-        "Name": "BP Leopold"
+        "Name": "BP Leopold",
       },
       {
         "Address": "806 - 812 Bellarine Highway",
@@ -3785,7 +3785,7 @@ export const getDecrypted = () => ({
         "siteId": "61301922",
         "Band": "9",
         "longitude": "144.470811",
-        "Name": "Mobil Leopold"
+        "Name": "Mobil Leopold",
       },
       {
         "Address": " Cnr Portarlington Rd and Moon St",
@@ -3793,7 +3793,7 @@ export const getDecrypted = () => ({
         "siteId": "61301923",
         "Band": "4",
         "longitude": "144.413508",
-        "Name": "Coles Express Moolap"
+        "Name": "Coles Express Moolap",
       },
       {
         "Address": "Princes",
@@ -3801,7 +3801,7 @@ export const getDecrypted = () => ({
         "siteId": "61301929",
         "Band": "9",
         "longitude": "144.307768",
-        "Name": "Shell Grovedale"
+        "Name": "Shell Grovedale",
       },
       {
         "Address": "19-21 Settlement Rd",
@@ -3809,7 +3809,7 @@ export const getDecrypted = () => ({
         "siteId": "61301930",
         "Band": "4",
         "longitude": "144.351541",
-        "Name": "7-Eleven Belmont"
+        "Name": "7-Eleven Belmont",
       },
       {
         "Address": "3-9 Settlement Rd",
@@ -3817,7 +3817,7 @@ export const getDecrypted = () => ({
         "siteId": "61301931",
         "Band": "4",
         "longitude": "144.352015",
-        "Name": "Coles Express Belmont (Vic)"
+        "Name": "Coles Express Belmont (Vic)",
       },
       {
         "Address": "12 Barrabool Rd & Mt Pleasant Rd",
@@ -3825,7 +3825,7 @@ export const getDecrypted = () => ({
         "siteId": "61301939",
         "Band": "4",
         "longitude": "144.327364",
-        "Name": "Coles Express Highton"
+        "Name": "Coles Express Highton",
       },
       {
         "Address": "450 Moorabool St & Park Cres",
@@ -3833,7 +3833,7 @@ export const getDecrypted = () => ({
         "siteId": "61301940",
         "Band": "4",
         "longitude": "144.354158",
-        "Name": "Coles Express Geelong"
+        "Name": "Coles Express Geelong",
       },
       {
         "Address": "Bacchus Marsh Rd & Purnell Rd",
@@ -3841,7 +3841,7 @@ export const getDecrypted = () => ({
         "siteId": "61301951",
         "Band": "4",
         "longitude": "144.358076",
-        "Name": "7-Eleven Corio"
+        "Name": "7-Eleven Corio",
       },
       {
         "Address": "160-164 Bacchus Marsh Rd & Teleta Cr",
@@ -3849,7 +3849,7 @@ export const getDecrypted = () => ({
         "siteId": "61301952",
         "Band": "9",
         "longitude": "144.359088",
-        "Name": "United Corio"
+        "Name": "United Corio",
       },
       {
         "Address": "Victoria St & Thompson Rd",
@@ -3857,7 +3857,7 @@ export const getDecrypted = () => ({
         "siteId": "61301958",
         "Band": "3",
         "longitude": "144.341393",
-        "Name": "EG Ampol Geelong North"
+        "Name": "EG Ampol Geelong North",
       },
       {
         "Address": "1 Forest Rd South & Station Lake",
@@ -3865,7 +3865,7 @@ export const getDecrypted = () => ({
         "siteId": "61301960",
         "Band": "9",
         "longitude": "144.396749",
-        "Name": "Shell Riordan Fuels Lara"
+        "Name": "Shell Riordan Fuels Lara",
       },
       {
         "Address": "350-360 Thompson Rd",
@@ -3873,7 +3873,7 @@ export const getDecrypted = () => ({
         "siteId": "61301962",
         "Band": "3",
         "longitude": "144.345459",
-        "Name": "Ampol Geelong North"
+        "Name": "Ampol Geelong North",
       },
       {
         "Address": "168 Torquay & Marshall Town",
@@ -3881,7 +3881,7 @@ export const getDecrypted = () => ({
         "siteId": "61301966",
         "Band": "4",
         "longitude": "144.342696",
-        "Name": "Ampol Grovedale"
+        "Name": "Ampol Grovedale",
       },
       {
         "Address": "134 Torquay Rd",
@@ -3889,7 +3889,7 @@ export const getDecrypted = () => ({
         "siteId": "61301967",
         "Band": "4",
         "longitude": "144.343187",
-        "Name": "BP Grovedale"
+        "Name": "BP Grovedale",
       },
       {
         "Address": "361 Geelong Portarlington Rd",
@@ -3897,7 +3897,7 @@ export const getDecrypted = () => ({
         "siteId": "61301968",
         "Band": "9",
         "longitude": "144.425498",
-        "Name": "BP East Geelong"
+        "Name": "BP East Geelong",
       },
       {
         "Address": "189 Bellarine Hwy",
@@ -3905,7 +3905,7 @@ export const getDecrypted = () => ({
         "siteId": "61301975",
         "Band": "4",
         "longitude": "144.404704",
-        "Name": "Ampol Foodary Newcomb"
+        "Name": "Ampol Foodary Newcomb",
       },
       {
         "Address": "325 Latrobe Tce & Kilgour Ctr",
@@ -3913,7 +3913,7 @@ export const getDecrypted = () => ({
         "siteId": "61301976",
         "Band": "4",
         "longitude": "144.351751",
-        "Name": "7-Eleven Geelong South"
+        "Name": "7-Eleven Geelong South",
       },
       {
         "Address": "106 Banalla Road",
@@ -3921,7 +3921,7 @@ export const getDecrypted = () => ({
         "siteId": "61301978",
         "Band": "4",
         "longitude": "145.423751",
-        "Name": "EG Ampol Shepparton East"
+        "Name": "EG Ampol Shepparton East",
       },
       {
         "Address": "Pearce & Thomas Mitchell Dri",
@@ -3929,7 +3929,7 @@ export const getDecrypted = () => ({
         "siteId": "61301983",
         "Band": "3",
         "longitude": "146.904581",
-        "Name": "Ampol Foodary Wodonga Riverina"
+        "Name": "Ampol Foodary Wodonga Riverina",
       },
       {
         "Address": "Fifteenth St",
@@ -3937,7 +3937,7 @@ export const getDecrypted = () => ({
         "siteId": "61301987",
         "Band": "9",
         "longitude": "142.150381",
-        "Name": "United Mildura"
+        "Name": "United Mildura",
       },
       {
         "Address": "1601-1605 Sturt Street",
@@ -3945,7 +3945,7 @@ export const getDecrypted = () => ({
         "siteId": "61301989",
         "Band": "2",
         "longitude": "143.818312",
-        "Name": "7-Eleven Alfredton"
+        "Name": "7-Eleven Alfredton",
       },
       {
         "Address": "Raglan Street",
@@ -3953,7 +3953,7 @@ export const getDecrypted = () => ({
         "siteId": "61301991",
         "Band": "9",
         "longitude": "147.068334",
-        "Name": "United Central Sale"
+        "Name": "United Central Sale",
       },
       {
         "Address": "York Street",
@@ -3961,7 +3961,7 @@ export const getDecrypted = () => ({
         "siteId": "61301992",
         "Band": "9",
         "longitude": "147.067908",
-        "Name": "Carmody Petroleum Sale"
+        "Name": "Carmody Petroleum Sale",
       },
       {
         "Address": "57 Main St",
@@ -3969,7 +3969,7 @@ export const getDecrypted = () => ({
         "siteId": "61301993",
         "Band": "9",
         "longitude": "147.635008",
-        "Name": "Mobil Bairnsdale"
+        "Name": "Mobil Bairnsdale",
       },
       {
         "Address": "75 Greta Rd",
@@ -3977,7 +3977,7 @@ export const getDecrypted = () => ({
         "siteId": "61301998",
         "Band": "9",
         "longitude": "146.313593",
-        "Name": "BP Wangaratta"
+        "Name": "BP Wangaratta",
       },
       {
         "Address": "191 High St & Johnston St",
@@ -3985,7 +3985,7 @@ export const getDecrypted = () => ({
         "siteId": "61302001",
         "Band": "3",
         "longitude": "145.076348",
-        "Name": "Coles Express Ashburton"
+        "Name": "Coles Express Ashburton",
       },
       {
         "Address": "Hoddle St & Truro St",
@@ -3993,7 +3993,7 @@ export const getDecrypted = () => ({
         "siteId": "61302003",
         "Band": "3",
         "longitude": "144.993628",
-        "Name": "Coles Express Abbotsford"
+        "Name": "Coles Express Abbotsford",
       },
       {
         "Address": "36 Hoddle St & Greenwood St",
@@ -4001,7 +4001,7 @@ export const getDecrypted = () => ({
         "siteId": "61302005",
         "Band": "3",
         "longitude": "144.991962",
-        "Name": "Ampol Foodary Abbotsford"
+        "Name": "Ampol Foodary Abbotsford",
       },
       {
         "Address": "1181 Hoddle St & Gipps Street",
@@ -4009,7 +4009,7 @@ export const getDecrypted = () => ({
         "siteId": "61302006",
         "Band": "3",
         "longitude": "144.990592",
-        "Name": "Coles Express East Melbourne"
+        "Name": "Coles Express East Melbourne",
       },
       {
         "Address": "244 Nicholson St & Johnston",
@@ -4017,7 +4017,7 @@ export const getDecrypted = () => ({
         "siteId": "61302010",
         "Band": "3",
         "longitude": "144.975182",
-        "Name": "7-Eleven Fitzroy"
+        "Name": "7-Eleven Fitzroy",
       },
       {
         "Address": "143-153 Johnston St & Young",
@@ -4025,7 +4025,7 @@ export const getDecrypted = () => ({
         "siteId": "61302011",
         "Band": "9",
         "longitude": "144.979813",
-        "Name": "BP AA Fitzroy"
+        "Name": "BP AA Fitzroy",
       },
       {
         "Address": "Highbury Rd & Montpellier Rd",
@@ -4033,7 +4033,7 @@ export const getDecrypted = () => ({
         "siteId": "61302018",
         "Band": "9",
         "longitude": "145.107953",
-        "Name": "Better Choice  Ashwood"
+        "Name": "Better Choice  Ashwood",
       },
       {
         "Address": "Whitehorse Rd & Iramoo St",
@@ -4041,7 +4041,7 @@ export const getDecrypted = () => ({
         "siteId": "61302024",
         "Band": "3",
         "longitude": "145.085685",
-        "Name": "Coles Express Balwyn"
+        "Name": "Coles Express Balwyn",
       },
       {
         "Address": "99 Balwyn Rd",
@@ -4049,7 +4049,7 @@ export const getDecrypted = () => ({
         "siteId": "61302026",
         "Band": "9",
         "longitude": "145.081102",
-        "Name": "United Balwyn"
+        "Name": "United Balwyn",
       },
       {
         "Address": "192 Whitehorse Rd & Jersey St",
@@ -4057,7 +4057,7 @@ export const getDecrypted = () => ({
         "siteId": "61302027",
         "Band": "3",
         "longitude": "145.076579",
-        "Name": "EG Ampol Balwyn"
+        "Name": "EG Ampol Balwyn",
       },
       {
         "Address": "Canterbury Rd & Dorset Rd",
@@ -4065,7 +4065,7 @@ export const getDecrypted = () => ({
         "siteId": "61302032",
         "Band": "3",
         "longitude": "145.288398",
-        "Name": "Coles Express Bayswater"
+        "Name": "Coles Express Bayswater",
       },
       {
         "Address": "362-366 Bayswater Rd & Elmhurst Rd",
@@ -4073,7 +4073,7 @@ export const getDecrypted = () => ({
         "siteId": "61302034",
         "Band": "9",
         "longitude": "145.270323",
-        "Name": "BP AA Bayswater"
+        "Name": "BP AA Bayswater",
       },
       {
         "Address": "North Canterbury Rd & Gatwick Rd",
@@ -4081,7 +4081,7 @@ export const getDecrypted = () => ({
         "siteId": "61302036",
         "Band": "3",
         "longitude": "145.295878",
-        "Name": "Ampol Foodary Kilsyth"
+        "Name": "Ampol Foodary Kilsyth",
       },
       {
         "Address": "762 Mountain Hwy",
@@ -4089,7 +4089,7 @@ export const getDecrypted = () => ({
         "siteId": "61302040",
         "Band": "3",
         "longitude": "145.268157",
-        "Name": "Shell Reddy Express Mountain Highway"
+        "Name": "Shell Reddy Express Mountain Highway",
       },
       {
         "Address": "Scoresby Rd & Station St",
@@ -4097,7 +4097,7 @@ export const getDecrypted = () => ({
         "siteId": "61302042",
         "Band": "3",
         "longitude": "145.270005",
-        "Name": "7-Eleven Bayswater"
+        "Name": "7-Eleven Bayswater",
       },
       {
         "Address": "Mountain Hwy & Dorset Rd",
@@ -4105,7 +4105,7 @@ export const getDecrypted = () => ({
         "siteId": "61302043",
         "Band": "3",
         "longitude": "145.286349",
-        "Name": "7-Eleven Bayswater East"
+        "Name": "7-Eleven Bayswater East",
       },
       {
         "Address": "728 Malvern Rd & Orrong Rd",
@@ -4113,7 +4113,7 @@ export const getDecrypted = () => ({
         "siteId": "61302044",
         "Band": "3",
         "longitude": "145.011743",
-        "Name": "7-Eleven Prahran East"
+        "Name": "7-Eleven Prahran East",
       },
       {
         "Address": "382 Canterbury Road",
@@ -4121,7 +4121,7 @@ export const getDecrypted = () => ({
         "siteId": "61302045",
         "Band": "9",
         "longitude": "145.261152",
-        "Name": "BP Heathmont"
+        "Name": "BP Heathmont",
       },
       {
         "Address": "3 Whitehorse Road, Middleborough Rd",
@@ -4129,7 +4129,7 @@ export const getDecrypted = () => ({
         "siteId": "61302047",
         "Band": "5",
         "longitude": "145.138875",
-        "Name": "Shell Reddy Express Blackburn"
+        "Name": "Shell Reddy Express Blackburn",
       },
       {
         "Address": "512 Middleborough Rd",
@@ -4137,7 +4137,7 @@ export const getDecrypted = () => ({
         "siteId": "61302054",
         "Band": "3",
         "longitude": "145.140947",
-        "Name": "Coles Express Blackburn North"
+        "Name": "Coles Express Blackburn North",
       },
       {
         "Address": "Springfield Rd & Williams Rd",
@@ -4145,7 +4145,7 @@ export const getDecrypted = () => ({
         "siteId": "61302056",
         "Band": "3",
         "longitude": "145.151764",
-        "Name": "7-Eleven Blackburn North"
+        "Name": "7-Eleven Blackburn North",
       },
       {
         "Address": "Canterbury Rd & Middleborough Rd",
@@ -4153,7 +4153,7 @@ export const getDecrypted = () => ({
         "siteId": "61302058",
         "Band": "3",
         "longitude": "145.136836",
-        "Name": "7-Eleven Blackburn South"
+        "Name": "7-Eleven Blackburn South",
       },
       {
         "Address": "Middleborough Rd & Fulton Rd",
@@ -4161,7 +4161,7 @@ export const getDecrypted = () => ({
         "siteId": "61302060",
         "Band": "9",
         "longitude": "145.134873",
-        "Name": "Astron Blackburn South"
+        "Name": "Astron Blackburn South",
       },
       {
         "Address": "138  Belgrave-Hallam Road",
@@ -4169,7 +4169,7 @@ export const getDecrypted = () => ({
         "siteId": "61302064",
         "Band": "4",
         "longitude": "145.358807",
-        "Name": "Ampol Belgrave South"
+        "Name": "Ampol Belgrave South",
       },
       {
         "Address": "286 Boronia Rd & Scoresby Rd",
@@ -4177,7 +4177,7 @@ export const getDecrypted = () => ({
         "siteId": "61302071",
         "Band": "9",
         "longitude": "145.266619",
-        "Name": "Shell Boronia"
+        "Name": "Shell Boronia",
       },
       {
         "Address": "217 Burwood Hwy",
@@ -4185,7 +4185,7 @@ export const getDecrypted = () => ({
         "siteId": "61302073",
         "Band": "9",
         "longitude": "145.151687",
-        "Name": "BP AA Burwood East"
+        "Name": "BP AA Burwood East",
       },
       {
         "Address": "208-212 Bulleen Rd & Manningham Rd",
@@ -4193,7 +4193,7 @@ export const getDecrypted = () => ({
         "siteId": "61302079",
         "Band": "9",
         "longitude": "145.083384",
-        "Name": "United Bulleen"
+        "Name": "United Bulleen",
       },
       {
         "Address": "891 Canterbury Rd & Station St",
@@ -4201,7 +4201,7 @@ export const getDecrypted = () => ({
         "siteId": "61302086",
         "Band": "9",
         "longitude": "145.122389",
-        "Name": "BP AA Box Hill South"
+        "Name": "BP AA Box Hill South",
       },
       {
         "Address": "786 Whitehorse Rd & Elgar Rd",
@@ -4209,7 +4209,7 @@ export const getDecrypted = () => ({
         "siteId": "61302092",
         "Band": "3",
         "longitude": "145.114507",
-        "Name": "7-Eleven Box Hill"
+        "Name": "7-Eleven Box Hill",
       },
       {
         "Address": "292 Station St & Riversdale Rd",
@@ -4217,7 +4217,7 @@ export const getDecrypted = () => ({
         "siteId": "61302096",
         "Band": "9",
         "longitude": "145.120418",
-        "Name": "Linden Auto Box Hill South"
+        "Name": "Linden Auto Box Hill South",
       },
       {
         "Address": "591 Dorset Rd",
@@ -4225,7 +4225,7 @@ export const getDecrypted = () => ({
         "siteId": "61302099",
         "Band": "3",
         "longitude": "145.288084",
-        "Name": "EG Ampol Bayswater North"
+        "Name": "EG Ampol Bayswater North",
       },
       {
         "Address": "716-720 Warrigal Rd & Midlothian St",
@@ -4233,7 +4233,7 @@ export const getDecrypted = () => ({
         "siteId": "61302106",
         "Band": "9",
         "longitude": "145.089661",
-        "Name": "BP AA Chadstone"
+        "Name": "BP AA Chadstone",
       },
       {
         "Address": "2 Waverley Rd & Warrigal Rd",
@@ -4241,7 +4241,7 @@ export const getDecrypted = () => ({
         "siteId": "61302107",
         "Band": "4",
         "longitude": "145.091029",
-        "Name": "Ampol Foodary Chadstone"
+        "Name": "Ampol Foodary Chadstone",
       },
       {
         "Address": "609 Waverley Rd & Batesford Rd",
@@ -4249,7 +4249,7 @@ export const getDecrypted = () => ({
         "siteId": "61302110",
         "Band": "4",
         "longitude": "145.085969",
-        "Name": "7-Eleven Chadstone"
+        "Name": "7-Eleven Chadstone",
       },
       {
         "Address": "91 Porter St",
@@ -4257,7 +4257,7 @@ export const getDecrypted = () => ({
         "siteId": "61302119",
         "Band": "3",
         "longitude": "145.134565",
-        "Name": "Coles Express Templestowe"
+        "Name": "Coles Express Templestowe",
       },
       {
         "Address": "Warrigal Rd & Douglas St",
@@ -4265,7 +4265,7 @@ export const getDecrypted = () => ({
         "siteId": "61302120",
         "Band": "4",
         "longitude": "145.093468",
-        "Name": "7-Eleven Ashwood"
+        "Name": "7-Eleven Ashwood",
       },
       {
         "Address": "73 Camberwell Rd & Mayston St",
@@ -4273,7 +4273,7 @@ export const getDecrypted = () => ({
         "siteId": "61302122",
         "Band": "3",
         "longitude": "145.051604",
-        "Name": "Ampol Foodary Hawthorn"
+        "Name": "Ampol Foodary Hawthorn",
       },
       {
         "Address": "Burke Rd & Victoria Rd",
@@ -4281,7 +4281,7 @@ export const getDecrypted = () => ({
         "siteId": "61302127",
         "Band": "3",
         "longitude": "145.058273",
-        "Name": "Coles Express Camberwell"
+        "Name": "Coles Express Camberwell",
       },
       {
         "Address": "244 Mt Dandenong Rd",
@@ -4289,7 +4289,7 @@ export const getDecrypted = () => ({
         "siteId": "61302129",
         "Band": "9",
         "longitude": "145.284071",
-        "Name": "BP AA Croydon"
+        "Name": "BP AA Croydon",
       },
       {
         "Address": "342 Dorset Road",
@@ -4297,7 +4297,7 @@ export const getDecrypted = () => ({
         "siteId": "61302132",
         "Band": "9",
         "longitude": "145.288855",
-        "Name": "Astron Croydon"
+        "Name": "Astron Croydon",
       },
       {
         "Address": "Manningham Rd & High St",
@@ -4305,7 +4305,7 @@ export const getDecrypted = () => ({
         "siteId": "61302145",
         "Band": "3",
         "longitude": "145.113282",
-        "Name": "Coles Express Koonung"
+        "Name": "Coles Express Koonung",
       },
       {
         "Address": "Blackburn Rd & Reynolds Rd",
@@ -4313,7 +4313,7 @@ export const getDecrypted = () => ({
         "siteId": "61302146",
         "Band": "2",
         "longitude": "145.166798",
-        "Name": "Coles Express Doncaster East"
+        "Name": "Coles Express Doncaster East",
       },
       {
         "Address": "987 Doncaster Rd",
@@ -4321,7 +4321,7 @@ export const getDecrypted = () => ({
         "siteId": "61302148",
         "Band": "2",
         "longitude": "145.158745",
-        "Name": "EG Ampol Doncaster"
+        "Name": "EG Ampol Doncaster",
       },
       {
         "Address": "880 Doncaster Rd & Elizabeth St",
@@ -4329,7 +4329,7 @@ export const getDecrypted = () => ({
         "siteId": "61302150",
         "Band": "9",
         "longitude": "145.146458",
-        "Name": "BP AA Doncaster"
+        "Name": "BP AA Doncaster",
       },
       {
         "Address": "477-483 Dorset Rd & Longstaff Rd",
@@ -4337,7 +4337,7 @@ export const getDecrypted = () => ({
         "siteId": "61302155",
         "Band": "9",
         "longitude": "145.286708",
-        "Name": "BP Dorset Rd"
+        "Name": "BP Dorset Rd",
       },
       {
         "Address": "314 Glen Eira Rd & Bayview",
@@ -4345,7 +4345,7 @@ export const getDecrypted = () => ({
         "siteId": "61302163",
         "Band": "4",
         "longitude": "145.012525",
-        "Name": "7-Eleven North Elsternwick"
+        "Name": "7-Eleven North Elsternwick",
       },
       {
         "Address": "Maroondah Hwy & Old Melbourne Rd",
@@ -4353,7 +4353,7 @@ export const getDecrypted = () => ({
         "siteId": "61302168",
         "Band": "9",
         "longitude": "145.304758",
-        "Name": "BP Chirnside Park"
+        "Name": "BP Chirnside Park",
       },
       {
         "Address": "335 Dorset Rd",
@@ -4361,7 +4361,7 @@ export const getDecrypted = () => ({
         "siteId": "61302169",
         "Band": "3",
         "longitude": "145.289678",
-        "Name": "7-Eleven Croydon"
+        "Name": "7-Eleven Croydon",
       },
       {
         "Address": "254-300 Canterbury Rd & Bayswater Rd",
@@ -4369,7 +4369,7 @@ export const getDecrypted = () => ({
         "siteId": "61302171",
         "Band": "3",
         "longitude": "145.271069",
-        "Name": "7-Eleven Bayswater"
+        "Name": "7-Eleven Bayswater",
       },
       {
         "Address": "1155 Raglan Pde",
@@ -4377,7 +4377,7 @@ export const getDecrypted = () => ({
         "siteId": "61302172",
         "Band": "5",
         "longitude": "142.458138",
-        "Name": "Ampol Warrnambool West"
+        "Name": "Ampol Warrnambool West",
       },
       {
         "Address": "Power Rd & Heatherton Rd",
@@ -4385,7 +4385,7 @@ export const getDecrypted = () => ({
         "siteId": "61302175",
         "Band": "2",
         "longitude": "145.242763",
-        "Name": "7-Eleven Endeavour Hills"
+        "Name": "7-Eleven Endeavour Hills",
       },
       {
         "Address": "325 Ballarto Rd",
@@ -4393,7 +4393,7 @@ export const getDecrypted = () => ({
         "siteId": "61302176",
         "Band": "3",
         "longitude": "145.192985",
-        "Name": "Coles Express Carrum Downs"
+        "Name": "Coles Express Carrum Downs",
       },
       {
         "Address": "117-123 New Dookie Rd",
@@ -4401,7 +4401,7 @@ export const getDecrypted = () => ({
         "siteId": "61302177",
         "Band": "4",
         "longitude": "145.428553",
-        "Name": "Ampol Foodary New Dookie Rd Shepparton Diesel Stop"
+        "Name": "Ampol Foodary New Dookie Rd Shepparton Diesel Stop",
       },
       {
         "Address": "177 Lawrence St",
@@ -4409,7 +4409,7 @@ export const getDecrypted = () => ({
         "siteId": "61302180",
         "Band": "9",
         "longitude": "146.88898003191184",
-        "Name": "Pearl Energy Wodonga"
+        "Name": "Pearl Energy Wodonga",
       },
       {
         "Address": "Geelong Rd & Morris Rd",
@@ -4417,7 +4417,7 @@ export const getDecrypted = () => ({
         "siteId": "61302181",
         "Band": "4",
         "longitude": "144.704304",
-        "Name": "EG Ampol Hoppers Crossing"
+        "Name": "EG Ampol Hoppers Crossing",
       },
       {
         "Address": "Walls Rd And Bulban Rd",
@@ -4425,7 +4425,7 @@ export const getDecrypted = () => ({
         "siteId": "61302182",
         "Band": "9",
         "longitude": "144.636397",
-        "Name": "BP Werribee"
+        "Name": "BP Werribee",
       },
       {
         "Address": "922-924 Raglan Parade",
@@ -4433,7 +4433,7 @@ export const getDecrypted = () => ({
         "siteId": "61302184",
         "Band": "5",
         "longitude": "142.469212",
-        "Name": "BP One Stop"
+        "Name": "BP One Stop",
       },
       {
         "Address": "47 Forest Rdm & Underwood Rd",
@@ -4441,7 +4441,7 @@ export const getDecrypted = () => ({
         "siteId": "61302185",
         "Band": "9",
         "longitude": "145.296716",
-        "Name": "Apollo Fuel Ferntree Gully"
+        "Name": "Apollo Fuel Ferntree Gully",
       },
       {
         "Address": "962 Burwood Hwy & Kevin Av",
@@ -4449,7 +4449,7 @@ export const getDecrypted = () => ({
         "siteId": "61302189",
         "Band": "9",
         "longitude": "145.284975",
-        "Name": "Pacific Fuels Ferntree Gully"
+        "Name": "Pacific Fuels Ferntree Gully",
       },
       {
         "Address": "1140 Burwood Hwy",
@@ -4457,7 +4457,7 @@ export const getDecrypted = () => ({
         "siteId": "61302192",
         "Band": "3",
         "longitude": "145.300176",
-        "Name": "Shell Reddy Express Ferntree Gully"
+        "Name": "Shell Reddy Express Ferntree Gully",
       },
       {
         "Address": "855 Burwood Hwy & Commercial Rd",
@@ -4465,7 +4465,7 @@ export const getDecrypted = () => ({
         "siteId": "61302193",
         "Band": "9",
         "longitude": "145.278241",
-        "Name": "BP AA Ferntree Gully"
+        "Name": "BP AA Ferntree Gully",
       },
       {
         "Address": "260 Canterbury Rd & Glebe St",
@@ -4473,7 +4473,7 @@ export const getDecrypted = () => ({
         "siteId": "61302201",
         "Band": "3",
         "longitude": "145.163812",
-        "Name": "Shell Reddy Express  Forest Hill Chase"
+        "Name": "Shell Reddy Express  Forest Hill Chase",
       },
       {
         "Address": "399 Springvale Rd",
@@ -4481,7 +4481,7 @@ export const getDecrypted = () => ({
         "siteId": "61302202",
         "Band": "3",
         "longitude": "145.17189756564139",
-        "Name": "Shell Reddy Express  Forest Hill"
+        "Name": "Shell Reddy Express  Forest Hill",
       },
       {
         "Address": "Heaths Rd And Greaves St",
@@ -4489,7 +4489,7 @@ export const getDecrypted = () => ({
         "siteId": "61302203",
         "Band": "9",
         "longitude": "144.639954",
-        "Name": "Better Choice Werribee"
+        "Name": "Better Choice Werribee",
       },
       {
         "Address": "152-160 Dynon Rd & Lloyd",
@@ -4497,7 +4497,7 @@ export const getDecrypted = () => ({
         "siteId": "61302204",
         "Band": "9",
         "longitude": "144.929949",
-        "Name": "United Kensington"
+        "Name": "United Kensington",
       },
       {
         "Address": "Fitzgerald Rd & The Avenue",
@@ -4505,7 +4505,7 @@ export const getDecrypted = () => ({
         "siteId": "61302205",
         "Band": "3",
         "longitude": "144.790105",
-        "Name": "Coles Express Ardeer"
+        "Name": "Coles Express Ardeer",
       },
       {
         "Address": "641-643 Centre Rd",
@@ -4513,7 +4513,7 @@ export const getDecrypted = () => ({
         "siteId": "61302206",
         "Band": "9",
         "longitude": "145.052299",
-        "Name": "United East Bentleigh"
+        "Name": "United East Bentleigh",
       },
       {
         "Address": "Cnr. Wellington & Napolean Rds",
@@ -4521,7 +4521,7 @@ export const getDecrypted = () => ({
         "siteId": "61302207",
         "Band": "3",
         "longitude": "145.26615518650817",
-        "Name": "Shell Reddy Express Rowville"
+        "Name": "Shell Reddy Express Rowville",
       },
       {
         "Address": "270 Canterbury St & Glebe St",
@@ -4529,7 +4529,7 @@ export const getDecrypted = () => ({
         "siteId": "61302208",
         "Band": "3",
         "longitude": "145.163871",
-        "Name": "EG Ampol Forest Hills"
+        "Name": "EG Ampol Forest Hills",
       },
       {
         "Address": "Lot 1/3 Cameron St & South Gippsland Hwy",
@@ -4537,7 +4537,7 @@ export const getDecrypted = () => ({
         "siteId": "61302210",
         "Band": "9",
         "longitude": "145.288445",
-        "Name": "United Cranbourne South"
+        "Name": "United Cranbourne South",
       },
       {
         "Address": "44-56 High St",
@@ -4545,7 +4545,7 @@ export const getDecrypted = () => ({
         "siteId": "61302211",
         "Band": "9",
         "longitude": "145.066201",
-        "Name": "BP AA Glen Iris"
+        "Name": "BP AA Glen Iris",
       },
       {
         "Address": "622-626 Blackburn Rd",
@@ -4553,7 +4553,7 @@ export const getDecrypted = () => ({
         "siteId": "61302215",
         "Band": "4",
         "longitude": "145.143735",
-        "Name": "Ampol Foodary Mount Waverley"
+        "Name": "Ampol Foodary Mount Waverley",
       },
       {
         "Address": "Blackburn Rd & Waverley Rd",
@@ -4561,7 +4561,7 @@ export const getDecrypted = () => ({
         "siteId": "61302216",
         "Band": "4",
         "longitude": "145.146025",
-        "Name": "7-Eleven Glen Waverley"
+        "Name": "7-Eleven Glen Waverley",
       },
       {
         "Address": "Highbury Rd & Blackburn Rd",
@@ -4569,7 +4569,7 @@ export const getDecrypted = () => ({
         "siteId": "61302218",
         "Band": "3",
         "longitude": "145.150834",
-        "Name": "BP Tally Ho"
+        "Name": "BP Tally Ho",
       },
       {
         "Address": "Springvale Rd & Ferntree Gully Rd",
@@ -4577,7 +4577,7 @@ export const getDecrypted = () => ({
         "siteId": "61302219",
         "Band": "4",
         "longitude": "145.162229",
-        "Name": "Shell Reddy Express Brandon Park"
+        "Name": "Shell Reddy Express Brandon Park",
       },
       {
         "Address": "886 High St Rd & Gallaghers Rd",
@@ -4585,7 +4585,7 @@ export const getDecrypted = () => ({
         "siteId": "61302220",
         "Band": "9",
         "longitude": "145.178388",
-        "Name": "Shell Glen Waverley"
+        "Name": "Shell Glen Waverley",
       },
       {
         "Address": "100 Sunshine Av & Malcome Ctr",
@@ -4593,7 +4593,7 @@ export const getDecrypted = () => ({
         "siteId": "61302222",
         "Band": "3",
         "longitude": "144.826052",
-        "Name": "Coles Express Kealba"
+        "Name": "Coles Express Kealba",
       },
       {
         "Address": "726-730 Waverley Rd & Springvale Rd",
@@ -4601,7 +4601,7 @@ export const getDecrypted = () => ({
         "siteId": "61302224",
         "Band": "4",
         "longitude": "145.164672",
-        "Name": "7-Eleven Glen Waverley"
+        "Name": "7-Eleven Glen Waverley",
       },
       {
         "Address": "252 Springvale Rd",
@@ -4609,7 +4609,7 @@ export const getDecrypted = () => ({
         "siteId": "61302225",
         "Band": "4",
         "longitude": "145.165981",
-        "Name": "Ampol Foodary Glen Waverley"
+        "Name": "Ampol Foodary Glen Waverley",
       },
       {
         "Address": "1038 Burwood Hwy",
@@ -4617,7 +4617,7 @@ export const getDecrypted = () => ({
         "siteId": "61302228",
         "Band": "3",
         "longitude": "145.292696",
-        "Name": "EG Ampol Ferntree Gully"
+        "Name": "EG Ampol Ferntree Gully",
       },
       {
         "Address": "182 Stud Rd",
@@ -4625,7 +4625,7 @@ export const getDecrypted = () => ({
         "siteId": "61302229",
         "Band": "9",
         "longitude": "145.224365",
-        "Name": "Liberty Dandenong"
+        "Name": "Liberty Dandenong",
       },
       {
         "Address": "1-7 Ormond Rd & Hallam Rd",
@@ -4633,7 +4633,7 @@ export const getDecrypted = () => ({
         "siteId": "61302230",
         "Band": "4",
         "longitude": "145.265229",
-        "Name": "BP Hallam Road"
+        "Name": "BP Hallam Road",
       },
       {
         "Address": "1001-1007 Western Hwy",
@@ -4641,7 +4641,7 @@ export const getDecrypted = () => ({
         "siteId": "61302231",
         "Band": "9",
         "longitude": "144.752555",
-        "Name": "BP AA Deer Park"
+        "Name": "BP AA Deer Park",
       },
       {
         "Address": "Church St & Pine St",
@@ -4649,7 +4649,7 @@ export const getDecrypted = () => ({
         "siteId": "61302234",
         "Band": "3",
         "longitude": "145.022235",
-        "Name": "7-Eleven Hawthorn"
+        "Name": "7-Eleven Hawthorn",
       },
       {
         "Address": "82 Barkers Rd & Church Street",
@@ -4657,7 +4657,7 @@ export const getDecrypted = () => ({
         "siteId": "61302235",
         "Band": "9",
         "longitude": "145.023117",
-        "Name": "Shell Hawthorn"
+        "Name": "Shell Hawthorn",
       },
       {
         "Address": "290 Barkers Rd & Haines St",
@@ -4665,7 +4665,7 @@ export const getDecrypted = () => ({
         "siteId": "61302240",
         "Band": "3",
         "longitude": "145.041168",
-        "Name": "7-Eleven Auburn"
+        "Name": "7-Eleven Auburn",
       },
       {
         "Address": "Barkers Rd & Glenferrie Rd",
@@ -4673,7 +4673,7 @@ export const getDecrypted = () => ({
         "siteId": "61302241",
         "Band": "3",
         "longitude": "145.036971",
-        "Name": "7-Eleven Hawthorn"
+        "Name": "7-Eleven Hawthorn",
       },
       {
         "Address": "Glenferrie Rd & Manningree Rd",
@@ -4681,7 +4681,7 @@ export const getDecrypted = () => ({
         "siteId": "61302242",
         "Band": "3",
         "longitude": "145.034866",
-        "Name": "7-Eleven Hawthorn"
+        "Name": "7-Eleven Hawthorn",
       },
       {
         "Address": "187 Riversdale Rd",
@@ -4689,7 +4689,7 @@ export const getDecrypted = () => ({
         "siteId": "61302246",
         "Band": "3",
         "longitude": "145.042394",
-        "Name": "Coles Express Auburndale"
+        "Name": "Coles Express Auburndale",
       },
       {
         "Address": "307 Diamond Creek Rd",
@@ -4697,7 +4697,7 @@ export const getDecrypted = () => ({
         "siteId": "61302253",
         "Band": "4",
         "longitude": "145.123301",
-        "Name": "EG Ampol Diamond Creek"
+        "Name": "EG Ampol Diamond Creek",
       },
       {
         "Address": "173-199 Pioneer Rd",
@@ -4705,7 +4705,7 @@ export const getDecrypted = () => ({
         "siteId": "61302260",
         "Band": "3",
         "longitude": "144.321297",
-        "Name": "EG Ampol Waurn Ponds (Grovedale)"
+        "Name": "EG Ampol Waurn Ponds (Grovedale)",
       },
       {
         "Address": "238-244 South Valley Rd & Princes Hwy",
@@ -4713,7 +4713,7 @@ export const getDecrypted = () => ({
         "siteId": "61302261",
         "Band": "9",
         "longitude": "144.317477",
-        "Name": "Apco Warun Ponds"
+        "Name": "Apco Warun Ponds",
       },
       {
         "Address": "747-755 Toorak Rd",
@@ -4721,7 +4721,7 @@ export const getDecrypted = () => ({
         "siteId": "61302263",
         "Band": "3",
         "longitude": "145.041919",
-        "Name": "7-Eleven Hawthorn East"
+        "Name": "7-Eleven Hawthorn East",
       },
       {
         "Address": "5 Mill Rd & Mcclelland Av",
@@ -4729,7 +4729,7 @@ export const getDecrypted = () => ({
         "siteId": "61302264",
         "Band": "9",
         "longitude": "144.412671",
-        "Name": "Apco Lara"
+        "Name": "Apco Lara",
       },
       {
         "Address": "5-15 Blackburn Rd",
@@ -4737,7 +4737,7 @@ export const getDecrypted = () => ({
         "siteId": "61302266",
         "Band": "2",
         "longitude": "145.159647",
-        "Name": "EG Ampol Doncaster East"
+        "Name": "EG Ampol Doncaster East",
       },
       {
         "Address": "164 Nepean Hwy",
@@ -4745,7 +4745,7 @@ export const getDecrypted = () => ({
         "siteId": "61302267",
         "Band": "3",
         "longitude": "145.126153",
-        "Name": "EG Ampol Seaford"
+        "Name": "EG Ampol Seaford",
       },
       {
         "Address": "379 Maroondah Hwy",
@@ -4753,7 +4753,7 @@ export const getDecrypted = () => ({
         "siteId": "61302269",
         "Band": "4",
         "longitude": "145.244014",
-        "Name": "EG Ampol Ringwood (Eastlands)"
+        "Name": "EG Ampol Ringwood (Eastlands)",
       },
       {
         "Address": "1150 Nepean Hwy & Bay Rd",
@@ -4761,7 +4761,7 @@ export const getDecrypted = () => ({
         "siteId": "61302270",
         "Band": "9",
         "longitude": "145.050717",
-        "Name": "United Highett"
+        "Name": "United Highett",
       },
       {
         "Address": "80 Harvester Road",
@@ -4769,7 +4769,7 @@ export const getDecrypted = () => ({
         "siteId": "61302271",
         "Band": "3",
         "longitude": "144.829525",
-        "Name": "EG Ampol Sunshine"
+        "Name": "EG Ampol Sunshine",
       },
       {
         "Address": "1365 Princes Hwy",
@@ -4777,7 +4777,7 @@ export const getDecrypted = () => ({
         "siteId": "61302272",
         "Band": "9",
         "longitude": "145.506026",
-        "Name": "Liberty Pakenham East"
+        "Name": "Liberty Pakenham East",
       },
       {
         "Address": "745-763 Raglan Pde",
@@ -4785,7 +4785,7 @@ export const getDecrypted = () => ({
         "siteId": "61302276",
         "Band": "5",
         "longitude": "142.480414",
-        "Name": "EG Ampol Warrnambool"
+        "Name": "EG Ampol Warrnambool",
       },
       {
         "Address": "330 Hume Hwy",
@@ -4793,7 +4793,7 @@ export const getDecrypted = () => ({
         "siteId": "61302277",
         "Band": "9",
         "longitude": "144.947733",
-        "Name": "Metro Craigieburn"
+        "Name": "Metro Craigieburn",
       },
       {
         "Address": "Burke Rd & Barkers Rd",
@@ -4801,7 +4801,7 @@ export const getDecrypted = () => ({
         "siteId": "61302279",
         "Band": "3",
         "longitude": "145.059339",
-        "Name": "Coles Express Kew"
+        "Name": "Coles Express Kew",
       },
       {
         "Address": "245 Cotham Rd & Cecil St",
@@ -4809,7 +4809,7 @@ export const getDecrypted = () => ({
         "siteId": "61302280",
         "Band": "3",
         "longitude": "145.051567",
-        "Name": "Shell Reddy Express Cotham Road"
+        "Name": "Shell Reddy Express Cotham Road",
       },
       {
         "Address": "Earl St & Princess St",
@@ -4817,7 +4817,7 @@ export const getDecrypted = () => ({
         "siteId": "61302283",
         "Band": "9",
         "longitude": "145.031648",
-        "Name": "United Kew"
+        "Name": "United Kew",
       },
       {
         "Address": "1399-1401 Burke Rd",
@@ -4825,7 +4825,7 @@ export const getDecrypted = () => ({
         "siteId": "61302285",
         "Band": "9",
         "longitude": "145.063235",
-        "Name": "BP AA Kew East"
+        "Name": "BP AA Kew East",
       },
       {
         "Address": "Earl St & 115 Willsmere Rd",
@@ -4833,7 +4833,7 @@ export const getDecrypted = () => ({
         "siteId": "61302286",
         "Band": "3",
         "longitude": "145.035877",
-        "Name": "Ampol Foodary Kew"
+        "Name": "Ampol Foodary Kew",
       },
       {
         "Address": "839 Mt Dandenong Rd",
@@ -4841,7 +4841,7 @@ export const getDecrypted = () => ({
         "siteId": "61302288",
         "Band": "3",
         "longitude": "145.336657",
-        "Name": "BP Montrose"
+        "Name": "BP Montrose",
       },
       {
         "Address": "Mount Dandenong Road",
@@ -4849,7 +4849,7 @@ export const getDecrypted = () => ({
         "siteId": "61302289",
         "Band": "3",
         "longitude": "145.308496",
-        "Name": "7-Eleven Croydon East"
+        "Name": "7-Eleven Croydon East",
       },
       {
         "Address": "92 Canterbury Rd & Liverpool Rd",
@@ -4857,7 +4857,7 @@ export const getDecrypted = () => ({
         "siteId": "61302290",
         "Band": "9",
         "longitude": "145.317697",
-        "Name": "United Kilsyth"
+        "Name": "United Kilsyth",
       },
       {
         "Address": "Canterbury Rd & Liverpool Rd",
@@ -4865,7 +4865,7 @@ export const getDecrypted = () => ({
         "siteId": "61302293",
         "Band": "3",
         "longitude": "145.317196",
-        "Name": "7-Eleven Kilsyth"
+        "Name": "7-Eleven Kilsyth",
       },
       {
         "Address": "315 Narre Warren-Cranbourne Road",
@@ -4873,7 +4873,7 @@ export const getDecrypted = () => ({
         "siteId": "61302294",
         "Band": "9",
         "longitude": "145.294794",
-        "Name": "Apco Cranbourne"
+        "Name": "Apco Cranbourne",
       },
       {
         "Address": "25-31 Narre Warren-Cranbourne Rd",
@@ -4881,7 +4881,7 @@ export const getDecrypted = () => ({
         "siteId": "61302295",
         "Band": "9",
         "longitude": "145.305534",
-        "Name": "United  Narre Warren"
+        "Name": "United  Narre Warren",
       },
       {
         "Address": "571-583 High St",
@@ -4889,7 +4889,7 @@ export const getDecrypted = () => ({
         "siteId": "61302296",
         "Band": "7",
         "longitude": "145.021057",
-        "Name": "EG Ampol Epping"
+        "Name": "EG Ampol Epping",
       },
       {
         "Address": "828-834 High St",
@@ -4897,7 +4897,7 @@ export const getDecrypted = () => ({
         "siteId": "61302297",
         "Band": "9",
         "longitude": "145.026586",
-        "Name": "Apco Epping"
+        "Name": "Apco Epping",
       },
       {
         "Address": "418 Warrigal Rd",
@@ -4905,7 +4905,7 @@ export const getDecrypted = () => ({
         "siteId": "61302298",
         "Band": "2",
         "longitude": "145.078137",
-        "Name": "Coles Express Moorabbin Warrigal Rd"
+        "Name": "Coles Express Moorabbin Warrigal Rd",
       },
       {
         "Address": "Maroondah Hwy & Cavehill Rd",
@@ -4913,7 +4913,7 @@ export const getDecrypted = () => ({
         "siteId": "61302301",
         "Band": "4",
         "longitude": "145.343065",
-        "Name": "7-Eleven Lilydale"
+        "Name": "7-Eleven Lilydale",
       },
       {
         "Address": "346 Main St",
@@ -4921,7 +4921,7 @@ export const getDecrypted = () => ({
         "siteId": "61302304",
         "Band": "4",
         "longitude": "145.355303",
-        "Name": "Ampol Foodary Lilydale"
+        "Name": "Ampol Foodary Lilydale",
       },
       {
         "Address": "469 Maroondah Hwy & Nelson",
@@ -4929,7 +4929,7 @@ export const getDecrypted = () => ({
         "siteId": "61302307",
         "Band": "4",
         "longitude": "145.364989",
-        "Name": "Coles Express Lilydale"
+        "Name": "Coles Express Lilydale",
       },
       {
         "Address": "41-45 Mcmahons Rd & Government Rd",
@@ -4937,7 +4937,7 @@ export const getDecrypted = () => ({
         "siteId": "61302310",
         "Band": "3",
         "longitude": "145.134412",
-        "Name": "EG Ampol Frankston"
+        "Name": "EG Ampol Frankston",
       },
       {
         "Address": "Heatherton Rd & Belgrave-Hallam Rd",
@@ -4945,7 +4945,7 @@ export const getDecrypted = () => ({
         "siteId": "61302311",
         "Band": "2",
         "longitude": "145.310628",
-        "Name": "Coles Express Heatherton Rd"
+        "Name": "Coles Express Heatherton Rd",
       },
       {
         "Address": "2-4 Union St",
@@ -4953,7 +4953,7 @@ export const getDecrypted = () => ({
         "siteId": "61302315",
         "Band": "9",
         "longitude": "145.113997",
-        "Name": "BP AA Templestowe"
+        "Name": "BP AA Templestowe",
       },
       {
         "Address": "570 Wellington Road",
@@ -4961,7 +4961,7 @@ export const getDecrypted = () => ({
         "siteId": "61302317",
         "Band": "9",
         "longitude": "145.303064",
-        "Name": "BP Lysterfield"
+        "Name": "BP Lysterfield",
       },
       {
         "Address": "Hume Hwy",
@@ -4969,7 +4969,7 @@ export const getDecrypted = () => ({
         "siteId": "61302318",
         "Band": "5",
         "longitude": "145.100366",
-        "Name": "Ampol Foodary Tallarook (North Bound)"
+        "Name": "Ampol Foodary Tallarook (North Bound)",
       },
       {
         "Address": "659 Mountain Hwy",
@@ -4977,7 +4977,7 @@ export const getDecrypted = () => ({
         "siteId": "61302319",
         "Band": "3",
         "longitude": "145.262101",
-        "Name": "EG Ampol Bayswater"
+        "Name": "EG Ampol Bayswater",
       },
       {
         "Address": "191 Bridge St",
@@ -4985,7 +4985,7 @@ export const getDecrypted = () => ({
         "siteId": "61302321",
         "Band": "5",
         "longitude": "145.995218",
-        "Name": "Ampol Benalla"
+        "Name": "Ampol Benalla",
       },
       {
         "Address": "Glenferrie Rd & Malvern Rd",
@@ -4993,7 +4993,7 @@ export const getDecrypted = () => ({
         "siteId": "61302323",
         "Band": "3",
         "longitude": "145.029617",
-        "Name": "Coles Express Glenvern"
+        "Name": "Coles Express Glenvern",
       },
       {
         "Address": "1367 High St",
@@ -5001,7 +5001,7 @@ export const getDecrypted = () => ({
         "siteId": "61302324",
         "Band": "5",
         "longitude": "145.040689",
-        "Name": "BP Malvern"
+        "Name": "BP Malvern",
       },
       {
         "Address": "763-779 Dandenong Rd & Tooronga Rd",
@@ -5009,7 +5009,7 @@ export const getDecrypted = () => ({
         "siteId": "61302325",
         "Band": "5",
         "longitude": "145.037745",
-        "Name": "Coles Express Malvern"
+        "Name": "Coles Express Malvern",
       },
       {
         "Address": "Cnr Heatherton Rd & Mathew Flinders Av",
@@ -5017,7 +5017,7 @@ export const getDecrypted = () => ({
         "siteId": "61302328",
         "Band": "2",
         "longitude": "145.261116",
-        "Name": "EG Ampol Endeavour Hills"
+        "Name": "EG Ampol Endeavour Hills",
       },
       {
         "Address": "447 Whitehorse Rd & Alexander St",
@@ -5025,7 +5025,7 @@ export const getDecrypted = () => ({
         "siteId": "61302330",
         "Band": "9",
         "longitude": "145.188982",
-        "Name": "Astron Mitcham"
+        "Name": "Astron Mitcham",
       },
       {
         "Address": "240 Mitcham Rd",
@@ -5033,7 +5033,7 @@ export const getDecrypted = () => ({
         "siteId": "61302331",
         "Band": "3",
         "longitude": "145.189595",
-        "Name": "BP Mitcham"
+        "Name": "BP Mitcham",
       },
       {
         "Address": "208 Mitcham Rd",
@@ -5041,7 +5041,7 @@ export const getDecrypted = () => ({
         "siteId": "61302332",
         "Band": "9",
         "longitude": "145.188583",
-        "Name": "United Mitcham"
+        "Name": "United Mitcham",
       },
       {
         "Address": "1700 Warburton Hwy",
@@ -5049,7 +5049,7 @@ export const getDecrypted = () => ({
         "siteId": "61302334",
         "Band": "9",
         "longitude": "145.541649",
-        "Name": "Shell Woori Yallock Convenience Store"
+        "Name": "Shell Woori Yallock Convenience Store",
       },
       {
         "Address": "101 Waverley Rd & Burke Rd",
@@ -5057,7 +5057,7 @@ export const getDecrypted = () => ({
         "siteId": "61302336",
         "Band": "5",
         "longitude": "145.048038",
-        "Name": "BP East Malvern"
+        "Name": "BP East Malvern",
       },
       {
         "Address": " Barkley Street",
@@ -5065,7 +5065,7 @@ export const getDecrypted = () => ({
         "siteId": "61302340",
         "Band": "9",
         "longitude": "143.857621",
-        "Name": "Barkly Street Service Centre"
+        "Name": "Barkly Street Service Centre",
       },
       {
         "Address": "Malvern Rd & Darling Rd",
@@ -5073,7 +5073,7 @@ export const getDecrypted = () => ({
         "siteId": "61302341",
         "Band": "4",
         "longitude": "145.060768",
-        "Name": "7-Eleven East Malvern"
+        "Name": "7-Eleven East Malvern",
       },
       {
         "Address": "205 Tyabb Rd & Racecourse Rd",
@@ -5081,7 +5081,7 @@ export const getDecrypted = () => ({
         "siteId": "61302344",
         "Band": "9",
         "longitude": "145.065347",
-        "Name": "United Mornington"
+        "Name": "United Mornington",
       },
       {
         "Address": "37 Kirk St",
@@ -5089,7 +5089,7 @@ export const getDecrypted = () => ({
         "siteId": "61302345",
         "Band": "9",
         "longitude": "146.263947",
-        "Name": "Pearl Energy Moe"
+        "Name": "Pearl Energy Moe",
       },
       {
         "Address": "103 Cardigan Rd & Pembroke Rd",
@@ -5097,7 +5097,7 @@ export const getDecrypted = () => ({
         "siteId": "61302353",
         "Band": "9",
         "longitude": "145.328796",
-        "Name": "BP Mooroolbark"
+        "Name": "BP Mooroolbark",
       },
       {
         "Address": "22 Manchester Rd",
@@ -5105,7 +5105,7 @@ export const getDecrypted = () => ({
         "siteId": "61302355",
         "Band": "4",
         "longitude": "145.310903",
-        "Name": "7-Eleven Mooroolbark"
+        "Name": "7-Eleven Mooroolbark",
       },
       {
         "Address": "1 Monbulk Rd",
@@ -5113,7 +5113,7 @@ export const getDecrypted = () => ({
         "siteId": "61302359",
         "Band": "9",
         "longitude": "145.382126",
-        "Name": "Fast Fuel Mt Evelyn"
+        "Name": "Fast Fuel Mt Evelyn",
       },
       {
         "Address": "Stephensons Rd & Ferntree Gully Rd",
@@ -5121,7 +5121,7 @@ export const getDecrypted = () => ({
         "siteId": "61302361",
         "Band": "4",
         "longitude": "145.123902",
-        "Name": "BP Fernhill"
+        "Name": "BP Fernhill",
       },
       {
         "Address": "370 Waverley Rd",
@@ -5129,7 +5129,7 @@ export const getDecrypted = () => ({
         "siteId": "61302363",
         "Band": "9",
         "longitude": "145.12708127116392",
-        "Name": "Metco Petroleum Mount Waverley"
+        "Name": "Metco Petroleum Mount Waverley",
       },
       {
         "Address": "272-274 Highbury Rd & Andrew St",
@@ -5137,7 +5137,7 @@ export const getDecrypted = () => ({
         "siteId": "61302366",
         "Band": "9",
         "longitude": "145.123015",
-        "Name": "Ampol Mt Waverley"
+        "Name": "Ampol Mt Waverley",
       },
       {
         "Address": "Waverley Rd & Huntingdale Rd",
@@ -5145,7 +5145,7 @@ export const getDecrypted = () => ({
         "siteId": "61302368",
         "Band": "4",
         "longitude": "145.109203",
-        "Name": "7-Eleven Mount Waverley"
+        "Name": "7-Eleven Mount Waverley",
       },
       {
         "Address": "615-621 Ferntree Gully Rd & Springvale Rd",
@@ -5153,7 +5153,7 @@ export const getDecrypted = () => ({
         "siteId": "61302374",
         "Band": "4",
         "longitude": "145.161164",
-        "Name": "Shell Reddy Express Glen Waverley"
+        "Name": "Shell Reddy Express Glen Waverley",
       },
       {
         "Address": "High St & Rose Av",
@@ -5161,7 +5161,7 @@ export const getDecrypted = () => ({
         "siteId": "61302375",
         "Band": "4",
         "longitude": "145.158571",
-        "Name": "EG Ampol Glen Waverley"
+        "Name": "EG Ampol Glen Waverley",
       },
       {
         "Address": "7647 Goulburn Valley Hwy & River Rd",
@@ -5169,7 +5169,7 @@ export const getDecrypted = () => ({
         "siteId": "61302376",
         "Band": "9",
         "longitude": "145.388161",
-        "Name": "United Shepparton"
+        "Name": "United Shepparton",
       },
       {
         "Address": "258 Stephensons Rd",
@@ -5177,7 +5177,7 @@ export const getDecrypted = () => ({
         "siteId": "61302379",
         "Band": "2",
         "longitude": "145.12920532390785",
-        "Name": "Shell Reddy Express Mount Waverley"
+        "Name": "Shell Reddy Express Mount Waverley",
       },
       {
         "Address": "Springvale Rd & 602-606 Ferntree Gully Rd",
@@ -5185,7 +5185,7 @@ export const getDecrypted = () => ({
         "siteId": "61302382",
         "Band": "4",
         "longitude": "145.161456",
-        "Name": "7-Eleven Brandon Park"
+        "Name": "7-Eleven Brandon Park",
       },
       {
         "Address": "Princes Hwy & Renver St",
@@ -5193,7 +5193,7 @@ export const getDecrypted = () => ({
         "siteId": "61302387",
         "Band": "3",
         "longitude": "145.142995",
-        "Name": "Coles Express Clayton"
+        "Name": "Coles Express Clayton",
       },
       {
         "Address": "2223 Princes Hwy & Kalimna Av",
@@ -5201,7 +5201,7 @@ export const getDecrypted = () => ({
         "siteId": "61302388",
         "Band": "9",
         "longitude": "145.149533",
-        "Name": "BP Mulgrave South"
+        "Name": "BP Mulgrave South",
       },
       {
         "Address": "102 Police Road",
@@ -5209,7 +5209,7 @@ export const getDecrypted = () => ({
         "siteId": "61302391",
         "Band": "3",
         "longitude": "145.167836",
-        "Name": "EG Ampol Springvale"
+        "Name": "EG Ampol Springvale",
       },
       {
         "Address": "Springvale Rd & Maroondah Hwy",
@@ -5217,7 +5217,7 @@ export const getDecrypted = () => ({
         "siteId": "61302393",
         "Band": "3",
         "longitude": "145.175775",
-        "Name": "Coles Express Nunawading"
+        "Name": "Coles Express Nunawading",
       },
       {
         "Address": "15 -17 Albert St",
@@ -5225,7 +5225,7 @@ export const getDecrypted = () => ({
         "siteId": "61302398",
         "Band": "9",
         "longitude": "142.459758",
-        "Name": "BP Depot - Warrnambool"
+        "Name": "BP Depot - Warrnambool",
       },
       {
         "Address": "113-115 Wilson St",
@@ -5233,7 +5233,7 @@ export const getDecrypted = () => ({
         "siteId": "61302400",
         "Band": "5",
         "longitude": "142.195078",
-        "Name": "EG Ampol Horsham"
+        "Name": "EG Ampol Horsham",
       },
       {
         "Address": "604 Elgar Rd & Kerr Ln",
@@ -5241,7 +5241,7 @@ export const getDecrypted = () => ({
         "siteId": "61302402",
         "Band": "9",
         "longitude": "145.117504",
-        "Name": "United Box Hill"
+        "Name": "United Box Hill",
       },
       {
         "Address": "260 Somerton Rd",
@@ -5249,7 +5249,7 @@ export const getDecrypted = () => ({
         "siteId": "61302404",
         "Band": "4",
         "longitude": "144.930191",
-        "Name": "EG Ampol Roxburgh Park"
+        "Name": "EG Ampol Roxburgh Park",
       },
       {
         "Address": "350 Ferntree Gully Rd & Howleys Rd",
@@ -5257,7 +5257,7 @@ export const getDecrypted = () => ({
         "siteId": "61302408",
         "Band": "9",
         "longitude": "145.138012",
-        "Name": "Astron Notting Hill"
+        "Name": "Astron Notting Hill",
       },
       {
         "Address": "1340 Hume Hwy, Kalkallo, VIC 3064",
@@ -5265,7 +5265,7 @@ export const getDecrypted = () => ({
         "siteId": "61302413",
         "Band": "4",
         "longitude": "144.948611",
-        "Name": "Ampol Foodary Kalkallo"
+        "Name": "Ampol Foodary Kalkallo",
       },
       {
         "Address": " Cnr Park Rd & Hopetoun Rd",
@@ -5273,7 +5273,7 @@ export const getDecrypted = () => ({
         "siteId": "61302414",
         "Band": "9",
         "longitude": "145.217681",
-        "Name": "Park Orchard Service Centre"
+        "Name": "Park Orchard Service Centre",
       },
       {
         "Address": "500 Malvern Rd",
@@ -5281,7 +5281,7 @@ export const getDecrypted = () => ({
         "siteId": "61302416",
         "Band": "9",
         "longitude": "145.003083",
-        "Name": "BP AA Prahran"
+        "Name": "BP AA Prahran",
       },
       {
         "Address": "262-268 Punt Rd & Commercial Rd",
@@ -5289,7 +5289,7 @@ export const getDecrypted = () => ({
         "siteId": "61302418",
         "Band": "5",
         "longitude": "144.985379",
-        "Name": "Ampol Foodary South Yarra"
+        "Name": "Ampol Foodary South Yarra",
       },
       {
         "Address": "549 High St & Chatsworth Rd",
@@ -5297,7 +5297,7 @@ export const getDecrypted = () => ({
         "siteId": "61302421",
         "Band": "3",
         "longitude": "145.006708",
-        "Name": "BP East Prahran"
+        "Name": "BP East Prahran",
       },
       {
         "Address": "69 Queens St",
@@ -5305,7 +5305,7 @@ export const getDecrypted = () => ({
         "siteId": "61302426",
         "Band": "9",
         "longitude": "143.591946",
-        "Name": "Shell Colac"
+        "Name": "Shell Colac",
       },
       {
         "Address": "2 Bromfield St & Corangamite St",
@@ -5313,7 +5313,7 @@ export const getDecrypted = () => ({
         "siteId": "61302428",
         "Band": "5",
         "longitude": "143.584921",
-        "Name": "EG Ampol Colac"
+        "Name": "EG Ampol Colac",
       },
       {
         "Address": "13 Gisborne Rd",
@@ -5321,7 +5321,7 @@ export const getDecrypted = () => ({
         "siteId": "61302429",
         "Band": "9",
         "longitude": "144.435723",
-        "Name": "Apco Bacchus Marsh"
+        "Name": "Apco Bacchus Marsh",
       },
       {
         "Address": "Main Rd",
@@ -5329,7 +5329,7 @@ export const getDecrypted = () => ({
         "siteId": "61302430",
         "Band": "4",
         "longitude": "144.425781",
-        "Name": "7-Eleven Bacchus Marsh"
+        "Name": "7-Eleven Bacchus Marsh",
       },
       {
         "Address": "1040 Howitt St & Browns Pde",
@@ -5337,7 +5337,7 @@ export const getDecrypted = () => ({
         "siteId": "61302432",
         "Band": "9",
         "longitude": "143.835968",
-        "Name": "Metro Wendouree"
+        "Name": "Metro Wendouree",
       },
       {
         "Address": "105-107 Barker St",
@@ -5345,7 +5345,7 @@ export const getDecrypted = () => ({
         "siteId": "61302435",
         "Band": "9",
         "longitude": "144.216002",
-        "Name": "Steve Barty Gas"
+        "Name": "Steve Barty Gas",
       },
       {
         "Address": "228 Barker St",
@@ -5353,7 +5353,7 @@ export const getDecrypted = () => ({
         "siteId": "61302437",
         "Band": "7",
         "longitude": "144.217649",
-        "Name": "Castlemaine Tyre Service"
+        "Name": "Castlemaine Tyre Service",
       },
       {
         "Address": "143 Vincent St",
@@ -5361,7 +5361,7 @@ export const getDecrypted = () => ({
         "siteId": "61302438",
         "Band": "5",
         "longitude": "144.142372",
-        "Name": "BP Daylesford"
+        "Name": "BP Daylesford",
       },
       {
         "Address": "4375 Midland Highway",
@@ -5369,7 +5369,7 @@ export const getDecrypted = () => ({
         "siteId": "61302439",
         "Band": "9",
         "longitude": "144.130335",
-        "Name": "Metro Petroleum Daylesford"
+        "Name": "Metro Petroleum Daylesford",
       },
       {
         "Address": "38 Western Rd",
@@ -5377,7 +5377,7 @@ export const getDecrypted = () => ({
         "siteId": "61302442",
         "Band": "9",
         "longitude": "144.209378",
-        "Name": "BP Cohuna"
+        "Name": "BP Cohuna",
       },
       {
         "Address": "6323 Murray Village Hwy",
@@ -5385,7 +5385,7 @@ export const getDecrypted = () => ({
         "siteId": "61302443",
         "Band": "9",
         "longitude": "144.233401",
-        "Name": "Shell Cohuna"
+        "Name": "Shell Cohuna",
       },
       {
         "Address": "72-74 Broadway St",
@@ -5393,7 +5393,7 @@ export const getDecrypted = () => ({
         "siteId": "61302447",
         "Band": "6",
         "longitude": "145.645648",
-        "Name": "Ampol Cobram"
+        "Name": "Ampol Cobram",
       },
       {
         "Address": "58 Anzac Av",
@@ -5401,7 +5401,7 @@ export const getDecrypted = () => ({
         "siteId": "61302449",
         "Band": "9",
         "longitude": "145.141671",
-        "Name": "BP Seymour"
+        "Name": "BP Seymour",
       },
       {
         "Address": "Cunninghame Street",
@@ -5409,7 +5409,7 @@ export const getDecrypted = () => ({
         "siteId": "61302454",
         "Band": "5",
         "longitude": "147.060756",
-        "Name": "EG Ampol Sale"
+        "Name": "EG Ampol Sale",
       },
       {
         "Address": "182 Nicholson St",
@@ -5417,7 +5417,7 @@ export const getDecrypted = () => ({
         "siteId": "61302456",
         "Band": "9",
         "longitude": "148.455901",
-        "Name": "Independent Orbost"
+        "Name": "Independent Orbost",
       },
       {
         "Address": "45 Johnstone St",
@@ -5425,7 +5425,7 @@ export const getDecrypted = () => ({
         "siteId": "61302458",
         "Band": "9",
         "longitude": "144.210676",
-        "Name": "Ampol Castlemaine"
+        "Name": "Ampol Castlemaine",
       },
       {
         "Address": "2-4 Fellmongers Rd & Apparel Cl",
@@ -5433,7 +5433,7 @@ export const getDecrypted = () => ({
         "siteId": "61302474",
         "Band": "4",
         "longitude": "144.376908",
-        "Name": "BP Breakwater"
+        "Name": "BP Breakwater",
       },
       {
         "Address": "283-285 Station Rd",
@@ -5441,7 +5441,7 @@ export const getDecrypted = () => ({
         "siteId": "61302475",
         "Band": "9",
         "longitude": "144.778156",
-        "Name": "United Deer Park"
+        "Name": "United Deer Park",
       },
       {
         "Address": "125 Boronia Rd & Dorset Rd",
@@ -5449,7 +5449,7 @@ export const getDecrypted = () => ({
         "siteId": "61302476",
         "Band": "2",
         "longitude": "145.285197",
-        "Name": "EG Ampol Boronia"
+        "Name": "EG Ampol Boronia",
       },
       {
         "Address": "94 Church St",
@@ -5457,7 +5457,7 @@ export const getDecrypted = () => ({
         "siteId": "61302481",
         "Band": "3",
         "longitude": "144.999799",
-        "Name": "7-Eleven Richmond"
+        "Name": "7-Eleven Richmond",
       },
       {
         "Address": "645 Bridge Rd & River St",
@@ -5465,7 +5465,7 @@ export const getDecrypted = () => ({
         "siteId": "61302484",
         "Band": "9",
         "longitude": "145.012652",
-        "Name": "Shell Richmond"
+        "Name": "Shell Richmond",
       },
       {
         "Address": "581 Church St & Amsterdam St",
@@ -5473,7 +5473,7 @@ export const getDecrypted = () => ({
         "siteId": "61302488",
         "Band": "9",
         "longitude": "144.997232",
-        "Name": "BP AA Richmond - Church Street"
+        "Name": "BP AA Richmond - Church Street",
       },
       {
         "Address": "399-405 Punt Rd",
@@ -5481,7 +5481,7 @@ export const getDecrypted = () => ({
         "siteId": "61302490",
         "Band": "3",
         "longitude": "144.988841",
-        "Name": "Coles Express Richmond"
+        "Name": "Coles Express Richmond",
       },
       {
         "Address": "385-389 Canterbury Rd",
@@ -5489,7 +5489,7 @@ export const getDecrypted = () => ({
         "siteId": "61302495",
         "Band": "3",
         "longitude": "145.214745",
-        "Name": "Shell Reddy Express Vermont"
+        "Name": "Shell Reddy Express Vermont",
       },
       {
         "Address": "Warrandyte & Oban",
@@ -5497,7 +5497,7 @@ export const getDecrypted = () => ({
         "siteId": "61302501",
         "Band": "5",
         "longitude": "145.235288",
-        "Name": "7-Eleven Ringwood North"
+        "Name": "7-Eleven Ringwood North",
       },
       {
         "Address": "Loughnan Rd & Warrandyte Rd",
@@ -5505,7 +5505,7 @@ export const getDecrypted = () => ({
         "siteId": "61302502",
         "Band": "5",
         "longitude": "145.229989",
-        "Name": "7-Eleven Ringwood"
+        "Name": "7-Eleven Ringwood",
       },
       {
         "Address": "83 Loughnan Road",
@@ -5513,7 +5513,7 @@ export const getDecrypted = () => ({
         "siteId": "61302503",
         "Band": "9",
         "longitude": "145.219801",
-        "Name": "Des Brown Service Centre"
+        "Name": "Des Brown Service Centre",
       },
       {
         "Address": "18 Mt Dandenong Rd",
@@ -5521,7 +5521,7 @@ export const getDecrypted = () => ({
         "siteId": "61302504",
         "Band": "5",
         "longitude": "145.241157",
-        "Name": "Ampol Foodary Ringwood East"
+        "Name": "Ampol Foodary Ringwood East",
       },
       {
         "Address": "Old Lilydale Rd & Maroondah Hwy",
@@ -5529,7 +5529,7 @@ export const getDecrypted = () => ({
         "siteId": "61302507",
         "Band": "5",
         "longitude": "145.253755",
-        "Name": "BP Ringwood"
+        "Name": "BP Ringwood",
       },
       {
         "Address": "521 Maroondah Hwy",
@@ -5537,7 +5537,7 @@ export const getDecrypted = () => ({
         "siteId": "61302509",
         "Band": "5",
         "longitude": "145.253213",
-        "Name": "Shell Reddy Express Ringwood East"
+        "Name": "Shell Reddy Express Ringwood East",
       },
       {
         "Address": "893 Wellington Rd",
@@ -5545,7 +5545,7 @@ export const getDecrypted = () => ({
         "siteId": "61302510",
         "Band": "9",
         "longitude": "145.226995",
-        "Name": "Astron Rowville"
+        "Name": "Astron Rowville",
       },
       {
         "Address": "Stud Rd & Kelletts Rd",
@@ -5553,7 +5553,7 @@ export const getDecrypted = () => ({
         "siteId": "61302512",
         "Band": "9",
         "longitude": "145.236715",
-        "Name": "BP Rowville"
+        "Name": "BP Rowville",
       },
       {
         "Address": "1215 Stud Rd & Bergins Rd",
@@ -5561,7 +5561,7 @@ export const getDecrypted = () => ({
         "siteId": "61302513",
         "Band": "9",
         "longitude": "145.233102",
-        "Name": "United Stud Park"
+        "Name": "United Stud Park",
       },
       {
         "Address": "510 Napoleon Rd & Lakesfield Dr",
@@ -5569,7 +5569,7 @@ export const getDecrypted = () => ({
         "siteId": "61302515",
         "Band": "3",
         "longitude": "145.275658",
-        "Name": "7-Eleven Ferntree Gully"
+        "Name": "7-Eleven Ferntree Gully",
       },
       {
         "Address": "1470 Ferntree Gully Rd & Stud Rd",
@@ -5577,7 +5577,7 @@ export const getDecrypted = () => ({
         "siteId": "61302516",
         "Band": "3",
         "longitude": "145.233962",
-        "Name": "Shell Reddy Express Knoxfield Stud Rd"
+        "Name": "Shell Reddy Express Knoxfield Stud Rd",
       },
       {
         "Address": "1662 Ferntree Gully Rd",
@@ -5585,7 +5585,7 @@ export const getDecrypted = () => ({
         "siteId": "61302517",
         "Band": "3",
         "longitude": "145.257222",
-        "Name": "Coles Express Knox Park"
+        "Name": "Coles Express Knox Park",
       },
       {
         "Address": "1271 Ferntree Gully Rd",
@@ -5593,7 +5593,7 @@ export const getDecrypted = () => ({
         "siteId": "61302518",
         "Band": "9",
         "longitude": "145.221312",
-        "Name": "United Scoresby"
+        "Name": "United Scoresby",
       },
       {
         "Address": "547 Warburton Highway",
@@ -5601,7 +5601,7 @@ export const getDecrypted = () => ({
         "siteId": "61302519",
         "Band": "4",
         "longitude": "145.458905",
-        "Name": "EG Ampol Seville"
+        "Name": "EG Ampol Seville",
       },
       {
         "Address": "940 Stud Road Cnr Kingsley Close, Rowville, VIC 3178",
@@ -5609,7 +5609,7 @@ export const getDecrypted = () => ({
         "siteId": "61302522",
         "Band": "3",
         "longitude": "145.236418",
-        "Name": "Ampol Foodary Rowville"
+        "Name": "Ampol Foodary Rowville",
       },
       {
         "Address": "260 Canterbury Rd",
@@ -5617,7 +5617,7 @@ export const getDecrypted = () => ({
         "siteId": "61302525",
         "Band": "3",
         "longitude": "145.087876",
-        "Name": "Coles Express Surrey Hills"
+        "Name": "Coles Express Surrey Hills",
       },
       {
         "Address": "242 Maroondah Hwy",
@@ -5625,7 +5625,7 @@ export const getDecrypted = () => ({
         "siteId": "61302530",
         "Band": "4",
         "longitude": "145.312784",
-        "Name": "7-Eleven Chirnside Park"
+        "Name": "7-Eleven Chirnside Park",
       },
       {
         "Address": "Toorak Rd & Tivoli Rd",
@@ -5633,7 +5633,7 @@ export const getDecrypted = () => ({
         "siteId": "61302532",
         "Band": "3",
         "longitude": "144.998005",
-        "Name": "Coles Express South Yarra"
+        "Name": "Coles Express South Yarra",
       },
       {
         "Address": "1524 Burwood Hwy",
@@ -5641,7 +5641,7 @@ export const getDecrypted = () => ({
         "siteId": "61302535",
         "Band": "3",
         "longitude": "145.342746",
-        "Name": "BP Tecoma"
+        "Name": "BP Tecoma",
       },
       {
         "Address": "Mountain Hwy & Miller Rd",
@@ -5649,7 +5649,7 @@ export const getDecrypted = () => ({
         "siteId": "61302536",
         "Band": "9",
         "longitude": "145.306763",
-        "Name": "United The Basin"
+        "Name": "United The Basin",
       },
       {
         "Address": "16-18 Moore St",
@@ -5657,7 +5657,7 @@ export const getDecrypted = () => ({
         "siteId": "61302541",
         "Band": "9",
         "longitude": "144.697786",
-        "Name": "United Rochester"
+        "Name": "United Rochester",
       },
       {
         "Address": "66 Maroondah Hwy",
@@ -5665,7 +5665,7 @@ export const getDecrypted = () => ({
         "siteId": "61302547",
         "Band": "9",
         "longitude": "145.513161",
-        "Name": "BP Healesville"
+        "Name": "BP Healesville",
       },
       {
         "Address": "123 Maroondah Hwy",
@@ -5673,7 +5673,7 @@ export const getDecrypted = () => ({
         "siteId": "61302548",
         "Band": "7",
         "longitude": "145.510634",
-        "Name": "Coles Express Healesville"
+        "Name": "Coles Express Healesville",
       },
       {
         "Address": "137-141 Mahoneys Rd",
@@ -5681,7 +5681,7 @@ export const getDecrypted = () => ({
         "siteId": "61302555",
         "Band": "2",
         "longitude": "144.990508",
-        "Name": "Ampol Foodary Reservoir"
+        "Name": "Ampol Foodary Reservoir",
       },
       {
         "Address": "380 South Gippsland Hwy",
@@ -5689,7 +5689,7 @@ export const getDecrypted = () => ({
         "siteId": "61302556",
         "Band": "2",
         "longitude": "145.278627",
-        "Name": "EG Ampol Cranbourne"
+        "Name": "EG Ampol Cranbourne",
       },
       {
         "Address": "918-928 Springvale Rd",
@@ -5697,7 +5697,7 @@ export const getDecrypted = () => ({
         "siteId": "61302557",
         "Band": "3",
         "longitude": "145.140309",
-        "Name": "Coles Express Braeside"
+        "Name": "Coles Express Braeside",
       },
       {
         "Address": "63 Kimberley Dr",
@@ -5705,7 +5705,7 @@ export const getDecrypted = () => ({
         "siteId": "61302558",
         "Band": "4",
         "longitude": "145.311201",
-        "Name": "EG Ampol Chirnside Park"
+        "Name": "EG Ampol Chirnside Park",
       },
       {
         "Address": "2-5 Lambert St",
@@ -5713,7 +5713,7 @@ export const getDecrypted = () => ({
         "siteId": "61302559",
         "Band": "6",
         "longitude": "142.927421",
-        "Name": "EG Ampol Ararat"
+        "Name": "EG Ampol Ararat",
       },
       {
         "Address": "1-3 Fourth Av & Nepean Hwy",
@@ -5721,7 +5721,7 @@ export const getDecrypted = () => ({
         "siteId": "61302560",
         "Band": "4",
         "longitude": "144.899199",
-        "Name": "EG Ampol Rosebud"
+        "Name": "EG Ampol Rosebud",
       },
       {
         "Address": "1263 Howitt St",
@@ -5729,7 +5729,7 @@ export const getDecrypted = () => ({
         "siteId": "61302561",
         "Band": "9",
         "longitude": "143.82496140244675",
-        "Name": "Pearl Energy  Wendouree"
+        "Name": "Pearl Energy  Wendouree",
       },
       {
         "Address": "625 Lower Dandenong Rd",
@@ -5737,7 +5737,7 @@ export const getDecrypted = () => ({
         "siteId": "61302562",
         "Band": "9",
         "longitude": "145.140889",
-        "Name": "Shell Dingley"
+        "Name": "Shell Dingley",
       },
       {
         "Address": "Dalton Rd & Wood St",
@@ -5745,7 +5745,7 @@ export const getDecrypted = () => ({
         "siteId": "61302563",
         "Band": "3",
         "longitude": "145.025933",
-        "Name": "Ampol Foodary Thomastown"
+        "Name": "Ampol Foodary Thomastown",
       },
       {
         "Address": "71 Mclean St & Powerscourt Rd",
@@ -5753,7 +5753,7 @@ export const getDecrypted = () => ({
         "siteId": "61302564",
         "Band": "9",
         "longitude": "146.985907",
-        "Name": "Shell Maffra"
+        "Name": "Shell Maffra",
       },
       {
         "Address": "65-73 Brandy Creek Rd",
@@ -5761,7 +5761,7 @@ export const getDecrypted = () => ({
         "siteId": "61302565",
         "Band": "9",
         "longitude": "145.937309",
-        "Name": "Mobil Warragul"
+        "Name": "Mobil Warragul",
       },
       {
         "Address": "Anderson St & Wood St",
@@ -5769,7 +5769,7 @@ export const getDecrypted = () => ({
         "siteId": "61302568",
         "Band": "3",
         "longitude": "145.130415",
-        "Name": "7-Eleven Templestowe"
+        "Name": "7-Eleven Templestowe",
       },
       {
         "Address": "1441 Burwood Hwy & Mast Gully Rd",
@@ -5777,7 +5777,7 @@ export const getDecrypted = () => ({
         "siteId": "61302573",
         "Band": "3",
         "longitude": "145.330122",
-        "Name": "7-Eleven Upwey"
+        "Name": "7-Eleven Upwey",
       },
       {
         "Address": "Canterbury Rd & Rooks Rd",
@@ -5785,7 +5785,7 @@ export const getDecrypted = () => ({
         "siteId": "61302576",
         "Band": "3",
         "longitude": "145.188734",
-        "Name": "BP Rooksby"
+        "Name": "BP Rooksby",
       },
       {
         "Address": "Canterbury Rd & Boronia Rd",
@@ -5793,7 +5793,7 @@ export const getDecrypted = () => ({
         "siteId": "61302578",
         "Band": "3",
         "longitude": "145.195876",
-        "Name": "7-Eleven Vermont"
+        "Name": "7-Eleven Vermont",
       },
       {
         "Address": "549 Sprinvale Road",
@@ -5801,7 +5801,7 @@ export const getDecrypted = () => ({
         "siteId": "61302579",
         "Band": "3",
         "longitude": "145.170182",
-        "Name": "BP Vermont"
+        "Name": "BP Vermont",
       },
       {
         "Address": "602-604 Burwood Hwy",
@@ -5809,7 +5809,7 @@ export const getDecrypted = () => ({
         "siteId": "61302583",
         "Band": "3",
         "longitude": "145.195108",
-        "Name": "Shell Reddy Express Vermont South"
+        "Name": "Shell Reddy Express Vermont South",
       },
       {
         "Address": "Grey Street",
@@ -5817,7 +5817,7 @@ export const getDecrypted = () => ({
         "siteId": "61302585",
         "Band": "9",
         "longitude": "146.514676",
-        "Name": "Western Supermarket Traralgon"
+        "Name": "Western Supermarket Traralgon",
       },
       {
         "Address": "1025-1045 Cranbourne-Frankston Rd & Monahans Rd",
@@ -5825,7 +5825,7 @@ export const getDecrypted = () => ({
         "siteId": "61302587",
         "Band": "3",
         "longitude": "145.264097",
-        "Name": "BP South Cranbourne"
+        "Name": "BP South Cranbourne",
       },
       {
         "Address": "570 Boronia Rd",
@@ -5833,7 +5833,7 @@ export const getDecrypted = () => ({
         "siteId": "61302591",
         "Band": "9",
         "longitude": "145.236405",
-        "Name": "Fast Fuel Wantirna"
+        "Name": "Fast Fuel Wantirna",
       },
       {
         "Address": "276 Clyde Rd",
@@ -5841,7 +5841,7 @@ export const getDecrypted = () => ({
         "siteId": "61302594",
         "Band": "9",
         "longitude": "145.338308",
-        "Name": "BP Berwick"
+        "Name": "BP Berwick",
       },
       {
         "Address": "200 Pt Lonsdale Rd",
@@ -5849,7 +5849,7 @@ export const getDecrypted = () => ({
         "siteId": "61302595",
         "Band": "9",
         "longitude": "144.618946",
-        "Name": "Springs Convenience Store"
+        "Name": "Springs Convenience Store",
       },
       {
         "Address": "212-216 Jells Rd",
@@ -5857,7 +5857,7 @@ export const getDecrypted = () => ({
         "siteId": "61302599",
         "Band": "4",
         "longitude": "145.188709",
-        "Name": "EG Ampol Wheelers Hill"
+        "Name": "EG Ampol Wheelers Hill",
       },
       {
         "Address": "331 Kings Way",
@@ -5865,7 +5865,7 @@ export const getDecrypted = () => ({
         "siteId": "61302601",
         "Band": "5",
         "longitude": "144.970205",
-        "Name": "BP Kingsway"
+        "Name": "BP Kingsway",
       },
       {
         "Address": "256-260 Kings Way",
@@ -5873,7 +5873,7 @@ export const getDecrypted = () => ({
         "siteId": "61302602",
         "Band": "3",
         "longitude": "144.966093",
-        "Name": "Ampol Foodary South Melbourne"
+        "Name": "Ampol Foodary South Melbourne",
       },
       {
         "Address": "444 Stud Rd",
@@ -5881,7 +5881,7 @@ export const getDecrypted = () => ({
         "siteId": "61302603",
         "Band": "9",
         "longitude": "145.232618",
-        "Name": "BP AA Wantirna South"
+        "Name": "BP AA Wantirna South",
       },
       {
         "Address": "435 Stud Rd & High St",
@@ -5889,7 +5889,7 @@ export const getDecrypted = () => ({
         "siteId": "61302604",
         "Band": "3",
         "longitude": "145.233391",
-        "Name": "Coles Express Wantirna South"
+        "Name": "Coles Express Wantirna South",
       },
       {
         "Address": "Burwood Hwy & Stud Rd",
@@ -5897,7 +5897,7 @@ export const getDecrypted = () => ({
         "siteId": "61302605",
         "Band": "3",
         "longitude": "145.236216",
-        "Name": "7-Eleven Wantirna South"
+        "Name": "7-Eleven Wantirna South",
       },
       {
         "Address": "1247 High St Rd & Cathies Ln",
@@ -5905,7 +5905,7 @@ export const getDecrypted = () => ({
         "siteId": "61302608",
         "Band": "3",
         "longitude": "145.215052",
-        "Name": "7-Eleven Wantirna South"
+        "Name": "7-Eleven Wantirna South",
       },
       {
         "Address": "1237 Toorak Road",
@@ -5913,7 +5913,7 @@ export const getDecrypted = () => ({
         "siteId": "61302609",
         "Band": "9",
         "longitude": "145.082145",
-        "Name": "BP AA Camberwell"
+        "Name": "BP AA Camberwell",
       },
       {
         "Address": "Burwood Hwy & Central Av",
@@ -5921,7 +5921,7 @@ export const getDecrypted = () => ({
         "siteId": "61302610",
         "Band": "2",
         "longitude": "145.097873",
-        "Name": "Coles Express Burwood"
+        "Name": "Coles Express Burwood",
       },
       {
         "Address": "482 Warrandyte Ringwood Rd",
@@ -5929,7 +5929,7 @@ export const getDecrypted = () => ({
         "siteId": "61302613",
         "Band": "5",
         "longitude": "145.233831",
-        "Name": "Coles Express Warrandyte South"
+        "Name": "Coles Express Warrandyte South",
       },
       {
         "Address": "6 Bell St",
@@ -5937,7 +5937,7 @@ export const getDecrypted = () => ({
         "siteId": "61302615",
         "Band": "9",
         "longitude": "145.374677",
-        "Name": "United Yarra Glen"
+        "Name": "United Yarra Glen",
       },
       {
         "Address": "144 Burwood Hwy & Cromwell St",
@@ -5945,7 +5945,7 @@ export const getDecrypted = () => ({
         "siteId": "61302616",
         "Band": "9",
         "longitude": "145.104236",
-        "Name": "BP AA Burwood"
+        "Name": "BP AA Burwood",
       },
       {
         "Address": "322 City Rd & Clarendon St",
@@ -5953,7 +5953,7 @@ export const getDecrypted = () => ({
         "siteId": "61302619",
         "Band": "5",
         "longitude": "144.957722",
-        "Name": "BP Clarendon"
+        "Name": "BP Clarendon",
       },
       {
         "Address": "441-445 City Rd & York St",
@@ -5961,7 +5961,7 @@ export const getDecrypted = () => ({
         "siteId": "61302624",
         "Band": "9",
         "longitude": "144.952929",
-        "Name": "Shell South Melbourne"
+        "Name": "Shell South Melbourne",
       },
       {
         "Address": "422 Bay Street",
@@ -5969,7 +5969,7 @@ export const getDecrypted = () => ({
         "siteId": "61302626",
         "Band": "9",
         "longitude": "144.946255",
-        "Name": "BP Port Melbourne"
+        "Name": "BP Port Melbourne",
       },
       {
         "Address": "Pickles St & Crockford St",
@@ -5977,7 +5977,7 @@ export const getDecrypted = () => ({
         "siteId": "61302627",
         "Band": "5",
         "longitude": "144.949432",
-        "Name": "7-Eleven Port Melbourne"
+        "Name": "7-Eleven Port Melbourne",
       },
       {
         "Address": "282 Swan St & Harvey St",
@@ -5985,7 +5985,7 @@ export const getDecrypted = () => ({
         "siteId": "61302634",
         "Band": "9",
         "longitude": "145.000299",
-        "Name": "BP AA Swan Street"
+        "Name": "BP AA Swan Street",
       },
       {
         "Address": "Lower Heidelberg Rd & Burgundy St",
@@ -5993,7 +5993,7 @@ export const getDecrypted = () => ({
         "siteId": "61302639",
         "Band": "3",
         "longitude": "145.069569",
-        "Name": "7-Eleven Heidelberg"
+        "Name": "7-Eleven Heidelberg",
       },
       {
         "Address": "Plenty Rd & Greenhill Rd",
@@ -6001,7 +6001,7 @@ export const getDecrypted = () => ({
         "siteId": "61302646",
         "Band": "3",
         "longitude": "145.062248",
-        "Name": "Coles Express Bundoora"
+        "Name": "Coles Express Bundoora",
       },
       {
         "Address": "422-424 Hoddle St",
@@ -6009,7 +6009,7 @@ export const getDecrypted = () => ({
         "siteId": "61302652",
         "Band": "3",
         "longitude": "144.994824",
-        "Name": "7-Eleven Clifton Hill"
+        "Name": "7-Eleven Clifton Hill",
       },
       {
         "Address": "370 Ferrars St & Bridport",
@@ -6017,7 +6017,7 @@ export const getDecrypted = () => ({
         "siteId": "61302655",
         "Band": "5",
         "longitude": "144.958169",
-        "Name": "Ampol Foodary Albert Park"
+        "Name": "Ampol Foodary Albert Park",
       },
       {
         "Address": "Nicholson St & Princes St",
@@ -6025,7 +6025,7 @@ export const getDecrypted = () => ({
         "siteId": "61302656",
         "Band": "9",
         "longitude": "144.975267",
-        "Name": "Metro Petroleum Carlton"
+        "Name": "Metro Petroleum Carlton",
       },
       {
         "Address": "193 Elgin St",
@@ -6033,7 +6033,7 @@ export const getDecrypted = () => ({
         "siteId": "61302657",
         "Band": "3",
         "longitude": "144.96800343435857",
-        "Name": "Shell Reddy Express Carlton (Vic)"
+        "Name": "Shell Reddy Express Carlton (Vic)",
       },
       {
         "Address": "151 Kings Way",
@@ -6041,7 +6041,7 @@ export const getDecrypted = () => ({
         "siteId": "61302660",
         "Band": "9",
         "longitude": "144.963712",
-        "Name": "United Kingsway"
+        "Name": "United Kingsway",
       },
       {
         "Address": "303 Wellington Rd",
@@ -6049,7 +6049,7 @@ export const getDecrypted = () => ({
         "siteId": "61302663",
         "Band": "9",
         "longitude": "145.159443",
-        "Name": "BP AA Mulgrave"
+        "Name": "BP AA Mulgrave",
       },
       {
         "Address": "Police Rd & Hansworth St",
@@ -6057,7 +6057,7 @@ export const getDecrypted = () => ({
         "siteId": "61302664",
         "Band": "3",
         "longitude": "145.187777",
-        "Name": "7-Eleven Waverley Gardens"
+        "Name": "7-Eleven Waverley Gardens",
       },
       {
         "Address": "Jacksons Rd & Police Rd",
@@ -6065,7 +6065,7 @@ export const getDecrypted = () => ({
         "siteId": "61302665",
         "Band": "3",
         "longitude": "145.191833",
-        "Name": "Shell Reddy Express Mulgrave"
+        "Name": "Shell Reddy Express Mulgrave",
       },
       {
         "Address": "1180 Stud Rd",
@@ -6073,7 +6073,7 @@ export const getDecrypted = () => ({
         "siteId": "61302666",
         "Band": "3",
         "longitude": "145.232824",
-        "Name": "EG Ampol Rowville"
+        "Name": "EG Ampol Rowville",
       },
       {
         "Address": "1534 Heatherton Road",
@@ -6081,7 +6081,7 @@ export const getDecrypted = () => ({
         "siteId": "61302667",
         "Band": "2",
         "longitude": "145.224034",
-        "Name": "Ampol Foodary Dandenong Stud Road"
+        "Name": "Ampol Foodary Dandenong Stud Road",
       },
       {
         "Address": "699 Boronia Rd & Wantirna Rd",
@@ -6089,7 +6089,7 @@ export const getDecrypted = () => ({
         "siteId": "61302668",
         "Band": "3",
         "longitude": "145.226362",
-        "Name": "EG Ampol Wantirna"
+        "Name": "EG Ampol Wantirna",
       },
       {
         "Address": "Maroondah Hwy & Nelson Rd",
@@ -6097,7 +6097,7 @@ export const getDecrypted = () => ({
         "siteId": "61302669",
         "Band": "9",
         "longitude": "145.365572",
-        "Name": "United Lilydale North"
+        "Name": "United Lilydale North",
       },
       {
         "Address": "361 Warburton Hwy",
@@ -6105,7 +6105,7 @@ export const getDecrypted = () => ({
         "siteId": "61302670",
         "Band": "9",
         "longitude": "145.427896",
-        "Name": "Liberty Wandin North"
+        "Name": "Liberty Wandin North",
       },
       {
         "Address": "389-391 Warburton Hwy",
@@ -6113,7 +6113,7 @@ export const getDecrypted = () => ({
         "siteId": "61302671",
         "Band": "9",
         "longitude": "145.431103",
-        "Name": "Fast Fuel Wandin"
+        "Name": "Fast Fuel Wandin",
       },
       {
         "Address": "259 Burwood Hwy",
@@ -6121,7 +6121,7 @@ export const getDecrypted = () => ({
         "siteId": "61302672",
         "Band": "9",
         "longitude": "145.118676",
-        "Name": "United Burwood"
+        "Name": "United Burwood",
       },
       {
         "Address": "100 Mt Dandenong Tourist Road",
@@ -6129,7 +6129,7 @@ export const getDecrypted = () => ({
         "siteId": "61302684",
         "Band": "9",
         "longitude": "145.327846",
-        "Name": "Ampol Tremont"
+        "Name": "Ampol Tremont",
       },
       {
         "Address": "Sunshine Av & Main Rd East",
@@ -6137,7 +6137,7 @@ export const getDecrypted = () => ({
         "siteId": "61302687",
         "Band": "3",
         "longitude": "144.832106",
-        "Name": "Ampol Foodary Kealba"
+        "Name": "Ampol Foodary Kealba",
       },
       {
         "Address": "42-44 Little Boundary Rd",
@@ -6145,7 +6145,7 @@ export const getDecrypted = () => ({
         "siteId": "61302688",
         "Band": "4",
         "longitude": "144.818258",
-        "Name": "BP Energy Fuel Laverton"
+        "Name": "BP Energy Fuel Laverton",
       },
       {
         "Address": "290-306 Anakie Rd",
@@ -6153,7 +6153,7 @@ export const getDecrypted = () => ({
         "siteId": "61302689",
         "Band": "4",
         "longitude": "144.336155",
-        "Name": "EG Ampol Norlane"
+        "Name": "EG Ampol Norlane",
       },
       {
         "Address": "965 Toorak Rd",
@@ -6161,7 +6161,7 @@ export const getDecrypted = () => ({
         "siteId": "61302693",
         "Band": "3",
         "longitude": "145.062871",
-        "Name": "EG Ampol Camberwell South"
+        "Name": "EG Ampol Camberwell South",
       },
       {
         "Address": "550 Riversdale Rd",
@@ -6169,7 +6169,7 @@ export const getDecrypted = () => ({
         "siteId": "61302698",
         "Band": "3",
         "longitude": "145.058745",
-        "Name": "EG Ampol Camberwell"
+        "Name": "EG Ampol Camberwell",
       },
       {
         "Address": "267-283 High St",
@@ -6177,7 +6177,7 @@ export const getDecrypted = () => ({
         "siteId": "61302700",
         "Band": "3",
         "longitude": "144.240976",
-        "Name": "EG Ampol Lansell Plaza"
+        "Name": "EG Ampol Lansell Plaza",
       },
       {
         "Address": "541 Plenty Road",
@@ -6185,7 +6185,7 @@ export const getDecrypted = () => ({
         "siteId": "61302703",
         "Band": "7",
         "longitude": "145.081491",
-        "Name": "EG Ampol South Morang"
+        "Name": "EG Ampol South Morang",
       },
       {
         "Address": "854 Moorooduc Hwy",
@@ -6193,7 +6193,7 @@ export const getDecrypted = () => ({
         "siteId": "61302704",
         "Band": "3",
         "longitude": "145.084733",
-        "Name": "Ampol Foodary Moorooduc - Mornington"
+        "Name": "Ampol Foodary Moorooduc - Mornington",
       },
       {
         "Address": "Princes Hwy & Pousties Rd",
@@ -6201,7 +6201,7 @@ export const getDecrypted = () => ({
         "siteId": "61302705",
         "Band": "9",
         "longitude": "144.492729",
-        "Name": "BP Little River (Geelong Bound)"
+        "Name": "BP Little River (Geelong Bound)",
       },
       {
         "Address": "Princes Hwy & Hughes Rd",
@@ -6209,7 +6209,7 @@ export const getDecrypted = () => ({
         "siteId": "61302706",
         "Band": "9",
         "longitude": "144.491113",
-        "Name": "BP Little River (Melb. Bound)"
+        "Name": "BP Little River (Melb. Bound)",
       },
       {
         "Address": "Neale Rd",
@@ -6217,7 +6217,7 @@ export const getDecrypted = () => ({
         "siteId": "61302708",
         "Band": "5",
         "longitude": "144.771841",
-        "Name": "EG Ampol Albanvale"
+        "Name": "EG Ampol Albanvale",
       },
       {
         "Address": "321 Main St",
@@ -6225,7 +6225,7 @@ export const getDecrypted = () => ({
         "siteId": "61302709",
         "Band": "5",
         "longitude": "145.042865",
-        "Name": "EG Ampol Mornington"
+        "Name": "EG Ampol Mornington",
       },
       {
         "Address": "Western Hwy & Caroline Springs Bvd",
@@ -6233,7 +6233,7 @@ export const getDecrypted = () => ({
         "siteId": "61302710",
         "Band": "3",
         "longitude": "144.740907",
-        "Name": "BP Connect Caroline Springs"
+        "Name": "BP Connect Caroline Springs",
       },
       {
         "Address": "210 Dunns & Bentons Rd",
@@ -6241,7 +6241,7 @@ export const getDecrypted = () => ({
         "siteId": "61302711",
         "Band": "4",
         "longitude": "145.047761",
-        "Name": "EG Ampol Mornington East"
+        "Name": "EG Ampol Mornington East",
       },
       {
         "Address": "Bourke Rd & Viney St",
@@ -6249,7 +6249,7 @@ export const getDecrypted = () => ({
         "siteId": "61302712",
         "Band": "3",
         "longitude": "145.102162",
-        "Name": "EG Ampol Clarinda"
+        "Name": "EG Ampol Clarinda",
       },
       {
         "Address": "50 Middleborough Rd",
@@ -6257,7 +6257,7 @@ export const getDecrypted = () => ({
         "siteId": "61302713",
         "Band": "2",
         "longitude": "145.132751",
-        "Name": "EG Ampol East Burwood"
+        "Name": "EG Ampol East Burwood",
       },
       {
         "Address": "Karingal Dr",
@@ -6265,7 +6265,7 @@ export const getDecrypted = () => ({
         "siteId": "61302714",
         "Band": "5",
         "longitude": "145.165219",
-        "Name": "EG Ampol Karingal"
+        "Name": "EG Ampol Karingal",
       },
       {
         "Address": "33 Hutchinson St",
@@ -6273,7 +6273,7 @@ export const getDecrypted = () => ({
         "siteId": "61302715",
         "Band": "4",
         "longitude": "145.348262",
-        "Name": "EG Ampol Lilydale"
+        "Name": "EG Ampol Lilydale",
       },
       {
         "Address": "49-53 Main St",
@@ -6281,7 +6281,7 @@ export const getDecrypted = () => ({
         "siteId": "61302716",
         "Band": "3",
         "longitude": "145.480179",
-        "Name": "EG Ampol Pakenham"
+        "Name": "EG Ampol Pakenham",
       },
       {
         "Address": "17 Eramosa West Road",
@@ -6289,7 +6289,7 @@ export const getDecrypted = () => ({
         "siteId": "61302718",
         "Band": "3",
         "longitude": "145.171449",
-        "Name": "EG Ampol Somerville"
+        "Name": "EG Ampol Somerville",
       },
       {
         "Address": "Seymour Street",
@@ -6297,7 +6297,7 @@ export const getDecrypted = () => ({
         "siteId": "61302719",
         "Band": "4",
         "longitude": "146.540415",
-        "Name": "EG Ampol Traralgon"
+        "Name": "EG Ampol Traralgon",
       },
       {
         "Address": " Cnr Princes Hwy & Maltby By-Pass",
@@ -6305,7 +6305,7 @@ export const getDecrypted = () => ({
         "siteId": "61302720",
         "Band": "5",
         "longitude": "144.630545",
-        "Name": "Ampol Foodary Werribee"
+        "Name": "Ampol Foodary Werribee",
       },
       {
         "Address": "6511 Western Freeway",
@@ -6313,7 +6313,7 @@ export const getDecrypted = () => ({
         "siteId": "61302721",
         "Band": "9",
         "longitude": "144.242246",
-        "Name": "Mobil Ballan West"
+        "Name": "Mobil Ballan West",
       },
       {
         "Address": "35 Emily St",
@@ -6321,7 +6321,7 @@ export const getDecrypted = () => ({
         "siteId": "61302722",
         "Band": "9",
         "longitude": "145.127612",
-        "Name": "Liberty Seymour"
+        "Name": "Liberty Seymour",
       },
       {
         "Address": "3935 South Gippsland Hwy & Sybella Av",
@@ -6329,7 +6329,7 @@ export const getDecrypted = () => ({
         "siteId": "61302724",
         "Band": "5",
         "longitude": "145.496856",
-        "Name": "EG Ampol Koo Wee Rup"
+        "Name": "EG Ampol Koo Wee Rup",
       },
       {
         "Address": " Westfield Drive",
@@ -6337,7 +6337,7 @@ export const getDecrypted = () => ({
         "siteId": "61302725",
         "Band": "4",
         "longitude": "144.886531",
-        "Name": "EG Ampol Airport West"
+        "Name": "EG Ampol Airport West",
       },
       {
         "Address": "Cnr Wangaratta St & Norton St",
@@ -6345,7 +6345,7 @@ export const getDecrypted = () => ({
         "siteId": "61302726",
         "Band": "9",
         "longitude": "146.316566",
-        "Name": "Apco Wangaratta"
+        "Name": "Apco Wangaratta",
       },
       {
         "Address": "1 Western Hwy",
@@ -6353,7 +6353,7 @@ export const getDecrypted = () => ({
         "siteId": "61302727",
         "Band": "9",
         "longitude": "143.354461",
-        "Name": "United Beaufort"
+        "Name": "United Beaufort",
       },
       {
         "Address": "227-235 Mclvor Hwy & Powells Av",
@@ -6361,7 +6361,7 @@ export const getDecrypted = () => ({
         "siteId": "61302728",
         "Band": "9",
         "longitude": "144.318046",
-        "Name": "Apco Bendigo"
+        "Name": "Apco Bendigo",
       },
       {
         "Address": "96 Princes Hwy",
@@ -6369,7 +6369,7 @@ export const getDecrypted = () => ({
         "siteId": "61302729",
         "Band": "9",
         "longitude": "147.649817",
-        "Name": "United Bairnsdale"
+        "Name": "United Bairnsdale",
       },
       {
         "Address": "204-208 High St",
@@ -6377,7 +6377,7 @@ export const getDecrypted = () => ({
         "siteId": "61302730",
         "Band": "3",
         "longitude": "143.739785",
-        "Name": "EG Ampol Maryborough"
+        "Name": "EG Ampol Maryborough",
       },
       {
         "Address": "Henty And Borung Highway",
@@ -6385,7 +6385,7 @@ export const getDecrypted = () => ({
         "siteId": "61302732",
         "Band": "9",
         "longitude": "142.400891",
-        "Name": "Shell Werrigar Roadhouse"
+        "Name": "Shell Werrigar Roadhouse",
       },
       {
         "Address": "Moore Street",
@@ -6393,7 +6393,7 @@ export const getDecrypted = () => ({
         "siteId": "61302733",
         "Band": "9",
         "longitude": "144.699378",
-        "Name": "Murray Goldburn Trading Rochester"
+        "Name": "Murray Goldburn Trading Rochester",
       },
       {
         "Address": "Princes Highway",
@@ -6401,7 +6401,7 @@ export const getDecrypted = () => ({
         "siteId": "61302734",
         "Band": "9",
         "longitude": "147.068238",
-        "Name": "United Sale"
+        "Name": "United Sale",
       },
       {
         "Address": "Cnr Lot 1 Bass Hwy & Pier Rd",
@@ -6409,7 +6409,7 @@ export const getDecrypted = () => ({
         "siteId": "61302735",
         "Band": "9",
         "longitude": "145.529571",
-        "Name": "BP Grantville"
+        "Name": "BP Grantville",
       },
       {
         "Address": "South Gippsland Highway",
@@ -6417,7 +6417,7 @@ export const getDecrypted = () => ({
         "siteId": "61302736",
         "Band": "9",
         "longitude": "145.821068",
-        "Name": "BP Korrumburra"
+        "Name": "BP Korrumburra",
       },
       {
         "Address": "53 Albert St",
@@ -6425,7 +6425,7 @@ export const getDecrypted = () => ({
         "siteId": "61302738",
         "Band": "5",
         "longitude": "142.229735",
-        "Name": "BP Port Fairy"
+        "Name": "BP Port Fairy",
       },
       {
         "Address": "224-226 Mccrae St",
@@ -6433,7 +6433,7 @@ export const getDecrypted = () => ({
         "siteId": "61302739",
         "Band": "3",
         "longitude": "144.288373",
-        "Name": "Ampol Foodary Bendigo"
+        "Name": "Ampol Foodary Bendigo",
       },
       {
         "Address": "2090 Fifteenth St",
@@ -6441,7 +6441,7 @@ export const getDecrypted = () => ({
         "siteId": "61302740",
         "Band": "5",
         "longitude": "142.165557",
-        "Name": "OTR Irymple"
+        "Name": "OTR Irymple",
       },
       {
         "Address": "322 Main St",
@@ -6449,7 +6449,7 @@ export const getDecrypted = () => ({
         "siteId": "61302741",
         "Band": "5",
         "longitude": "147.624454",
-        "Name": "EG Ampol Bairnsdale"
+        "Name": "EG Ampol Bairnsdale",
       },
       {
         "Address": "165 High St",
@@ -6457,7 +6457,7 @@ export const getDecrypted = () => ({
         "siteId": "61302742",
         "Band": "9",
         "longitude": "145.056137",
-        "Name": "Broad Fuel"
+        "Name": "Broad Fuel",
       },
       {
         "Address": "1262 Calder Fwy",
@@ -6465,7 +6465,7 @@ export const getDecrypted = () => ({
         "siteId": "61302743",
         "Band": "9",
         "longitude": "144.753351",
-        "Name": "BP AA Calder Inbound"
+        "Name": "BP AA Calder Inbound",
       },
       {
         "Address": "Northern Hwy",
@@ -6473,7 +6473,7 @@ export const getDecrypted = () => ({
         "siteId": "61302744",
         "Band": "9",
         "longitude": "144.980041",
-        "Name": "Shell Wallan"
+        "Name": "Shell Wallan",
       },
       {
         "Address": "48 Wallington Rd",
@@ -6481,7 +6481,7 @@ export const getDecrypted = () => ({
         "siteId": "61302745",
         "Band": "9",
         "longitude": "144.511859",
-        "Name": "Shell Ocean Grove"
+        "Name": "Shell Ocean Grove",
       },
       {
         "Address": "27 41 Bellarine Hwy",
@@ -6489,7 +6489,7 @@ export const getDecrypted = () => ({
         "siteId": "61302746",
         "Band": "4",
         "longitude": "144.389139",
-        "Name": "EG Ampol Newcomb"
+        "Name": "EG Ampol Newcomb",
       },
       {
         "Address": "110 High St",
@@ -6497,7 +6497,7 @@ export const getDecrypted = () => ({
         "siteId": "61302748",
         "Band": "9",
         "longitude": "144.561332",
-        "Name": "Shell Drysdale"
+        "Name": "Shell Drysdale",
       },
       {
         "Address": "97-105 Willis St",
@@ -6505,7 +6505,7 @@ export const getDecrypted = () => ({
         "siteId": "61302750",
         "Band": "7",
         "longitude": "144.003014",
-        "Name": "BP Winchelsea"
+        "Name": "BP Winchelsea",
       },
       {
         "Address": "56-58 Bailey St",
@@ -6513,7 +6513,7 @@ export const getDecrypted = () => ({
         "siteId": "61302752",
         "Band": "9",
         "longitude": "142.972747",
-        "Name": "Timboon Motors"
+        "Name": "Timboon Motors",
       },
       {
         "Address": "98 Mortlake Road",
@@ -6521,7 +6521,7 @@ export const getDecrypted = () => ({
         "siteId": "61302754",
         "Band": "9",
         "longitude": "142.494162",
-        "Name": "BP One Stop Warrnambool"
+        "Name": "BP One Stop Warrnambool",
       },
       {
         "Address": "Main Rd",
@@ -6529,7 +6529,7 @@ export const getDecrypted = () => ({
         "siteId": "61302755",
         "Band": "9",
         "longitude": "141.008334",
-        "Name": "Mobil Nelson"
+        "Name": "Mobil Nelson",
       },
       {
         "Address": "24-26 Memorial Road",
@@ -6537,7 +6537,7 @@ export const getDecrypted = () => ({
         "siteId": "61302756",
         "Band": "9",
         "longitude": "142.547402",
-        "Name": "BP Glenthompson Roadhouse"
+        "Name": "BP Glenthompson Roadhouse",
       },
       {
         "Address": "1 Henty St",
@@ -6545,7 +6545,7 @@ export const getDecrypted = () => ({
         "siteId": "61302757",
         "Band": "9",
         "longitude": "141.408165",
-        "Name": "Casterton Farm Supplies"
+        "Name": "Casterton Farm Supplies",
       },
       {
         "Address": "14-16 Hamilton Rd",
@@ -6553,7 +6553,7 @@ export const getDecrypted = () => ({
         "siteId": "61302758",
         "Band": "9",
         "longitude": "143.345227",
-        "Name": "J & D Automotive"
+        "Name": "J & D Automotive",
       },
       {
         "Address": "2124 Glenelg Hwy",
@@ -6561,7 +6561,7 @@ export const getDecrypted = () => ({
         "siteId": "61302760",
         "Band": "9",
         "longitude": "142.839275",
-        "Name": "Lake Bolac Licensed S/Market"
+        "Name": "Lake Bolac Licensed S/Market",
       },
       {
         "Address": "501 Warrenheip St",
@@ -6569,7 +6569,7 @@ export const getDecrypted = () => ({
         "siteId": "61302761",
         "Band": "9",
         "longitude": "143.884392",
-        "Name": "Buninyong Service Station"
+        "Name": "Buninyong Service Station",
       },
       {
         "Address": "Glenelg Highway",
@@ -6577,7 +6577,7 @@ export const getDecrypted = () => ({
         "siteId": "61302762",
         "Band": "2",
         "longitude": "143.361434",
-        "Name": "Skipton Roadhouse"
+        "Name": "Skipton Roadhouse",
       },
       {
         "Address": "64 Burke St",
@@ -6585,7 +6585,7 @@ export const getDecrypted = () => ({
         "siteId": "61302764",
         "Band": "9",
         "longitude": "143.131306",
-        "Name": "Navarre General Store"
+        "Name": "Navarre General Store",
       },
       {
         "Address": "Lyle St & Scott St",
@@ -6593,7 +6593,7 @@ export const getDecrypted = () => ({
         "siteId": "61302766",
         "Band": "9",
         "longitude": "142.395411",
-        "Name": "Ampol Warracknabeal"
+        "Name": "Ampol Warracknabeal",
       },
       {
         "Address": "105 Henty Hwy",
@@ -6601,7 +6601,7 @@ export const getDecrypted = () => ({
         "siteId": "61302767",
         "Band": "9",
         "longitude": "142.423024",
-        "Name": "Ml Williams"
+        "Name": "Ml Williams",
       },
       {
         "Address": "95 Lascelles St",
@@ -6609,7 +6609,7 @@ export const getDecrypted = () => ({
         "siteId": "61302768",
         "Band": "9",
         "longitude": "142.365492",
-        "Name": "BP Hopetoun & Dca"
+        "Name": "BP Hopetoun & Dca",
       },
       {
         "Address": "163 Lloyd St",
@@ -6617,7 +6617,7 @@ export const getDecrypted = () => ({
         "siteId": "61302769",
         "Band": "9",
         "longitude": "142.023208",
-        "Name": "Endeavour Dimboola"
+        "Name": "Endeavour Dimboola",
       },
       {
         "Address": "Heathcote Kyneton Rd",
@@ -6625,7 +6625,7 @@ export const getDecrypted = () => ({
         "siteId": "61302772",
         "Band": "9",
         "longitude": "144.531195",
-        "Name": "Redesdale Store"
+        "Name": "Redesdale Store",
       },
       {
         "Address": "51-57 High St",
@@ -6633,7 +6633,7 @@ export const getDecrypted = () => ({
         "siteId": "61302774",
         "Band": "8",
         "longitude": "144.068266",
-        "Name": "Robert Cox Motors"
+        "Name": "Robert Cox Motors",
       },
       {
         "Address": "1 Silvermines Rd",
@@ -6641,7 +6641,7 @@ export const getDecrypted = () => ({
         "siteId": "61302775",
         "Band": "6",
         "longitude": "143.254053",
-        "Name": "Apex Service Station"
+        "Name": "Apex Service Station",
       },
       {
         "Address": "8 Sunraysia Hwy",
@@ -6649,7 +6649,7 @@ export const getDecrypted = () => ({
         "siteId": "61302776",
         "Band": "9",
         "longitude": "142.438981",
-        "Name": "The Speed Service Station"
+        "Name": "The Speed Service Station",
       },
       {
         "Address": "172 High St",
@@ -6657,7 +6657,7 @@ export const getDecrypted = () => ({
         "siteId": "61302781",
         "Band": "3",
         "longitude": "144.243364",
-        "Name": "BP Kangaroo Flat"
+        "Name": "BP Kangaroo Flat",
       },
       {
         "Address": "Mary Street",
@@ -6665,7 +6665,7 @@ export const getDecrypted = () => ({
         "siteId": "61302783",
         "Band": "5",
         "longitude": "144.698388",
-        "Name": "BP Rochester"
+        "Name": "BP Rochester",
       },
       {
         "Address": "12 Murray Valley Hwy",
@@ -6673,7 +6673,7 @@ export const getDecrypted = () => ({
         "siteId": "61302784",
         "Band": "9",
         "longitude": "144.370645",
-        "Name": "Starcross Automotive Service"
+        "Name": "Starcross Automotive Service",
       },
       {
         "Address": "Murray Valley Hwy",
@@ -6681,7 +6681,7 @@ export const getDecrypted = () => ({
         "siteId": "61302786",
         "Band": "9",
         "longitude": "143.147985",
-        "Name": "Murray River Caravan Park"
+        "Name": "Murray River Caravan Park",
       },
       {
         "Address": "99 Melrose Dr",
@@ -6689,7 +6689,7 @@ export const getDecrypted = () => ({
         "siteId": "61302787",
         "Band": "3",
         "longitude": "146.865423",
-        "Name": "BP Connect Biralee"
+        "Name": "BP Connect Biralee",
       },
       {
         "Address": "145 Mt Buller Rd",
@@ -6697,7 +6697,7 @@ export const getDecrypted = () => ({
         "siteId": "61302788",
         "Band": "7",
         "longitude": "146.098241",
-        "Name": "Mansfield Chalet Roadhouse"
+        "Name": "Mansfield Chalet Roadhouse",
       },
       {
         "Address": "104 High St",
@@ -6705,7 +6705,7 @@ export const getDecrypted = () => ({
         "siteId": "61302789",
         "Band": "9",
         "longitude": "144.979957",
-        "Name": "BP Wallan"
+        "Name": "BP Wallan",
       },
       {
         "Address": "70 Main St",
@@ -6713,7 +6713,7 @@ export const getDecrypted = () => ({
         "siteId": "61302791",
         "Band": "9",
         "longitude": "147.834049",
-        "Name": "BP Bruthern Motors"
+        "Name": "BP Bruthern Motors",
       },
       {
         "Address": "196 Day Ave",
@@ -6721,7 +6721,7 @@ export const getDecrypted = () => ({
         "siteId": "61302792",
         "Band": "9",
         "longitude": "147.59041065337297",
-        "Name": "Omeo Ski Hire & Service Station"
+        "Name": "Omeo Ski Hire & Service Station",
       },
       {
         "Address": "1760 Princes Hwy",
@@ -6729,7 +6729,7 @@ export const getDecrypted = () => ({
         "siteId": "61302793",
         "Band": "9",
         "longitude": "147.830866",
-        "Name": "BP Tambo"
+        "Name": "BP Tambo",
       },
       {
         "Address": "160-162 Thompson Av",
@@ -6737,7 +6737,7 @@ export const getDecrypted = () => ({
         "siteId": "61302794",
         "Band": "9",
         "longitude": "145.238481",
-        "Name": "Cowes Service Station"
+        "Name": "Cowes Service Station",
       },
       {
         "Address": "Marma St & Duncan St",
@@ -6745,7 +6745,7 @@ export const getDecrypted = () => ({
         "siteId": "61302799",
         "Band": "9",
         "longitude": "142.467722",
-        "Name": "BP Murtoa Dca"
+        "Name": "BP Murtoa Dca",
       },
       {
         "Address": "70 Main Road",
@@ -6753,7 +6753,7 @@ export const getDecrypted = () => ({
         "siteId": "61302800",
         "Band": "9",
         "longitude": "144.675878",
-        "Name": "BP Poultons Garage"
+        "Name": "BP Poultons Garage",
       },
       {
         "Address": "4972 Murray Valley Highway",
@@ -6761,7 +6761,7 @@ export const getDecrypted = () => ({
         "siteId": "61302801",
         "Band": "9",
         "longitude": "145.500374",
-        "Name": "Strathmerton Roadhouse"
+        "Name": "Strathmerton Roadhouse",
       },
       {
         "Address": "8283 Maroondah Hwy",
@@ -6769,7 +6769,7 @@ export const getDecrypted = () => ({
         "siteId": "61302802",
         "Band": "5",
         "longitude": "145.710785",
-        "Name": "Ampol Merton"
+        "Name": "Ampol Merton",
       },
       {
         "Address": "23 Shakespeare St",
@@ -6777,7 +6777,7 @@ export const getDecrypted = () => ({
         "siteId": "61302809",
         "Band": "9",
         "longitude": "146.536416",
-        "Name": "BP Traralgon"
+        "Name": "BP Traralgon",
       },
       {
         "Address": "340 Murray Rd",
@@ -6785,7 +6785,7 @@ export const getDecrypted = () => ({
         "siteId": "61302810",
         "Band": "2",
         "longitude": "145.001854",
-        "Name": "EG Ampol Preston"
+        "Name": "EG Ampol Preston",
       },
       {
         "Address": "110 110 Humffray St S",
@@ -6793,7 +6793,7 @@ export const getDecrypted = () => ({
         "siteId": "61302811",
         "Band": "2",
         "longitude": "143.864505",
-        "Name": "EG Ampol Ballarat Central"
+        "Name": "EG Ampol Ballarat Central",
       },
       {
         "Address": "116 Mitchell Street",
@@ -6801,7 +6801,7 @@ export const getDecrypted = () => ({
         "siteId": "61302812",
         "Band": "4",
         "longitude": "144.281863",
-        "Name": "EG Ampol Bendigo Marketplace"
+        "Name": "EG Ampol Bendigo Marketplace",
       },
       {
         "Address": "2 Murray St",
@@ -6809,7 +6809,7 @@ export const getDecrypted = () => ({
         "siteId": "61302813",
         "Band": "5",
         "longitude": "145.644915",
-        "Name": "EG Ampol Cobram"
+        "Name": "EG Ampol Cobram",
       },
       {
         "Address": "371 The Esplanade",
@@ -6817,7 +6817,7 @@ export const getDecrypted = () => ({
         "siteId": "61302816",
         "Band": "5",
         "longitude": "147.987692",
-        "Name": "EG Ampol Lakes Entrance"
+        "Name": "EG Ampol Lakes Entrance",
       },
       {
         "Address": "20-22 Anderson St",
@@ -6825,7 +6825,7 @@ export const getDecrypted = () => ({
         "siteId": "61302817",
         "Band": "6",
         "longitude": "145.944929",
-        "Name": "EG Ampol Leongatha"
+        "Name": "EG Ampol Leongatha",
       },
       {
         "Address": "3 Hertford St",
@@ -6833,7 +6833,7 @@ export const getDecrypted = () => ({
         "siteId": "61302819",
         "Band": "9",
         "longitude": "143.83973715459629",
-        "Name": "Pearl Energy Sebastopol"
+        "Name": "Pearl Energy Sebastopol",
       },
       {
         "Address": "108-112 Beveridge St",
@@ -6841,7 +6841,7 @@ export const getDecrypted = () => ({
         "siteId": "61302820",
         "Band": "5",
         "longitude": "143.557852",
-        "Name": "EG Ampol Swan Hill"
+        "Name": "EG Ampol Swan Hill",
       },
       {
         "Address": "53 Smith St",
@@ -6849,7 +6849,7 @@ export const getDecrypted = () => ({
         "siteId": "61302821",
         "Band": "5",
         "longitude": "145.931633",
-        "Name": "EG Ampol Warragul"
+        "Name": "EG Ampol Warragul",
       },
       {
         "Address": "4 Murray St",
@@ -6857,7 +6857,7 @@ export const getDecrypted = () => ({
         "siteId": "61302822",
         "Band": "7",
         "longitude": "145.592285",
-        "Name": "EG Ampol Wonthaggi"
+        "Name": "EG Ampol Wonthaggi",
       },
       {
         "Address": "70-72 Union St",
@@ -6865,7 +6865,7 @@ export const getDecrypted = () => ({
         "siteId": "61302824",
         "Band": "6",
         "longitude": "145.047043",
-        "Name": "EG Ampol Kyabram"
+        "Name": "EG Ampol Kyabram",
       },
       {
         "Address": "385 Cranbourne-Frankston Rd",
@@ -6873,7 +6873,7 @@ export const getDecrypted = () => ({
         "siteId": "61302826",
         "Band": "5",
         "longitude": "145.209266",
-        "Name": "EG Ampol Langwarrin"
+        "Name": "EG Ampol Langwarrin",
       },
       {
         "Address": "910 Thompsons Rd & Dandenong-Hastings Rd",
@@ -6881,7 +6881,7 @@ export const getDecrypted = () => ({
         "siteId": "61302827",
         "Band": "3",
         "longitude": "145.240185",
-        "Name": "BP Westernport Highway"
+        "Name": "BP Westernport Highway",
       },
       {
         "Address": "Baxton-Tooradin & Frankston-Flinders Rd",
@@ -6889,7 +6889,7 @@ export const getDecrypted = () => ({
         "siteId": "61303000",
         "Band": "3",
         "longitude": "145.148828",
-        "Name": "Ampol Foodary Baxter"
+        "Name": "Ampol Foodary Baxter",
       },
       {
         "Address": "Wells Rd & Edithvale Rd",
@@ -6897,7 +6897,7 @@ export const getDecrypted = () => ({
         "siteId": "61303003",
         "Band": "3",
         "longitude": "145.130168",
-        "Name": "7-Eleven Aspendale"
+        "Name": "7-Eleven Aspendale",
       },
       {
         "Address": "2994 Frankston Flinders Rd",
@@ -6905,7 +6905,7 @@ export const getDecrypted = () => ({
         "siteId": "61303005",
         "Band": "9",
         "longitude": "145.128177",
-        "Name": "Mobil Balnarring"
+        "Name": "Mobil Balnarring",
       },
       {
         "Address": "284 Frankston-Flinders Rd",
@@ -6913,7 +6913,7 @@ export const getDecrypted = () => ({
         "siteId": "61303008",
         "Band": "9",
         "longitude": "145.140867",
-        "Name": "United Baxter"
+        "Name": "United Baxter",
       },
       {
         "Address": "Frankston-Flinders Rd & Robinsons Rd",
@@ -6921,7 +6921,7 @@ export const getDecrypted = () => ({
         "siteId": "61303009",
         "Band": "3",
         "longitude": "145.139644",
-        "Name": "Coles Express Peninsula Gateway"
+        "Name": "Coles Express Peninsula Gateway",
       },
       {
         "Address": "Moorooduc Hwy",
@@ -6929,7 +6929,7 @@ export const getDecrypted = () => ({
         "siteId": "61303010",
         "Band": "9",
         "longitude": "145.124734",
-        "Name": "Liberty Baxter"
+        "Name": "Liberty Baxter",
       },
       {
         "Address": "139 Grant Rd",
@@ -6937,7 +6937,7 @@ export const getDecrypted = () => ({
         "siteId": "61303011",
         "Band": "9",
         "longitude": "145.182115",
-        "Name": "Shell Baxter"
+        "Name": "Shell Baxter",
       },
       {
         "Address": "952 North Rd",
@@ -6945,7 +6945,7 @@ export const getDecrypted = () => ({
         "siteId": "61303016",
         "Band": "9",
         "longitude": "145.065128",
-        "Name": "Astron Murrumbeena"
+        "Name": "Astron Murrumbeena",
       },
       {
         "Address": "Tucker Rd & Mckinnon Rd",
@@ -6953,7 +6953,7 @@ export const getDecrypted = () => ({
         "siteId": "61303022",
         "Band": "3",
         "longitude": "145.052141",
-        "Name": "7-Eleven McKinnon"
+        "Name": "7-Eleven McKinnon",
       },
       {
         "Address": "East Boundary & Ardena Ct",
@@ -6961,7 +6961,7 @@ export const getDecrypted = () => ({
         "siteId": "61303023",
         "Band": "3",
         "longitude": "145.059786",
-        "Name": "Coles Express Bentleigh East"
+        "Name": "Coles Express Bentleigh East",
       },
       {
         "Address": "699 Warrigal Rd & Orange St",
@@ -6969,7 +6969,7 @@ export const getDecrypted = () => ({
         "siteId": "61303025",
         "Band": "3",
         "longitude": "145.083537",
-        "Name": "7-Eleven Oakleigh South"
+        "Name": "7-Eleven Oakleigh South",
       },
       {
         "Address": "2320 Frankston-Flinders Rd",
@@ -6977,7 +6977,7 @@ export const getDecrypted = () => ({
         "siteId": "61303028",
         "Band": "9",
         "longitude": "145.182541",
-        "Name": "Bittern Motors Bittern"
+        "Name": "Bittern Motors Bittern",
       },
       {
         "Address": "Balcombe Rd & Ebden Av",
@@ -6985,7 +6985,7 @@ export const getDecrypted = () => ({
         "siteId": "61303033",
         "Band": "2",
         "longitude": "145.017785",
-        "Name": "7-Eleven Black Rock"
+        "Name": "7-Eleven Black Rock",
       },
       {
         "Address": "196 New St & St Andrews",
@@ -6993,7 +6993,7 @@ export const getDecrypted = () => ({
         "siteId": "61303038",
         "Band": "9",
         "longitude": "144.991853",
-        "Name": "Brighton Petroleum"
+        "Name": "Brighton Petroleum",
       },
       {
         "Address": "601 Hampton Rd & South Rd",
@@ -7001,7 +7001,7 @@ export const getDecrypted = () => ({
         "siteId": "61303043",
         "Band": "5",
         "longitude": "145.003993",
-        "Name": "BP Brighton"
+        "Name": "BP Brighton",
       },
       {
         "Address": "1015 South Gippsland Highway",
@@ -7009,7 +7009,7 @@ export const getDecrypted = () => ({
         "siteId": "61303047",
         "Band": "2",
         "longitude": "145.276262",
-        "Name": "Ampol Foodary Cranbourne North"
+        "Name": "Ampol Foodary Cranbourne North",
       },
       {
         "Address": "Frankston-Flinders Rd & High St",
@@ -7017,7 +7017,7 @@ export const getDecrypted = () => ({
         "siteId": "61303050",
         "Band": "4",
         "longitude": "145.183154",
-        "Name": "Coles Express Hastings"
+        "Name": "Coles Express Hastings",
       },
       {
         "Address": "240 Cranbourne-Frankston Road",
@@ -7025,7 +7025,7 @@ export const getDecrypted = () => ({
         "siteId": "61303052",
         "Band": "9",
         "longitude": "145.196505",
-        "Name": "BP Express Langwarrin"
+        "Name": "BP Express Langwarrin",
       },
       {
         "Address": "259 North Rd & Hawthorn Rd",
@@ -7033,7 +7033,7 @@ export const getDecrypted = () => ({
         "siteId": "61303059",
         "Band": "5",
         "longitude": "145.019139",
-        "Name": "Iga Express Caulfield"
+        "Name": "Iga Express Caulfield",
       },
       {
         "Address": "2-4 Langslow Road",
@@ -7041,7 +7041,7 @@ export const getDecrypted = () => ({
         "siteId": "61303060",
         "Band": "9",
         "longitude": "145.109727",
-        "Name": "BP Aspendale Gardens"
+        "Name": "BP Aspendale Gardens",
       },
       {
         "Address": "Hawthorn Rd & Pyne St",
@@ -7049,7 +7049,7 @@ export const getDecrypted = () => ({
         "siteId": "61303062",
         "Band": "5",
         "longitude": "145.022463",
-        "Name": "7-Eleven Caulfield"
+        "Name": "7-Eleven Caulfield",
       },
       {
         "Address": "923-931 Glen Huntly Rd & Bambra Rd",
@@ -7057,7 +7057,7 @@ export const getDecrypted = () => ({
         "siteId": "61303063",
         "Band": "3",
         "longitude": "145.029282",
-        "Name": "EG Ampol Caulfield South"
+        "Name": "EG Ampol Caulfield South",
       },
       {
         "Address": "469-471 Nepean & Newington",
@@ -7065,7 +7065,7 @@ export const getDecrypted = () => ({
         "siteId": "61303072",
         "Band": "3",
         "longitude": "145.117675",
-        "Name": "EG Ampol Chelsea"
+        "Name": "EG Ampol Chelsea",
       },
       {
         "Address": "369 Warrigal Rd & Bernard St",
@@ -7073,7 +7073,7 @@ export const getDecrypted = () => ({
         "siteId": "61303080",
         "Band": "2",
         "longitude": "145.076267",
-        "Name": "Ampol Foodary Cheltenham North"
+        "Name": "Ampol Foodary Cheltenham North",
       },
       {
         "Address": "299 Charman Rd & Park Rd",
@@ -7081,7 +7081,7 @@ export const getDecrypted = () => ({
         "siteId": "61303081",
         "Band": "2",
         "longitude": "145.055425",
-        "Name": "Ampol Foodary Cheltenham"
+        "Name": "Ampol Foodary Cheltenham",
       },
       {
         "Address": "241 Wells Rd",
@@ -7089,7 +7089,7 @@ export const getDecrypted = () => ({
         "siteId": "61303082",
         "Band": "3",
         "longitude": "145.139631",
-        "Name": "Ampol Foodary Chelsea Heights"
+        "Name": "Ampol Foodary Chelsea Heights",
       },
       {
         "Address": "Warrigal Rd & Centre Dandenong Rd",
@@ -7097,7 +7097,7 @@ export const getDecrypted = () => ({
         "siteId": "61303085",
         "Band": "2",
         "longitude": "145.074401",
-        "Name": "Shell Reddy Express Cheltenham"
+        "Name": "Shell Reddy Express Cheltenham",
       },
       {
         "Address": "92-94 Wellington Rd & Blackburn Rd",
@@ -7105,7 +7105,7 @@ export const getDecrypted = () => ({
         "siteId": "61303090",
         "Band": "9",
         "longitude": "145.139781",
-        "Name": "Astron Clayton"
+        "Name": "Astron Clayton",
       },
       {
         "Address": "1464 North Rd",
@@ -7113,7 +7113,7 @@ export const getDecrypted = () => ({
         "siteId": "61303091",
         "Band": "9",
         "longitude": "145.122008",
-        "Name": "BP Clayton"
+        "Name": "BP Clayton",
       },
       {
         "Address": "1487 Centre Rd & Kionga St",
@@ -7121,7 +7121,7 @@ export const getDecrypted = () => ({
         "siteId": "61303092",
         "Band": "9",
         "longitude": "145.129883",
-        "Name": "Shell Clayton"
+        "Name": "Shell Clayton",
       },
       {
         "Address": "1358 Centre Rd & James St",
@@ -7129,7 +7129,7 @@ export const getDecrypted = () => ({
         "siteId": "61303097",
         "Band": "3",
         "longitude": "145.120505",
-        "Name": "BP Clayton"
+        "Name": "BP Clayton",
       },
       {
         "Address": "Centre Rd & Clarinda Rd",
@@ -7137,7 +7137,7 @@ export const getDecrypted = () => ({
         "siteId": "61303099",
         "Band": "3",
         "longitude": "145.100952",
-        "Name": "7-Eleven Clarinda"
+        "Name": "7-Eleven Clarinda",
       },
       {
         "Address": "500 Pakenham Rd",
@@ -7145,7 +7145,7 @@ export const getDecrypted = () => ({
         "siteId": "61303107",
         "Band": "9",
         "longitude": "145.494628",
-        "Name": "BP Upper Pakenham"
+        "Name": "BP Upper Pakenham",
       },
       {
         "Address": "725 Heatherton Rd & Westall Rd",
@@ -7153,7 +7153,7 @@ export const getDecrypted = () => ({
         "siteId": "61303110",
         "Band": "4",
         "longitude": "145.136067",
-        "Name": "BP Clayton South"
+        "Name": "BP Clayton South",
       },
       {
         "Address": "187-191 Clayton Rd & North Rd",
@@ -7161,7 +7161,7 @@ export const getDecrypted = () => ({
         "siteId": "61303113",
         "Band": "3",
         "longitude": "145.121718",
-        "Name": "7-Eleven Clayton"
+        "Name": "7-Eleven Clayton",
       },
       {
         "Address": "378 Stony Point Rd & Disney St",
@@ -7169,7 +7169,7 @@ export const getDecrypted = () => ({
         "siteId": "61303117",
         "Band": "9",
         "longitude": "145.194834",
-        "Name": "United Crib Point"
+        "Name": "United Crib Point",
       },
       {
         "Address": "119 Hall Rd",
@@ -7177,7 +7177,7 @@ export const getDecrypted = () => ({
         "siteId": "61303121",
         "Band": "3",
         "longitude": "145.186899",
-        "Name": "EG Ampol Carrum Downs"
+        "Name": "EG Ampol Carrum Downs",
       },
       {
         "Address": "Clyde-Fiveways Rd & South Gippsland Hwy",
@@ -7185,7 +7185,7 @@ export const getDecrypted = () => ({
         "siteId": "61303123",
         "Band": "2",
         "longitude": "145.318569",
-        "Name": "7-Eleven Five Ways"
+        "Name": "7-Eleven Five Ways",
       },
       {
         "Address": "High St & Clarendon St",
@@ -7193,7 +7193,7 @@ export const getDecrypted = () => ({
         "siteId": "61303126",
         "Band": "9",
         "longitude": "145.281845",
-        "Name": "United Cranbourne Park"
+        "Name": "United Cranbourne Park",
       },
       {
         "Address": "Cranbourne-Frankston Rd & Cemetery Rd",
@@ -7201,7 +7201,7 @@ export const getDecrypted = () => ({
         "siteId": "61303127",
         "Band": "3",
         "longitude": "145.270468",
-        "Name": "Coles Express Cranbourne"
+        "Name": "Coles Express Cranbourne",
       },
       {
         "Address": "235 Pearcedale Rd",
@@ -7209,7 +7209,7 @@ export const getDecrypted = () => ({
         "siteId": "61303128",
         "Band": "9",
         "longitude": "145.244812",
-        "Name": "South Cranbourne General Store"
+        "Name": "South Cranbourne General Store",
       },
       {
         "Address": "1215 Frankston-Dandenong Road",
@@ -7217,7 +7217,7 @@ export const getDecrypted = () => ({
         "siteId": "61303129",
         "Band": "9",
         "longitude": "145.175452",
-        "Name": "Endevour Petroleum Carrum Downs"
+        "Name": "Endevour Petroleum Carrum Downs",
       },
       {
         "Address": "277 Centre Dandenong Road",
@@ -7225,7 +7225,7 @@ export const getDecrypted = () => ({
         "siteId": "61303131",
         "Band": "2",
         "longitude": "145.120608",
-        "Name": "7-Eleven Dingley"
+        "Name": "7-Eleven Dingley",
       },
       {
         "Address": "Cnr Frankston Dandenong Rd & Amayla Cres",
@@ -7233,7 +7233,7 @@ export const getDecrypted = () => ({
         "siteId": "61303132",
         "Band": "3",
         "longitude": "145.167931",
-        "Name": "7-Eleven Carrum Downs"
+        "Name": "7-Eleven Carrum Downs",
       },
       {
         "Address": "580-582 Springvale Rd & Clarke Rd",
@@ -7241,7 +7241,7 @@ export const getDecrypted = () => ({
         "siteId": "61303134",
         "Band": "9",
         "longitude": "145.146485",
-        "Name": "BP AA Springvale South"
+        "Name": "BP AA Springvale South",
       },
       {
         "Address": "335 -339 Point Nepean Rd & Heale St",
@@ -7249,7 +7249,7 @@ export const getDecrypted = () => ({
         "siteId": "61303135",
         "Band": "4",
         "longitude": "144.959561",
-        "Name": "7-Eleven Dromana"
+        "Name": "7-Eleven Dromana",
       },
       {
         "Address": "Station St & Lochiel Av",
@@ -7257,7 +7257,7 @@ export const getDecrypted = () => ({
         "siteId": "61303138",
         "Band": "3",
         "longitude": "145.106668",
-        "Name": "BP Edithvale"
+        "Name": "BP Edithvale",
       },
       {
         "Address": "Cheltenham Rd & Carsons Rd",
@@ -7265,7 +7265,7 @@ export const getDecrypted = () => ({
         "siteId": "61303140",
         "Band": "2",
         "longitude": "145.149244",
-        "Name": "7-Eleven Keysborough"
+        "Name": "7-Eleven Keysborough",
       },
       {
         "Address": "Marine Pde & Marina Entrance",
@@ -7273,7 +7273,7 @@ export const getDecrypted = () => ({
         "siteId": "61303145",
         "Band": "5",
         "longitude": "144.976777",
-        "Name": "OTR St Kilda Marina"
+        "Name": "OTR St Kilda Marina",
       },
       {
         "Address": "45 Forest Dr",
@@ -7281,7 +7281,7 @@ export const getDecrypted = () => ({
         "siteId": "61303148",
         "Band": "9",
         "longitude": "145.14856160615159",
-        "Name": "BJK Service Centre"
+        "Name": "BJK Service Centre",
       },
       {
         "Address": "Cnr Frankston-Dandenong Rd Service Ln & Klauer St",
@@ -7289,7 +7289,7 @@ export const getDecrypted = () => ({
         "siteId": "61303149",
         "Band": "3",
         "longitude": "145.146857",
-        "Name": "BP Express Frankston"
+        "Name": "BP Express Frankston",
       },
       {
         "Address": "86 Cranbourne Rd",
@@ -7297,7 +7297,7 @@ export const getDecrypted = () => ({
         "siteId": "61303150",
         "Band": "9",
         "longitude": "145.13697086871721",
-        "Name": "Metro Petroleum Frankston"
+        "Name": "Metro Petroleum Frankston",
       },
       {
         "Address": "540 Princes Hwy & Browns",
@@ -7305,7 +7305,7 @@ export const getDecrypted = () => ({
         "siteId": "61303152",
         "Band": "9",
         "longitude": "145.180284",
-        "Name": "United Waverley Gardens (Noble Park)"
+        "Name": "United Waverley Gardens (Noble Park)",
       },
       {
         "Address": "38 Frankston-Flinders Rd & Winifred St",
@@ -7313,7 +7313,7 @@ export const getDecrypted = () => ({
         "siteId": "61303155",
         "Band": "3",
         "longitude": "145.133863",
-        "Name": "OTR Frankston South"
+        "Name": "OTR Frankston South",
       },
       {
         "Address": "92-96 Princes Hwy",
@@ -7321,7 +7321,7 @@ export const getDecrypted = () => ({
         "siteId": "61303157",
         "Band": "3",
         "longitude": "145.478649",
-        "Name": "BP Pakenham"
+        "Name": "BP Pakenham",
       },
       {
         "Address": "Shrives Rd & Pound Rd",
@@ -7329,7 +7329,7 @@ export const getDecrypted = () => ({
         "siteId": "61303158",
         "Band": "3",
         "longitude": "145.280868",
-        "Name": "7-Eleven Hampton Park"
+        "Name": "7-Eleven Hampton Park",
       },
       {
         "Address": "151A Nepean Highway",
@@ -7337,7 +7337,7 @@ export const getDecrypted = () => ({
         "siteId": "61303159",
         "Band": "9",
         "longitude": "145.074945",
-        "Name": "United 24 Mentone"
+        "Name": "United 24 Mentone",
       },
       {
         "Address": "51 Davey St",
@@ -7345,7 +7345,7 @@ export const getDecrypted = () => ({
         "siteId": "61303160",
         "Band": "9",
         "longitude": "145.125387",
-        "Name": "Astron Frankston"
+        "Name": "Astron Frankston",
       },
       {
         "Address": "Nepean Hwy & Beach St",
@@ -7353,7 +7353,7 @@ export const getDecrypted = () => ({
         "siteId": "61303161",
         "Band": "9",
         "longitude": "145.122194",
-        "Name": "BP Big Pine"
+        "Name": "BP Big Pine",
       },
       {
         "Address": "Nepean Hwy & Beach St",
@@ -7361,7 +7361,7 @@ export const getDecrypted = () => ({
         "siteId": "61303162",
         "Band": "3",
         "longitude": "145.122683",
-        "Name": "Coles Express Frankston"
+        "Name": "Coles Express Frankston",
       },
       {
         "Address": "170 Frankston-Dandenong Rd & Jubilee Av",
@@ -7369,7 +7369,7 @@ export const getDecrypted = () => ({
         "siteId": "61303167",
         "Band": "9",
         "longitude": "145.136765",
-        "Name": "Metro Petroleum Seaford"
+        "Name": "Metro Petroleum Seaford",
       },
       {
         "Address": "191 Nepean Hwy & Elster Av",
@@ -7377,7 +7377,7 @@ export const getDecrypted = () => ({
         "siteId": "61303168",
         "Band": "5",
         "longitude": "145.005537",
-        "Name": "Coles Express Gardenvale"
+        "Name": "Coles Express Gardenvale",
       },
       {
         "Address": "73 Beach Rd & Bridge",
@@ -7385,7 +7385,7 @@ export const getDecrypted = () => ({
         "siteId": "61303176",
         "Band": "5",
         "longitude": "145.001717",
-        "Name": "Ampol Foodary Sandringham"
+        "Name": "Ampol Foodary Sandringham",
       },
       {
         "Address": "South Gippsland Hwy & Mcdowall Rd",
@@ -7393,7 +7393,7 @@ export const getDecrypted = () => ({
         "siteId": "61303178",
         "Band": "3",
         "longitude": "145.252506",
-        "Name": "Coles Express Hampton Park"
+        "Name": "Coles Express Hampton Park",
       },
       {
         "Address": "85 Hallam Rd & Enterprise Av",
@@ -7401,7 +7401,7 @@ export const getDecrypted = () => ({
         "siteId": "61303180",
         "Band": "9",
         "longitude": "145.266882",
-        "Name": "United Hampton Park"
+        "Name": "United Hampton Park",
       },
       {
         "Address": "219 Marine Pde",
@@ -7409,7 +7409,7 @@ export const getDecrypted = () => ({
         "siteId": "61303185",
         "Band": "9",
         "longitude": "145.190671",
-        "Name": "Astron East Hastings"
+        "Name": "Astron East Hastings",
       },
       {
         "Address": "65 Kingston Rd",
@@ -7417,7 +7417,7 @@ export const getDecrypted = () => ({
         "siteId": "61303188",
         "Band": "9",
         "longitude": "145.084976",
-        "Name": "Shell Kingston Garage"
+        "Name": "Shell Kingston Garage",
       },
       {
         "Address": "Bluff Rd & Highett Rd",
@@ -7425,7 +7425,7 @@ export const getDecrypted = () => ({
         "siteId": "61303190",
         "Band": "5",
         "longitude": "145.022316",
-        "Name": "7-Eleven Sandringham"
+        "Name": "7-Eleven Sandringham",
       },
       {
         "Address": "7181 South Gippsland Hwy",
@@ -7433,7 +7433,7 @@ export const getDecrypted = () => ({
         "siteId": "61303192",
         "Band": "3",
         "longitude": "145.252633",
-        "Name": "BP Hampton Park"
+        "Name": "BP Hampton Park",
       },
       {
         "Address": "Bay Rd & Bluff Rd",
@@ -7441,7 +7441,7 @@ export const getDecrypted = () => ({
         "siteId": "61303195",
         "Band": "5",
         "longitude": "145.021216",
-        "Name": "7-Eleven Sandringham"
+        "Name": "7-Eleven Sandringham",
       },
       {
         "Address": "402-412 Lower Dandenong Rd",
@@ -7449,7 +7449,7 @@ export const getDecrypted = () => ({
         "siteId": "61303196",
         "Band": "9",
         "longitude": "145.113969",
-        "Name": "Astron Braeside"
+        "Name": "Astron Braeside",
       },
       {
         "Address": "248 Cheltenham Rd & Chandler Rd",
@@ -7457,7 +7457,7 @@ export const getDecrypted = () => ({
         "siteId": "61303200",
         "Band": "2",
         "longitude": "145.182492",
-        "Name": "Ampol Foodary Keysborough"
+        "Name": "Ampol Foodary Keysborough",
       },
       {
         "Address": "445 Cranbourne-Frankston Rd",
@@ -7465,7 +7465,7 @@ export const getDecrypted = () => ({
         "siteId": "61303202",
         "Band": "9",
         "longitude": "145.214095",
-        "Name": "Astron Langwarrin"
+        "Name": "Astron Langwarrin",
       },
       {
         "Address": "184 Cranbourne-Frankston Rd & Warrandyte Rd",
@@ -7473,7 +7473,7 @@ export const getDecrypted = () => ({
         "siteId": "61303203",
         "Band": "7",
         "longitude": "145.190606",
-        "Name": "Coles Express Langwarrin"
+        "Name": "Coles Express Langwarrin",
       },
       {
         "Address": "115 Cranbourne-Frankston Rd & Long St",
@@ -7481,7 +7481,7 @@ export const getDecrypted = () => ({
         "siteId": "61303204",
         "Band": "9",
         "longitude": "145.184865",
-        "Name": "Langwarrin Service Centre"
+        "Name": "Langwarrin Service Centre",
       },
       {
         "Address": "1 Cranbourne Frankston Rd & Mcclelland Dr",
@@ -7489,7 +7489,7 @@ export const getDecrypted = () => ({
         "siteId": "61303205",
         "Band": "7",
         "longitude": "145.171336",
-        "Name": "Coles Express Langwarrin West"
+        "Name": "Coles Express Langwarrin West",
       },
       {
         "Address": "110A Dandenong Hastings Rd",
@@ -7497,7 +7497,7 @@ export const getDecrypted = () => ({
         "siteId": "61303206",
         "Band": "9",
         "longitude": "145.246577",
-        "Name": "United Lynbrook"
+        "Name": "United Lynbrook",
       },
       {
         "Address": "200-210 Dandenong-Hastings Road",
@@ -7505,7 +7505,7 @@ export const getDecrypted = () => ({
         "siteId": "61303207",
         "Band": "9",
         "longitude": "145.244238",
-        "Name": "Liberty Lyndhurst"
+        "Name": "Liberty Lyndhurst",
       },
       {
         "Address": "106 Mckinnon Rd",
@@ -7513,7 +7513,7 @@ export const getDecrypted = () => ({
         "siteId": "61303213",
         "Band": "9",
         "longitude": "145.034991",
-        "Name": "McKinnon Service Centre"
+        "Name": "McKinnon Service Centre",
       },
       {
         "Address": "100 Mckinnon Rd",
@@ -7521,7 +7521,7 @@ export const getDecrypted = () => ({
         "siteId": "61303214",
         "Band": "9",
         "longitude": "145.034546",
-        "Name": "Ampol McKinnon"
+        "Name": "Ampol McKinnon",
       },
       {
         "Address": "Nepean Hwy & Warrigal Rd",
@@ -7529,7 +7529,7 @@ export const getDecrypted = () => ({
         "siteId": "61303217",
         "Band": "2",
         "longitude": "145.071167",
-        "Name": "Coles Express Mentone"
+        "Name": "Coles Express Mentone",
       },
       {
         "Address": "53-57 Balcombe Rd & Station St",
@@ -7537,7 +7537,7 @@ export const getDecrypted = () => ({
         "siteId": "61303220",
         "Band": "2",
         "longitude": "145.066156",
-        "Name": "Ampol Foodary Mentone"
+        "Name": "Ampol Foodary Mentone",
       },
       {
         "Address": "Nepean Hwy & Swanston",
@@ -7545,7 +7545,7 @@ export const getDecrypted = () => ({
         "siteId": "61303222",
         "Band": "2",
         "longitude": "145.066449",
-        "Name": "BP Supremacy"
+        "Name": "BP Supremacy",
       },
       {
         "Address": "Bluff Rd & South Rd",
@@ -7553,7 +7553,7 @@ export const getDecrypted = () => ({
         "siteId": "61303228",
         "Band": "4",
         "longitude": "145.024515",
-        "Name": "7-Eleven Hampton"
+        "Name": "7-Eleven Hampton",
       },
       {
         "Address": "160 Cochranes Rd",
@@ -7561,7 +7561,7 @@ export const getDecrypted = () => ({
         "siteId": "61303229",
         "Band": "9",
         "longitude": "145.07825704662707",
-        "Name": "BP Moorabbin"
+        "Name": "BP Moorabbin",
       },
       {
         "Address": "South Rd & Chesterville Rd",
@@ -7569,7 +7569,7 @@ export const getDecrypted = () => ({
         "siteId": "61303232",
         "Band": "4",
         "longitude": "145.061844",
-        "Name": "Ampol Foodary Moorabbin"
+        "Name": "Ampol Foodary Moorabbin",
       },
       {
         "Address": "South Rd & Linton St",
@@ -7577,7 +7577,7 @@ export const getDecrypted = () => ({
         "siteId": "61303235",
         "Band": "4",
         "longitude": "145.042576",
-        "Name": "Coles Express Moorabbin"
+        "Name": "Coles Express Moorabbin",
       },
       {
         "Address": "514-516 Bluff Rd",
@@ -7585,7 +7585,7 @@ export const getDecrypted = () => ({
         "siteId": "61303238",
         "Band": "4",
         "longitude": "145.024205",
-        "Name": "Coles Express Hampton"
+        "Name": "Coles Express Hampton",
       },
       {
         "Address": "820 Moorooduc Hwy",
@@ -7593,7 +7593,7 @@ export const getDecrypted = () => ({
         "siteId": "61303239",
         "Band": "3",
         "longitude": "145.080097",
-        "Name": "Coles Express Moorooduc"
+        "Name": "Coles Express Moorooduc",
       },
       {
         "Address": "Warren Rd & Reid St",
@@ -7601,7 +7601,7 @@ export const getDecrypted = () => ({
         "siteId": "61303244",
         "Band": "9",
         "longitude": "145.093696",
-        "Name": "AMK Motors Mordialloc"
+        "Name": "AMK Motors Mordialloc",
       },
       {
         "Address": "122-134 Boundary Rd & Malcolm Rd",
@@ -7609,7 +7609,7 @@ export const getDecrypted = () => ({
         "siteId": "61303248",
         "Band": "2",
         "longitude": "145.105691",
-        "Name": "EG Ampol Braeside"
+        "Name": "EG Ampol Braeside",
       },
       {
         "Address": "Mornington-Tyabb Rd & Yuilles Rd",
@@ -7617,7 +7617,7 @@ export const getDecrypted = () => ({
         "siteId": "61303250",
         "Band": "5",
         "longitude": "145.046484",
-        "Name": "7-Eleven Mornington"
+        "Name": "7-Eleven Mornington",
       },
       {
         "Address": "893 Nepean Hwy & Spray St",
@@ -7625,7 +7625,7 @@ export const getDecrypted = () => ({
         "siteId": "61303251",
         "Band": "5",
         "longitude": "145.046112",
-        "Name": "7-Eleven Mornington"
+        "Name": "7-Eleven Mornington",
       },
       {
         "Address": "1010-1012 Nepean Hwy & Pentecost Rd",
@@ -7633,7 +7633,7 @@ export const getDecrypted = () => ({
         "siteId": "61303253",
         "Band": "5",
         "longitude": "145.048517",
-        "Name": "Coles Express Mornington"
+        "Name": "Coles Express Mornington",
       },
       {
         "Address": "Boundary Rd & Lower Dandenong Rd",
@@ -7641,7 +7641,7 @@ export const getDecrypted = () => ({
         "siteId": "61303254",
         "Band": "2",
         "longitude": "145.108568",
-        "Name": "BP Mentone"
+        "Name": "BP Mentone",
       },
       {
         "Address": "1386 Nepean Hwy & Stewart",
@@ -7649,7 +7649,7 @@ export const getDecrypted = () => ({
         "siteId": "61303256",
         "Band": "9",
         "longitude": "145.082647",
-        "Name": "BP AA Mount Eliza"
+        "Name": "BP AA Mount Eliza",
       },
       {
         "Address": "Heatherton Rd & Hallam North Rd",
@@ -7657,7 +7657,7 @@ export const getDecrypted = () => ({
         "siteId": "61303259",
         "Band": "2",
         "longitude": "145.277154",
-        "Name": "Coles Express Endeavour Hills"
+        "Name": "Coles Express Endeavour Hills",
       },
       {
         "Address": "90-92A Kangaroo Rd",
@@ -7665,7 +7665,7 @@ export const getDecrypted = () => ({
         "siteId": "61303260",
         "Band": "9",
         "longitude": "145.075804",
-        "Name": "Astron Murrumbeena North"
+        "Name": "Astron Murrumbeena North",
       },
       {
         "Address": "Chadstone Rd",
@@ -7673,7 +7673,7 @@ export const getDecrypted = () => ({
         "siteId": "61303264",
         "Band": "9",
         "longitude": "145.078999",
-        "Name": "Chadstone Motors"
+        "Name": "Chadstone Motors",
       },
       {
         "Address": "155-171 Narre Warren North Rd",
@@ -7681,7 +7681,7 @@ export const getDecrypted = () => ({
         "siteId": "61303265",
         "Band": "3",
         "longitude": "145.309401",
-        "Name": "Coles Express Narre Warren Nth"
+        "Name": "Coles Express Narre Warren Nth",
       },
       {
         "Address": "139 Jacksons Rd & Eagle Drive",
@@ -7689,7 +7689,7 @@ export const getDecrypted = () => ({
         "siteId": "61303266",
         "Band": "9",
         "longitude": "145.192093",
-        "Name": "Liberty Waverly Gardens"
+        "Name": "Liberty Waverly Gardens",
       },
       {
         "Address": "Princes Hwy & Corrigan",
@@ -7697,7 +7697,7 @@ export const getDecrypted = () => ({
         "siteId": "61303270",
         "Band": "3",
         "longitude": "145.172649",
-        "Name": "7-Eleven Sandown"
+        "Name": "7-Eleven Sandown",
       },
       {
         "Address": "Heatherton Rd & Chandler Rd",
@@ -7705,7 +7705,7 @@ export const getDecrypted = () => ({
         "siteId": "61303272",
         "Band": "2",
         "longitude": "145.187339",
-        "Name": "EG Ampol Noble Park"
+        "Name": "EG Ampol Noble Park",
       },
       {
         "Address": "1252-1258 Heatherton Road",
@@ -7713,7 +7713,7 @@ export const getDecrypted = () => ({
         "siteId": "61303273",
         "Band": "9",
         "longitude": "145.186157",
-        "Name": "Shell Noble Park"
+        "Name": "Shell Noble Park",
       },
       {
         "Address": "Heatherton Rd & Douglas Pde",
@@ -7721,7 +7721,7 @@ export const getDecrypted = () => ({
         "siteId": "61303277",
         "Band": "2",
         "longitude": "145.172754",
-        "Name": "7-Eleven Noble Park"
+        "Name": "7-Eleven Noble Park",
       },
       {
         "Address": "473-477 Princes Hwy & Webb St",
@@ -7729,7 +7729,7 @@ export const getDecrypted = () => ({
         "siteId": "61303284",
         "Band": "3",
         "longitude": "145.305132",
-        "Name": "Coles Express Narre Warren"
+        "Name": "Coles Express Narre Warren",
       },
       {
         "Address": "Princes Hwy & Lauderdale Rd",
@@ -7737,7 +7737,7 @@ export const getDecrypted = () => ({
         "siteId": "61303285",
         "Band": "3",
         "longitude": "145.310011",
-        "Name": "Coles Express Fountain Gate"
+        "Name": "Coles Express Fountain Gate",
       },
       {
         "Address": "1523 Dandenong Rd",
@@ -7745,7 +7745,7 @@ export const getDecrypted = () => ({
         "siteId": "61303289",
         "Band": "3",
         "longitude": "145.090177",
-        "Name": "Coles Express Chadstone"
+        "Name": "Coles Express Chadstone",
       },
       {
         "Address": "1400 Dandenong Rd",
@@ -7753,7 +7753,7 @@ export const getDecrypted = () => ({
         "siteId": "61303293",
         "Band": "9",
         "longitude": "145.089772",
-        "Name": "BP Plantation"
+        "Name": "BP Plantation",
       },
       {
         "Address": "1388 Dandenong Rd & Warrigal Rd",
@@ -7761,7 +7761,7 @@ export const getDecrypted = () => ({
         "siteId": "61303294",
         "Band": "3",
         "longitude": "145.088276",
-        "Name": "Coles Express Oakleigh"
+        "Name": "Coles Express Oakleigh",
       },
       {
         "Address": "Princes Hwy & Overland Dr",
@@ -7769,7 +7769,7 @@ export const getDecrypted = () => ({
         "siteId": "61303295",
         "Band": "3",
         "longitude": "145.301765",
-        "Name": "Ampol Foodary Narre Warren"
+        "Name": "Ampol Foodary Narre Warren",
       },
       {
         "Address": "1644 Princes Highway",
@@ -7777,7 +7777,7 @@ export const getDecrypted = () => ({
         "siteId": "61303296",
         "Band": "9",
         "longitude": "145.114313",
-        "Name": "United Clayton North"
+        "Name": "United Clayton North",
       },
       {
         "Address": "162-168 Warrigal Rd",
@@ -7785,7 +7785,7 @@ export const getDecrypted = () => ({
         "siteId": "61303302",
         "Band": "9",
         "longitude": "145.085608",
-        "Name": "BP AA Oakleigh"
+        "Name": "BP AA Oakleigh",
       },
       {
         "Address": "1033 Centre Road",
@@ -7793,7 +7793,7 @@ export const getDecrypted = () => ({
         "siteId": "61303305",
         "Band": "3",
         "longitude": "145.084288",
-        "Name": "EG Ampol Oakleigh South"
+        "Name": "EG Ampol Oakleigh South",
       },
       {
         "Address": "2 Coora Rd",
@@ -7801,7 +7801,7 @@ export const getDecrypted = () => ({
         "siteId": "61303306",
         "Band": "9",
         "longitude": "145.10602436441803",
-        "Name": "Ampol A-One Fuels"
+        "Name": "Ampol A-One Fuels",
       },
       {
         "Address": "423 North Rd & Fraser St",
@@ -7809,7 +7809,7 @@ export const getDecrypted = () => ({
         "siteId": "61303307",
         "Band": "3",
         "longitude": "145.036344",
-        "Name": "Coles Express Ormond"
+        "Name": "Coles Express Ormond",
       },
       {
         "Address": "14 Thompson Rd",
@@ -7817,7 +7817,7 @@ export const getDecrypted = () => ({
         "siteId": "61303315",
         "Band": "3",
         "longitude": "145.140688",
-        "Name": "EG Ampol Patterson Lakes"
+        "Name": "EG Ampol Patterson Lakes",
       },
       {
         "Address": "87 Arthurs Seat Road",
@@ -7825,7 +7825,7 @@ export const getDecrypted = () => ({
         "siteId": "61303316",
         "Band": "9",
         "longitude": "145.022336",
-        "Name": "United Red hill"
+        "Name": "United Red hill",
       },
       {
         "Address": "79 Baxter-Tooradin Rd",
@@ -7833,7 +7833,7 @@ export const getDecrypted = () => ({
         "siteId": "61303320",
         "Band": "9",
         "longitude": "145.233373",
-        "Name": "BP Pearcedale"
+        "Name": "BP Pearcedale",
       },
       {
         "Address": "Point Nepean Rd & Sixth Av",
@@ -7841,7 +7841,7 @@ export const getDecrypted = () => ({
         "siteId": "61303322",
         "Band": "4",
         "longitude": "144.901249",
-        "Name": "7-Eleven Rosebud"
+        "Name": "7-Eleven Rosebud",
       },
       {
         "Address": "2479 Point Nepean Rd",
@@ -7849,7 +7849,7 @@ export const getDecrypted = () => ({
         "siteId": "61303326",
         "Band": "4",
         "longitude": "144.817142",
-        "Name": "EG Ampol Rye"
+        "Name": "EG Ampol Rye",
       },
       {
         "Address": " Cnr Weir St & Nepean Hwy",
@@ -7857,7 +7857,7 @@ export const getDecrypted = () => ({
         "siteId": "61303328",
         "Band": "4",
         "longitude": "144.827337",
-        "Name": "BP Rye"
+        "Name": "BP Rye",
       },
       {
         "Address": "1 Marine Dr & Nepean",
@@ -7865,7 +7865,7 @@ export const getDecrypted = () => ({
         "siteId": "61303330",
         "Band": "9",
         "longitude": "144.975292",
-        "Name": "BP AA Dromana"
+        "Name": "BP AA Dromana",
       },
       {
         "Address": "15 Nepean Hwy",
@@ -7873,7 +7873,7 @@ export const getDecrypted = () => ({
         "siteId": "61303332",
         "Band": "9",
         "longitude": "145.124877",
-        "Name": "United Seaford North"
+        "Name": "United Seaford North",
       },
       {
         "Address": "16 Colchester Road",
@@ -7881,7 +7881,7 @@ export const getDecrypted = () => ({
         "siteId": "61303337",
         "Band": "9",
         "longitude": "144.885645",
-        "Name": "Peninsula Gas & Fuel"
+        "Name": "Peninsula Gas & Fuel",
       },
       {
         "Address": "267 Seaford Road",
@@ -7889,7 +7889,7 @@ export const getDecrypted = () => ({
         "siteId": "61303338",
         "Band": "9",
         "longitude": "145.156584",
-        "Name": "United Seaford North"
+        "Name": "United Seaford North",
       },
       {
         "Address": "359 Bluff Rd",
@@ -7897,7 +7897,7 @@ export const getDecrypted = () => ({
         "siteId": "61303341",
         "Band": "5",
         "longitude": "145.021952",
-        "Name": "BP Highbluff"
+        "Name": "BP Highbluff",
       },
       {
         "Address": "1045 Frankston-Flinders Rd",
@@ -7905,7 +7905,7 @@ export const getDecrypted = () => ({
         "siteId": "61303345",
         "Band": "3",
         "longitude": "145.174854",
-        "Name": "Coles Express Somerville"
+        "Name": "Coles Express Somerville",
       },
       {
         "Address": "1025 Frankston-Flinders Rd & Scott Gr",
@@ -7913,7 +7913,7 @@ export const getDecrypted = () => ({
         "siteId": "61303346",
         "Band": "9",
         "longitude": "145.173944",
-        "Name": "Astron Somerville"
+        "Name": "Astron Somerville",
       },
       {
         "Address": "154-172 Springvale Road",
@@ -7921,7 +7921,7 @@ export const getDecrypted = () => ({
         "siteId": "61303351",
         "Band": "9",
         "longitude": "145.152807",
-        "Name": "BP Springvale"
+        "Name": "BP Springvale",
       },
       {
         "Address": "745 Heatherton Road",
@@ -7929,7 +7929,7 @@ export const getDecrypted = () => ({
         "siteId": "61303355",
         "Band": "9",
         "longitude": "145.138516",
-        "Name": "Libery Springvale South"
+        "Name": "Libery Springvale South",
       },
       {
         "Address": "974 Heatherton Rd & Hosken St",
@@ -7937,7 +7937,7 @@ export const getDecrypted = () => ({
         "siteId": "61303357",
         "Band": "9",
         "longitude": "145.160361",
-        "Name": "BP Heatherhill"
+        "Name": "BP Heatherhill",
       },
       {
         "Address": "581 Springvale Rd & Mackay St",
@@ -7945,7 +7945,7 @@ export const getDecrypted = () => ({
         "siteId": "61303359",
         "Band": "2",
         "longitude": "145.148406",
-        "Name": "7-Eleven Springvale South"
+        "Name": "7-Eleven Springvale South",
       },
       {
         "Address": "99 Chapel St & Inkerman St",
@@ -7953,7 +7953,7 @@ export const getDecrypted = () => ({
         "siteId": "61303368",
         "Band": "5",
         "longitude": "144.990412",
-        "Name": "EG Ampol St Kilda"
+        "Name": "EG Ampol St Kilda",
       },
       {
         "Address": "126-134 Barkly St & Blanche St",
@@ -7961,7 +7961,7 @@ export const getDecrypted = () => ({
         "siteId": "61303371",
         "Band": "5",
         "longitude": "144.981892",
-        "Name": "Coles Express St Kilda"
+        "Name": "Coles Express St Kilda",
       },
       {
         "Address": "154-158 St Kilda Rd & Alma Rd",
@@ -7969,7 +7969,7 @@ export const getDecrypted = () => ({
         "siteId": "61303373",
         "Band": "5",
         "longitude": "144.984928",
-        "Name": "7-Eleven St Kilda"
+        "Name": "7-Eleven St Kilda",
       },
       {
         "Address": "841 Nepean Hwy",
@@ -7977,7 +7977,7 @@ export const getDecrypted = () => ({
         "siteId": "61303376",
         "Band": "5",
         "longitude": "145.039531",
-        "Name": "Ampol Foodary Mornington"
+        "Name": "Ampol Foodary Mornington",
       },
       {
         "Address": "1491 Frankston-Flinders Rd",
@@ -7985,7 +7985,7 @@ export const getDecrypted = () => ({
         "siteId": "61303378",
         "Band": "9",
         "longitude": "145.190273",
-        "Name": "United Tyabb"
+        "Name": "United Tyabb",
       },
       {
         "Address": "Princes Hwy & Clyde Rd",
@@ -7993,7 +7993,7 @@ export const getDecrypted = () => ({
         "siteId": "61303386",
         "Band": "3",
         "longitude": "145.343259",
-        "Name": "Coles Express Berwick"
+        "Name": "Coles Express Berwick",
       },
       {
         "Address": "Frankston-Dandenong Rd &",
@@ -8001,7 +8001,7 @@ export const getDecrypted = () => ({
         "siteId": "61303387",
         "Band": "2",
         "longitude": "145.215739",
-        "Name": "Ampol Foodary Dandenong"
+        "Name": "Ampol Foodary Dandenong",
       },
       {
         "Address": "230-232 Frankston - Dandenong Rd",
@@ -8009,7 +8009,7 @@ export const getDecrypted = () => ({
         "siteId": "61303389",
         "Band": "9",
         "longitude": "145.21296916071319",
-        "Name": "Caltex Dandenong South"
+        "Name": "Caltex Dandenong South",
       },
       {
         "Address": "1464 Heatherton Road",
@@ -8017,7 +8017,7 @@ export const getDecrypted = () => ({
         "siteId": "61303392",
         "Band": "2",
         "longitude": "145.211246",
-        "Name": "7-Eleven Dandenong North"
+        "Name": "7-Eleven Dandenong North",
       },
       {
         "Address": "154-156 Princes Hwy",
@@ -8025,7 +8025,7 @@ export const getDecrypted = () => ({
         "siteId": "61303393",
         "Band": "2",
         "longitude": "145.203519",
-        "Name": "Ampol Foodary Dandenong"
+        "Name": "Ampol Foodary Dandenong",
       },
       {
         "Address": "Princes Hwy & Potter St",
@@ -8033,7 +8033,7 @@ export const getDecrypted = () => ({
         "siteId": "61303394",
         "Band": "2",
         "longitude": "145.206556",
-        "Name": "BP Dandenong"
+        "Name": "BP Dandenong",
       },
       {
         "Address": "Clow St & Stud Rd",
@@ -8041,7 +8041,7 @@ export const getDecrypted = () => ({
         "siteId": "61303396",
         "Band": "2",
         "longitude": "145.220402",
-        "Name": "7-Eleven Dandenong"
+        "Name": "7-Eleven Dandenong",
       },
       {
         "Address": "40 Princes Hwy",
@@ -8049,7 +8049,7 @@ export const getDecrypted = () => ({
         "siteId": "61303412",
         "Band": "2",
         "longitude": "145.238578",
-        "Name": "EG Ampol Doveton"
+        "Name": "EG Ampol Doveton",
       },
       {
         "Address": "Heatherton Rd & Stud Rd",
@@ -8057,7 +8057,7 @@ export const getDecrypted = () => ({
         "siteId": "61303414",
         "Band": "2",
         "longitude": "145.222966",
-        "Name": "BP North Dandenong"
+        "Name": "BP North Dandenong",
       },
       {
         "Address": "275-295 South Gippsland Hwy",
@@ -8065,7 +8065,7 @@ export const getDecrypted = () => ({
         "siteId": "61303416",
         "Band": "2",
         "longitude": "145.241044",
-        "Name": "Ampol Foodary Dandenong South"
+        "Name": "Ampol Foodary Dandenong South",
       },
       {
         "Address": "314-322 South Gippsland Hwy",
@@ -8073,7 +8073,7 @@ export const getDecrypted = () => ({
         "siteId": "61303417",
         "Band": "9",
         "longitude": "145.240666",
-        "Name": "United Dandenong"
+        "Name": "United Dandenong",
       },
       {
         "Address": "1975 Princes Hwy",
@@ -8081,7 +8081,7 @@ export const getDecrypted = () => ({
         "siteId": "61303419",
         "Band": "9",
         "longitude": "145.573533",
-        "Name": "Shell Nar Nar Goon"
+        "Name": "Shell Nar Nar Goon",
       },
       {
         "Address": "496 Princes Hwy",
@@ -8089,7 +8089,7 @@ export const getDecrypted = () => ({
         "siteId": "61303427",
         "Band": "4",
         "longitude": "145.41654686871715",
-        "Name": "7-Eleven Officer East"
+        "Name": "7-Eleven Officer East",
       },
       {
         "Address": "1A Nepean Hwy & Glenhuntly Rd",
@@ -8097,7 +8097,7 @@ export const getDecrypted = () => ({
         "siteId": "61303429",
         "Band": "5",
         "longitude": "144.997997",
-        "Name": "Ampol Foodary Elsternwick"
+        "Name": "Ampol Foodary Elsternwick",
       },
       {
         "Address": "48 Princes Hwy",
@@ -8105,7 +8105,7 @@ export const getDecrypted = () => ({
         "siteId": "61303431",
         "Band": "9",
         "longitude": "145.239545",
-        "Name": "Shell Doveton"
+        "Name": "Shell Doveton",
       },
       {
         "Address": "60 Princes Hwy & Doveton Av",
@@ -8113,7 +8113,7 @@ export const getDecrypted = () => ({
         "siteId": "61303432",
         "Band": "9",
         "longitude": "145.248724",
-        "Name": "BP AA Doveton"
+        "Name": "BP AA Doveton",
       },
       {
         "Address": "208 Princes Hwy",
@@ -8121,7 +8121,7 @@ export const getDecrypted = () => ({
         "siteId": "61303433",
         "Band": "2",
         "longitude": "145.271117",
-        "Name": "Shell Reddy Express Hallam"
+        "Name": "Shell Reddy Express Hallam",
       },
       {
         "Address": "Princes Hwy & Belgrave-Hallam Rd",
@@ -8129,7 +8129,7 @@ export const getDecrypted = () => ({
         "siteId": "61303434",
         "Band": "9",
         "longitude": "145.273803",
-        "Name": "United Hallam"
+        "Name": "United Hallam",
       },
       {
         "Address": "897 Princes Hwy & Doherty St",
@@ -8137,7 +8137,7 @@ export const getDecrypted = () => ({
         "siteId": "61303436",
         "Band": "9",
         "longitude": "145.459908",
-        "Name": "Ampol Pakenham"
+        "Name": "Ampol Pakenham",
       },
       {
         "Address": "1835 Frankston-Flinders Rd",
@@ -8145,7 +8145,7 @@ export const getDecrypted = () => ({
         "siteId": "61303438",
         "Band": "4",
         "longitude": "145.184042",
-        "Name": "7-Eleven Hastings"
+        "Name": "7-Eleven Hastings",
       },
       {
         "Address": "397 Princes Hwy",
@@ -8153,7 +8153,7 @@ export const getDecrypted = () => ({
         "siteId": "61303439",
         "Band": "4",
         "longitude": "145.40652409325409",
-        "Name": "7-Eleven Officer"
+        "Name": "7-Eleven Officer",
       },
       {
         "Address": "1051 Moorooduc Highway",
@@ -8161,7 +8161,7 @@ export const getDecrypted = () => ({
         "siteId": "61303440",
         "Band": "9",
         "longitude": "145.077425",
-        "Name": "United Moorooduc"
+        "Name": "United Moorooduc",
       },
       {
         "Address": "310 Springvale Rd",
@@ -8169,7 +8169,7 @@ export const getDecrypted = () => ({
         "siteId": "61303442",
         "Band": "9",
         "longitude": "145.151483",
-        "Name": "Astron Springvale"
+        "Name": "Astron Springvale",
       },
       {
         "Address": "25 Canterbury St",
@@ -8177,7 +8177,7 @@ export const getDecrypted = () => ({
         "siteId": "61303542",
         "Band": "6",
         "longitude": "143.25501429695896",
-        "Name": "Ampol St Arnaud"
+        "Name": "Ampol St Arnaud",
       },
       {
         "Address": "143 Queen St",
@@ -8185,7 +8185,7 @@ export const getDecrypted = () => ({
         "siteId": "61303543",
         "Band": "9",
         "longitude": "145.936367",
-        "Name": "United Warragul"
+        "Name": "United Warragul",
       },
       {
         "Address": "25 Aitkin St",
@@ -8193,7 +8193,7 @@ export const getDecrypted = () => ({
         "siteId": "61303544",
         "Band": "7",
         "longitude": "145.702931",
-        "Name": "Ampol Alexandra"
+        "Name": "Ampol Alexandra",
       },
       {
         "Address": " Station Street",
@@ -8201,7 +8201,7 @@ export const getDecrypted = () => ({
         "siteId": "61303545",
         "Band": "9",
         "longitude": "144.797607",
-        "Name": "Morgan Fuel Colbinabbin"
+        "Name": "Morgan Fuel Colbinabbin",
       },
       {
         "Address": "69-75 Benalla Road",
@@ -8209,7 +8209,7 @@ export const getDecrypted = () => ({
         "siteId": "61303547",
         "Band": "9",
         "longitude": "145.995124",
-        "Name": "BP Yarrawonga"
+        "Name": "BP Yarrawonga",
       },
       {
         "Address": "40-42 Maurice St",
@@ -8217,7 +8217,7 @@ export const getDecrypted = () => ({
         "siteId": "61303553",
         "Band": "9",
         "longitude": "149.755992",
-        "Name": "BP Mallacoota"
+        "Name": "BP Mallacoota",
       },
       {
         "Address": "Shell Rd & Kingston Downs Dr",
@@ -8225,7 +8225,7 @@ export const getDecrypted = () => ({
         "siteId": "61303555",
         "Band": "4",
         "longitude": "144.548684",
-        "Name": "EG Ampol Ocean Grove"
+        "Name": "EG Ampol Ocean Grove",
       },
       {
         "Address": "Golf Links Rd & Geelong Rd",
@@ -8233,7 +8233,7 @@ export const getDecrypted = () => ({
         "siteId": "61303556",
         "Band": "9",
         "longitude": "144.487813",
-        "Name": "Apco Barwon Heads"
+        "Name": "Apco Barwon Heads",
       },
       {
         "Address": "22-26 Main St",
@@ -8241,7 +8241,7 @@ export const getDecrypted = () => ({
         "siteId": "61303558",
         "Band": "6",
         "longitude": "144.369619",
-        "Name": "Independent Gunbower"
+        "Name": "Independent Gunbower",
       },
       {
         "Address": "1236 Camperdown Rd",
@@ -8249,7 +8249,7 @@ export const getDecrypted = () => ({
         "siteId": "61303559",
         "Band": "9",
         "longitude": "143.079742",
-        "Name": "BP Cobden"
+        "Name": "BP Cobden",
       },
       {
         "Address": "7 Service St",
@@ -8257,7 +8257,7 @@ export const getDecrypted = () => ({
         "siteId": "61303560",
         "Band": "9",
         "longitude": "143.786835",
-        "Name": "Independent Clunes"
+        "Name": "Independent Clunes",
       },
       {
         "Address": "111 Grampians Rd",
@@ -8265,7 +8265,7 @@ export const getDecrypted = () => ({
         "siteId": "61303561",
         "Band": "5",
         "longitude": "142.51954799054488",
-        "Name": "Ampol Halls Gap"
+        "Name": "Ampol Halls Gap",
       },
       {
         "Address": "170 Scott St & Lyle St",
@@ -8273,7 +8273,7 @@ export const getDecrypted = () => ({
         "siteId": "61303563",
         "Band": "9",
         "longitude": "142.394866",
-        "Name": "Bentleys Servo"
+        "Name": "Bentleys Servo",
       },
       {
         "Address": "99 High St",
@@ -8281,7 +8281,7 @@ export const getDecrypted = () => ({
         "siteId": "61303565",
         "Band": "9",
         "longitude": "143.474259",
-        "Name": "Mobil Avoca"
+        "Name": "Mobil Avoca",
       },
       {
         "Address": "15 Farrell St",
@@ -8289,7 +8289,7 @@ export const getDecrypted = () => ({
         "siteId": "61303566",
         "Band": "5",
         "longitude": "142.319341",
-        "Name": "Ampol Ouyen"
+        "Name": "Ampol Ouyen",
       },
       {
         "Address": "127D Sturt Hwy",
@@ -8297,7 +8297,7 @@ export const getDecrypted = () => ({
         "siteId": "61303567",
         "Band": "9",
         "longitude": "142.026133",
-        "Name": "Libery Meribein South"
+        "Name": "Libery Meribein South",
       },
       {
         "Address": "Alfred St",
@@ -8305,7 +8305,7 @@ export const getDecrypted = () => ({
         "siteId": "61303568",
         "Band": "9",
         "longitude": "145.939997",
-        "Name": "Shell Warragul Roadhouse"
+        "Name": "Shell Warragul Roadhouse",
       },
       {
         "Address": "1 Smith St",
@@ -8313,7 +8313,7 @@ export const getDecrypted = () => ({
         "siteId": "61303569",
         "Band": "9",
         "longitude": "146.551964",
-        "Name": "Mobil Traralgon Park Lane"
+        "Name": "Mobil Traralgon Park Lane",
       },
       {
         "Address": "Lot 3 Main Rd",
@@ -8321,7 +8321,7 @@ export const getDecrypted = () => ({
         "siteId": "61303571",
         "Band": "9",
         "longitude": "148.172558",
-        "Name": "Mobil Buchan"
+        "Name": "Mobil Buchan",
       },
       {
         "Address": "2220 Maroondah Hwy",
@@ -8329,7 +8329,7 @@ export const getDecrypted = () => ({
         "siteId": "61303572",
         "Band": "9",
         "longitude": "145.708678",
-        "Name": "Independent Buxton"
+        "Name": "Independent Buxton",
       },
       {
         "Address": "24 Main Street",
@@ -8337,7 +8337,7 @@ export const getDecrypted = () => ({
         "siteId": "61303574",
         "Band": "9",
         "longitude": "146.003457",
-        "Name": "Independent Darnum"
+        "Name": "Independent Darnum",
       },
       {
         "Address": "51 Sandhurst Rd",
@@ -8345,7 +8345,7 @@ export const getDecrypted = () => ({
         "siteId": "61303576",
         "Band": "5",
         "longitude": "144.264669",
-        "Name": "Ampol Bendigo"
+        "Name": "Ampol Bendigo",
       },
       {
         "Address": "2 Wimmera Highway",
@@ -8353,7 +8353,7 @@ export const getDecrypted = () => ({
         "siteId": "61303577",
         "Band": "5",
         "longitude": "141.304101",
-        "Name": "Ampol Edenhope"
+        "Name": "Ampol Edenhope",
       },
       {
         "Address": "2128 Great Alpine Road",
@@ -8361,7 +8361,7 @@ export const getDecrypted = () => ({
         "siteId": "61303578",
         "Band": "9",
         "longitude": "146.542298",
-        "Name": "Ampol Everton"
+        "Name": "Ampol Everton",
       },
       {
         "Address": "3 Falls Road",
@@ -8369,7 +8369,7 @@ export const getDecrypted = () => ({
         "siteId": "61303579",
         "Band": "9",
         "longitude": "146.082592",
-        "Name": "BP Leongatha (Falls Rd)"
+        "Name": "BP Leongatha (Falls Rd)",
       },
       {
         "Address": "Western Highway",
@@ -8377,7 +8377,7 @@ export const getDecrypted = () => ({
         "siteId": "61303580",
         "Band": "9",
         "longitude": "142.855745",
-        "Name": "Metro Petroleum Great Western"
+        "Name": "Metro Petroleum Great Western",
       },
       {
         "Address": "1 Tyson St",
@@ -8385,7 +8385,7 @@ export const getDecrypted = () => ({
         "siteId": "61303581",
         "Band": "9",
         "longitude": "146.784496",
-        "Name": "Timberland General Store Heyfield"
+        "Name": "Timberland General Store Heyfield",
       },
       {
         "Address": "25 Williams St",
@@ -8393,7 +8393,7 @@ export const getDecrypted = () => ({
         "siteId": "61303582",
         "Band": "9",
         "longitude": "145.729337",
-        "Name": "BP Inverloch"
+        "Name": "BP Inverloch",
       },
       {
         "Address": "12-20 Princes Highway",
@@ -8401,7 +8401,7 @@ export const getDecrypted = () => ({
         "siteId": "61303584",
         "Band": "9",
         "longitude": "148.007797",
-        "Name": "United Lakes Entrance"
+        "Name": "United Lakes Entrance",
       },
       {
         "Address": "Anderson St",
@@ -8409,7 +8409,7 @@ export const getDecrypted = () => ({
         "siteId": "61303585",
         "Band": "9",
         "longitude": "145.945491",
-        "Name": "BP Leongatha"
+        "Name": "BP Leongatha",
       },
       {
         "Address": "Rmb 6121 Seaspray Rd",
@@ -8417,7 +8417,7 @@ export const getDecrypted = () => ({
         "siteId": "61303586",
         "Band": "9",
         "longitude": "147.091434",
-        "Name": "Mobil Longford"
+        "Name": "Mobil Longford",
       },
       {
         "Address": "5555 Omeo Hwy",
@@ -8425,7 +8425,7 @@ export const getDecrypted = () => ({
         "siteId": "61303590",
         "Band": "9",
         "longitude": "147.377814",
-        "Name": "Mitta Mitta General Store"
+        "Name": "Mitta Mitta General Store",
       },
       {
         "Address": "4760 Colac-Ballarat Road",
@@ -8433,7 +8433,7 @@ export const getDecrypted = () => ({
         "siteId": "61303591",
         "Band": "9",
         "longitude": "143.829683",
-        "Name": "Napoleons General Store"
+        "Name": "Napoleons General Store",
       },
       {
         "Address": "645 Maroondah Hwy",
@@ -8441,7 +8441,7 @@ export const getDecrypted = () => ({
         "siteId": "61303592",
         "Band": "9",
         "longitude": "145.662576",
-        "Name": "Metro Petroleum Narbethong"
+        "Name": "Metro Petroleum Narbethong",
       },
       {
         "Address": "60 Elizabeth Street",
@@ -8449,7 +8449,7 @@ export const getDecrypted = () => ({
         "siteId": "61303593",
         "Band": "9",
         "longitude": "145.203519",
-        "Name": "Independent Nathalia"
+        "Name": "Independent Nathalia",
       },
       {
         "Address": "91A  Bell Street",
@@ -8457,7 +8457,7 @@ export const getDecrypted = () => ({
         "siteId": "61303595",
         "Band": "9",
         "longitude": "142.290834",
-        "Name": "Page Fuel Penhurst"
+        "Name": "Page Fuel Penhurst",
       },
       {
         "Address": "7 Nicholson St",
@@ -8465,7 +8465,7 @@ export const getDecrypted = () => ({
         "siteId": "61303596",
         "Band": "9",
         "longitude": "146.911638",
-        "Name": "Porepunkah Roadhouse"
+        "Name": "Porepunkah Roadhouse",
       },
       {
         "Address": "1 Melbourne Rd",
@@ -8473,7 +8473,7 @@ export const getDecrypted = () => ({
         "siteId": "61303598",
         "Band": "9",
         "longitude": "143.265039",
-        "Name": "The Junction Roadhouse"
+        "Name": "The Junction Roadhouse",
       },
       {
         "Address": "2048 Princes Hwy",
@@ -8481,7 +8481,7 @@ export const getDecrypted = () => ({
         "siteId": "61303599",
         "Band": "9",
         "longitude": "147.859944",
-        "Name": "Swan Reach Service Station"
+        "Name": "Swan Reach Service Station",
       },
       {
         "Address": "26 Foster Rd",
@@ -8489,7 +8489,7 @@ export const getDecrypted = () => ({
         "siteId": "61303600",
         "Band": "9",
         "longitude": "146.322352",
-        "Name": "BP Toora"
+        "Name": "BP Toora",
       },
       {
         "Address": "43 Princes Hwy",
@@ -8497,7 +8497,7 @@ export const getDecrypted = () => ({
         "siteId": "61303601",
         "Band": "9",
         "longitude": "146.150956",
-        "Name": "United Trafalgar Narracan"
+        "Name": "United Trafalgar Narracan",
       },
       {
         "Address": "117 High Street",
@@ -8505,7 +8505,7 @@ export const getDecrypted = () => ({
         "siteId": "61303603",
         "Band": "5",
         "longitude": "143.610347",
-        "Name": "Ampol Wedderburn"
+        "Name": "Ampol Wedderburn",
       },
       {
         "Address": "Main Rd",
@@ -8513,7 +8513,7 @@ export const getDecrypted = () => ({
         "siteId": "61303604",
         "Band": "9",
         "longitude": "146.414783",
-        "Name": "Independent Whitfield"
+        "Name": "Independent Whitfield",
       },
       {
         "Address": "47 Princes Hwy",
@@ -8521,7 +8521,7 @@ export const getDecrypted = () => ({
         "siteId": "61303605",
         "Band": "9",
         "longitude": "146.070884",
-        "Name": "United Yarragon"
+        "Name": "United Yarragon",
       },
       {
         "Address": "92 Princes Hwy",
@@ -8529,7 +8529,7 @@ export const getDecrypted = () => ({
         "siteId": "61303607",
         "Band": "9",
         "longitude": "146.782162",
-        "Name": "United Rosedale"
+        "Name": "United Rosedale",
       },
       {
         "Address": "10 Murchison St",
@@ -8537,7 +8537,7 @@ export const getDecrypted = () => ({
         "siteId": "61303610",
         "Band": "7",
         "longitude": "145.748022",
-        "Name": "Ampol Marysville"
+        "Name": "Ampol Marysville",
       },
       {
         "Address": "57 Longfield Street",
@@ -8545,7 +8545,7 @@ export const getDecrypted = () => ({
         "siteId": "61303611",
         "Band": "4",
         "longitude": "142.764585",
-        "Name": "BP Stawell"
+        "Name": "BP Stawell",
       },
       {
         "Address": "125 Condon Street",
@@ -8553,7 +8553,7 @@ export const getDecrypted = () => ({
         "siteId": "61303612",
         "Band": "3",
         "longitude": "144.304234",
-        "Name": "EG Ampol Kennington"
+        "Name": "EG Ampol Kennington",
       },
       {
         "Address": "105-109 Mclennan St",
@@ -8561,7 +8561,7 @@ export const getDecrypted = () => ({
         "siteId": "61303614",
         "Band": "3",
         "longitude": "145.357388",
-        "Name": "BP Mooroopna Mcleannan Street"
+        "Name": "BP Mooroopna Mcleannan Street",
       },
       {
         "Address": "Calder Hwy",
@@ -8569,7 +8569,7 @@ export const getDecrypted = () => ({
         "siteId": "61303615",
         "Band": "7",
         "longitude": "144.505379",
-        "Name": "BP Carlsruhe"
+        "Name": "BP Carlsruhe",
       },
       {
         "Address": "235 Caroline Springs Bvd",
@@ -8577,7 +8577,7 @@ export const getDecrypted = () => ({
         "siteId": "61303617",
         "Band": "3",
         "longitude": "144.740911",
-        "Name": "7-Eleven Caroline Springs"
+        "Name": "7-Eleven Caroline Springs",
       },
       {
         "Address": "72-76 Surf Coast Hwy",
@@ -8585,7 +8585,7 @@ export const getDecrypted = () => ({
         "siteId": "61303618",
         "Band": "4",
         "longitude": "144.317056",
-        "Name": "EG Ampol Torquay"
+        "Name": "EG Ampol Torquay",
       },
       {
         "Address": "292-294 High St",
@@ -8593,7 +8593,7 @@ export const getDecrypted = () => ({
         "siteId": "61303619",
         "Band": "4",
         "longitude": "145.410033",
-        "Name": "EG Ampol Shepparton"
+        "Name": "EG Ampol Shepparton",
       },
       {
         "Address": "1 High St",
@@ -8601,7 +8601,7 @@ export const getDecrypted = () => ({
         "siteId": "61303620",
         "Band": "3",
         "longitude": "144.173033",
-        "Name": "EG Ampol Bannockburn"
+        "Name": "EG Ampol Bannockburn",
       },
       {
         "Address": "Lots11-14 High St",
@@ -8609,7 +8609,7 @@ export const getDecrypted = () => ({
         "siteId": "61303621",
         "Band": "9",
         "longitude": "144.978418",
-        "Name": "United Wallan"
+        "Name": "United Wallan",
       },
       {
         "Address": "127-145 Powlett St",
@@ -8617,7 +8617,7 @@ export const getDecrypted = () => ({
         "siteId": "61303622",
         "Band": "9",
         "longitude": "144.949291",
-        "Name": "United Kilmore"
+        "Name": "United Kilmore",
       },
       {
         "Address": "3883 Melba Hwy",
@@ -8625,7 +8625,7 @@ export const getDecrypted = () => ({
         "siteId": "61303623",
         "Band": "9",
         "longitude": "145.426883",
-        "Name": "United Glenburn"
+        "Name": "United Glenburn",
       },
       {
         "Address": "147 Princes Hwy & Sinclair St",
@@ -8633,7 +8633,7 @@ export const getDecrypted = () => ({
         "siteId": "61303624",
         "Band": "9",
         "longitude": "145.854788",
-        "Name": "United Drouin"
+        "Name": "United Drouin",
       },
       {
         "Address": "19 Keilor Park Rd",
@@ -8641,7 +8641,7 @@ export const getDecrypted = () => ({
         "siteId": "61303625",
         "Band": "4",
         "longitude": "144.849691",
-        "Name": "BP Keilor Park Drive"
+        "Name": "BP Keilor Park Drive",
       },
       {
         "Address": "49 Tarraville Rd",
@@ -8649,7 +8649,7 @@ export const getDecrypted = () => ({
         "siteId": "61303628",
         "Band": "9",
         "longitude": "146.691476",
-        "Name": "Port Albert General Store"
+        "Name": "Port Albert General Store",
       },
       {
         "Address": "314 Barker St",
@@ -8657,7 +8657,7 @@ export const getDecrypted = () => ({
         "siteId": "61303629",
         "Band": "9",
         "longitude": "144.218628",
-        "Name": "Parsons Motor and Body Shop"
+        "Name": "Parsons Motor and Body Shop",
       },
       {
         "Address": "21 Wellington St",
@@ -8665,7 +8665,7 @@ export const getDecrypted = () => ({
         "siteId": "61303630",
         "Band": "9",
         "longitude": "143.922104",
-        "Name": "Medco Kerang"
+        "Name": "Medco Kerang",
       },
       {
         "Address": "154 Mcivor Hwy",
@@ -8673,7 +8673,7 @@ export const getDecrypted = () => ({
         "siteId": "61303633",
         "Band": "6",
         "longitude": "143.728818",
-        "Name": "BP Boort"
+        "Name": "BP Boort",
       },
       {
         "Address": "1 Margaret St",
@@ -8681,7 +8681,7 @@ export const getDecrypted = () => ({
         "siteId": "61303635",
         "Band": "5",
         "longitude": "144.607285",
-        "Name": "BP Elmore"
+        "Name": "BP Elmore",
       },
       {
         "Address": "34 High St",
@@ -8689,7 +8689,7 @@ export const getDecrypted = () => ({
         "siteId": "61303636",
         "Band": "7",
         "longitude": "144.261697",
-        "Name": "BP Harcourt"
+        "Name": "BP Harcourt",
       },
       {
         "Address": "104 Sydney St",
@@ -8697,7 +8697,7 @@ export const getDecrypted = () => ({
         "siteId": "61303637",
         "Band": "3",
         "longitude": "144.949486",
-        "Name": "BP Kilmore"
+        "Name": "BP Kilmore",
       },
       {
         "Address": "2599 Murray Valley Hwy",
@@ -8705,7 +8705,7 @@ export const getDecrypted = () => ({
         "siteId": "61303638",
         "Band": "6",
         "longitude": "143.376894",
-        "Name": "BP Nyah"
+        "Name": "BP Nyah",
       },
       {
         "Address": "124 Calder Hwy",
@@ -8713,7 +8713,7 @@ export const getDecrypted = () => ({
         "siteId": "61303640",
         "Band": "9",
         "longitude": "144.348728",
-        "Name": "Metro Petroleum Taradale"
+        "Name": "Metro Petroleum Taradale",
       },
       {
         "Address": "155-163 Main Street",
@@ -8721,7 +8721,7 @@ export const getDecrypted = () => ({
         "siteId": "61303642",
         "Band": "9",
         "longitude": "146.458213",
-        "Name": "Metro Petroleum Rutherglen"
+        "Name": "Metro Petroleum Rutherglen",
       },
       {
         "Address": "1 Scanlon Dr & Cooper St",
@@ -8729,7 +8729,7 @@ export const getDecrypted = () => ({
         "siteId": "61303643",
         "Band": "4",
         "longitude": "144.993153",
-        "Name": "BP Northpoint T/Stop"
+        "Name": "BP Northpoint T/Stop",
       },
       {
         "Address": " Moss Road",
@@ -8737,7 +8737,7 @@ export const getDecrypted = () => ({
         "siteId": "61303644",
         "Band": "5",
         "longitude": "145.198862",
-        "Name": "Ampol Foodary Wahring"
+        "Name": "Ampol Foodary Wahring",
       },
       {
         "Address": "410 Derrimut Rd & Sayers Rd",
@@ -8745,7 +8745,7 @@ export const getDecrypted = () => ({
         "siteId": "61303645",
         "Band": "9",
         "longitude": "144.688956",
-        "Name": "Metro Petroleum Tarneit"
+        "Name": "Metro Petroleum Tarneit",
       },
       {
         "Address": "301-307 Nepean Hwy & North Rd",
@@ -8753,7 +8753,7 @@ export const getDecrypted = () => ({
         "siteId": "61303646",
         "Band": "5",
         "longitude": "145.007134",
-        "Name": "BP Bayside Gateway"
+        "Name": "BP Bayside Gateway",
       },
       {
         "Address": "South Gippsland Hwy",
@@ -8761,7 +8761,7 @@ export const getDecrypted = () => ({
         "siteId": "61303648",
         "Band": "9",
         "longitude": "146.874313",
-        "Name": "Shell Bryant & Hall"
+        "Name": "Shell Bryant & Hall",
       },
       {
         "Address": "380 Sayers Rd",
@@ -8769,7 +8769,7 @@ export const getDecrypted = () => ({
         "siteId": "61303649",
         "Band": "3",
         "longitude": "144.705751",
-        "Name": "Shell Reddy Express Tarneit"
+        "Name": "Shell Reddy Express Tarneit",
       },
       {
         "Address": "Clyde Rd & O'Shea Rd",
@@ -8777,7 +8777,7 @@ export const getDecrypted = () => ({
         "siteId": "61303650",
         "Band": "3",
         "longitude": "145.338573",
-        "Name": "Coles Express Berwick South"
+        "Name": "Coles Express Berwick South",
       },
       {
         "Address": "Dalton Rd & Spencer St",
@@ -8785,7 +8785,7 @@ export const getDecrypted = () => ({
         "siteId": "61303652",
         "Band": "3",
         "longitude": "145.028435",
-        "Name": "Coles Express Dalton Rd"
+        "Name": "Coles Express Dalton Rd",
       },
       {
         "Address": "1870 Warburton Hwy",
@@ -8793,7 +8793,7 @@ export const getDecrypted = () => ({
         "siteId": "61303653",
         "Band": "9",
         "longitude": "145.558134",
-        "Name": "BP Launching Place"
+        "Name": "BP Launching Place",
       },
       {
         "Address": "210 Ballan Rd",
@@ -8801,7 +8801,7 @@ export const getDecrypted = () => ({
         "siteId": "61303655",
         "Band": "3",
         "longitude": "144.630439",
-        "Name": "BP Wyndham Vale"
+        "Name": "BP Wyndham Vale",
       },
       {
         "Address": "Holden Road",
@@ -8809,7 +8809,7 @@ export const getDecrypted = () => ({
         "siteId": "61303656",
         "Band": "9",
         "longitude": "144.748033",
-        "Name": "BP AA Calder Outbound"
+        "Name": "BP AA Calder Outbound",
       },
       {
         "Address": "50 Hertford Street",
@@ -8817,7 +8817,7 @@ export const getDecrypted = () => ({
         "siteId": "61303657",
         "Band": "2",
         "longitude": "143.833713",
-        "Name": "7-Eleven Sebastopol"
+        "Name": "7-Eleven Sebastopol",
       },
       {
         "Address": "154 Goulburn Valley Hwy",
@@ -8825,7 +8825,7 @@ export const getDecrypted = () => ({
         "siteId": "61303658",
         "Band": "9",
         "longitude": "145.147179",
-        "Name": "Ampol Seymour"
+        "Name": "Ampol Seymour",
       },
       {
         "Address": "341 Sand Rd, Longwarry VIC 3816, Australia",
@@ -8833,7 +8833,7 @@ export const getDecrypted = () => ({
         "siteId": "61303659",
         "Band": "3",
         "longitude": "145.77466925194551",
-        "Name": "Ampol Foodary Longwarry (Eastbound)"
+        "Name": "Ampol Foodary Longwarry (Eastbound)",
       },
       {
         "Address": "8475 Western Hwy",
@@ -8841,7 +8841,7 @@ export const getDecrypted = () => ({
         "siteId": "61303660",
         "Band": "6",
         "longitude": "142.985886",
-        "Name": "Ampol Foodary Ararat"
+        "Name": "Ampol Foodary Ararat",
       },
       {
         "Address": "510 Hall Rd",
@@ -8849,7 +8849,7 @@ export const getDecrypted = () => ({
         "siteId": "61303661",
         "Band": "3",
         "longitude": "145.232266",
-        "Name": "BP Skye"
+        "Name": "BP Skye",
       },
       {
         "Address": "290 Sand Rd, Longwarry VIC 3816, Australia",
@@ -8857,7 +8857,7 @@ export const getDecrypted = () => ({
         "siteId": "61303662",
         "Band": "3",
         "longitude": "145.7799853141556",
-        "Name": "Ampol Foodary Longwarry (Westbound)"
+        "Name": "Ampol Foodary Longwarry (Westbound)",
       },
       {
         "Address": "969 North Rd",
@@ -8865,7 +8865,7 @@ export const getDecrypted = () => ({
         "siteId": "61303663",
         "Band": "3",
         "longitude": "145.067071",
-        "Name": "EG Ampol Murrumbeena"
+        "Name": "EG Ampol Murrumbeena",
       },
       {
         "Address": "201 Boundary Rd",
@@ -8873,7 +8873,7 @@ export const getDecrypted = () => ({
         "siteId": "61303664",
         "Band": "2",
         "longitude": "145.105731",
-        "Name": "Coles Express Mordialloc"
+        "Name": "Coles Express Mordialloc",
       },
       {
         "Address": "313 Black Forest Dv",
@@ -8881,7 +8881,7 @@ export const getDecrypted = () => ({
         "siteId": "61303665",
         "Band": "9",
         "longitude": "144.559699",
-        "Name": "United Macedon"
+        "Name": "United Macedon",
       },
       {
         "Address": "1182 Sydney Rd & Leo Street",
@@ -8889,7 +8889,7 @@ export const getDecrypted = () => ({
         "siteId": "61303666",
         "Band": "3",
         "longitude": "144.961665",
-        "Name": "Coles Express Fawkner"
+        "Name": "Coles Express Fawkner",
       },
       {
         "Address": "1015 Hume Fwy",
@@ -8897,7 +8897,7 @@ export const getDecrypted = () => ({
         "siteId": "61303668",
         "Band": "9",
         "longitude": "145.014907",
-        "Name": "BP AA Wallan Outbound"
+        "Name": "BP AA Wallan Outbound",
       },
       {
         "Address": "16-40 Howard St",
@@ -8905,7 +8905,7 @@ export const getDecrypted = () => ({
         "siteId": "61303669",
         "Band": "3",
         "longitude": "144.317622",
-        "Name": "EG Ampol Epsom"
+        "Name": "EG Ampol Epsom",
       },
       {
         "Address": "1 Wallace Avenue",
@@ -8913,7 +8913,7 @@ export const getDecrypted = () => ({
         "siteId": "61303670",
         "Band": "9",
         "longitude": "144.738075",
-        "Name": "United Point Cook"
+        "Name": "United Point Cook",
       },
       {
         "Address": "1050 Hume Fwy",
@@ -8921,7 +8921,7 @@ export const getDecrypted = () => ({
         "siteId": "61303671",
         "Band": "9",
         "longitude": "145.017323",
-        "Name": "BP AA Wallan Inbound"
+        "Name": "BP AA Wallan Inbound",
       },
       {
         "Address": "131 Johnson St",
@@ -8929,7 +8929,7 @@ export const getDecrypted = () => ({
         "siteId": "61303672",
         "Band": "9",
         "longitude": "146.977148",
-        "Name": "Donalda Motors Maffra"
+        "Name": "Donalda Motors Maffra",
       },
       {
         "Address": "1789 Western Hwy",
@@ -8937,7 +8937,7 @@ export const getDecrypted = () => ({
         "siteId": "61303673",
         "Band": "3",
         "longitude": "144.680529",
-        "Name": "BP Rockbank Truckstop"
+        "Name": "BP Rockbank Truckstop",
       },
       {
         "Address": "167 Tarcombe St",
@@ -8945,7 +8945,7 @@ export const getDecrypted = () => ({
         "siteId": "61303674",
         "Band": "6",
         "longitude": "145.591535",
-        "Name": "Coles Express Euroa"
+        "Name": "Coles Express Euroa",
       },
       {
         "Address": "66-84 High St Cnr Melton Hwy",
@@ -8953,7 +8953,7 @@ export const getDecrypted = () => ({
         "siteId": "61303675",
         "Band": "5",
         "longitude": "144.604054",
-        "Name": "EG Ampol Melton Gateway"
+        "Name": "EG Ampol Melton Gateway",
       },
       {
         "Address": "458 Main Street",
@@ -8961,7 +8961,7 @@ export const getDecrypted = () => ({
         "siteId": "61303676",
         "Band": "9",
         "longitude": "147.612783",
-        "Name": "Apco Bairnsdale"
+        "Name": "Apco Bairnsdale",
       },
       {
         "Address": "Pipe Rd",
@@ -8969,7 +8969,7 @@ export const getDecrypted = () => ({
         "siteId": "61303679",
         "Band": "9",
         "longitude": "144.817101",
-        "Name": "Liberty Laverton North"
+        "Name": "Liberty Laverton North",
       },
       {
         "Address": "Monahs Road & Georgina Place",
@@ -8977,7 +8977,7 @@ export const getDecrypted = () => ({
         "siteId": "61303681",
         "Band": "9",
         "longitude": "146.420016",
-        "Name": "United Churchill"
+        "Name": "United Churchill",
       },
       {
         "Address": "63-65 Phillip Island Tourist Rd",
@@ -8985,7 +8985,7 @@ export const getDecrypted = () => ({
         "siteId": "61303682",
         "Band": "9",
         "longitude": "145.374737",
-        "Name": "United San Remo"
+        "Name": "United San Remo",
       },
       {
         "Address": "1 Main Road",
@@ -8993,7 +8993,7 @@ export const getDecrypted = () => ({
         "siteId": "61303683",
         "Band": "9",
         "longitude": "146.481583",
-        "Name": "United Tyers"
+        "Name": "United Tyers",
       },
       {
         "Address": "Cnr Boardwalk Blv & Tom Roberts Parade",
@@ -9001,7 +9001,7 @@ export const getDecrypted = () => ({
         "siteId": "61303684",
         "Band": "4",
         "longitude": "144.728086",
-        "Name": "7-Eleven Point Cook"
+        "Name": "7-Eleven Point Cook",
       },
       {
         "Address": "405 Fitzgerald Road",
@@ -9009,7 +9009,7 @@ export const getDecrypted = () => ({
         "siteId": "61303685",
         "Band": "9",
         "longitude": "144.787822",
-        "Name": "Pacific Petroleum Derrimut"
+        "Name": "Pacific Petroleum Derrimut",
       },
       {
         "Address": "94 Princes Hwy",
@@ -9017,7 +9017,7 @@ export const getDecrypted = () => ({
         "siteId": "61303686",
         "Band": "9",
         "longitude": "145.390546",
-        "Name": "BP AA Officer Inbound"
+        "Name": "BP AA Officer Inbound",
       },
       {
         "Address": "2 Little Boundary Rd",
@@ -9025,7 +9025,7 @@ export const getDecrypted = () => ({
         "siteId": "61303687",
         "Band": "3",
         "longitude": "144.823769",
-        "Name": "Coles Express Laverton North"
+        "Name": "Coles Express Laverton North",
       },
       {
         "Address": "25 Keith Morgan Drive",
@@ -9033,7 +9033,7 @@ export const getDecrypted = () => ({
         "siteId": "61303688",
         "Band": "9",
         "longitude": "146.541686",
-        "Name": "Independent Traralgon South"
+        "Name": "Independent Traralgon South",
       },
       {
         "Address": "1 Princes Hwy",
@@ -9041,7 +9041,7 @@ export const getDecrypted = () => ({
         "siteId": "61303689",
         "Band": "9",
         "longitude": "146.512711",
-        "Name": "BP Traralgon"
+        "Name": "BP Traralgon",
       },
       {
         "Address": "233 Myrtle St",
@@ -9049,7 +9049,7 @@ export const getDecrypted = () => ({
         "siteId": "61303691",
         "Band": "9",
         "longitude": "146.715914",
-        "Name": "Liberty Myrtleford"
+        "Name": "Liberty Myrtleford",
       },
       {
         "Address": "358 Deakin Ave",
@@ -9057,7 +9057,7 @@ export const getDecrypted = () => ({
         "siteId": "61303693",
         "Band": "9",
         "longitude": "142.141661",
-        "Name": "Apco Mildura"
+        "Name": "Apco Mildura",
       },
       {
         "Address": "945 South Gippsland Hwy",
@@ -9065,7 +9065,7 @@ export const getDecrypted = () => ({
         "siteId": "61303694",
         "Band": "2",
         "longitude": "145.272454",
-        "Name": "7-Eleven Cranbourne North"
+        "Name": "7-Eleven Cranbourne North",
       },
       {
         "Address": "72 Vestan Dr",
@@ -9073,7 +9073,7 @@ export const getDecrypted = () => ({
         "siteId": "61303695",
         "Band": "5",
         "longitude": "146.437096",
-        "Name": "EG Ampol Morwell"
+        "Name": "EG Ampol Morwell",
       },
       {
         "Address": "65 Princes Highway",
@@ -9081,7 +9081,7 @@ export const getDecrypted = () => ({
         "siteId": "61303696",
         "Band": "9",
         "longitude": "145.386717",
-        "Name": "BP AA Officer Outbound"
+        "Name": "BP AA Officer Outbound",
       },
       {
         "Address": "2 - 14 Calder Park Drive",
@@ -9089,7 +9089,7 @@ export const getDecrypted = () => ({
         "siteId": "61303697",
         "Band": "3",
         "longitude": "144.751812",
-        "Name": "EG Ampol Taylors Hill"
+        "Name": "EG Ampol Taylors Hill",
       },
       {
         "Address": "208 Waverley Road",
@@ -9097,7 +9097,7 @@ export const getDecrypted = () => ({
         "siteId": "61303698",
         "Band": "3",
         "longitude": "145.109695",
-        "Name": "BP Mount Waverley"
+        "Name": "BP Mount Waverley",
       },
       {
         "Address": "1807-1833 Point Nepean Hwy",
@@ -9105,7 +9105,7 @@ export const getDecrypted = () => ({
         "siteId": "61303699",
         "Band": "4",
         "longitude": "144.862394",
-        "Name": "Coles Express Tootgarook"
+        "Name": "Coles Express Tootgarook",
       },
       {
         "Address": "McGregor Rd & Livingstone Blvd",
@@ -9113,7 +9113,7 @@ export const getDecrypted = () => ({
         "siteId": "61303700",
         "Band": "3",
         "longitude": "145.471383",
-        "Name": "Coles Express Heritage Springs"
+        "Name": "Coles Express Heritage Springs",
       },
       {
         "Address": "245 High St (Northern Hwy) & Hunter Pl",
@@ -9121,7 +9121,7 @@ export const getDecrypted = () => ({
         "siteId": "61303701",
         "Band": "5",
         "longitude": "144.698946",
-        "Name": "Ampol Foodary Heathcote"
+        "Name": "Ampol Foodary Heathcote",
       },
       {
         "Address": "77 Greig Dr",
@@ -9129,7 +9129,7 @@ export const getDecrypted = () => ({
         "siteId": "61303702",
         "Band": "6",
         "longitude": "145.102637",
-        "Name": "EG Ampol Mernda"
+        "Name": "EG Ampol Mernda",
       },
       {
         "Address": "180-182 Cherry Ln",
@@ -9137,7 +9137,7 @@ export const getDecrypted = () => ({
         "siteId": "61303703",
         "Band": "9",
         "longitude": "144.783294",
-        "Name": "Ampol Laverton North (Cherry Lane)"
+        "Name": "Ampol Laverton North (Cherry Lane)",
       },
       {
         "Address": "127 Gourlay Rd",
@@ -9145,7 +9145,7 @@ export const getDecrypted = () => ({
         "siteId": "61303704",
         "Band": "3",
         "longitude": "144.740866",
-        "Name": "Shell Reddy Express Taylors Hill"
+        "Name": "Shell Reddy Express Taylors Hill",
       },
       {
         "Address": "1/75 Mount Derrimut Rd",
@@ -9153,7 +9153,7 @@ export const getDecrypted = () => ({
         "siteId": "61303705",
         "Band": "3",
         "longitude": "144.773693",
-        "Name": "Ampol Foodary Mt Derrimut"
+        "Name": "Ampol Foodary Mt Derrimut",
       },
       {
         "Address": "81 Victoria Cross Parade",
@@ -9161,7 +9161,7 @@ export const getDecrypted = () => ({
         "siteId": "61303706",
         "Band": "3",
         "longitude": "146.892105",
-        "Name": "EG Ampol Wodonga South"
+        "Name": "EG Ampol Wodonga South",
       },
       {
         "Address": "15-23 Eucumbene Dr",
@@ -9169,7 +9169,7 @@ export const getDecrypted = () => ({
         "siteId": "61303707",
         "Band": "3",
         "longitude": "144.742251",
-        "Name": "Coles Express Burnside"
+        "Name": "Coles Express Burnside",
       },
       {
         "Address": "4-10 Boneo Rd",
@@ -9177,7 +9177,7 @@ export const getDecrypted = () => ({
         "siteId": "61303708",
         "Band": "4",
         "longitude": "144.889113",
-        "Name": "EG Ampol Rosebud West"
+        "Name": "EG Ampol Rosebud West",
       },
       {
         "Address": "Greens & Hammond Rds",
@@ -9185,7 +9185,7 @@ export const getDecrypted = () => ({
         "siteId": "61303709",
         "Band": "2",
         "longitude": "145.205283",
-        "Name": "BP Dandenong Truckstop"
+        "Name": "BP Dandenong Truckstop",
       },
       {
         "Address": "1500 Eastlink Fwy",
@@ -9193,7 +9193,7 @@ export const getDecrypted = () => ({
         "siteId": "61303710",
         "Band": "9",
         "longitude": "145.214214",
-        "Name": "BP AA Eastlink Inbound"
+        "Name": "BP AA Eastlink Inbound",
       },
       {
         "Address": "5385 Midland Highway",
@@ -9201,7 +9201,7 @@ export const getDecrypted = () => ({
         "siteId": "61303711",
         "Band": "9",
         "longitude": "145.174657",
-        "Name": "Indigo Fuels Byrneside"
+        "Name": "Indigo Fuels Byrneside",
       },
       {
         "Address": "Cnr Sayers & Derrimut Rds",
@@ -9209,7 +9209,7 @@ export const getDecrypted = () => ({
         "siteId": "61303712",
         "Band": "9",
         "longitude": "144.687997",
-        "Name": "OOM Tarneit"
+        "Name": "OOM Tarneit",
       },
       {
         "Address": "1350 Pascoe Vale Rd",
@@ -9217,7 +9217,7 @@ export const getDecrypted = () => ({
         "siteId": "61303713",
         "Band": "4",
         "longitude": "144.923208",
-        "Name": "7-Eleven Coolaroo"
+        "Name": "7-Eleven Coolaroo",
       },
       {
         "Address": "300 Point Cook Rd",
@@ -9225,7 +9225,7 @@ export const getDecrypted = () => ({
         "siteId": "61303714",
         "Band": "4",
         "longitude": "144.752301",
-        "Name": "Coles Express Sanctuary Lakes"
+        "Name": "Coles Express Sanctuary Lakes",
       },
       {
         "Address": "Yan Yean Rd & Bridge Inn Rd",
@@ -9233,7 +9233,7 @@ export const getDecrypted = () => ({
         "siteId": "61303715",
         "Band": "9",
         "longitude": "145.137602",
-        "Name": "United Doreen"
+        "Name": "United Doreen",
       },
       {
         "Address": "144 Point Cook Rd",
@@ -9241,7 +9241,7 @@ export const getDecrypted = () => ({
         "siteId": "61303716",
         "Band": "9",
         "longitude": "144.755916",
-        "Name": "BP Seabrook"
+        "Name": "BP Seabrook",
       },
       {
         "Address": "1501 Eastlink Hwy",
@@ -9249,7 +9249,7 @@ export const getDecrypted = () => ({
         "siteId": "61303717",
         "Band": "9",
         "longitude": "145.217003",
-        "Name": "BP AA Eastlink Outbound"
+        "Name": "BP AA Eastlink Outbound",
       },
       {
         "Address": "250 Somerton Road",
@@ -9257,7 +9257,7 @@ export const getDecrypted = () => ({
         "siteId": "61303718",
         "Band": "4",
         "longitude": "144.931363",
-        "Name": "Coles Express Roxburgh Park"
+        "Name": "Coles Express Roxburgh Park",
       },
       {
         "Address": "618 Tarneit Road",
@@ -9265,7 +9265,7 @@ export const getDecrypted = () => ({
         "siteId": "61303719",
         "Band": "3",
         "longitude": "144.667659",
-        "Name": "7-Eleven Tarneit"
+        "Name": "7-Eleven Tarneit",
       },
       {
         "Address": "127 - 135 Northern Highway",
@@ -9273,7 +9273,7 @@ export const getDecrypted = () => ({
         "siteId": "61303720",
         "Band": "9",
         "longitude": "144.730365",
-        "Name": "United Echuca"
+        "Name": "United Echuca",
       },
       {
         "Address": "821 Melton Highway",
@@ -9281,7 +9281,7 @@ export const getDecrypted = () => ({
         "siteId": "61303721",
         "Band": "9",
         "longitude": "144.731409",
-        "Name": "United Hillside"
+        "Name": "United Hillside",
       },
       {
         "Address": "945 Thompsons Road",
@@ -9289,7 +9289,7 @@ export const getDecrypted = () => ({
         "siteId": "61303722",
         "Band": "3",
         "longitude": "145.248571",
-        "Name": "EG Ampol Lyndhurst"
+        "Name": "EG Ampol Lyndhurst",
       },
       {
         "Address": "810 Dandenong-Hastings Road",
@@ -9297,7 +9297,7 @@ export const getDecrypted = () => ({
         "siteId": "61303723",
         "Band": "9",
         "longitude": "145.233949",
-        "Name": "Apco Cranbourne West"
+        "Name": "Apco Cranbourne West",
       },
       {
         "Address": " Hume Highway",
@@ -9305,7 +9305,7 @@ export const getDecrypted = () => ({
         "siteId": "61303724",
         "Band": "5",
         "longitude": "145.102121",
-        "Name": "Ampol Foodary Tallarook (South Bound)"
+        "Name": "Ampol Foodary Tallarook (South Bound)",
       },
       {
         "Address": "14 Kirwin Road",
@@ -9313,7 +9313,7 @@ export const getDecrypted = () => ({
         "siteId": "61303725",
         "Band": "9",
         "longitude": "146.443074",
-        "Name": "Caltex OPT Morwell"
+        "Name": "Caltex OPT Morwell",
       },
       {
         "Address": "Western Highway",
@@ -9321,7 +9321,7 @@ export const getDecrypted = () => ({
         "siteId": "61303726",
         "Band": "9",
         "longitude": "141.643478",
-        "Name": "Ampol Nhill Diesel Stop"
+        "Name": "Ampol Nhill Diesel Stop",
       },
       {
         "Address": "Bass Highway Cnr Soldiers Road",
@@ -9329,7 +9329,7 @@ export const getDecrypted = () => ({
         "siteId": "61303727",
         "Band": "6",
         "longitude": "145.47385490534691",
-        "Name": "Ampol Foodary Bass"
+        "Name": "Ampol Foodary Bass",
       },
       {
         "Address": "4465 S Gippsland Hwy",
@@ -9337,7 +9337,7 @@ export const getDecrypted = () => ({
         "siteId": "61303728",
         "Band": "6",
         "longitude": "145.53722051848922",
-        "Name": "BP Caldermeade"
+        "Name": "BP Caldermeade",
       },
       {
         "Address": "128-150  Whitehall Street",
@@ -9345,7 +9345,7 @@ export const getDecrypted = () => ({
         "siteId": "61303729",
         "Band": "3",
         "longitude": "144.902407",
-        "Name": "BP Footscray"
+        "Name": "BP Footscray",
       },
       {
         "Address": "Cnr Wilsons Rd & Henty Hwy",
@@ -9353,7 +9353,7 @@ export const getDecrypted = () => ({
         "siteId": "61303730",
         "Band": "9",
         "longitude": "141.586492",
-        "Name": "Portland Diesel Stop"
+        "Name": "Portland Diesel Stop",
       },
       {
         "Address": "145 Percy St",
@@ -9361,7 +9361,7 @@ export const getDecrypted = () => ({
         "siteId": "61340039",
         "Band": "9",
         "longitude": "141.603904",
-        "Name": "BP One Stop Portland"
+        "Name": "BP One Stop Portland",
       },
       {
         "Address": "43 O'Callaghans Pde",
@@ -9369,7 +9369,7 @@ export const getDecrypted = () => ({
         "siteId": "61340049",
         "Band": "5",
         "longitude": "142.204599",
-        "Name": "BP Wimmera Bridge"
+        "Name": "BP Wimmera Bridge",
       },
       {
         "Address": "176 Numurkah Rd",
@@ -9377,7 +9377,7 @@ export const getDecrypted = () => ({
         "siteId": "61340071",
         "Band": "5",
         "longitude": "145.401466",
-        "Name": "Pat & Tina Service Station"
+        "Name": "Pat & Tina Service Station",
       },
       {
         "Address": "60 Hovell St",
@@ -9385,7 +9385,7 @@ export const getDecrypted = () => ({
         "siteId": "61340077",
         "Band": "9",
         "longitude": "146.893494",
-        "Name": "BP Wodonga"
+        "Name": "BP Wodonga",
       },
       {
         "Address": "240 Tenth St",
@@ -9393,7 +9393,7 @@ export const getDecrypted = () => ({
         "siteId": "61340213",
         "Band": "5",
         "longitude": "142.149654",
-        "Name": "Ampol Mildura"
+        "Name": "Ampol Mildura",
       },
       {
         "Address": "Mcivor Rd & Murphy St",
@@ -9401,7 +9401,7 @@ export const getDecrypted = () => ({
         "siteId": "61340223",
         "Band": "3",
         "longitude": "144.298749",
-        "Name": "Ampol Bendigo"
+        "Name": "Ampol Bendigo",
       },
       {
         "Address": "1 Beveridge St",
@@ -9409,7 +9409,7 @@ export const getDecrypted = () => ({
         "siteId": "61340229",
         "Band": "5",
         "longitude": "143.557247",
-        "Name": "Ampol Swan Hill"
+        "Name": "Ampol Swan Hill",
       },
       {
         "Address": "21-25 Church St",
@@ -9417,7 +9417,7 @@ export const getDecrypted = () => ({
         "siteId": "61340297",
         "Band": "4",
         "longitude": "144.349104",
-        "Name": "Coles Express Geelong West"
+        "Name": "Coles Express Geelong West",
       },
       {
         "Address": " Cnr O'Brien St & Echuca Rd",
@@ -9425,7 +9425,7 @@ export const getDecrypted = () => ({
         "siteId": "61351322",
         "Band": "9",
         "longitude": "145.356202",
-        "Name": "BP Connect Mooroopna (Echuca Road)"
+        "Name": "BP Connect Mooroopna (Echuca Road)",
       },
       {
         "Address": "Wallan-Broadford Rd",
@@ -9433,7 +9433,7 @@ export const getDecrypted = () => ({
         "siteId": "61351329",
         "Band": "9",
         "longitude": "145.026191",
-        "Name": "Wandong Self Serve"
+        "Name": "Wandong Self Serve",
       },
       {
         "Address": "1076 Raglan Pde",
@@ -9441,7 +9441,7 @@ export const getDecrypted = () => ({
         "siteId": "61351352",
         "Band": "5",
         "longitude": "142.456993",
-        "Name": "Coles Express Warrnambool"
+        "Name": "Coles Express Warrnambool",
       },
       {
         "Address": "465-469 Raglan Pde",
@@ -9449,7 +9449,7 @@ export const getDecrypted = () => ({
         "siteId": "61351353",
         "Band": "5",
         "longitude": "142.491362",
-        "Name": "Coles Express Ponderosa"
+        "Name": "Coles Express Ponderosa",
       },
       {
         "Address": "65 Grant St",
@@ -9457,7 +9457,7 @@ export const getDecrypted = () => ({
         "siteId": "61351354",
         "Band": "9",
         "longitude": "144.433281",
-        "Name": "BP Parks"
+        "Name": "BP Parks",
       },
       {
         "Address": "3458 Warburton Hwy",
@@ -9465,7 +9465,7 @@ export const getDecrypted = () => ({
         "siteId": "61351356",
         "Band": "9",
         "longitude": "145.696356",
-        "Name": "Snowview Service Station"
+        "Name": "Snowview Service Station",
       },
       {
         "Address": "81-87 Elgin St",
@@ -9473,7 +9473,7 @@ export const getDecrypted = () => ({
         "siteId": "61351358",
         "Band": "9",
         "longitude": "146.879561",
-        "Name": "Shell Wodonga"
+        "Name": "Shell Wodonga",
       },
       {
         "Address": " Melbourne Road",
@@ -9481,7 +9481,7 @@ export const getDecrypted = () => ({
         "siteId": "61351369",
         "Band": "9",
         "longitude": "145.392943",
-        "Name": "Kialla Shell Self Serve"
+        "Name": "Kialla Shell Self Serve",
       },
       {
         "Address": "822 Sturt St",
@@ -9489,7 +9489,7 @@ export const getDecrypted = () => ({
         "siteId": "61351381",
         "Band": "2",
         "longitude": "143.848027",
-        "Name": "Coles Express Ballarat"
+        "Name": "Coles Express Ballarat",
       },
       {
         "Address": "1319 Sturt & Pleasant St",
@@ -9497,7 +9497,7 @@ export const getDecrypted = () => ({
         "siteId": "61351383",
         "Band": "2",
         "longitude": "143.839442",
-        "Name": "Coles Express Pleasant Corner"
+        "Name": "Coles Express Pleasant Corner",
       },
       {
         "Address": "47-49 High St",
@@ -9505,7 +9505,7 @@ export const getDecrypted = () => ({
         "siteId": "61351385",
         "Band": "3",
         "longitude": "143.734858",
-        "Name": "Coles Express Maryborough"
+        "Name": "Coles Express Maryborough",
       },
       {
         "Address": "280 Barkly St",
@@ -9513,7 +9513,7 @@ export const getDecrypted = () => ({
         "siteId": "61351386",
         "Band": "6",
         "longitude": "142.936091",
-        "Name": "Coles Express Ararat"
+        "Name": "Coles Express Ararat",
       },
       {
         "Address": "Dimboola Rd & David St",
@@ -9521,7 +9521,7 @@ export const getDecrypted = () => ({
         "siteId": "61351393",
         "Band": "4",
         "longitude": "142.199191",
-        "Name": "Coles Express Horsham"
+        "Name": "Coles Express Horsham",
       },
       {
         "Address": "43 Emily St",
@@ -9529,7 +9529,7 @@ export const getDecrypted = () => ({
         "siteId": "61351401",
         "Band": "5",
         "longitude": "145.129108",
-        "Name": "EG Ampol Seymour"
+        "Name": "EG Ampol Seymour",
       },
       {
         "Address": "High St & Honeysuckle St",
@@ -9537,7 +9537,7 @@ export const getDecrypted = () => ({
         "siteId": "61351402",
         "Band": "4",
         "longitude": "144.267827",
-        "Name": "Coles Express Deborah Reef"
+        "Name": "Coles Express Deborah Reef",
       },
       {
         "Address": "98 High St",
@@ -9545,7 +9545,7 @@ export const getDecrypted = () => ({
         "siteId": "61351405",
         "Band": "9",
         "longitude": "145.422111",
-        "Name": "Yea Service Station"
+        "Name": "Yea Service Station",
       },
       {
         "Address": "Mcivor Rd & Kennedy St",
@@ -9553,7 +9553,7 @@ export const getDecrypted = () => ({
         "siteId": "61351407",
         "Band": "3",
         "longitude": "144.292282",
-        "Name": "Coles Express Woolpak"
+        "Name": "Coles Express Woolpak",
       },
       {
         "Address": "235 Ogilvie Av & Premier St",
@@ -9561,7 +9561,7 @@ export const getDecrypted = () => ({
         "siteId": "61351408",
         "Band": "5",
         "longitude": "144.748713",
-        "Name": "Coles Express Echuca"
+        "Name": "Coles Express Echuca",
       },
       {
         "Address": "92 Wellington St",
@@ -9569,7 +9569,7 @@ export const getDecrypted = () => ({
         "siteId": "61351413",
         "Band": "9",
         "longitude": "143.91758847238734",
-        "Name": "Shell Kerang"
+        "Name": "Shell Kerang",
       },
       {
         "Address": " Murray Valley Highway",
@@ -9577,7 +9577,7 @@ export const getDecrypted = () => ({
         "siteId": "61351430",
         "Band": "9",
         "longitude": "146.018045",
-        "Name": "United Yarrawonga"
+        "Name": "United Yarrawonga",
       },
       {
         "Address": "45 Bridge St & Margaret St",
@@ -9585,7 +9585,7 @@ export const getDecrypted = () => ({
         "siteId": "61351431",
         "Band": "5",
         "longitude": "145.970928",
-        "Name": "Coles Express Benalla"
+        "Name": "Coles Express Benalla",
       },
       {
         "Address": "Cnr Princes Hwy & Deakin St",
@@ -9593,7 +9593,7 @@ export const getDecrypted = () => ({
         "siteId": "61351435",
         "Band": "4",
         "longitude": "146.534197",
-        "Name": "Coles Express Traralgon"
+        "Name": "Coles Express Traralgon",
       },
       {
         "Address": "97 High St & Bridge",
@@ -9601,7 +9601,7 @@ export const getDecrypted = () => ({
         "siteId": "61351436",
         "Band": "9",
         "longitude": "144.563489",
-        "Name": "Mortimers Service Station"
+        "Name": "Mortimers Service Station",
       },
       {
         "Address": "1 Parfitt Rd & Clements St",
@@ -9609,7 +9609,7 @@ export const getDecrypted = () => ({
         "siteId": "61351438",
         "Band": "5",
         "longitude": "146.331674",
-        "Name": "Coles Express Wangaratta"
+        "Name": "Coles Express Wangaratta",
       },
       {
         "Address": "251 Main St & Pyke St",
@@ -9617,7 +9617,7 @@ export const getDecrypted = () => ({
         "siteId": "61351439",
         "Band": "5",
         "longitude": "147.626526",
-        "Name": "Coles Express Bairnsdale"
+        "Name": "Coles Express Bairnsdale",
       },
       {
         "Address": "76 Gavan St",
@@ -9625,7 +9625,7 @@ export const getDecrypted = () => ({
         "siteId": "61351440",
         "Band": "9",
         "longitude": "146.959258",
-        "Name": "BP Alpine Bright "
+        "Name": "BP Alpine Bright ",
       },
       {
         "Address": "615 Henty Highway",
@@ -9633,7 +9633,7 @@ export const getDecrypted = () => ({
         "siteId": "61351443",
         "Band": "9",
         "longitude": "141.596399",
-        "Name": "Shell Portland CVRO"
+        "Name": "Shell Portland CVRO",
       },
       {
         "Address": "275 Allan St",
@@ -9641,7 +9641,7 @@ export const getDecrypted = () => ({
         "siteId": "61351447",
         "Band": "9",
         "longitude": "145.050639",
-        "Name": "Metro Petroleum Kyabram"
+        "Name": "Metro Petroleum Kyabram",
       },
       {
         "Address": "432 Broadway",
@@ -9649,7 +9649,7 @@ export const getDecrypted = () => ({
         "siteId": "61351466",
         "Band": "6",
         "longitude": "143.225915",
-        "Name": "BP Wycheproof"
+        "Name": "BP Wycheproof",
       },
       {
         "Address": "2-14 Princes Hwy & Baillie St",
@@ -9657,7 +9657,7 @@ export const getDecrypted = () => ({
         "siteId": "61351472",
         "Band": "5",
         "longitude": "143.610341",
-        "Name": "Coles Express Colac"
+        "Name": "Coles Express Colac",
       },
       {
         "Address": "Cnr Burton Av & Lauriston Rd",
@@ -9665,7 +9665,7 @@ export const getDecrypted = () => ({
         "siteId": "61351473",
         "Band": "9",
         "longitude": "144.420132",
-        "Name": "Kuppers Mineral Springs R/h"
+        "Name": "Kuppers Mineral Springs R/h",
       },
       {
         "Address": "55 High St",
@@ -9673,7 +9673,7 @@ export const getDecrypted = () => ({
         "siteId": "61351474",
         "Band": "7",
         "longitude": "144.455729",
-        "Name": "BP Kyneton"
+        "Name": "BP Kyneton",
       },
       {
         "Address": "5327 Princes Highway",
@@ -9681,7 +9681,7 @@ export const getDecrypted = () => ({
         "siteId": "61351480",
         "Band": "9",
         "longitude": "148.431896",
-        "Name": "BP Newmerella"
+        "Name": "BP Newmerella",
       },
       {
         "Address": "Midland Hwy & Taylor St",
@@ -9689,7 +9689,7 @@ export const getDecrypted = () => ({
         "siteId": "61351481",
         "Band": "3",
         "longitude": "144.313792",
-        "Name": "BP Epsom"
+        "Name": "BP Epsom",
       },
       {
         "Address": "307 White Rd",
@@ -9697,7 +9697,7 @@ export const getDecrypted = () => ({
         "siteId": "61351484",
         "Band": "9",
         "longitude": "145.579456",
-        "Name": "Dowson Ta & Hj"
+        "Name": "Dowson Ta & Hj",
       },
       {
         "Address": "336 Belgrave-Gembrook Rd",
@@ -9705,7 +9705,7 @@ export const getDecrypted = () => ({
         "siteId": "61351488",
         "Band": "3",
         "longitude": "145.43941118650818",
-        "Name": "Shell Reddy Express Emerald (Vic)"
+        "Name": "Shell Reddy Express Emerald (Vic)",
       },
       {
         "Address": "47 Raglan St",
@@ -9713,7 +9713,7 @@ export const getDecrypted = () => ({
         "siteId": "61351491",
         "Band": "5",
         "longitude": "144.146755",
-        "Name": "Coles Express Daylesford"
+        "Name": "Coles Express Daylesford",
       },
       {
         "Address": "13 Towong St",
@@ -9721,7 +9721,7 @@ export const getDecrypted = () => ({
         "siteId": "61351501",
         "Band": "9",
         "longitude": "147.180509",
-        "Name": "Shell Tallangatta"
+        "Name": "Shell Tallangatta",
       },
       {
         "Address": "93 Broadway St",
@@ -9729,7 +9729,7 @@ export const getDecrypted = () => ({
         "siteId": "61351502",
         "Band": "9",
         "longitude": "145.640997",
-        "Name": "Murray Goulburn Cobram"
+        "Name": "Murray Goulburn Cobram",
       },
       {
         "Address": "74 Main Rd",
@@ -9737,7 +9737,7 @@ export const getDecrypted = () => ({
         "siteId": "61351504",
         "Band": "9",
         "longitude": "144.737025",
-        "Name": "Lancefield Motors"
+        "Name": "Lancefield Motors",
       },
       {
         "Address": "South Gippsland Highway",
@@ -9745,7 +9745,7 @@ export const getDecrypted = () => ({
         "siteId": "61351505",
         "Band": "6",
         "longitude": "145.550979",
-        "Name": "Coles Express Lang Lang"
+        "Name": "Coles Express Lang Lang",
       },
       {
         "Address": "Strickland Rd",
@@ -9753,7 +9753,7 @@ export const getDecrypted = () => ({
         "siteId": "61351513",
         "Band": "9",
         "longitude": "144.305622",
-        "Name": "Shell Bendigo"
+        "Name": "Shell Bendigo",
       },
       {
         "Address": "107 Great Ocean Rd",
@@ -9761,7 +9761,7 @@ export const getDecrypted = () => ({
         "siteId": "61351515",
         "Band": "4",
         "longitude": "144.185919",
-        "Name": "Shell Reddy Express Anglesea"
+        "Name": "Shell Reddy Express Anglesea",
       },
       {
         "Address": "1007 Norman St",
@@ -9769,7 +9769,7 @@ export const getDecrypted = () => ({
         "siteId": "61351517",
         "Band": "9",
         "longitude": "143.840202",
-        "Name": "Octane Wendouree"
+        "Name": "Octane Wendouree",
       },
       {
         "Address": "18-20 Clunes Rd",
@@ -9777,7 +9777,7 @@ export const getDecrypted = () => ({
         "siteId": "61351518",
         "Band": "4",
         "longitude": "143.893532",
-        "Name": "Coles Express Creswick"
+        "Name": "Coles Express Creswick",
       },
       {
         "Address": "11 Peg Leg Rd",
@@ -9785,7 +9785,7 @@ export const getDecrypted = () => ({
         "siteId": "61351522",
         "Band": "3",
         "longitude": "144.251269",
-        "Name": "BP Eaglehawk"
+        "Name": "BP Eaglehawk",
       },
       {
         "Address": "157 Thompson Avenue",
@@ -9793,7 +9793,7 @@ export const getDecrypted = () => ({
         "siteId": "61351525",
         "Band": "9",
         "longitude": "145.239067",
-        "Name": "Phillip Island Motors"
+        "Name": "Phillip Island Motors",
       },
       {
         "Address": "53A Princes Hwy & Mc Crorey",
@@ -9801,7 +9801,7 @@ export const getDecrypted = () => ({
         "siteId": "61351529",
         "Band": "4",
         "longitude": "146.152705",
-        "Name": "Coles Express Trafalgar"
+        "Name": "Coles Express Trafalgar",
       },
       {
         "Address": "74 Mountjoy Pde",
@@ -9809,7 +9809,7 @@ export const getDecrypted = () => ({
         "siteId": "61351535",
         "Band": "9",
         "longitude": "143.974831",
-        "Name": "Shell Lorne"
+        "Name": "Shell Lorne",
       },
       {
         "Address": "Lot 1 Western Freeway",
@@ -9817,7 +9817,7 @@ export const getDecrypted = () => ({
         "siteId": "61351536",
         "Band": "4",
         "longitude": "143.935014",
-        "Name": "Coles Express Warrenheip"
+        "Name": "Coles Express Warrenheip",
       },
       {
         "Address": "York Street",
@@ -9825,7 +9825,7 @@ export const getDecrypted = () => ({
         "siteId": "61351537",
         "Band": "5",
         "longitude": "147.067914",
-        "Name": "Coles Express Sale"
+        "Name": "Coles Express Sale",
       },
       {
         "Address": " Seymour Tooborac Road",
@@ -9833,7 +9833,7 @@ export const getDecrypted = () => ({
         "siteId": "61351542",
         "Band": "9",
         "longitude": "145.049249",
-        "Name": "Puckapunyal Motors"
+        "Name": "Puckapunyal Motors",
       },
       {
         "Address": "410-414 Campbell St",
@@ -9841,7 +9841,7 @@ export const getDecrypted = () => ({
         "siteId": "61351544",
         "Band": "6",
         "longitude": "143.561297",
-        "Name": "BP Swan Hill"
+        "Name": "BP Swan Hill",
       },
       {
         "Address": "161 Thompson St & Goldsmith St",
@@ -9849,7 +9849,7 @@ export const getDecrypted = () => ({
         "siteId": "61351545",
         "Band": "4",
         "longitude": "142.021059",
-        "Name": "Coles Express Hamilton"
+        "Name": "Coles Express Hamilton",
       },
       {
         "Address": "97-101 Sydney Road",
@@ -9857,7 +9857,7 @@ export const getDecrypted = () => ({
         "siteId": "61351549",
         "Band": "4",
         "longitude": "144.949221",
-        "Name": "Coles Express Kilmore"
+        "Name": "Coles Express Kilmore",
       },
       {
         "Address": "210-212 High St",
@@ -9865,7 +9865,7 @@ export const getDecrypted = () => ({
         "siteId": "61351550",
         "Band": "5",
         "longitude": "144.702649",
-        "Name": "Heathcote Northend Roadhouse"
+        "Name": "Heathcote Northend Roadhouse",
       },
       {
         "Address": "4562 Calder Hwy",
@@ -9873,7 +9873,7 @@ export const getDecrypted = () => ({
         "siteId": "61351553",
         "Band": "9",
         "longitude": "143.862701",
-        "Name": "Eagles Rest Roadhouse"
+        "Name": "Eagles Rest Roadhouse",
       },
       {
         "Address": "130 High St",
@@ -9881,7 +9881,7 @@ export const getDecrypted = () => ({
         "siteId": "61351567",
         "Band": "7",
         "longitude": "144.529594",
-        "Name": "BP Woodend"
+        "Name": "BP Woodend",
       },
       {
         "Address": "1170 Benetook Av",
@@ -9889,7 +9889,7 @@ export const getDecrypted = () => ({
         "siteId": "61351591",
         "Band": "9",
         "longitude": "142.167418",
-        "Name": "Shell Mildura"
+        "Name": "Shell Mildura",
       },
       {
         "Address": "129 Main Rd & Eureka St",
@@ -9897,7 +9897,7 @@ export const getDecrypted = () => ({
         "siteId": "61370001",
         "Band": "2",
         "longitude": "143.868671",
-        "Name": "Ampol Foodary Ballarat"
+        "Name": "Ampol Foodary Ballarat",
       },
       {
         "Address": "Melbourne Rd",
@@ -9905,7 +9905,7 @@ export const getDecrypted = () => ({
         "siteId": "61370002",
         "Band": "4",
         "longitude": "146.870533",
-        "Name": "Ampol Wodonga"
+        "Name": "Ampol Wodonga",
       },
       {
         "Address": "127-141 Foster Street",
@@ -9913,7 +9913,7 @@ export const getDecrypted = () => ({
         "siteId": "61370003",
         "Band": "9",
         "longitude": "147.06766590674587",
-        "Name": "Astron Sale South"
+        "Name": "Astron Sale South",
       },
       {
         "Address": "Calder Hwy",
@@ -9921,7 +9921,7 @@ export const getDecrypted = () => ({
         "siteId": "61370012",
         "Band": "6",
         "longitude": "143.36092964524005",
-        "Name": "Ampol Charlton"
+        "Name": "Ampol Charlton",
       },
       {
         "Address": "129 Baillie Street",
@@ -9929,7 +9929,7 @@ export const getDecrypted = () => ({
         "siteId": "61370013",
         "Band": "5",
         "longitude": "142.201913",
-        "Name": "Ampol Horsham (Baillie St)"
+        "Name": "Ampol Horsham (Baillie St)",
       },
       {
         "Address": "390 Main St",
@@ -9937,7 +9937,7 @@ export const getDecrypted = () => ({
         "siteId": "61370016",
         "Band": "9",
         "longitude": "147.618568",
-        "Name": "United Bairnsdale"
+        "Name": "United Bairnsdale",
       },
       {
         "Address": " 1211 Latrobe St Cnr Wiltshire Lane",
@@ -9945,7 +9945,7 @@ export const getDecrypted = () => ({
         "siteId": "61370026",
         "Band": "2",
         "longitude": "143.810956",
-        "Name": "Ampol Foodary Ballarat"
+        "Name": "Ampol Foodary Ballarat",
       },
       {
         "Address": "89 Salisbury St",
@@ -9953,7 +9953,7 @@ export const getDecrypted = () => ({
         "siteId": "61370036",
         "Band": "9",
         "longitude": "148.464697",
-        "Name": "United Orbost"
+        "Name": "United Orbost",
       },
       {
         "Address": "Melrose Dr",
@@ -9961,7 +9961,7 @@ export const getDecrypted = () => ({
         "siteId": "61370039",
         "Band": "9",
         "longitude": "146.868771",
-        "Name": "United Wodonga West"
+        "Name": "United Wodonga West",
       },
       {
         "Address": "Princes Hwy & Longwarry Rd",
@@ -9969,7 +9969,7 @@ export const getDecrypted = () => ({
         "siteId": "61370041",
         "Band": "9",
         "longitude": "145.847123",
-        "Name": "United Drouin Longwary"
+        "Name": "United Drouin Longwary",
       },
       {
         "Address": "104 Princes Hwy",
@@ -9977,7 +9977,7 @@ export const getDecrypted = () => ({
         "siteId": "61370044",
         "Band": "9",
         "longitude": "146.155702",
-        "Name": "BP Trafalgar"
+        "Name": "BP Trafalgar",
       },
       {
         "Address": "21 Princes Hwy",
@@ -9985,7 +9985,7 @@ export const getDecrypted = () => ({
         "siteId": "61370046",
         "Band": "9",
         "longitude": "146.540076",
-        "Name": "United Traralgon 24"
+        "Name": "United Traralgon 24",
       },
       {
         "Address": "495 Ballarat Rd",
@@ -9993,7 +9993,7 @@ export const getDecrypted = () => ({
         "siteId": "61370051",
         "Band": "9",
         "longitude": "144.300435",
-        "Name": "Batesford Roadhouse"
+        "Name": "Batesford Roadhouse",
       },
       {
         "Address": "29-31 Ararat Road",
@@ -10001,7 +10001,7 @@ export const getDecrypted = () => ({
         "siteId": "61370052",
         "Band": "9",
         "longitude": "142.772599",
-        "Name": "Mobil Stawell"
+        "Name": "Mobil Stawell",
       },
       {
         "Address": "176 Princes Hwy",
@@ -10009,7 +10009,7 @@ export const getDecrypted = () => ({
         "siteId": "61370058",
         "Band": "3",
         "longitude": "144.310245",
-        "Name": "BP Waurn Ponds"
+        "Name": "BP Waurn Ponds",
       },
       {
         "Address": "1-3 Sydney Street",
@@ -10017,7 +10017,7 @@ export const getDecrypted = () => ({
         "siteId": "61370062",
         "Band": "9",
         "longitude": "144.951927",
-        "Name": "Liberty Kilmore"
+        "Name": "Liberty Kilmore",
       },
       {
         "Address": "69-75 Campbell St",
@@ -10025,7 +10025,7 @@ export const getDecrypted = () => ({
         "siteId": "61370069",
         "Band": "9",
         "longitude": "143.558894",
-        "Name": "Shell Swan Hill"
+        "Name": "Shell Swan Hill",
       },
       {
         "Address": "10 Downey St",
@@ -10033,7 +10033,7 @@ export const getDecrypted = () => ({
         "siteId": "61370071",
         "Band": "9",
         "longitude": "145.716604",
-        "Name": "Mobil Alexandra"
+        "Name": "Mobil Alexandra",
       },
       {
         "Address": "61 Dunlop St",
@@ -10041,7 +10041,7 @@ export const getDecrypted = () => ({
         "siteId": "61370073",
         "Band": "9",
         "longitude": "142.80359853194656",
-        "Name": "Shell Mortlake"
+        "Name": "Shell Mortlake",
       },
       {
         "Address": "1520 Glenelg Highway",
@@ -10049,7 +10049,7 @@ export const getDecrypted = () => ({
         "siteId": "61370078",
         "Band": "4",
         "longitude": "143.692817",
-        "Name": "Ampol Foodary Smythesdale"
+        "Name": "Ampol Foodary Smythesdale",
       },
       {
         "Address": "155 Horace St",
@@ -10057,7 +10057,7 @@ export const getDecrypted = () => ({
         "siteId": "61370080",
         "Band": "7",
         "longitude": "142.847709",
-        "Name": "Ampol Sea Lake"
+        "Name": "Ampol Sea Lake",
       },
       {
         "Address": "103 King George St",
@@ -10065,7 +10065,7 @@ export const getDecrypted = () => ({
         "siteId": "61370081",
         "Band": "9",
         "longitude": "144.219672",
-        "Name": "Liberty Cohuna"
+        "Name": "Liberty Cohuna",
       },
       {
         "Address": "114 Albert Rd & Normanby St",
@@ -10073,7 +10073,7 @@ export const getDecrypted = () => ({
         "siteId": "61370082",
         "Band": "9",
         "longitude": "145.939758",
-        "Name": "Astron Warragul"
+        "Name": "Astron Warragul",
       },
       {
         "Address": "94 Main Street",
@@ -10081,7 +10081,7 @@ export const getDecrypted = () => ({
         "siteId": "61370083",
         "Band": "9",
         "longitude": "146.203668",
-        "Name": "BP Foster"
+        "Name": "BP Foster",
       },
       {
         "Address": "80 Bendigo Rd",
@@ -10089,7 +10089,7 @@ export const getDecrypted = () => ({
         "siteId": "61370084",
         "Band": "6",
         "longitude": "143.918801",
-        "Name": "Ampol Kerang"
+        "Name": "Ampol Kerang",
       },
       {
         "Address": "156 Belmore St & Mcnally St",
@@ -10097,7 +10097,7 @@ export const getDecrypted = () => ({
         "siteId": "61370085",
         "Band": "4",
         "longitude": "146.004687",
-        "Name": "EG Ampol Yarrawonga"
+        "Name": "EG Ampol Yarrawonga",
       },
       {
         "Address": "Station St & Murray Valley Hwy",
@@ -10105,7 +10105,7 @@ export const getDecrypted = () => ({
         "siteId": "61370089",
         "Band": "5",
         "longitude": "145.646305",
-        "Name": "Ampol Cobram"
+        "Name": "Ampol Cobram",
       },
       {
         "Address": "2 Tocumwal Rd",
@@ -10113,7 +10113,7 @@ export const getDecrypted = () => ({
         "siteId": "61370090",
         "Band": "5",
         "longitude": "145.442697",
-        "Name": "Ampol Numurkah"
+        "Name": "Ampol Numurkah",
       },
       {
         "Address": "188-190 Hogan Road",
@@ -10121,7 +10121,7 @@ export const getDecrypted = () => ({
         "siteId": "61370091",
         "Band": "6",
         "longitude": "145.230237",
-        "Name": "Ampol Tatura"
+        "Name": "Ampol Tatura",
       },
       {
         "Address": "Lots 1 & 6 High St",
@@ -10129,7 +10129,7 @@ export const getDecrypted = () => ({
         "siteId": "61370092",
         "Band": "9",
         "longitude": "145.425337",
-        "Name": "Endeavour Yea"
+        "Name": "Endeavour Yea",
       },
       {
         "Address": "Northern Hwy",
@@ -10137,7 +10137,7 @@ export const getDecrypted = () => ({
         "siteId": "61370096",
         "Band": "5",
         "longitude": "144.730007",
-        "Name": "Ampol Echuca"
+        "Name": "Ampol Echuca",
       },
       {
         "Address": "Carpenter St",
@@ -10145,7 +10145,7 @@ export const getDecrypted = () => ({
         "siteId": "61370098",
         "Band": "4",
         "longitude": "144.284876",
-        "Name": "Ampol Bendigo"
+        "Name": "Ampol Bendigo",
       },
       {
         "Address": "158 Myrtle St",
@@ -10153,7 +10153,7 @@ export const getDecrypted = () => ({
         "siteId": "61370100",
         "Band": "5",
         "longitude": "146.722912",
-        "Name": "Ampol Myrtleford"
+        "Name": "Ampol Myrtleford",
       },
       {
         "Address": "2-8 Commercial St",
@@ -10161,7 +10161,7 @@ export const getDecrypted = () => ({
         "siteId": "61370101",
         "Band": "9",
         "longitude": "145.825203",
-        "Name": "BP Korumburra"
+        "Name": "BP Korumburra",
       },
       {
         "Address": "124-128 Thompson Av",
@@ -10169,7 +10169,7 @@ export const getDecrypted = () => ({
         "siteId": "61370103",
         "Band": "5",
         "longitude": "145.238698",
-        "Name": "EG Ampol Cowes"
+        "Name": "EG Ampol Cowes",
       },
       {
         "Address": "10 Allan St & McEwen Rd",
@@ -10177,7 +10177,7 @@ export const getDecrypted = () => ({
         "siteId": "61370104",
         "Band": "9",
         "longitude": "145.033183",
-        "Name": "BP Kyabram"
+        "Name": "BP Kyabram",
       },
       {
         "Address": "Old Melbourne Rd & Ballarat Daylesford Rd",
@@ -10185,7 +10185,7 @@ export const getDecrypted = () => ({
         "siteId": "61370105",
         "Band": "9",
         "longitude": "143.894689",
-        "Name": "Mobil Ballarat"
+        "Name": "Mobil Ballarat",
       },
       {
         "Address": "187 Wyndham St",
@@ -10193,7 +10193,7 @@ export const getDecrypted = () => ({
         "siteId": "61370106",
         "Band": "9",
         "longitude": "145.400347",
-        "Name": "Pearl Energy Shepparton"
+        "Name": "Pearl Energy Shepparton",
       },
       {
         "Address": "16 Hovell St",
@@ -10201,7 +10201,7 @@ export const getDecrypted = () => ({
         "siteId": "61370108",
         "Band": "9",
         "longitude": "146.895779",
-        "Name": "Pacific Petroleum Wodonga"
+        "Name": "Pacific Petroleum Wodonga",
       },
       {
         "Address": "47-49 Jacaranda Street",
@@ -10209,7 +10209,7 @@ export const getDecrypted = () => ({
         "siteId": "61370109",
         "Band": "5",
         "longitude": "142.186928",
-        "Name": "Ampol Red Cliffs"
+        "Name": "Ampol Red Cliffs",
       },
       {
         "Address": "37 Vermont St",
@@ -10217,7 +10217,7 @@ export const getDecrypted = () => ({
         "siteId": "61370112",
         "Band": "9",
         "longitude": "145.690237",
-        "Name": "Barooga General Store"
+        "Name": "Barooga General Store",
       },
       {
         "Address": "105 Archer St",
@@ -10225,7 +10225,7 @@ export const getDecrypted = () => ({
         "siteId": "61370117",
         "Band": "5",
         "longitude": "145.412533",
-        "Name": "Ampol Shepparton"
+        "Name": "Ampol Shepparton",
       },
       {
         "Address": "177 Great Ocean Road",
@@ -10233,7 +10233,7 @@ export const getDecrypted = () => ({
         "siteId": "61370119",
         "Band": "7",
         "longitude": "143.668679",
-        "Name": "Ampol Foodary Apollo Bay"
+        "Name": "Ampol Foodary Apollo Bay",
       },
       {
         "Address": "106 Ridgway St",
@@ -10241,7 +10241,7 @@ export const getDecrypted = () => ({
         "siteId": "61370120",
         "Band": "9",
         "longitude": "146.160846",
-        "Name": "BP Mirboo North"
+        "Name": "BP Mirboo North",
       },
       {
         "Address": "183 King George St",
@@ -10249,7 +10249,7 @@ export const getDecrypted = () => ({
         "siteId": "61370126",
         "Band": "7",
         "longitude": "144.212548",
-        "Name": "Ampol Cohuna"
+        "Name": "Ampol Cohuna",
       },
       {
         "Address": "670 Anglesea Rd",
@@ -10257,7 +10257,7 @@ export const getDecrypted = () => ({
         "siteId": "61370140",
         "Band": "9",
         "longitude": "144.275086",
-        "Name": "Mobil Freshwater Creek"
+        "Name": "Mobil Freshwater Creek",
       },
       {
         "Address": "95 Bair St",
@@ -10265,7 +10265,7 @@ export const getDecrypted = () => ({
         "siteId": "61370151",
         "Band": "6",
         "longitude": "145.947562",
-        "Name": "BP Leongatha"
+        "Name": "BP Leongatha",
       },
       {
         "Address": "44 Lambert St",
@@ -10273,7 +10273,7 @@ export const getDecrypted = () => ({
         "siteId": "61370164",
         "Band": "6",
         "longitude": "142.925397",
-        "Name": "Ampol Foodary Ararat"
+        "Name": "Ampol Foodary Ararat",
       },
       {
         "Address": "1 Lakeside Avenue",
@@ -10281,7 +10281,7 @@ export const getDecrypted = () => ({
         "siteId": "61370166",
         "Band": "9",
         "longitude": "147.168143",
-        "Name": "Mobil Mt Beauty"
+        "Name": "Mobil Mt Beauty",
       },
       {
         "Address": "2 Oke St",
@@ -10289,7 +10289,7 @@ export const getDecrypted = () => ({
         "siteId": "61370169",
         "Band": "9",
         "longitude": "142.314804",
-        "Name": "Mobil Ouyen"
+        "Name": "Mobil Ouyen",
       },
       {
         "Address": "74 Neill St",
@@ -10297,7 +10297,7 @@ export const getDecrypted = () => ({
         "siteId": "61370172",
         "Band": "6",
         "longitude": "143.380454",
-        "Name": "Ampol Foodary Beaufort"
+        "Name": "Ampol Foodary Beaufort",
       },
       {
         "Address": "86 Commercial St",
@@ -10305,7 +10305,7 @@ export const getDecrypted = () => ({
         "siteId": "61370179",
         "Band": "9",
         "longitude": "141.240555",
-        "Name": "Kaniva Community Roadhouse"
+        "Name": "Kaniva Community Roadhouse",
       },
       {
         "Address": "64 Nelson Street",
@@ -10313,7 +10313,7 @@ export const getDecrypted = () => ({
         "siteId": "61370180",
         "Band": "9",
         "longitude": "141.652708",
-        "Name": "AMPM Nhill"
+        "Name": "AMPM Nhill",
       },
       {
         "Address": "2 O'Callaghan Pde",
@@ -10321,7 +10321,7 @@ export const getDecrypted = () => ({
         "siteId": "61370181",
         "Band": "5",
         "longitude": "142.200524",
-        "Name": "Ampol Horsham (Poolside)"
+        "Name": "Ampol Horsham (Poolside)",
       },
       {
         "Address": "103-107 Mckenzie St",
@@ -10329,7 +10329,7 @@ export const getDecrypted = () => ({
         "siteId": "61370197",
         "Band": "9",
         "longitude": "145.592093",
-        "Name": "BP Wonthaggi"
+        "Name": "BP Wonthaggi",
       },
       {
         "Address": "907 Macarthur St",
@@ -10337,7 +10337,7 @@ export const getDecrypted = () => ({
         "siteId": "61370208",
         "Band": "9",
         "longitude": "143.848322",
-        "Name": "United Ballarat North"
+        "Name": "United Ballarat North",
       },
       {
         "Address": "58 High St",
@@ -10345,7 +10345,7 @@ export const getDecrypted = () => ({
         "siteId": "61370214",
         "Band": "7",
         "longitude": "144.455599",
-        "Name": "EG Ampol Kyneton"
+        "Name": "EG Ampol Kyneton",
       },
       {
         "Address": "17 Fortune St",
@@ -10353,7 +10353,7 @@ export const getDecrypted = () => ({
         "siteId": "61370217",
         "Band": "9",
         "longitude": "146.464149",
-        "Name": "Independent Rutherglen"
+        "Name": "Independent Rutherglen",
       },
       {
         "Address": "12 Delany Av",
@@ -10361,7 +10361,7 @@ export const getDecrypted = () => ({
         "siteId": "61370245",
         "Band": "9",
         "longitude": "146.96553969444275",
-        "Name": "Ampol Bright"
+        "Name": "Ampol Bright",
       },
       {
         "Address": "2 Ilex St",
@@ -10369,7 +10369,7 @@ export const getDecrypted = () => ({
         "siteId": "61370283",
         "Band": "9",
         "longitude": "142.187695",
-        "Name": "Red Cliffs Auto & Marine"
+        "Name": "Red Cliffs Auto & Marine",
       },
       {
         "Address": "8044 Goulburn Valley Hwy",
@@ -10377,7 +10377,7 @@ export const getDecrypted = () => ({
         "siteId": "61370286",
         "Band": "3",
         "longitude": "145.394377",
-        "Name": "BP South Shepparton"
+        "Name": "BP South Shepparton",
       },
       {
         "Address": "135 Bridge St",
@@ -10385,7 +10385,7 @@ export const getDecrypted = () => ({
         "siteId": "61370309",
         "Band": "5",
         "longitude": "145.988729",
-        "Name": "EG Ampol Benalla"
+        "Name": "EG Ampol Benalla",
       },
       {
         "Address": "Lot 2001 Princes Hwy",
@@ -10393,7 +10393,7 @@ export const getDecrypted = () => ({
         "siteId": "61370310",
         "Band": "9",
         "longitude": "145.454189",
-        "Name": "BP AA Pakenham"
+        "Name": "BP AA Pakenham",
       },
       {
         "Address": "85-89 Manifold St",
@@ -10401,7 +10401,7 @@ export const getDecrypted = () => ({
         "siteId": "61370340",
         "Band": "9",
         "longitude": "143.151008",
-        "Name": "United Petroleum Camperdown"
+        "Name": "United Petroleum Camperdown",
       },
       {
         "Address": "29 Taracombe St",
@@ -10409,7 +10409,7 @@ export const getDecrypted = () => ({
         "siteId": "61370360",
         "Band": "6",
         "longitude": "145.577595",
-        "Name": "BP Euroa"
+        "Name": "BP Euroa",
       },
       {
         "Address": "206 Main St & Young St",
@@ -10417,7 +10417,7 @@ export const getDecrypted = () => ({
         "siteId": "61370379",
         "Band": "9",
         "longitude": "144.440735",
-        "Name": "Caltex Bacchus Marsh"
+        "Name": "Caltex Bacchus Marsh",
       },
       {
         "Address": "171-173 Narracan Dr",
@@ -10425,7 +10425,7 @@ export const getDecrypted = () => ({
         "siteId": "61370389",
         "Band": "9",
         "longitude": "146.283275",
-        "Name": "BP Gunns Gully"
+        "Name": "BP Gunns Gully",
       },
       {
         "Address": "411 Main Road",
@@ -10433,7 +10433,7 @@ export const getDecrypted = () => ({
         "siteId": "61370391",
         "Band": "9",
         "longitude": "143.870662",
-        "Name": "Metro Petroleum Golden Point"
+        "Name": "Metro Petroleum Golden Point",
       },
       {
         "Address": "226 -232 High St & Thistle St",
@@ -10441,7 +10441,7 @@ export const getDecrypted = () => ({
         "siteId": "61370399",
         "Band": "4",
         "longitude": "144.265825",
-        "Name": "EG Ampol Golden Square"
+        "Name": "EG Ampol Golden Square",
       },
       {
         "Address": "54-56 Goulburn Valley Highway",
@@ -10449,7 +10449,7 @@ export const getDecrypted = () => ({
         "siteId": "61370412",
         "Band": "9",
         "longitude": "145.431128301615",
-        "Name": "Wunghnu Road House"
+        "Name": "Wunghnu Road House",
       },
       {
         "Address": "Hume Hwy By-Pass",
@@ -10457,7 +10457,7 @@ export const getDecrypted = () => ({
         "siteId": "61370424",
         "Band": "6",
         "longitude": "146.247804",
-        "Name": "BP North Glenrowan"
+        "Name": "BP North Glenrowan",
       },
       {
         "Address": "59 Commercial St",
@@ -10465,7 +10465,7 @@ export const getDecrypted = () => ({
         "siteId": "61370431",
         "Band": "9",
         "longitude": "142.058917",
-        "Name": "Shell Merbein"
+        "Name": "Shell Merbein",
       },
       {
         "Address": "39 High St",
@@ -10473,7 +10473,7 @@ export const getDecrypted = () => ({
         "siteId": "61370454",
         "Band": "7",
         "longitude": "143.113341",
-        "Name": "Pyrenees Bp"
+        "Name": "Pyrenees Bp",
       },
       {
         "Address": "432-436 Main St",
@@ -10481,7 +10481,7 @@ export const getDecrypted = () => ({
         "siteId": "61370481",
         "Band": "9",
         "longitude": "147.614669",
-        "Name": "BP Bairnsdale"
+        "Name": "BP Bairnsdale",
       },
       {
         "Address": "Hume Hwy By-Pass",
@@ -10489,7 +10489,7 @@ export const getDecrypted = () => ({
         "siteId": "61370485",
         "Band": "6",
         "longitude": "146.249853",
-        "Name": "BP South Glenrowan"
+        "Name": "BP South Glenrowan",
       },
       {
         "Address": "Wilson & Darlot St",
@@ -10497,7 +10497,7 @@ export const getDecrypted = () => ({
         "siteId": "61370491",
         "Band": "5",
         "longitude": "142.196772",
-        "Name": "OTR Horsham"
+        "Name": "OTR Horsham",
       },
       {
         "Address": "Cnr Princess Hwy & Rocla Rd",
@@ -10505,7 +10505,7 @@ export const getDecrypted = () => ({
         "siteId": "61370494",
         "Band": "5",
         "longitude": "146.566559",
-        "Name": "BP Traralgon"
+        "Name": "BP Traralgon",
       },
       {
         "Address": "104 Wood St",
@@ -10513,7 +10513,7 @@ export const getDecrypted = () => ({
         "siteId": "61370513",
         "Band": "6",
         "longitude": "142.983435",
-        "Name": "BP Donald"
+        "Name": "BP Donald",
       },
       {
         "Address": "1104 Sturt St & Gillies St",
@@ -10521,7 +10521,7 @@ export const getDecrypted = () => ({
         "siteId": "61370541",
         "Band": "9",
         "longitude": "143.844145",
-        "Name": "United Ballarat Central"
+        "Name": "United Ballarat Central",
       },
       {
         "Address": "92-94 Bridge Street",
@@ -10529,7 +10529,7 @@ export const getDecrypted = () => ({
         "siteId": "61370549",
         "Band": "9",
         "longitude": "145.965363",
-        "Name": "Octane Benalla"
+        "Name": "Octane Benalla",
       },
       {
         "Address": "777 Raglan St & Henna St",
@@ -10537,7 +10537,7 @@ export const getDecrypted = () => ({
         "siteId": "61370578",
         "Band": "9",
         "longitude": "142.480149",
-        "Name": "BP Raglan"
+        "Name": "BP Raglan",
       },
       {
         "Address": "325 Commercial St",
@@ -10545,7 +10545,7 @@ export const getDecrypted = () => ({
         "siteId": "61370584",
         "Band": "9",
         "longitude": "146.675723",
-        "Name": "BP Yarram"
+        "Name": "BP Yarram",
       },
       {
         "Address": "Lot 1 Vestan Dr & Amanda Av",
@@ -10553,7 +10553,7 @@ export const getDecrypted = () => ({
         "siteId": "61370591",
         "Band": "9",
         "longitude": "146.436386",
-        "Name": "Endeavour Midvalley"
+        "Name": "Endeavour Midvalley",
       },
       {
         "Address": "Lot 1 Princes Hwy & Settlement Rd",
@@ -10561,7 +10561,7 @@ export const getDecrypted = () => ({
         "siteId": "61370597",
         "Band": "9",
         "longitude": "147.042136",
-        "Name": "BP Wurruk"
+        "Name": "BP Wurruk",
       },
       {
         "Address": "Murray Valley Hwy",
@@ -10569,7 +10569,7 @@ export const getDecrypted = () => ({
         "siteId": "61370608",
         "Band": "9",
         "longitude": "143.918438",
-        "Name": "BP Kerang Roadhouse Dca"
+        "Name": "BP Kerang Roadhouse Dca",
       },
       {
         "Address": "Western Hwy",
@@ -10577,7 +10577,7 @@ export const getDecrypted = () => ({
         "siteId": "61370631",
         "Band": "4",
         "longitude": "143.933379",
-        "Name": "BP 2Go Western Highway"
+        "Name": "BP 2Go Western Highway",
       },
       {
         "Address": "Fifteenth Street",
@@ -10585,7 +10585,7 @@ export const getDecrypted = () => ({
         "siteId": "61370639",
         "Band": "5",
         "longitude": "142.130994",
-        "Name": "Ampol Mildura"
+        "Name": "Ampol Mildura",
       },
       {
         "Address": "Murray Valley Hwy",
@@ -10593,7 +10593,7 @@ export const getDecrypted = () => ({
         "siteId": "61370644",
         "Band": "9",
         "longitude": "145.638414",
-        "Name": "Cobram Depot & Dca"
+        "Name": "Cobram Depot & Dca",
       },
       {
         "Address": "5 Murray St",
@@ -10601,7 +10601,7 @@ export const getDecrypted = () => ({
         "siteId": "61370651",
         "Band": "5",
         "longitude": "143.591885",
-        "Name": "BP Colac"
+        "Name": "BP Colac",
       },
       {
         "Address": "17 Station Street",
@@ -10609,7 +10609,7 @@ export const getDecrypted = () => ({
         "siteId": "61370654",
         "Band": "9",
         "longitude": "145.488673",
-        "Name": "Shell Koo Wee Rup"
+        "Name": "Shell Koo Wee Rup",
       },
       {
         "Address": "10 Sturt St",
@@ -10617,7 +10617,7 @@ export const getDecrypted = () => ({
         "siteId": "61370658",
         "Band": "9",
         "longitude": "144.756076",
-        "Name": "BP OPT Echuca"
+        "Name": "BP OPT Echuca",
       },
       {
         "Address": "25 Tyers St",
@@ -10625,7 +10625,7 @@ export const getDecrypted = () => ({
         "siteId": "61370672",
         "Band": "9",
         "longitude": "147.079234",
-        "Name": "Endeavour Stratford"
+        "Name": "Endeavour Stratford",
       },
       {
         "Address": "195 High St",
@@ -10633,7 +10633,7 @@ export const getDecrypted = () => ({
         "siteId": "61370675",
         "Band": "9",
         "longitude": "145.151068",
-        "Name": "United Nagambie"
+        "Name": "United Nagambie",
       },
       {
         "Address": "Lloyd St & Kingsford St",
@@ -10641,7 +10641,7 @@ export const getDecrypted = () => ({
         "siteId": "61370686",
         "Band": "9",
         "longitude": "146.257507",
-        "Name": "United Moe"
+        "Name": "United Moe",
       },
       {
         "Address": "12 Princes Hwy",
@@ -10649,7 +10649,7 @@ export const getDecrypted = () => ({
         "siteId": "61370687",
         "Band": "9",
         "longitude": "149.150639",
-        "Name": "United Cann River"
+        "Name": "United Cann River",
       },
       {
         "Address": "14 Paynesville Rd",
@@ -10657,7 +10657,7 @@ export const getDecrypted = () => ({
         "siteId": "61370689",
         "Band": "9",
         "longitude": "147.719049",
-        "Name": "United Paynesville"
+        "Name": "United Paynesville",
       },
       {
         "Address": "47 Johnson St",
@@ -10665,7 +10665,7 @@ export const getDecrypted = () => ({
         "siteId": "61377005",
         "Band": "9",
         "longitude": "146.973488",
-        "Name": "United Maffra"
+        "Name": "United Maffra",
       },
       {
         "Address": "76-82 Albert St",
@@ -10673,7 +10673,7 @@ export const getDecrypted = () => ({
         "siteId": "61377009",
         "Band": "2",
         "longitude": "143.840826",
-        "Name": "Ampol Foodary Sebastopol"
+        "Name": "Ampol Foodary Sebastopol",
       },
       {
         "Address": "1337 North Rd",
@@ -10681,7 +10681,7 @@ export const getDecrypted = () => ({
         "siteId": "61377014",
         "Band": "3",
         "longitude": "145.109119",
-        "Name": "EG Ampol Huntingdale"
+        "Name": "EG Ampol Huntingdale",
       },
       {
         "Address": "145 Numurkah Rd",
@@ -10689,7 +10689,7 @@ export const getDecrypted = () => ({
         "siteId": "61377017",
         "Band": "5",
         "longitude": "145.402358",
-        "Name": "Ampol Foodary Shepparton"
+        "Name": "Ampol Foodary Shepparton",
       },
       {
         "Address": "2000 Warburton Hwy",
@@ -10697,7 +10697,7 @@ export const getDecrypted = () => ({
         "siteId": "61377018",
         "Band": "9",
         "longitude": "145.568196",
-        "Name": "Log Cabin Service Station"
+        "Name": "Log Cabin Service Station",
       },
       {
         "Address": "70-72 Greta Rd",
@@ -10705,7 +10705,7 @@ export const getDecrypted = () => ({
         "siteId": "61377022",
         "Band": "5",
         "longitude": "146.314573",
-        "Name": "Ampol Foodary Wangaratta (Greta Rd)"
+        "Name": "Ampol Foodary Wangaratta (Greta Rd)",
       },
       {
         "Address": "634 Raglan Pde & Jamieson",
@@ -10713,7 +10713,7 @@ export const getDecrypted = () => ({
         "siteId": "61377024",
         "Band": "9",
         "longitude": "142.482336",
-        "Name": "BP Warrnambool"
+        "Name": "BP Warrnambool",
       },
       {
         "Address": "200 Ogilvie Av",
@@ -10721,7 +10721,7 @@ export const getDecrypted = () => ({
         "siteId": "61377027",
         "Band": "5",
         "longitude": "144.752883",
-        "Name": "Ampol Foodary Echuca"
+        "Name": "Ampol Foodary Echuca",
       },
       {
         "Address": "590 Princes Hwy & Calvert St",
@@ -10729,7 +10729,7 @@ export const getDecrypted = () => ({
         "siteId": "61377030",
         "Band": "9",
         "longitude": "147.599961",
-        "Name": "Ampol Bairnsdale"
+        "Name": "Ampol Bairnsdale",
       },
       {
         "Address": "27 High St & Huon St",
@@ -10737,7 +10737,7 @@ export const getDecrypted = () => ({
         "siteId": "61377038",
         "Band": "3",
         "longitude": "146.891925",
-        "Name": "EG Ampol Wodonga"
+        "Name": "EG Ampol Wodonga",
       },
       {
         "Address": "3272 Epping-Kilmore Rd, Wandong VIC 3758, Australia",
@@ -10745,7 +10745,7 @@ export const getDecrypted = () => ({
         "siteId": "61377039",
         "Band": "4",
         "longitude": "145.02624717196656",
-        "Name": "Ampol Foodary Wandong"
+        "Name": "Ampol Foodary Wandong",
       },
       {
         "Address": "128 Gap Rd",
@@ -10753,7 +10753,7 @@ export const getDecrypted = () => ({
         "siteId": "61377043",
         "Band": "3",
         "longitude": "144.711705",
-        "Name": "7-Eleven Sunbury"
+        "Name": "7-Eleven Sunbury",
       },
       {
         "Address": "10 Craigieburn Rd",
@@ -10761,7 +10761,7 @@ export const getDecrypted = () => ({
         "siteId": "61377044",
         "Band": "3",
         "longitude": "144.940569",
-        "Name": "EG Ampol Craigieburn"
+        "Name": "EG Ampol Craigieburn",
       },
       {
         "Address": "323 Manningham Rd & Macedon Rd",
@@ -10769,7 +10769,7 @@ export const getDecrypted = () => ({
         "siteId": "61377045",
         "Band": "3",
         "longitude": "145.112621",
-        "Name": "EG Ampol Templestowe"
+        "Name": "EG Ampol Templestowe",
       },
       {
         "Address": "101 Manifold",
@@ -10777,7 +10777,7 @@ export const getDecrypted = () => ({
         "siteId": "61377047",
         "Band": "5",
         "longitude": "143.149713",
-        "Name": "EG Ampol Camperdown"
+        "Name": "EG Ampol Camperdown",
       },
       {
         "Address": "102-106 Annesley St",
@@ -10785,7 +10785,7 @@ export const getDecrypted = () => ({
         "siteId": "61377048",
         "Band": "5",
         "longitude": "144.752794",
-        "Name": "EG Ampol Echuca"
+        "Name": "EG Ampol Echuca",
       },
       {
         "Address": "6498 Western Freeway",
@@ -10793,7 +10793,7 @@ export const getDecrypted = () => ({
         "siteId": "61377049",
         "Band": "9",
         "longitude": "144.243924",
-        "Name": "Mobil Ballan East"
+        "Name": "Mobil Ballan East",
       },
       {
         "Address": "81 High St & Queen St",
@@ -10801,7 +10801,7 @@ export const getDecrypted = () => ({
         "siteId": "61377050",
         "Band": "4",
         "longitude": "144.978975",
-        "Name": "EG Ampol Wallan"
+        "Name": "EG Ampol Wallan",
       },
       {
         "Address": "Lots 1-4 Williamson Rd",
@@ -10809,7 +10809,7 @@ export const getDecrypted = () => ({
         "siteId": "61377051",
         "Band": "3",
         "longitude": "144.882549",
-        "Name": "EG Ampol Maribyrnong"
+        "Name": "EG Ampol Maribyrnong",
       },
       {
         "Address": "Duosa Rd & Langshaw St",
@@ -10817,7 +10817,7 @@ export const getDecrypted = () => ({
         "siteId": "61377052",
         "Band": "3",
         "longitude": "144.848083",
-        "Name": "EG Ampol Altona North"
+        "Name": "EG Ampol Altona North",
       },
       {
         "Address": "55 Surfcoast Hwy",
@@ -10825,7 +10825,7 @@ export const getDecrypted = () => ({
         "siteId": "61377053",
         "Band": "4",
         "longitude": "144.316515",
-        "Name": "Ampol Torquay"
+        "Name": "Ampol Torquay",
       },
       {
         "Address": "2093 Maroondah Hwy",
@@ -10833,7 +10833,7 @@ export const getDecrypted = () => ({
         "siteId": "61377055",
         "Band": "9",
         "longitude": "145.702918",
-        "Name": "Shell  Buxton"
+        "Name": "Shell  Buxton",
       },
       {
         "Address": "Army Base",
@@ -10841,7 +10841,7 @@ export const getDecrypted = () => ({
         "siteId": "61377056",
         "Band": "7",
         "longitude": "145.042382",
-        "Name": "Caltex Puckapunyal"
+        "Name": "Caltex Puckapunyal",
       },
       {
         "Address": "49 River Dr",
@@ -10849,7 +10849,7 @@ export const getDecrypted = () => ({
         "siteId": "61377057",
         "Band": "9",
         "longitude": "145.868955",
-        "Name": "Tarwin Fuel Supplies"
+        "Name": "Tarwin Fuel Supplies",
       },
       {
         "Address": "Murray Valley Hwy",
@@ -10857,7 +10857,7 @@ export const getDecrypted = () => ({
         "siteId": "61377058",
         "Band": "9",
         "longitude": "146.161832",
-        "Name": "Liberty Bundalong General Store"
+        "Name": "Liberty Bundalong General Store",
       },
       {
         "Address": "Telford & Gilmore St",
@@ -10865,7 +10865,7 @@ export const getDecrypted = () => ({
         "siteId": "61377059",
         "Band": "4",
         "longitude": "146.004473",
-        "Name": "Ampol Foodary Yarrawonga"
+        "Name": "Ampol Foodary Yarrawonga",
       },
       {
         "Address": "Shop 12/151 Gisborne Rd & Grey St",
@@ -10873,7 +10873,7 @@ export const getDecrypted = () => ({
         "siteId": "61377060",
         "Band": "9",
         "longitude": "144.441725",
-        "Name": "My Little Mate Fuel Stop"
+        "Name": "My Little Mate Fuel Stop",
       },
       {
         "Address": "32 Lord Street",
@@ -10881,7 +10881,7 @@ export const getDecrypted = () => ({
         "siteId": "61377063",
         "Band": "9",
         "longitude": "142.995349",
-        "Name": "BP Port Campbell"
+        "Name": "BP Port Campbell",
       },
       {
         "Address": "2594 Murray Valley Hwy",
@@ -10889,7 +10889,7 @@ export const getDecrypted = () => ({
         "siteId": "61377064",
         "Band": "9",
         "longitude": "144.516814",
-        "Name": "BP Torrumbarry"
+        "Name": "BP Torrumbarry",
       },
       {
         "Address": "42 Whyte St",
@@ -10897,7 +10897,7 @@ export const getDecrypted = () => ({
         "siteId": "61377065",
         "Band": "9",
         "longitude": "141.696137",
-        "Name": "Mobil Coleraine"
+        "Name": "Mobil Coleraine",
       },
       {
         "Address": "Parker Street",
@@ -10905,7 +10905,7 @@ export const getDecrypted = () => ({
         "siteId": "61377066",
         "Band": "9",
         "longitude": "142.344275",
-        "Name": "Dunkeld Convenience Store"
+        "Name": "Dunkeld Convenience Store",
       },
       {
         "Address": "319 Manifold St",
@@ -10913,7 +10913,7 @@ export const getDecrypted = () => ({
         "siteId": "61377069",
         "Band": "9",
         "longitude": "143.137711",
-        "Name": "BP Camperdown"
+        "Name": "BP Camperdown",
       },
       {
         "Address": "21 Towong Rd",
@@ -10921,7 +10921,7 @@ export const getDecrypted = () => ({
         "siteId": "61377071",
         "Band": "9",
         "longitude": "147.908348",
-        "Name": "BP Corryong"
+        "Name": "BP Corryong",
       },
       {
         "Address": "235 Kiewa Valley Hwy",
@@ -10929,7 +10929,7 @@ export const getDecrypted = () => ({
         "siteId": "61377072",
         "Band": "7",
         "longitude": "147.160575",
-        "Name": "Ampol Tawonga (Mt Beauty)"
+        "Name": "Ampol Tawonga (Mt Beauty)",
       },
       {
         "Address": "53 Dunlop St",
@@ -10937,7 +10937,7 @@ export const getDecrypted = () => ({
         "siteId": "61377073",
         "Band": "9",
         "longitude": "142.803195",
-        "Name": "BP Mortlake"
+        "Name": "BP Mortlake",
       },
       {
         "Address": "33 Henderson Rd",
@@ -10945,7 +10945,7 @@ export const getDecrypted = () => ({
         "siteId": "61377074",
         "Band": "9",
         "longitude": "144.947815",
-        "Name": "Tongala Fuel & Food 2 Go"
+        "Name": "Tongala Fuel & Food 2 Go",
       },
       {
         "Address": "21 Towong Rd",
@@ -10953,7 +10953,7 @@ export const getDecrypted = () => ({
         "siteId": "61377075",
         "Band": "9",
         "longitude": "147.911844",
-        "Name": "BP Corryong"
+        "Name": "BP Corryong",
       },
       {
         "Address": "52 Sybella Rd",
@@ -10961,7 +10961,7 @@ export const getDecrypted = () => ({
         "siteId": "61377077",
         "Band": "9",
         "longitude": "145.490456",
-        "Name": "Shell Kooweerup"
+        "Name": "Shell Kooweerup",
       },
       {
         "Address": "37-39 High St",
@@ -10969,7 +10969,7 @@ export const getDecrypted = () => ({
         "siteId": "61377078",
         "Band": "9",
         "longitude": "142.920909",
-        "Name": "BP Terang"
+        "Name": "BP Terang",
       },
       {
         "Address": "33 Donaldson St",
@@ -10977,7 +10977,7 @@ export const getDecrypted = () => ({
         "siteId": "61377079",
         "Band": "9",
         "longitude": "147.905494",
-        "Name": "Indepndent Corryong"
+        "Name": "Indepndent Corryong",
       },
       {
         "Address": "2 Centre Av",
@@ -10985,7 +10985,7 @@ export const getDecrypted = () => ({
         "siteId": "61377080",
         "Band": "7",
         "longitude": "145.908666",
-        "Name": "Ampol Eildon"
+        "Name": "Ampol Eildon",
       },
       {
         "Address": "29 Victoria St",
@@ -10993,7 +10993,7 @@ export const getDecrypted = () => ({
         "siteId": "61377081",
         "Band": "9",
         "longitude": "145.706245",
-        "Name": "Loch Service Station"
+        "Name": "Loch Service Station",
       },
       {
         "Address": "9-11 Lockington Rd",
@@ -11001,7 +11001,7 @@ export const getDecrypted = () => ({
         "siteId": "61377082",
         "Band": "9",
         "longitude": "144.536077",
-        "Name": "Liberty Lockington Garage"
+        "Name": "Liberty Lockington Garage",
       },
       {
         "Address": "45 Sandhurst Rd",
@@ -11009,7 +11009,7 @@ export const getDecrypted = () => ({
         "siteId": "61377084",
         "Band": "9",
         "longitude": "144.264453",
-        "Name": "Ampol Bendigo Depot"
+        "Name": "Ampol Bendigo Depot",
       },
       {
         "Address": "953 Wellington St",
@@ -11017,7 +11017,7 @@ export const getDecrypted = () => ({
         "siteId": "61377085",
         "Band": "9",
         "longitude": "144.358528",
-        "Name": "BP Strathfieldsaye Convenien"
+        "Name": "BP Strathfieldsaye Convenien",
       },
       {
         "Address": "Main St",
@@ -11025,7 +11025,7 @@ export const getDecrypted = () => ({
         "siteId": "61377086",
         "Band": "9",
         "longitude": "146.462106",
-        "Name": "Indigo Rutherglen"
+        "Name": "Indigo Rutherglen",
       },
       {
         "Address": "55 High St",
@@ -11033,7 +11033,7 @@ export const getDecrypted = () => ({
         "siteId": "61377087",
         "Band": "9",
         "longitude": "144.711752",
-        "Name": "United Heathcote"
+        "Name": "United Heathcote",
       },
       {
         "Address": "38-40 Bridge Rd",
@@ -11041,7 +11041,7 @@ export const getDecrypted = () => ({
         "siteId": "61377088",
         "Band": "5",
         "longitude": "144.709572",
-        "Name": "Ampol Rochester"
+        "Name": "Ampol Rochester",
       },
       {
         "Address": "2 High St",
@@ -11049,7 +11049,7 @@ export const getDecrypted = () => ({
         "siteId": "61377089",
         "Band": "9",
         "longitude": "146.682561",
-        "Name": "Shell Indigo Fuels Beechworth"
+        "Name": "Shell Indigo Fuels Beechworth",
       },
       {
         "Address": "77 Simson St",
@@ -11057,7 +11057,7 @@ export const getDecrypted = () => ({
         "siteId": "61377091",
         "Band": "9",
         "longitude": "143.82163408465576",
-        "Name": "Carisbrook Motors"
+        "Name": "Carisbrook Motors",
       },
       {
         "Address": "415 Mcdonalds Rd",
@@ -11065,7 +11065,7 @@ export const getDecrypted = () => ({
         "siteId": "61377093",
         "Band": "7",
         "longitude": "145.075633",
-        "Name": "EG Ampol Mill Park"
+        "Name": "EG Ampol Mill Park",
       },
       {
         "Address": "78 Cranbourne Road",
@@ -11073,7 +11073,7 @@ export const getDecrypted = () => ({
         "siteId": "61377094",
         "Band": "9",
         "longitude": "145.135254",
-        "Name": "United Frankston"
+        "Name": "United Frankston",
       },
       {
         "Address": "747 Tarneit Road",
@@ -11081,7 +11081,7 @@ export const getDecrypted = () => ({
         "siteId": "61377095",
         "Band": "3",
         "longitude": "144.673056",
-        "Name": "EG Ampol Tarneit Gardens"
+        "Name": "EG Ampol Tarneit Gardens",
       },
       {
         "Address": "45-53 Orange Avenue",
@@ -11089,7 +11089,7 @@ export const getDecrypted = () => ({
         "siteId": "61377096",
         "Band": "6",
         "longitude": "142.16399609755325",
-        "Name": "Coles Express Mildura Central"
+        "Name": "Coles Express Mildura Central",
       },
       {
         "Address": "2098 Frankston-Flinders Road",
@@ -11097,7 +11097,7 @@ export const getDecrypted = () => ({
         "siteId": "61377097",
         "Band": "4",
         "longitude": "145.18315754152064",
-        "Name": "EG Ampol Hastings"
+        "Name": "EG Ampol Hastings",
       },
       {
         "Address": "500 Geelong Ring Road",
@@ -11105,7 +11105,7 @@ export const getDecrypted = () => ({
         "siteId": "61377098",
         "Band": "9",
         "longitude": "144.337163",
-        "Name": "BP AA Geelong Northbound"
+        "Name": "BP AA Geelong Northbound",
       },
       {
         "Address": "185 Evans Road",
@@ -11113,7 +11113,7 @@ export const getDecrypted = () => ({
         "siteId": "61377099",
         "Band": "3",
         "longitude": "145.255513",
-        "Name": "7-Eleven Cranbourne West"
+        "Name": "7-Eleven Cranbourne West",
       },
       {
         "Address": "399 Cranbourne - Narre Warren Road",
@@ -11121,7 +11121,7 @@ export const getDecrypted = () => ({
         "siteId": "61377101",
         "Band": "3",
         "longitude": "145.29458926656764",
-        "Name": "BP North Cranbourne"
+        "Name": "BP North Cranbourne",
       },
       {
         "Address": "135-177 Colac Rd, Grovedale VIC 3216, Australia",
@@ -11129,7 +11129,7 @@ export const getDecrypted = () => ({
         "siteId": "61377102",
         "Band": "3",
         "longitude": "144.31604279104613",
-        "Name": "Coles Express Waurn Ponds"
+        "Name": "Coles Express Waurn Ponds",
       },
       {
         "Address": "1805- 1825 Sydney Road",
@@ -11137,7 +11137,7 @@ export const getDecrypted = () => ({
         "siteId": "61377103",
         "Band": "4",
         "longitude": "144.951292",
-        "Name": "Coles Express Campbellfield"
+        "Name": "Coles Express Campbellfield",
       },
       {
         "Address": "20 Palmers Road",
@@ -11145,7 +11145,7 @@ export const getDecrypted = () => ({
         "siteId": "61377104",
         "Band": "4",
         "longitude": "144.745254",
-        "Name": "Coles Express Williams Landing"
+        "Name": "Coles Express Williams Landing",
       },
       {
         "Address": "7279 Western Highway",
@@ -11153,7 +11153,7 @@ export const getDecrypted = () => ({
         "siteId": "61377105",
         "Band": "9",
         "longitude": "141.675412",
-        "Name": "BP Nhill Roadhouse"
+        "Name": "BP Nhill Roadhouse",
       },
       {
         "Address": "4 Leakes Road ( Cnr Fitzgerald Road)",
@@ -11161,7 +11161,7 @@ export const getDecrypted = () => ({
         "siteId": "61377106",
         "Band": "3",
         "longitude": "144.781731",
-        "Name": "EG Ampol Laverton North"
+        "Name": "EG Ampol Laverton North",
       },
       {
         "Address": "117 High Street",
@@ -11169,7 +11169,7 @@ export const getDecrypted = () => ({
         "siteId": "61377107",
         "Band": "9",
         "longitude": "144.273582",
-        "Name": "United Bendigo Central"
+        "Name": "United Bendigo Central",
       },
       {
         "Address": "1 Farrell Street",
@@ -11177,7 +11177,7 @@ export const getDecrypted = () => ({
         "siteId": "61377108",
         "Band": "9",
         "longitude": "142.319279",
-        "Name": "United Ouyen"
+        "Name": "United Ouyen",
       },
       {
         "Address": "4633-4673 Calder Highway",
@@ -11185,7 +11185,7 @@ export const getDecrypted = () => ({
         "siteId": "61377109",
         "Band": "4",
         "longitude": "144.219575",
-        "Name": "Ampol Foodary Ravenswood"
+        "Name": "Ampol Foodary Ravenswood",
       },
       {
         "Address": "42-50 Victoria Street",
@@ -11193,7 +11193,7 @@ export const getDecrypted = () => ({
         "siteId": "61377110",
         "Band": "9",
         "longitude": "144.116132",
-        "Name": "Pyramid Tyre and Auto"
+        "Name": "Pyramid Tyre and Auto",
       },
       {
         "Address": " Cnr Portarlington Road and Tower Road",
@@ -11201,7 +11201,7 @@ export const getDecrypted = () => ({
         "siteId": "61377111",
         "Band": "9",
         "longitude": "144.65521376500706",
-        "Name": "United Portarlington"
+        "Name": "United Portarlington",
       },
       {
         "Address": "455 Geelong Ring Road",
@@ -11209,7 +11209,7 @@ export const getDecrypted = () => ({
         "siteId": "61377112",
         "Band": "9",
         "longitude": "144.341242",
-        "Name": "BP AA Geelong Southbound"
+        "Name": "BP AA Geelong Southbound",
       },
       {
         "Address": "1859 Midland Hwy",
@@ -11217,7 +11217,7 @@ export const getDecrypted = () => ({
         "siteId": "61377113",
         "Band": "9",
         "longitude": "144.18791079265975",
-        "Name": "Caltex Bannockburn"
+        "Name": "Caltex Bannockburn",
       },
       {
         "Address": "285 Fitzgerald Road",
@@ -11225,7 +11225,7 @@ export const getDecrypted = () => ({
         "siteId": "61377114",
         "Band": "3",
         "longitude": "144.786506",
-        "Name": "Coles Express Laverton North - Fitzgerald Rd"
+        "Name": "Coles Express Laverton North - Fitzgerald Rd",
       },
       {
         "Address": "1050 Plenty Road",
@@ -11233,7 +11233,7 @@ export const getDecrypted = () => ({
         "siteId": "61377116",
         "Band": "9",
         "longitude": "145.04569901256562",
-        "Name": "BP Bundoora"
+        "Name": "BP Bundoora",
       },
       {
         "Address": "110 Harvest Road",
@@ -11241,7 +11241,7 @@ export const getDecrypted = () => ({
         "siteId": "61377117",
         "Band": "4",
         "longitude": "145.02974602594537",
-        "Name": "BP Epping"
+        "Name": "BP Epping",
       },
       {
         "Address": "589 Napier Street",
@@ -11249,7 +11249,7 @@ export const getDecrypted = () => ({
         "siteId": "61377118",
         "Band": "3",
         "longitude": "144.3118769186998",
-        "Name": "BP Whitehills"
+        "Name": "BP Whitehills",
       },
       {
         "Address": "87/89 Warburton Highway",
@@ -11257,7 +11257,7 @@ export const getDecrypted = () => ({
         "siteId": "61377119",
         "Band": "4",
         "longitude": "145.38931007022035",
-        "Name": "BP Lilydale"
+        "Name": "BP Lilydale",
       },
       {
         "Address": "10691 Princes Highway",
@@ -11265,7 +11265,7 @@ export const getDecrypted = () => ({
         "siteId": "61377121",
         "Band": "5",
         "longitude": "142.534231",
-        "Name": "BP Warrnambool"
+        "Name": "BP Warrnambool",
       },
       {
         "Address": "531 Princes Highway",
@@ -11273,7 +11273,7 @@ export const getDecrypted = () => ({
         "siteId": "61377122",
         "Band": "9",
         "longitude": "142.22079477451956",
-        "Name": "Catalina Caravan Park"
+        "Name": "Catalina Caravan Park",
       },
       {
         "Address": "9511 Murray Valley Highway",
@@ -11281,7 +11281,7 @@ export const getDecrypted = () => ({
         "siteId": "61377124",
         "Band": "9",
         "longitude": "143.92474183594857",
-        "Name": "BP OPT Kerang"
+        "Name": "BP OPT Kerang",
       },
       {
         "Address": "73 Prince Street",
@@ -11289,7 +11289,7 @@ export const getDecrypted = () => ({
         "siteId": "61377125",
         "Band": "9",
         "longitude": "146.784474",
-        "Name": "BP Rosedale"
+        "Name": "BP Rosedale",
       },
       {
         "Address": "Moorefield Park Drive",
@@ -11297,7 +11297,7 @@ export const getDecrypted = () => ({
         "siteId": "61377126",
         "Band": "9",
         "longitude": "146.85922692622791",
-        "Name": "Apco Wodonga"
+        "Name": "Apco Wodonga",
       },
       {
         "Address": "149 Queen Street",
@@ -11305,7 +11305,7 @@ export const getDecrypted = () => ({
         "siteId": "61377127",
         "Band": "9",
         "longitude": "145.938038",
-        "Name": "Ampol Warragul Depot"
+        "Name": "Ampol Warragul Depot",
       },
       {
         "Address": "5370 Sturt Highway",
@@ -11313,7 +11313,7 @@ export const getDecrypted = () => ({
         "siteId": "61377128",
         "Band": "9",
         "longitude": "141.592347",
-        "Name": "Cullulleraine Store"
+        "Name": "Cullulleraine Store",
       },
       {
         "Address": "59 Federal Street",
@@ -11321,7 +11321,7 @@ export const getDecrypted = () => ({
         "siteId": "61377129",
         "Band": "9",
         "longitude": "141.996788",
-        "Name": "Shell Rainbow"
+        "Name": "Shell Rainbow",
       },
       {
         "Address": "6-8 Jennings Road",
@@ -11329,7 +11329,7 @@ export const getDecrypted = () => ({
         "siteId": "61377130",
         "Band": "9",
         "longitude": "143.5395365847252",
-        "Name": "Ampol Swan Hill"
+        "Name": "Ampol Swan Hill",
       },
       {
         "Address": "39 Commercial Road",
@@ -11337,7 +11337,7 @@ export const getDecrypted = () => ({
         "siteId": "61377131",
         "Band": "9",
         "longitude": "146.6812007985105",
-        "Name": "AG Warehouse Yarram"
+        "Name": "AG Warehouse Yarram",
       },
       {
         "Address": "LOT 5B Birchip-Rainbow Road",
@@ -11345,7 +11345,7 @@ export const getDecrypted = () => ({
         "siteId": "61377132",
         "Band": "9",
         "longitude": "142.42554115350069",
-        "Name": "Independent Regional Mogas"
+        "Name": "Independent Regional Mogas",
       },
       {
         "Address": "Corner Lange Street & Lindsay Road",
@@ -11353,7 +11353,7 @@ export const getDecrypted = () => ({
         "siteId": "61377133",
         "Band": "9",
         "longitude": "141.277136",
-        "Name": "Independent Dartmoor"
+        "Name": "Independent Dartmoor",
       },
       {
         "Address": " Durham Ox Road",
@@ -11361,7 +11361,7 @@ export const getDecrypted = () => ({
         "siteId": "61377134",
         "Band": "9",
         "longitude": "143.823295",
-        "Name": "Independent Boort"
+        "Name": "Independent Boort",
       },
       {
         "Address": "113 Golf Course Rd",
@@ -11369,7 +11369,7 @@ export const getDecrypted = () => ({
         "siteId": "61377135",
         "Band": "9",
         "longitude": "142.19424285948972",
-        "Name": "Mogas Horsham"
+        "Name": "Mogas Horsham",
       },
       {
         "Address": "12 Coleraine Road",
@@ -11377,7 +11377,7 @@ export const getDecrypted = () => ({
         "siteId": "61377136",
         "Band": "9",
         "longitude": "141.833278",
-        "Name": "Independent Balmoral"
+        "Name": "Independent Balmoral",
       },
       {
         "Address": "34-36 High Street",
@@ -11385,7 +11385,7 @@ export const getDecrypted = () => ({
         "siteId": "61377137",
         "Band": "9",
         "longitude": "146.6734232036894",
-        "Name": "Liberty Barnawartha"
+        "Name": "Liberty Barnawartha",
       },
       {
         "Address": " Main Street",
@@ -11393,7 +11393,7 @@ export const getDecrypted = () => ({
         "siteId": "61377138",
         "Band": "9",
         "longitude": "147.736507",
-        "Name": "Walwa General Store"
+        "Name": "Walwa General Store",
       },
       {
         "Address": " Maffra Rosedale Road",
@@ -11401,7 +11401,7 @@ export const getDecrypted = () => ({
         "siteId": "61377139",
         "Band": "9",
         "longitude": "146.891375",
-        "Name": "Tinamba General Store"
+        "Name": "Tinamba General Store",
       },
       {
         "Address": "205 Greens Road",
@@ -11409,7 +11409,7 @@ export const getDecrypted = () => ({
         "siteId": "61377140",
         "Band": "3",
         "longitude": "144.608696",
-        "Name": "EG Ampol Wyndham Vale"
+        "Name": "EG Ampol Wyndham Vale",
       },
       {
         "Address": "1 Sharkeys Road",
@@ -11417,7 +11417,7 @@ export const getDecrypted = () => ({
         "siteId": "61377142",
         "Band": "9",
         "longitude": "144.39703453421762",
-        "Name": "Riordan Gran Silos"
+        "Name": "Riordan Gran Silos",
       },
       {
         "Address": "5219 Princess Highway",
@@ -11425,7 +11425,7 @@ export const getDecrypted = () => ({
         "siteId": "61377143",
         "Band": "9",
         "longitude": "146.466703",
-        "Name": "United Traralgon West"
+        "Name": "United Traralgon West",
       },
       {
         "Address": "29 - 31 Main Street",
@@ -11433,7 +11433,7 @@ export const getDecrypted = () => ({
         "siteId": "61377144",
         "Band": "3",
         "longitude": "144.743073",
-        "Name": "Ampol Foodary Romsey"
+        "Name": "Ampol Foodary Romsey",
       },
       {
         "Address": "Lot 1SC Murray Valley Highway",
@@ -11441,7 +11441,7 @@ export const getDecrypted = () => ({
         "siteId": "61377145",
         "Band": "4",
         "longitude": "146.727698",
-        "Name": "BP Barnawartha"
+        "Name": "BP Barnawartha",
       },
       {
         "Address": "1735 Midland Hwy, Bannockburn VIC 3331, Australia",
@@ -11449,7 +11449,7 @@ export const getDecrypted = () => ({
         "siteId": "61377146",
         "Band": "3",
         "longitude": "144.19842073743442",
-        "Name": "Ampol Foodary Bannockburn"
+        "Name": "Ampol Foodary Bannockburn",
       },
       {
         "Address": "1267-1289 Western Highway",
@@ -11457,7 +11457,7 @@ export const getDecrypted = () => ({
         "siteId": "61377147",
         "Band": "3",
         "longitude": "144.628965",
-        "Name": "BP Rockbank Inbound"
+        "Name": "BP Rockbank Inbound",
       },
       {
         "Address": "92-98 Albert Street",
@@ -11465,7 +11465,7 @@ export const getDecrypted = () => ({
         "siteId": "61377148",
         "Band": "4",
         "longitude": "146.259444",
-        "Name": "Coles Express Moe"
+        "Name": "Coles Express Moe",
       },
       {
         "Address": "1400 Peninsula Link",
@@ -11473,7 +11473,7 @@ export const getDecrypted = () => ({
         "siteId": "61377149",
         "Band": "9",
         "longitude": "145.135298",
-        "Name": "BP AA Peninsula Link Outbound"
+        "Name": "BP AA Peninsula Link Outbound",
       },
       {
         "Address": " 103 Numurkah Road (Cnr Pine Rd)",
@@ -11481,7 +11481,7 @@ export const getDecrypted = () => ({
         "siteId": "61377150",
         "Band": "9",
         "longitude": "145.402691",
-        "Name": "APCO Shepparton"
+        "Name": "APCO Shepparton",
       },
       {
         "Address": "760 South Gippsland Highway",
@@ -11489,7 +11489,7 @@ export const getDecrypted = () => ({
         "siteId": "61377151",
         "Band": "3",
         "longitude": "145.262967",
-        "Name": "7-Eleven Lynbrook"
+        "Name": "7-Eleven Lynbrook",
       },
       {
         "Address": " Lot C Epping Rd",
@@ -11497,7 +11497,7 @@ export const getDecrypted = () => ({
         "siteId": "61377152",
         "Band": "4",
         "longitude": "145.030928",
-        "Name": "Ampol Foodary Wollert"
+        "Name": "Ampol Foodary Wollert",
       },
       {
         "Address": "15 Edgars Street",
@@ -11505,7 +11505,7 @@ export const getDecrypted = () => ({
         "siteId": "61377154",
         "Band": "2",
         "longitude": "145.001003",
-        "Name": "Coles Express Edgars Rd (Thomastown)"
+        "Name": "Coles Express Edgars Rd (Thomastown)",
       },
       {
         "Address": "46-62 Cook Street",
@@ -11513,7 +11513,7 @@ export const getDecrypted = () => ({
         "siteId": "61377155",
         "Band": "3",
         "longitude": "144.917231",
-        "Name": "Coles Express Westgate North"
+        "Name": "Coles Express Westgate North",
       },
       {
         "Address": "215-221 Greens Road",
@@ -11521,7 +11521,7 @@ export const getDecrypted = () => ({
         "siteId": "61377156",
         "Band": "2",
         "longitude": "145.19802283799456",
-        "Name": "Coles Express Dandenong South"
+        "Name": "Coles Express Dandenong South",
       },
       {
         "Address": "465 Palmers Road",
@@ -11529,7 +11529,7 @@ export const getDecrypted = () => ({
         "siteId": "61377717",
         "Band": "3",
         "longitude": "144.750832",
-        "Name": "BP Truganina"
+        "Name": "BP Truganina",
       },
       {
         "Address": "702 Creswick Road",
@@ -11537,7 +11537,7 @@ export const getDecrypted = () => ({
         "siteId": "61377718",
         "Band": "9",
         "longitude": "143.850466",
-        "Name": "Ballarat"
+        "Name": "Ballarat",
       },
       {
         "Address": "118 Learnmonth Street",
@@ -11545,7 +11545,7 @@ export const getDecrypted = () => ({
         "siteId": "61377719",
         "Band": "9",
         "longitude": "143.808773",
-        "Name": "Ballarat (Hemco Industries)"
+        "Name": "Ballarat (Hemco Industries)",
       },
       {
         "Address": "179 Woodward Road",
@@ -11553,7 +11553,7 @@ export const getDecrypted = () => ({
         "siteId": "61377720",
         "Band": "9",
         "longitude": "144.264672",
-        "Name": "Bendigo"
+        "Name": "Bendigo",
       },
       {
         "Address": "41 King Street",
@@ -11561,7 +11561,7 @@ export const getDecrypted = () => ({
         "siteId": "61377721",
         "Band": "9",
         "longitude": "143.728624",
-        "Name": "Boort"
+        "Name": "Boort",
       },
       {
         "Address": "40 Fellmongers Road",
@@ -11569,7 +11569,7 @@ export const getDecrypted = () => ({
         "siteId": "61377722",
         "Band": "9",
         "longitude": "144.375897",
-        "Name": "Breakwater"
+        "Name": "Breakwater",
       },
       {
         "Address": "Cobb & Co Road",
@@ -11577,7 +11577,7 @@ export const getDecrypted = () => ({
         "siteId": "61377724",
         "Band": "9",
         "longitude": "144.505669",
-        "Name": "Carlsruhe"
+        "Name": "Carlsruhe",
       },
       {
         "Address": "228 Baker Street",
@@ -11585,7 +11585,7 @@ export const getDecrypted = () => ({
         "siteId": "61377725",
         "Band": "9",
         "longitude": "144.217509",
-        "Name": "Castlemaine"
+        "Name": "Castlemaine",
       },
       {
         "Address": "91 High Street",
@@ -11593,7 +11593,7 @@ export const getDecrypted = () => ({
         "siteId": "61377726",
         "Band": "9",
         "longitude": "143.352436",
-        "Name": "Charlton"
+        "Name": "Charlton",
       },
       {
         "Address": "35 Lowe Street",
@@ -11601,7 +11601,7 @@ export const getDecrypted = () => ({
         "siteId": "61377727",
         "Band": "9",
         "longitude": "144.374646",
-        "Name": "Riordan Fuels Corio"
+        "Name": "Riordan Fuels Corio",
       },
       {
         "Address": "6354 Murray Valley Highway",
@@ -11609,7 +11609,7 @@ export const getDecrypted = () => ({
         "siteId": "61377728",
         "Band": "9",
         "longitude": "144.232351",
-        "Name": "Cohuna"
+        "Name": "Cohuna",
       },
       {
         "Address": "Cnr Forest & Bruce Streets",
@@ -11617,7 +11617,7 @@ export const getDecrypted = () => ({
         "siteId": "61377729",
         "Band": "9",
         "longitude": "143.605518",
-        "Name": "Colac (AKD Softwoods)"
+        "Name": "Colac (AKD Softwoods)",
       },
       {
         "Address": "11 Peg Leg Road",
@@ -11625,7 +11625,7 @@ export const getDecrypted = () => ({
         "siteId": "61377732",
         "Band": "9",
         "longitude": "144.251393",
-        "Name": "Eaglehawk"
+        "Name": "Eaglehawk",
       },
       {
         "Address": "103 - 109 Murray Valley Highway",
@@ -11633,7 +11633,7 @@ export const getDecrypted = () => ({
         "siteId": "61377733",
         "Band": "9",
         "longitude": "144.733043",
-        "Name": "Echuca"
+        "Name": "Echuca",
       },
       {
         "Address": "6345-6369 King George St",
@@ -11641,7 +11641,7 @@ export const getDecrypted = () => ({
         "siteId": "61377734",
         "Band": "9",
         "longitude": "144.232139",
-        "Name": "Ellwaste"
+        "Name": "Ellwaste",
       },
       {
         "Address": "1 Margret Stret Elmore",
@@ -11649,7 +11649,7 @@ export const getDecrypted = () => ({
         "siteId": "61377735",
         "Band": "9",
         "longitude": "144.607191",
-        "Name": "Elmore"
+        "Name": "Elmore",
       },
       {
         "Address": "29 Tarcombe Street",
@@ -11657,7 +11657,7 @@ export const getDecrypted = () => ({
         "siteId": "61377737",
         "Band": "9",
         "longitude": "145.577721",
-        "Name": "Euroa"
+        "Name": "Euroa",
       },
       {
         "Address": "369 Port Arlington Road",
@@ -11665,7 +11665,7 @@ export const getDecrypted = () => ({
         "siteId": "61377738",
         "Band": "9",
         "longitude": "144.425358",
-        "Name": "Geelong East"
+        "Name": "Geelong East",
       },
       {
         "Address": "Cnr Wedge Street & Pioneer Road",
@@ -11673,7 +11673,7 @@ export const getDecrypted = () => ({
         "siteId": "61377739",
         "Band": "9",
         "longitude": "142.006476",
-        "Name": "Riordan Fuels Hamilton"
+        "Name": "Riordan Fuels Hamilton",
       },
       {
         "Address": "34 High Street",
@@ -11681,7 +11681,7 @@ export const getDecrypted = () => ({
         "siteId": "61377740",
         "Band": "9",
         "longitude": "144.262039",
-        "Name": "Harcourt"
+        "Name": "Harcourt",
       },
       {
         "Address": "66 Maroondah Hwy",
@@ -11689,7 +11689,7 @@ export const getDecrypted = () => ({
         "siteId": "61377741",
         "Band": "9",
         "longitude": "145.513115",
-        "Name": "Healesville"
+        "Name": "Healesville",
       },
       {
         "Address": "212 High Street",
@@ -11697,7 +11697,7 @@ export const getDecrypted = () => ({
         "siteId": "61377742",
         "Band": "9",
         "longitude": "144.702999",
-        "Name": "Heathcote"
+        "Name": "Heathcote",
       },
       {
         "Address": "6 Tomahawk Creek Rd",
@@ -11705,7 +11705,7 @@ export const getDecrypted = () => ({
         "siteId": "61377743",
         "Band": "9",
         "longitude": "143.211344",
-        "Name": "Heytesbury Stock feeds"
+        "Name": "Heytesbury Stock feeds",
       },
       {
         "Address": "4 Dimboola Road",
@@ -11713,7 +11713,7 @@ export const getDecrypted = () => ({
         "siteId": "61377745",
         "Band": "9",
         "longitude": "142.198117",
-        "Name": "Horsham"
+        "Name": "Horsham",
       },
       {
         "Address": "90 Bendigo Road",
@@ -11721,7 +11721,7 @@ export const getDecrypted = () => ({
         "siteId": "61377746",
         "Band": "9",
         "longitude": "143.919063",
-        "Name": "Kerang"
+        "Name": "Kerang",
       },
       {
         "Address": "102 Sydney Street",
@@ -11729,7 +11729,7 @@ export const getDecrypted = () => ({
         "siteId": "61377747",
         "Band": "9",
         "longitude": "144.949712",
-        "Name": "Kilmore"
+        "Name": "Kilmore",
       },
       {
         "Address": "55 High Street",
@@ -11737,7 +11737,7 @@ export const getDecrypted = () => ({
         "siteId": "61377748",
         "Band": "9",
         "longitude": "144.455769",
-        "Name": "Kyneton"
+        "Name": "Kyneton",
       },
       {
         "Address": "145 Mount Buller Road",
@@ -11745,7 +11745,7 @@ export const getDecrypted = () => ({
         "siteId": "61377749",
         "Band": "9",
         "longitude": "146.098222",
-        "Name": "Mansfield"
+        "Name": "Mansfield",
       },
       {
         "Address": "61 Dunlop Street",
@@ -11753,7 +11753,7 @@ export const getDecrypted = () => ({
         "siteId": "61377750",
         "Band": "9",
         "longitude": "142.803273",
-        "Name": "Mortlake"
+        "Name": "Mortlake",
       },
       {
         "Address": "1 Bishop Road",
@@ -11761,7 +11761,7 @@ export const getDecrypted = () => ({
         "siteId": "61377751",
         "Band": "9",
         "longitude": "142.698551",
-        "Name": "Nandaly"
+        "Name": "Nandaly",
       },
       {
         "Address": "2599 Murray Valley Highway",
@@ -11769,7 +11769,7 @@ export const getDecrypted = () => ({
         "siteId": "61377752",
         "Band": "9",
         "longitude": "143.376607",
-        "Name": "Nyah / Two Bays"
+        "Name": "Nyah / Two Bays",
       },
       {
         "Address": "246 Crete Road",
@@ -11777,7 +11777,7 @@ export const getDecrypted = () => ({
         "siteId": "61377753",
         "Band": "9",
         "longitude": "142.773035",
-        "Name": "Robinvale"
+        "Name": "Robinvale",
       },
       {
         "Address": "Mary Street",
@@ -11785,7 +11785,7 @@ export const getDecrypted = () => ({
         "siteId": "61377754",
         "Band": "9",
         "longitude": "144.698416",
-        "Name": "Rochester"
+        "Name": "Rochester",
       },
       {
         "Address": "58 Anzac Ave",
@@ -11793,7 +11793,7 @@ export const getDecrypted = () => ({
         "siteId": "61377755",
         "Band": "9",
         "longitude": "145.141643",
-        "Name": "Seymour"
+        "Name": "Seymour",
       },
       {
         "Address": "135 Old Dookie Road",
@@ -11801,7 +11801,7 @@ export const getDecrypted = () => ({
         "siteId": "61377756",
         "Band": "9",
         "longitude": "145.429865",
-        "Name": "Shepparton"
+        "Name": "Shepparton",
       },
       {
         "Address": "Cnr Tomahawk Creek & Cobden Roads",
@@ -11809,7 +11809,7 @@ export const getDecrypted = () => ({
         "siteId": "61377757",
         "Band": "9",
         "longitude": "143.211394",
-        "Name": "Simpson"
+        "Name": "Simpson",
       },
       {
         "Address": "951 Wellington Road",
@@ -11817,7 +11817,7 @@ export const getDecrypted = () => ({
         "siteId": "61377758",
         "Band": "9",
         "longitude": "144.358736",
-        "Name": "Strathfieldsaye"
+        "Name": "Strathfieldsaye",
       },
       {
         "Address": "124 High Street Taradale",
@@ -11825,7 +11825,7 @@ export const getDecrypted = () => ({
         "siteId": "61377759",
         "Band": "9",
         "longitude": "144.348766",
-        "Name": "Tardale"
+        "Name": "Tardale",
       },
       {
         "Address": "Lot 2  Old Peterborough Road",
@@ -11833,7 +11833,7 @@ export const getDecrypted = () => ({
         "siteId": "61377760",
         "Band": "9",
         "longitude": "142.929055",
-        "Name": "Terang"
+        "Name": "Terang",
       },
       {
         "Address": "Bartons Wheelie Waste, 3 Chatham Court",
@@ -11841,7 +11841,7 @@ export const getDecrypted = () => ({
         "siteId": "61377761",
         "Band": "9",
         "longitude": "142.450209",
-        "Name": "Warrnambool"
+        "Name": "Warrnambool",
       },
       {
         "Address": "3 Chatham Crt",
@@ -11849,7 +11849,7 @@ export const getDecrypted = () => ({
         "siteId": "61377762",
         "Band": "9",
         "longitude": "142.451718",
-        "Name": "Wheelie Waste"
+        "Name": "Wheelie Waste",
       },
       {
         "Address": "Cnr Deans Marsh Rd & Princess Hwy",
@@ -11857,7 +11857,7 @@ export const getDecrypted = () => ({
         "siteId": "61377763",
         "Band": "9",
         "longitude": "143.886107",
-        "Name": "Winchelsea (McDonalds Bulk Haulage)"
+        "Name": "Winchelsea (McDonalds Bulk Haulage)",
       },
       {
         "Address": "109-113 Melrose Drive",
@@ -11865,7 +11865,7 @@ export const getDecrypted = () => ({
         "siteId": "61377764",
         "Band": "9",
         "longitude": "146.865477",
-        "Name": "Wodonga"
+        "Name": "Wodonga",
       },
       {
         "Address": "432 Broadway",
@@ -11873,7 +11873,7 @@ export const getDecrypted = () => ({
         "siteId": "61377765",
         "Band": "9",
         "longitude": "143.226262",
-        "Name": "Wycheproof"
+        "Name": "Wycheproof",
       },
       {
         "Address": "31 High St",
@@ -11881,7 +11881,7 @@ export const getDecrypted = () => ({
         "siteId": "61377766",
         "Band": "9",
         "longitude": "145.425399",
-        "Name": "Yea"
+        "Name": "Yea",
       },
       {
         "Address": " 211 Leakes Road corner Palmers road",
@@ -11889,7 +11889,7 @@ export const getDecrypted = () => ({
         "siteId": "61377767",
         "Band": "9",
         "longitude": "144.748896",
-        "Name": "Caltex Truganina"
+        "Name": "Caltex Truganina",
       },
       {
         "Address": "26 Cemetery Road",
@@ -11897,7 +11897,7 @@ export const getDecrypted = () => ({
         "siteId": "61377768",
         "Band": "4",
         "longitude": "144.850983",
-        "Name": "Shell Reddy Express Keilor East"
+        "Name": "Shell Reddy Express Keilor East",
       },
       {
         "Address": "850 South Gippsland Highway",
@@ -11905,7 +11905,7 @@ export const getDecrypted = () => ({
         "siteId": "61377769",
         "Band": "3",
         "longitude": "145.266629",
-        "Name": "Shell Reddy Express Cranbourne North"
+        "Name": "Shell Reddy Express Cranbourne North",
       },
       {
         "Address": "8 Chifley Drive",
@@ -11913,7 +11913,7 @@ export const getDecrypted = () => ({
         "siteId": "61377770",
         "Band": "9",
         "longitude": "145.10811698009414",
-        "Name": "Costco Moorabbin"
+        "Name": "Costco Moorabbin",
       },
       {
         "Address": "118 Learnmonth Street",
@@ -11921,7 +11921,7 @@ export const getDecrypted = () => ({
         "siteId": "61377771",
         "Band": "9",
         "longitude": "143.808653",
-        "Name": "Ballarat (Hemco Industries)"
+        "Name": "Ballarat (Hemco Industries)",
       },
       {
         "Address": "179 Woodward Road",
@@ -11929,7 +11929,7 @@ export const getDecrypted = () => ({
         "siteId": "61377772",
         "Band": "9",
         "longitude": "144.264668",
-        "Name": "Bendigo"
+        "Name": "Bendigo",
       },
       {
         "Address": "6354 Murray Valley Highway",
@@ -11937,7 +11937,7 @@ export const getDecrypted = () => ({
         "siteId": "61377773",
         "Band": "9",
         "longitude": "144.232071",
-        "Name": "Cohuna"
+        "Name": "Cohuna",
       },
       {
         "Address": "Cnr Forest & Bruce Streets",
@@ -11945,7 +11945,7 @@ export const getDecrypted = () => ({
         "siteId": "61377774",
         "Band": "9",
         "longitude": "143.605498",
-        "Name": "Colac (AKD Softwoods)"
+        "Name": "Colac (AKD Softwoods)",
       },
       {
         "Address": "103 - 109 Murray Valley Highway",
@@ -11953,7 +11953,7 @@ export const getDecrypted = () => ({
         "siteId": "61377776",
         "Band": "9",
         "longitude": "144.732983",
-        "Name": "Echuca"
+        "Name": "Echuca",
       },
       {
         "Address": "1 Margret Stret Elmore",
@@ -11961,7 +11961,7 @@ export const getDecrypted = () => ({
         "siteId": "61377777",
         "Band": "9",
         "longitude": "144.607331",
-        "Name": "Elmore"
+        "Name": "Elmore",
       },
       {
         "Address": "369 Port Arlington Road",
@@ -11969,7 +11969,7 @@ export const getDecrypted = () => ({
         "siteId": "61377778",
         "Band": "9",
         "longitude": "144.425198",
-        "Name": "Geelong East"
+        "Name": "Geelong East",
       },
       {
         "Address": "1 Bishop Road",
@@ -11977,7 +11977,7 @@ export const getDecrypted = () => ({
         "siteId": "61377781",
         "Band": "9",
         "longitude": "142.698801",
-        "Name": "Nandaly"
+        "Name": "Nandaly",
       },
       {
         "Address": "246 Crete Road",
@@ -11985,7 +11985,7 @@ export const getDecrypted = () => ({
         "siteId": "61377782",
         "Band": "9",
         "longitude": "142.773355",
-        "Name": "Robinvale"
+        "Name": "Robinvale",
       },
       {
         "Address": "135 Old Dookie Road",
@@ -11993,7 +11993,7 @@ export const getDecrypted = () => ({
         "siteId": "61377783",
         "Band": "9",
         "longitude": "145.430095",
-        "Name": "Shepparton"
+        "Name": "Shepparton",
       },
       {
         "Address": "Cnr Tomahawk Creek & Cobden Roads",
@@ -12001,7 +12001,7 @@ export const getDecrypted = () => ({
         "siteId": "61377784",
         "Band": "9",
         "longitude": "143.211364",
-        "Name": "Simpson"
+        "Name": "Simpson",
       },
       {
         "Address": "Lot 2  Old Peterborough Road",
@@ -12009,7 +12009,7 @@ export const getDecrypted = () => ({
         "siteId": "61377785",
         "Band": "9",
         "longitude": "142.929045",
-        "Name": "Terang"
+        "Name": "Terang",
       },
       {
         "Address": "Bartons Wheelie Waste, 3 Chatham Court",
@@ -12017,7 +12017,7 @@ export const getDecrypted = () => ({
         "siteId": "61377786",
         "Band": "9",
         "longitude": "142.450119",
-        "Name": "Warrnambool"
+        "Name": "Warrnambool",
       },
       {
         "Address": "Cnr Deans Marsh Rd & Princess Hwy",
@@ -12025,7 +12025,7 @@ export const getDecrypted = () => ({
         "siteId": "61377787",
         "Band": "9",
         "longitude": "143.886107",
-        "Name": "Winchelsea (McDonalds Bulk Haulage)"
+        "Name": "Winchelsea (McDonalds Bulk Haulage)",
       },
       {
         "Address": "280 Berwick Cranbourne Road",
@@ -12033,7 +12033,7 @@ export const getDecrypted = () => ({
         "siteId": "61377788",
         "Band": "2",
         "longitude": "145.320751",
-        "Name": "Coles Express Clyde Village"
+        "Name": "Coles Express Clyde Village",
       },
       {
         "Address": " Clyde Rd (Cnr Grices Rd)",
@@ -12041,7 +12041,7 @@ export const getDecrypted = () => ({
         "siteId": "61377789",
         "Band": "3",
         "longitude": "145.335888",
-        "Name": "Coles Express Clyde North"
+        "Name": "Coles Express Clyde North",
       },
       {
         "Address": "Lot 7A Derrimut Road",
@@ -12049,7 +12049,7 @@ export const getDecrypted = () => ({
         "siteId": "61377790",
         "Band": "3",
         "longitude": "144.690042",
-        "Name": "BP Leakes Road"
+        "Name": "BP Leakes Road",
       },
       {
         "Address": "331 Jetty Rd, Drysdale VIC 3222, Australia",
@@ -12057,7 +12057,7 @@ export const getDecrypted = () => ({
         "siteId": "61377791",
         "Band": "4",
         "longitude": "144.5508628420454",
-        "Name": "Ampol Foodary Drysdale"
+        "Name": "Ampol Foodary Drysdale",
       },
       {
         "Address": "1401 Peninsula Link",
@@ -12065,7 +12065,7 @@ export const getDecrypted = () => ({
         "siteId": "61377792",
         "Band": "9",
         "longitude": "145.133335",
-        "Name": "BP AA Peninsula Link Inbound"
+        "Name": "BP AA Peninsula Link Inbound",
       },
       {
         "Address": "4 Cardinia Road",
@@ -12073,7 +12073,7 @@ export const getDecrypted = () => ({
         "siteId": "61377793",
         "Band": "4",
         "longitude": "145.436304",
-        "Name": "EG Ampol Officer"
+        "Name": "EG Ampol Officer",
       },
       {
         "Address": "23 Robertson Road",
@@ -12081,7 +12081,7 @@ export const getDecrypted = () => ({
         "siteId": "61377794",
         "Band": "9",
         "longitude": "144.587802",
-        "Name": "Caltex Gisborne"
+        "Name": "Caltex Gisborne",
       },
       {
         "Address": "161 Ogilvie Avenue",
@@ -12089,7 +12089,7 @@ export const getDecrypted = () => ({
         "siteId": "61377795",
         "Band": "9",
         "longitude": "144.755813",
-        "Name": "United Echuca"
+        "Name": "United Echuca",
       },
       {
         "Address": "400 Narre Warren Cranbourne Rd Road",
@@ -12097,7 +12097,7 @@ export const getDecrypted = () => ({
         "siteId": "61377796",
         "Band": "3",
         "longitude": "145.299171",
-        "Name": "Coles Express Casey Central"
+        "Name": "Coles Express Casey Central",
       },
       {
         "Address": "458 Princes Highway",
@@ -12105,7 +12105,7 @@ export const getDecrypted = () => ({
         "siteId": "61377797",
         "Band": "9",
         "longitude": "144.381086",
-        "Name": "United Corio"
+        "Name": "United Corio",
       },
       {
         "Address": "160-164 Cherry Lane",
@@ -12113,7 +12113,7 @@ export const getDecrypted = () => ({
         "siteId": "61377798",
         "Band": "9",
         "longitude": "144.785141",
-        "Name": "Puma Laverton North"
+        "Name": "Puma Laverton North",
       },
       {
         "Address": "23 Lilburne Street",
@@ -12121,7 +12121,7 @@ export const getDecrypted = () => ({
         "siteId": "61377799",
         "Band": "2",
         "longitude": "143.784264",
-        "Name": "EG Ampol Lucas"
+        "Name": "EG Ampol Lucas",
       },
       {
         "Address": "1/475 Leakes Road",
@@ -12129,7 +12129,7 @@ export const getDecrypted = () => ({
         "siteId": "61377800",
         "Band": "3",
         "longitude": "144.728213",
-        "Name": "7-Eleven Truganina"
+        "Name": "7-Eleven Truganina",
       },
       {
         "Address": "89 Keilor Park Drive",
@@ -12137,7 +12137,7 @@ export const getDecrypted = () => ({
         "siteId": "61377801",
         "Band": "4",
         "longitude": "144.852484",
-        "Name": "Shell Reddy Express Keilor Park"
+        "Name": "Shell Reddy Express Keilor Park",
       },
       {
         "Address": " Bennett Street",
@@ -12145,7 +12145,7 @@ export const getDecrypted = () => ({
         "siteId": "61377802",
         "Band": "4",
         "longitude": "144.438047",
-        "Name": "Coles Express Bacchus Marsh"
+        "Name": "Coles Express Bacchus Marsh",
       },
       {
         "Address": "754-768 Princes Highway",
@@ -12153,7 +12153,7 @@ export const getDecrypted = () => ({
         "siteId": "61377803",
         "Band": "3",
         "longitude": "145.166526",
-        "Name": "Ampol Foodary Sandown"
+        "Name": "Ampol Foodary Sandown",
       },
       {
         "Address": "57-69 Forsyth Road",
@@ -12161,7 +12161,7 @@ export const getDecrypted = () => ({
         "siteId": "61377804",
         "Band": "4",
         "longitude": "144.732467",
-        "Name": "7-Eleven Hoppers Crossing"
+        "Name": "7-Eleven Hoppers Crossing",
       },
       {
         "Address": "250 Bridgewater Road",
@@ -12169,7 +12169,7 @@ export const getDecrypted = () => ({
         "siteId": "61377805",
         "Band": "3",
         "longitude": "144.927667",
-        "Name": "7-Eleven Roxburgh Park"
+        "Name": "7-Eleven Roxburgh Park",
       },
       {
         "Address": "297 Palmers Road",
@@ -12177,7 +12177,7 @@ export const getDecrypted = () => ({
         "siteId": "61377806",
         "Band": "3",
         "longitude": "144.747004",
-        "Name": "Ampol Foodary Truganina"
+        "Name": "Ampol Foodary Truganina",
       },
       {
         "Address": "13 Daveyduke Drive",
@@ -12185,7 +12185,7 @@ export const getDecrypted = () => ({
         "siteId": "61377807",
         "Band": "9",
         "longitude": "143.807167",
-        "Name": "Puma Ballarat OPT"
+        "Name": "Puma Ballarat OPT",
       },
       {
         "Address": "1280 Koo Wee Rup Road",
@@ -12193,7 +12193,7 @@ export const getDecrypted = () => ({
         "siteId": "61377808",
         "Band": "3",
         "longitude": "145.491324",
-        "Name": "7-Eleven Pakenham"
+        "Name": "7-Eleven Pakenham",
       },
       {
         "Address": "1550 Pascoe Vale Road",
@@ -12201,7 +12201,7 @@ export const getDecrypted = () => ({
         "siteId": "61377809",
         "Band": "4",
         "longitude": "144.931787",
-        "Name": "BP Coolaroo"
+        "Name": "BP Coolaroo",
       },
       {
         "Address": "6-10 Queen Street",
@@ -12209,7 +12209,7 @@ export const getDecrypted = () => ({
         "siteId": "61377810",
         "Band": "5",
         "longitude": "145.926308",
-        "Name": "Coles Express Warragul"
+        "Name": "Coles Express Warragul",
       },
       {
         "Address": "121 Learmonth Road",
@@ -12217,7 +12217,7 @@ export const getDecrypted = () => ({
         "siteId": "61377811",
         "Band": "9",
         "longitude": "143.815627",
-        "Name": "United Wendouree"
+        "Name": "United Wendouree",
       },
       {
         "Address": " 300-332 Grand Boulevard (Cnr Huntington Drive)",
@@ -12225,7 +12225,7 @@ export const getDecrypted = () => ({
         "siteId": "61377812",
         "Band": "3",
         "longitude": "144.918171",
-        "Name": "EG Ampol Craigieburn Highlands"
+        "Name": "EG Ampol Craigieburn Highlands",
       },
       {
         "Address": "78-88 South Gippsland Highway",
@@ -12233,7 +12233,7 @@ export const getDecrypted = () => ({
         "siteId": "61377813",
         "Band": "9",
         "longitude": "145.377802",
-        "Name": "United Tooradin"
+        "Name": "United Tooradin",
       },
       {
         "Address": " Cnr Dohertys and Palmers Rds",
@@ -12241,7 +12241,7 @@ export const getDecrypted = () => ({
         "siteId": "61377814",
         "Band": "3",
         "longitude": "144.747838",
-        "Name": "Coles Express Truganina"
+        "Name": "Coles Express Truganina",
       },
       {
         "Address": " Cnr Camp Road & Maygar Boulevard",
@@ -12249,7 +12249,7 @@ export const getDecrypted = () => ({
         "siteId": "61377815",
         "Band": "9",
         "longitude": "144.941228",
-        "Name": "United Broadmeadows"
+        "Name": "United Broadmeadows",
       },
       {
         "Address": "11 Enterprise Drive",
@@ -12257,7 +12257,7 @@ export const getDecrypted = () => ({
         "siteId": "61377816",
         "Band": "9",
         "longitude": "145.429878",
-        "Name": "Puma Shepparton Unmanned"
+        "Name": "Puma Shepparton Unmanned",
       },
       {
         "Address": " Princes Highway corner Tivendale Road",
@@ -12265,7 +12265,7 @@ export const getDecrypted = () => ({
         "siteId": "61377817",
         "Band": "4",
         "longitude": "145.411564",
-        "Name": "Coles Express Officer"
+        "Name": "Coles Express Officer",
       },
       {
         "Address": " Corner Riverview Drive and Goulburn Valley Highway",
@@ -12273,7 +12273,7 @@ export const getDecrypted = () => ({
         "siteId": "61377818",
         "Band": "3",
         "longitude": "145.392814",
-        "Name": "Coles Express Kialla"
+        "Name": "Coles Express Kialla",
       },
       {
         "Address": "315A Harvest Home Road",
@@ -12281,7 +12281,7 @@ export const getDecrypted = () => ({
         "siteId": "61377819",
         "Band": "4",
         "longitude": "145.006314",
-        "Name": "Coles Express Epping North"
+        "Name": "Coles Express Epping North",
       },
       {
         "Address": "3 Harrien Court",
@@ -12289,7 +12289,7 @@ export const getDecrypted = () => ({
         "siteId": "61377820",
         "Band": "9",
         "longitude": "144.31497041563881",
-        "Name": "Puma Bendigo OPT"
+        "Name": "Puma Bendigo OPT",
       },
       {
         "Address": "309 Midland Highway",
@@ -12297,7 +12297,7 @@ export const getDecrypted = () => ({
         "siteId": "61377821",
         "Band": "9",
         "longitude": "145.432282",
-        "Name": "RRD Fuel Shepparton"
+        "Name": "RRD Fuel Shepparton",
       },
       {
         "Address": "74 Portland Road",
@@ -12305,7 +12305,7 @@ export const getDecrypted = () => ({
         "siteId": "61377824",
         "Band": "4",
         "longitude": "142.009148",
-        "Name": "Ampol Foodary Hamilton"
+        "Name": "Ampol Foodary Hamilton",
       },
       {
         "Address": "394-410 Maroondah Highway",
@@ -12313,7 +12313,7 @@ export const getDecrypted = () => ({
         "siteId": "61377825",
         "Band": "9",
         "longitude": "145.294262",
-        "Name": "United Croydon"
+        "Name": "United Croydon",
       },
       {
         "Address": "103 Alexanders Road",
@@ -12321,7 +12321,7 @@ export const getDecrypted = () => ({
         "siteId": "61377826",
         "Band": "9",
         "longitude": "146.443241",
-        "Name": "Shell Morwell Unmanned"
+        "Name": "Shell Morwell Unmanned",
       },
       {
         "Address": "96 Horne Street",
@@ -12329,7 +12329,7 @@ export const getDecrypted = () => ({
         "siteId": "61377827",
         "Band": "9",
         "longitude": "144.722108",
-        "Name": "Caltex Sunbury"
+        "Name": "Caltex Sunbury",
       },
       {
         "Address": " Cnr Hammond Road & Kilkenny Court",
@@ -12337,7 +12337,7 @@ export const getDecrypted = () => ({
         "siteId": "61377828",
         "Band": "9",
         "longitude": "145.203996",
-        "Name": "Liberty  Dandenong South CVRO"
+        "Name": "Liberty  Dandenong South CVRO",
       },
       {
         "Address": "210 Maidstone Street",
@@ -12345,7 +12345,7 @@ export const getDecrypted = () => ({
         "siteId": "61377829",
         "Band": "3",
         "longitude": "144.809996",
-        "Name": "7-Eleven Altona"
+        "Name": "7-Eleven Altona",
       },
       {
         "Address": "1 Horsburgh Drive",
@@ -12353,7 +12353,7 @@ export const getDecrypted = () => ({
         "siteId": "61377830",
         "Band": "3",
         "longitude": "144.808782",
-        "Name": "Ampol Foodary Altona North"
+        "Name": "Ampol Foodary Altona North",
       },
       {
         "Address": "722-770 Barwon Heads Road",
@@ -12361,7 +12361,7 @@ export const getDecrypted = () => ({
         "siteId": "61377831",
         "Band": "3",
         "longitude": "144.372982",
-        "Name": "7-Eleven Armstrong Creek"
+        "Name": "7-Eleven Armstrong Creek",
       },
       {
         "Address": "416 Princes Highway",
@@ -12369,7 +12369,7 @@ export const getDecrypted = () => ({
         "siteId": "61377832",
         "Band": "9",
         "longitude": "143.544897",
-        "Name": "Liberty Colac West"
+        "Name": "Liberty Colac West",
       },
       {
         "Address": "650-662 Kororoit Road",
@@ -12377,7 +12377,7 @@ export const getDecrypted = () => ({
         "siteId": "61377833",
         "Band": "9",
         "longitude": "144.822324",
-        "Name": "United Altona"
+        "Name": "United Altona",
       },
       {
         "Address": "2 Cambridge Rd",
@@ -12385,7 +12385,7 @@ export const getDecrypted = () => ({
         "siteId": "61377834",
         "Band": "4",
         "longitude": "145.30977492394257",
-        "Name": "Shell Reddy Express Mooroolbark"
+        "Name": "Shell Reddy Express Mooroolbark",
       },
       {
         "Address": "1240 Ballarto Road",
@@ -12393,7 +12393,7 @@ export const getDecrypted = () => ({
         "siteId": "61377835",
         "Band": "2",
         "longitude": "145.293357",
-        "Name": "7-Eleven Cranbourne South"
+        "Name": "7-Eleven Cranbourne South",
       },
       {
         "Address": "300-302 Grieve Parade",
@@ -12401,7 +12401,7 @@ export const getDecrypted = () => ({
         "siteId": "61377836",
         "Band": "3",
         "longitude": "144.823374",
-        "Name": "Coles Express Altona"
+        "Name": "Coles Express Altona",
       },
       {
         "Address": "1016 Cranbourne-Frankston Road",
@@ -12409,7 +12409,7 @@ export const getDecrypted = () => ({
         "siteId": "61377837",
         "Band": "3",
         "longitude": "145.259277",
-        "Name": "7-Eleven Cranbourne Amstel"
+        "Name": "7-Eleven Cranbourne Amstel",
       },
       {
         "Address": "22-38 Alfred Street",
@@ -12417,7 +12417,7 @@ export const getDecrypted = () => ({
         "siteId": "61377838",
         "Band": "5",
         "longitude": "145.933043",
-        "Name": "BP Warragul Station"
+        "Name": "BP Warragul Station",
       },
       {
         "Address": "5941 Midland Highway",
@@ -12425,7 +12425,7 @@ export const getDecrypted = () => ({
         "siteId": "61377839",
         "Band": "9",
         "longitude": "145.981642",
-        "Name": "Liberty Benalla"
+        "Name": "Liberty Benalla",
       },
       {
         "Address": "211-215 Chapel Road",
@@ -12433,7 +12433,7 @@ export const getDecrypted = () => ({
         "siteId": "61377840",
         "Band": "3",
         "longitude": "145.161848",
-        "Name": "BP Keysborough South"
+        "Name": "BP Keysborough South",
       },
       {
         "Address": "264-270 Craigieburn Road",
@@ -12441,7 +12441,7 @@ export const getDecrypted = () => ({
         "siteId": "61377841",
         "Band": "4",
         "longitude": "144.920619",
-        "Name": "7-Eleven Craigieburn"
+        "Name": "7-Eleven Craigieburn",
       },
       {
         "Address": "915 Skipton Street",
@@ -12449,7 +12449,7 @@ export const getDecrypted = () => ({
         "siteId": "61377842",
         "Band": "2",
         "longitude": "143.840345",
-        "Name": "BP Sebastopol"
+        "Name": "BP Sebastopol",
       },
       {
         "Address": " 240 Fischer Street (cnr Falcon Drive)",
@@ -12457,7 +12457,7 @@ export const getDecrypted = () => ({
         "siteId": "61377843",
         "Band": "4",
         "longitude": "144.330027",
-        "Name": "EG Ampol Torquay North"
+        "Name": "EG Ampol Torquay North",
       },
       {
         "Address": "137-139 Princes Drive",
@@ -12465,7 +12465,7 @@ export const getDecrypted = () => ({
         "siteId": "61377844",
         "Band": "5",
         "longitude": "146.392657",
-        "Name": "Coles Express Morwell"
+        "Name": "Coles Express Morwell",
       },
       {
         "Address": "470 Donnybrook Road",
@@ -12473,7 +12473,7 @@ export const getDecrypted = () => ({
         "siteId": "61377845",
         "Band": "4",
         "longitude": "144.896769",
-        "Name": "BP Merrifield"
+        "Name": "BP Merrifield",
       },
       {
         "Address": "60 Deveny Road",
@@ -12481,7 +12481,7 @@ export const getDecrypted = () => ({
         "siteId": "61377846",
         "Band": "9",
         "longitude": "145.014129",
-        "Name": "Costco Epping"
+        "Name": "Costco Epping",
       },
       {
         "Address": "1332 Raglan Parade, Dennington VIC 3280, Australia",
@@ -12489,7 +12489,7 @@ export const getDecrypted = () => ({
         "siteId": "61377847",
         "Band": "5",
         "longitude": "142.44397325033188",
-        "Name": "EG Ampol Dennington"
+        "Name": "EG Ampol Dennington",
       },
       {
         "Address": "114 Old Princes Highway",
@@ -12497,7 +12497,7 @@ export const getDecrypted = () => ({
         "siteId": "61377848",
         "Band": "9",
         "longitude": "145.373358",
-        "Name": "Fast Fuel Beaconsfield"
+        "Name": "Fast Fuel Beaconsfield",
       },
       {
         "Address": "100 Cheltenham Road",
@@ -12505,7 +12505,7 @@ export const getDecrypted = () => ({
         "siteId": "61377849",
         "Band": "9",
         "longitude": "145.198591",
-        "Name": "United (Pie Face) Dandenong"
+        "Name": "United (Pie Face) Dandenong",
       },
       {
         "Address": "451 Leakes Rd",
@@ -12513,7 +12513,7 @@ export const getDecrypted = () => ({
         "siteId": "61377850",
         "Band": "9",
         "longitude": "144.73020619147107",
-        "Name": "United Truganina"
+        "Name": "United Truganina",
       },
       {
         "Address": "2259 Melton Highway",
@@ -12521,7 +12521,7 @@ export const getDecrypted = () => ({
         "siteId": "61377851",
         "Band": "5",
         "longitude": "144.606511",
-        "Name": "Ampol Foodary Melton Central"
+        "Name": "Ampol Foodary Melton Central",
       },
       {
         "Address": "354a Robinsons Rd",
@@ -12529,7 +12529,7 @@ export const getDecrypted = () => ({
         "siteId": "61377852",
         "Band": "3",
         "longitude": "144.75204954232788",
-        "Name": "Ampol Foodary Derrimut"
+        "Name": "Ampol Foodary Derrimut",
       },
       {
         "Address": " Cnr Stammers Rd and Princess Highway",
@@ -12537,7 +12537,7 @@ export const getDecrypted = () => ({
         "siteId": "61377853",
         "Band": "4",
         "longitude": "146.575374",
-        "Name": "Ampol Foodary Traralgon East"
+        "Name": "Ampol Foodary Traralgon East",
       },
       {
         "Address": " Lot 1 Cnr Leakes & Palmers Rds",
@@ -12545,7 +12545,7 @@ export const getDecrypted = () => ({
         "siteId": "61377854",
         "Band": "9",
         "longitude": "144.746393",
-        "Name": "Metro Petroleum Truganina"
+        "Name": "Metro Petroleum Truganina",
       },
       {
         "Address": "226-242 Princes Drive",
@@ -12553,7 +12553,7 @@ export const getDecrypted = () => ({
         "siteId": "61377855",
         "Band": "9",
         "longitude": "146.445482",
-        "Name": "Shell Morwell"
+        "Name": "Shell Morwell",
       },
       {
         "Address": "20 Winki Way",
@@ -12561,7 +12561,7 @@ export const getDecrypted = () => ({
         "siteId": "61377856",
         "Band": "4",
         "longitude": "144.31790491401671",
-        "Name": "Shell Reddy Express Torquay"
+        "Name": "Shell Reddy Express Torquay",
       },
       {
         "Address": "115 Albert Street",
@@ -12569,7 +12569,7 @@ export const getDecrypted = () => ({
         "siteId": "61377857",
         "Band": "9",
         "longitude": "143.841393",
-        "Name": "Westside Petroleum Sebastopol"
+        "Name": "Westside Petroleum Sebastopol",
       },
       {
         "Address": "53 Alfred Road",
@@ -12577,7 +12577,7 @@ export const getDecrypted = () => ({
         "siteId": "61377858",
         "Band": "5",
         "longitude": "144.634494",
-        "Name": "7-Eleven Werribee"
+        "Name": "7-Eleven Werribee",
       },
       {
         "Address": "1-11 Little Boundary Road",
@@ -12585,7 +12585,7 @@ export const getDecrypted = () => ({
         "siteId": "61377859",
         "Band": "9",
         "longitude": "144.822825",
-        "Name": "Caltex Laverton North"
+        "Name": "Caltex Laverton North",
       },
       {
         "Address": " Cnr Sturt Street and Ogilvie Avenue",
@@ -12593,7 +12593,7 @@ export const getDecrypted = () => ({
         "siteId": "61377860",
         "Band": "9",
         "longitude": "144.755648",
-        "Name": "Liberty Echuca"
+        "Name": "Liberty Echuca",
       },
       {
         "Address": "385 Warrigal Road",
@@ -12601,7 +12601,7 @@ export const getDecrypted = () => ({
         "siteId": "61377861",
         "Band": "9",
         "longitude": "145.076285",
-        "Name": "United Cheltenham"
+        "Name": "United Cheltenham",
       },
       {
         "Address": "133-143 Torquay Road",
@@ -12609,7 +12609,7 @@ export const getDecrypted = () => ({
         "siteId": "61377862",
         "Band": "9",
         "longitude": "144.342412",
-        "Name": "Apco Grovedale"
+        "Name": "Apco Grovedale",
       },
       {
         "Address": "34 Racecourse Road",
@@ -12617,7 +12617,7 @@ export const getDecrypted = () => ({
         "siteId": "61377863",
         "Band": "9",
         "longitude": "145.493227",
-        "Name": "Liberty Pakenham"
+        "Name": "Liberty Pakenham",
       },
       {
         "Address": "1060 Thompsons Road",
@@ -12625,7 +12625,7 @@ export const getDecrypted = () => ({
         "siteId": "61377864",
         "Band": "9",
         "longitude": "145.256317",
-        "Name": "United Cranbourne West"
+        "Name": "United Cranbourne West",
       },
       {
         "Address": "199 Ballarat Road",
@@ -12633,7 +12633,7 @@ export const getDecrypted = () => ({
         "siteId": "61377865",
         "Band": "9",
         "longitude": "144.867319",
-        "Name": "Liberty Maidstone"
+        "Name": "Liberty Maidstone",
       },
       {
         "Address": "142 Percy Street",
@@ -12641,7 +12641,7 @@ export const getDecrypted = () => ({
         "siteId": "61377866",
         "Band": "4",
         "longitude": "141.604346",
-        "Name": "OTR Portland"
+        "Name": "OTR Portland",
       },
       {
         "Address": "52 Anderson Street",
@@ -12649,7 +12649,7 @@ export const getDecrypted = () => ({
         "siteId": "61377867",
         "Band": "9",
         "longitude": "145.941405",
-        "Name": "United Leongatha"
+        "Name": "United Leongatha",
       },
       {
         "Address": "250-266 Whitehall Street",
@@ -12657,7 +12657,7 @@ export const getDecrypted = () => ({
         "siteId": "61377868",
         "Band": "9",
         "longitude": "144.898789",
-        "Name": "Shell Yarraville"
+        "Name": "Shell Yarraville",
       },
       {
         "Address": "2931-2935 Princes Highway",
@@ -12665,7 +12665,7 @@ export const getDecrypted = () => ({
         "siteId": "61377869",
         "Band": "7",
         "longitude": "143.983186",
-        "Name": "Ampol Foodary Winchelsea"
+        "Name": "Ampol Foodary Winchelsea",
       },
       {
         "Address": "133-135 Ballarat Road",
@@ -12673,7 +12673,7 @@ export const getDecrypted = () => ({
         "siteId": "61377870",
         "Band": "9",
         "longitude": "144.331581",
-        "Name": "BP Bell Park"
+        "Name": "BP Bell Park",
       },
       {
         "Address": " Cnr Vincent and Moore Streets",
@@ -12681,7 +12681,7 @@ export const getDecrypted = () => ({
         "siteId": "61377871",
         "Band": "9",
         "longitude": "142.931323",
-        "Name": "Mobil Ararat"
+        "Name": "Mobil Ararat",
       },
       {
         "Address": "5 West Boundary Road",
@@ -12689,7 +12689,7 @@ export const getDecrypted = () => ({
         "siteId": "61377872",
         "Band": "9",
         "longitude": "141.994904",
-        "Name": "BP OPT Hamilton"
+        "Name": "BP OPT Hamilton",
       },
       {
         "Address": " Cnr Napier and Nolan Streets",
@@ -12697,7 +12697,7 @@ export const getDecrypted = () => ({
         "siteId": "61377873",
         "Band": "9",
         "longitude": "143.738828",
-        "Name": "Metro Maryborough"
+        "Name": "Metro Maryborough",
       },
       {
         "Address": "4 Thornton Street",
@@ -12705,7 +12705,7 @@ export const getDecrypted = () => ({
         "siteId": "61377874",
         "Band": "9",
         "longitude": "143.146342",
-        "Name": "Shell Camperdown"
+        "Name": "Shell Camperdown",
       },
       {
         "Address": "1002-1006 Howitt Street",
@@ -12713,7 +12713,7 @@ export const getDecrypted = () => ({
         "siteId": "61377875",
         "Band": "4",
         "longitude": "143.839642",
-        "Name": "7-Eleven Wendouree"
+        "Name": "7-Eleven Wendouree",
       },
       {
         "Address": "1409 Plenty Road",
@@ -12721,7 +12721,7 @@ export const getDecrypted = () => ({
         "siteId": "61377876",
         "Band": "6",
         "longitude": "145.094323",
-        "Name": "Ampol Foodary Mernda"
+        "Name": "Ampol Foodary Mernda",
       },
       {
         "Address": "803 Nepean Highway",
@@ -12729,7 +12729,7 @@ export const getDecrypted = () => ({
         "siteId": "61377877",
         "Band": "9",
         "longitude": "144.914028",
-        "Name": "Liberty Rosebud"
+        "Name": "Liberty Rosebud",
       },
       {
         "Address": "361 Learmonth Road",
@@ -12737,7 +12737,7 @@ export const getDecrypted = () => ({
         "siteId": "61377878",
         "Band": "3",
         "longitude": "143.804597",
-        "Name": "BP Mitchell Park"
+        "Name": "BP Mitchell Park",
       },
       {
         "Address": "609 Henty Highway",
@@ -12745,7 +12745,7 @@ export const getDecrypted = () => ({
         "siteId": "61377879",
         "Band": "9",
         "longitude": "141.596597",
-        "Name": "Metro Petroleum Portland"
+        "Name": "Metro Petroleum Portland",
       },
       {
         "Address": "55-57 Miller Street",
@@ -12753,7 +12753,7 @@ export const getDecrypted = () => ({
         "siteId": "61377880",
         "Band": "9",
         "longitude": "145.019618",
-        "Name": "OilChem Pty Ltd"
+        "Name": "OilChem Pty Ltd",
       },
       {
         "Address": " 42 Ashwood Gardens",
@@ -12761,7 +12761,7 @@ export const getDecrypted = () => ({
         "siteId": "61377881",
         "Band": "9",
         "longitude": "143.804654",
-        "Name": "Liberty Ballarat"
+        "Name": "Liberty Ballarat",
       },
       {
         "Address": "93-95 Main Road",
@@ -12769,7 +12769,7 @@ export const getDecrypted = () => ({
         "siteId": "61377882",
         "Band": "4",
         "longitude": "145.404101",
-        "Name": "EG Ampol Monbulk"
+        "Name": "EG Ampol Monbulk",
       },
       {
         "Address": "122-160 Grubb Road",
@@ -12777,7 +12777,7 @@ export const getDecrypted = () => ({
         "siteId": "61377883",
         "Band": "4",
         "longitude": "144.538248",
-        "Name": "EG Ampol Ocean Grove North"
+        "Name": "EG Ampol Ocean Grove North",
       },
       {
         "Address": "606-612 Napier Street",
@@ -12785,7 +12785,7 @@ export const getDecrypted = () => ({
         "siteId": "61377884",
         "Band": "9",
         "longitude": "144.313361",
-        "Name": "Shell Epsom"
+        "Name": "Shell Epsom",
       },
       {
         "Address": "316 Glenelg Highway",
@@ -12793,7 +12793,7 @@ export const getDecrypted = () => ({
         "siteId": "61377885",
         "Band": "2",
         "longitude": "143.805992",
-        "Name": "BP Delacombe"
+        "Name": "BP Delacombe",
       },
       {
         "Address": "855 Plenty Road",
@@ -12801,7 +12801,7 @@ export const getDecrypted = () => ({
         "siteId": "61377886",
         "Band": "7",
         "longitude": "145.089806",
-        "Name": "Coles Express Plenty Road"
+        "Name": "Coles Express Plenty Road",
       },
       {
         "Address": "52 Golf Course Road",
@@ -12809,7 +12809,7 @@ export const getDecrypted = () => ({
         "siteId": "61377887",
         "Band": "9",
         "longitude": "142.199432",
-        "Name": "Mobil Diesel Horsham"
+        "Name": "Mobil Diesel Horsham",
       },
       {
         "Address": "48-50 Golf Course Road",
@@ -12817,7 +12817,7 @@ export const getDecrypted = () => ({
         "siteId": "61377888",
         "Band": "9",
         "longitude": "142.199688",
-        "Name": "Endeavour Petroleum Horsham"
+        "Name": "Endeavour Petroleum Horsham",
       },
       {
         "Address": "189-191 McCrae St",
@@ -12825,7 +12825,7 @@ export const getDecrypted = () => ({
         "siteId": "61377889",
         "Band": "9",
         "longitude": "144.28638489962125",
-        "Name": "Caltex Bendigo"
+        "Name": "Caltex Bendigo",
       },
       {
         "Address": "2A Foleys Road",
@@ -12833,7 +12833,7 @@ export const getDecrypted = () => ({
         "siteId": "61377890",
         "Band": "9",
         "longitude": "144.755332",
-        "Name": "United Derrimut"
+        "Name": "United Derrimut",
       },
       {
         "Address": "19 Kuhle Road",
@@ -12841,7 +12841,7 @@ export const getDecrypted = () => ({
         "siteId": "61377891",
         "Band": "9",
         "longitude": "145.048738",
-        "Name": "Riordan Fuel Kyabram"
+        "Name": "Riordan Fuel Kyabram",
       },
       {
         "Address": "55-57 Cotter Street",
@@ -12849,7 +12849,7 @@ export const getDecrypted = () => ({
         "siteId": "61377892",
         "Band": "9",
         "longitude": "141.812466",
-        "Name": "Liberty Underbool"
+        "Name": "Liberty Underbool",
       },
       {
         "Address": "93 Dimboola Road",
@@ -12857,7 +12857,7 @@ export const getDecrypted = () => ({
         "siteId": "61377893",
         "Band": "9",
         "longitude": "142.182368",
-        "Name": "Horsham Cvro"
+        "Name": "Horsham Cvro",
       },
       {
         "Address": "101 High Street",
@@ -12865,7 +12865,7 @@ export const getDecrypted = () => ({
         "siteId": "61377894",
         "Band": "9",
         "longitude": "144.503379",
-        "Name": "Liberty Axedale General Store"
+        "Name": "Liberty Axedale General Store",
       },
       {
         "Address": "36 Trentham Road",
@@ -12873,7 +12873,7 @@ export const getDecrypted = () => ({
         "siteId": "61377895",
         "Band": "9",
         "longitude": "144.407205",
-        "Name": "Tylden General Store"
+        "Name": "Tylden General Store",
       },
       {
         "Address": "68 Alfred Street",
@@ -12881,7 +12881,7 @@ export const getDecrypted = () => ({
         "siteId": "61377896",
         "Band": "9",
         "longitude": "145.938694",
-        "Name": "Checkpoint Service Station"
+        "Name": "Checkpoint Service Station",
       },
       {
         "Address": "2 Walters Street",
@@ -12889,7 +12889,7 @@ export const getDecrypted = () => ({
         "siteId": "61377897",
         "Band": "9",
         "longitude": "144.943718",
-        "Name": "Liberty Craigieburn"
+        "Name": "Liberty Craigieburn",
       },
       {
         "Address": "29 Ellerman Street",
@@ -12897,7 +12897,7 @@ export const getDecrypted = () => ({
         "siteId": "61377898",
         "Band": "9",
         "longitude": "142.034982",
-        "Name": "Metro Petroleum Dimboola"
+        "Name": "Metro Petroleum Dimboola",
       },
       {
         "Address": "160 Murray Valley Highway",
@@ -12905,7 +12905,7 @@ export const getDecrypted = () => ({
         "siteId": "61377899",
         "Band": "9",
         "longitude": "143.635403",
-        "Name": "Metro Petroleum Lake Boga"
+        "Name": "Metro Petroleum Lake Boga",
       },
       {
         "Address": "9 Main Street",
@@ -12913,7 +12913,7 @@ export const getDecrypted = () => ({
         "siteId": "61377901",
         "Band": "9",
         "longitude": "143.223659",
-        "Name": "Metro Petroleum Derrinallum"
+        "Name": "Metro Petroleum Derrinallum",
       },
       {
         "Address": "2 Main Road",
@@ -12921,7 +12921,7 @@ export const getDecrypted = () => ({
         "siteId": "61377902",
         "Band": "9",
         "longitude": "145.538029",
-        "Name": "Metro Petroleum Gembrook"
+        "Name": "Metro Petroleum Gembrook",
       },
       {
         "Address": "2 Kinglake-Glenburn Road",
@@ -12929,7 +12929,7 @@ export const getDecrypted = () => ({
         "siteId": "61377903",
         "Band": "9",
         "longitude": "145.341061",
-        "Name": "United Kinglake"
+        "Name": "United Kinglake",
       },
       {
         "Address": "1655S Thompsons Rd",
@@ -12937,7 +12937,7 @@ export const getDecrypted = () => ({
         "siteId": "61377904",
         "Band": "9",
         "longitude": "145.32297643655397",
-        "Name": "United Cranbourne  North"
+        "Name": "United Cranbourne  North",
       },
       {
         "Address": "363 McKoy Street",
@@ -12945,7 +12945,7 @@ export const getDecrypted = () => ({
         "siteId": "61377905",
         "Band": "9",
         "longitude": "146.824465",
-        "Name": "United Wodonga West"
+        "Name": "United Wodonga West",
       },
       {
         "Address": "2 Racecourse Road",
@@ -12953,7 +12953,7 @@ export const getDecrypted = () => ({
         "siteId": "61377906",
         "Band": "9",
         "longitude": "141.410211",
-        "Name": "Mobil Casterton"
+        "Name": "Mobil Casterton",
       },
       {
         "Address": "8 Saleyard Road",
@@ -12961,7 +12961,7 @@ export const getDecrypted = () => ({
         "siteId": "61377907",
         "Band": "9",
         "longitude": "143.548942",
-        "Name": "Shell Swan Hill Unmanned"
+        "Name": "Shell Swan Hill Unmanned",
       },
       {
         "Address": "10 Bon Crescent",
@@ -12969,7 +12969,7 @@ export const getDecrypted = () => ({
         "siteId": "61377908",
         "Band": "9",
         "longitude": "145.854212",
-        "Name": "Shell Bonnie Doon Central"
+        "Name": "Shell Bonnie Doon Central",
       },
       {
         "Address": "109 Bailey Street",
@@ -12977,7 +12977,7 @@ export const getDecrypted = () => ({
         "siteId": "61377909",
         "Band": "9",
         "longitude": "142.966666",
-        "Name": "Shell Timboon Fuel"
+        "Name": "Shell Timboon Fuel",
       },
       {
         "Address": " Lot 2 Murray Valley Highway",
@@ -12985,7 +12985,7 @@ export const getDecrypted = () => ({
         "siteId": "61377910",
         "Band": "9",
         "longitude": "145.203231",
-        "Name": "Shell Nathalia Fuel And Gas"
+        "Name": "Shell Nathalia Fuel And Gas",
       },
       {
         "Address": "2170 Fifteenth Street",
@@ -12993,7 +12993,7 @@ export const getDecrypted = () => ({
         "siteId": "61377911",
         "Band": "9",
         "longitude": "142.174665",
-        "Name": "Shell Irymple Depot"
+        "Name": "Shell Irymple Depot",
       },
       {
         "Address": "64 Murray Valley Highway",
@@ -13001,7 +13001,7 @@ export const getDecrypted = () => ({
         "siteId": "61377912",
         "Band": "9",
         "longitude": "143.377758",
-        "Name": "Shell Nyah Oasis"
+        "Name": "Shell Nyah Oasis",
       },
       {
         "Address": " Pyrenees Highway",
@@ -13009,7 +13009,7 @@ export const getDecrypted = () => ({
         "siteId": "61377913",
         "Band": "9",
         "longitude": "144.247807",
-        "Name": "Shell Chewton Service Station"
+        "Name": "Shell Chewton Service Station",
       },
       {
         "Address": "275-277 Monbulk Road",
@@ -13017,7 +13017,7 @@ export const getDecrypted = () => ({
         "siteId": "61377914",
         "Band": "9",
         "longitude": "145.421805",
-        "Name": "Shell Princi Motors"
+        "Name": "Shell Princi Motors",
       },
       {
         "Address": "2058 Henty Highway",
@@ -13025,7 +13025,7 @@ export const getDecrypted = () => ({
         "siteId": "61377915",
         "Band": "9",
         "longitude": "141.632135",
-        "Name": "Shell Alexander C Stores - Heywood"
+        "Name": "Shell Alexander C Stores - Heywood",
       },
       {
         "Address": "3640 Promontory Road",
@@ -13033,7 +13033,7 @@ export const getDecrypted = () => ({
         "siteId": "61377916",
         "Band": "9",
         "longitude": "146.207524",
-        "Name": "Shell Yanakie Licensed Store"
+        "Name": "Shell Yanakie Licensed Store",
       },
       {
         "Address": " Whitelaw Street",
@@ -13041,7 +13041,7 @@ export const getDecrypted = () => ({
         "siteId": "61377917",
         "Band": "9",
         "longitude": "146.011252",
-        "Name": "Shell Meeniyan Service Station"
+        "Name": "Shell Meeniyan Service Station",
       },
       {
         "Address": "19 High Street",
@@ -13049,7 +13049,7 @@ export const getDecrypted = () => ({
         "siteId": "61377918",
         "Band": "9",
         "longitude": "144.058453",
-        "Name": "Shell Riordan Fuels Inverleigh"
+        "Name": "Shell Riordan Fuels Inverleigh",
       },
       {
         "Address": "4895 Goulburn Valley Highway",
@@ -13057,7 +13057,7 @@ export const getDecrypted = () => ({
         "siteId": "61377919",
         "Band": "9",
         "longitude": "145.240396",
-        "Name": "Shell G V Highway Garage"
+        "Name": "Shell G V Highway Garage",
       },
       {
         "Address": "52 Main Street",
@@ -13065,7 +13065,7 @@ export const getDecrypted = () => ({
         "siteId": "61377920",
         "Band": "9",
         "longitude": "146.327426",
-        "Name": "Shell Yinnar Fuel & Farm Supplies"
+        "Name": "Shell Yinnar Fuel & Farm Supplies",
       },
       {
         "Address": " Dunmosi-Quambatook Road",
@@ -13073,7 +13073,7 @@ export const getDecrypted = () => ({
         "siteId": "61377921",
         "Band": "9",
         "longitude": "143.515249",
-        "Name": "Shell Quambatook Unmanned"
+        "Name": "Shell Quambatook Unmanned",
       },
       {
         "Address": "15 Thomas Rd",
@@ -13081,7 +13081,7 @@ export const getDecrypted = () => ({
         "siteId": "61377922",
         "Band": "9",
         "longitude": "148.432007",
-        "Name": "BP OPT Newmerella (Thomas Rd)"
+        "Name": "BP OPT Newmerella (Thomas Rd)",
       },
       {
         "Address": "373 Old Geelong Road",
@@ -13089,7 +13089,7 @@ export const getDecrypted = () => ({
         "siteId": "61377923",
         "Band": "9",
         "longitude": "143.150084",
-        "Name": "Ampol Camperdown"
+        "Name": "Ampol Camperdown",
       },
       {
         "Address": "28-32 Little River Road",
@@ -13097,7 +13097,7 @@ export const getDecrypted = () => ({
         "siteId": "61377924",
         "Band": "9",
         "longitude": "144.507451",
-        "Name": "Little River Motors"
+        "Name": "Little River Motors",
       },
       {
         "Address": "44 Tullaroop Street",
@@ -13105,7 +13105,7 @@ export const getDecrypted = () => ({
         "siteId": "61377925",
         "Band": "9",
         "longitude": "143.751617",
-        "Name": "Independent Maryborough"
+        "Name": "Independent Maryborough",
       },
       {
         "Address": "2227 Timboon-Nullawarre Road",
@@ -13113,7 +13113,7 @@ export const getDecrypted = () => ({
         "siteId": "61377926",
         "Band": "5",
         "longitude": "142.750082",
-        "Name": "BP Nullawarre"
+        "Name": "BP Nullawarre",
       },
       {
         "Address": "2227 Timboon-Nullawarre Road",
@@ -13121,7 +13121,7 @@ export const getDecrypted = () => ({
         "siteId": "61377927",
         "Band": "5",
         "longitude": "142.750192",
-        "Name": "BP 24 Hour Fuel Nullawarre"
+        "Name": "BP 24 Hour Fuel Nullawarre",
       },
       {
         "Address": "728-736 Geelong Road",
@@ -13129,7 +13129,7 @@ export const getDecrypted = () => ({
         "siteId": "61377928",
         "Band": "9",
         "longitude": "143.867108",
-        "Name": "BP Canadian"
+        "Name": "BP Canadian",
       },
       {
         "Address": "34 Ararat Road",
@@ -13137,7 +13137,7 @@ export const getDecrypted = () => ({
         "siteId": "61377929",
         "Band": "4",
         "longitude": "142.772491",
-        "Name": "OTR Stawell"
+        "Name": "OTR Stawell",
       },
       {
         "Address": "46 Emily Street",
@@ -13145,7 +13145,7 @@ export const getDecrypted = () => ({
         "siteId": "61377930",
         "Band": "9",
         "longitude": "145.128418",
-        "Name": "Shell Seymour"
+        "Name": "Shell Seymour",
       },
       {
         "Address": "21-23 Shakespeare Street",
@@ -13153,7 +13153,7 @@ export const getDecrypted = () => ({
         "siteId": "61377931",
         "Band": "9",
         "longitude": "146.535281",
-        "Name": "Liberty Traralgon"
+        "Name": "Liberty Traralgon",
       },
       {
         "Address": "20 Dimboola Road",
@@ -13161,7 +13161,7 @@ export const getDecrypted = () => ({
         "siteId": "61377932",
         "Band": "4",
         "longitude": "142.195782",
-        "Name": "OTR Horsham Dimboola Rd"
+        "Name": "OTR Horsham Dimboola Rd",
       },
       {
         "Address": "50 Austin Street",
@@ -13169,7 +13169,7 @@ export const getDecrypted = () => ({
         "siteId": "61377933",
         "Band": "9",
         "longitude": "142.361413",
-        "Name": "Hopetoun Fuel & Nursery"
+        "Name": "Hopetoun Fuel & Nursery",
       },
       {
         "Address": "4501 Henty Highway",
@@ -13177,7 +13177,7 @@ export const getDecrypted = () => ({
         "siteId": "61377934",
         "Band": "9",
         "longitude": "142.199525",
-        "Name": "Haven General Store"
+        "Name": "Haven General Store",
       },
       {
         "Address": "Lot 5 Davis Road",
@@ -13185,7 +13185,7 @@ export const getDecrypted = () => ({
         "siteId": "61377935",
         "Band": "3",
         "longitude": "144.653042",
-        "Name": "7-Eleven Tarneit West"
+        "Name": "7-Eleven Tarneit West",
       },
       {
         "Address": "12 Hampstead Road",
@@ -13193,7 +13193,7 @@ export const getDecrypted = () => ({
         "siteId": "61377936",
         "Band": "3",
         "longitude": "144.872333",
-        "Name": "7-Eleven Maidstone"
+        "Name": "7-Eleven Maidstone",
       },
       {
         "Address": "182-184 Airport Drive",
@@ -13201,7 +13201,7 @@ export const getDecrypted = () => ({
         "siteId": "61377937",
         "Band": "4",
         "longitude": "144.865444",
-        "Name": "BP Tullamarine"
+        "Name": "BP Tullamarine",
       },
       {
         "Address": " Hamilton Highway",
@@ -13209,7 +13209,7 @@ export const getDecrypted = () => ({
         "siteId": "61377938",
         "Band": "9",
         "longitude": "143.342594",
-        "Name": "Shell Lismore"
+        "Name": "Shell Lismore",
       },
       {
         "Address": "112 High Street",
@@ -13217,7 +13217,7 @@ export const getDecrypted = () => ({
         "siteId": "61377939",
         "Band": "5",
         "longitude": "144.599593",
-        "Name": "7-Eleven Melton East"
+        "Name": "7-Eleven Melton East",
       },
       {
         "Address": " Cnr Bridge Inn Road & Painted Hills Road",
@@ -13225,7 +13225,7 @@ export const getDecrypted = () => ({
         "siteId": "61377940",
         "Band": "6",
         "longitude": "145.122664",
-        "Name": "7-Eleven Doreen"
+        "Name": "7-Eleven Doreen",
       },
       {
         "Address": "244-246 Ring Road",
@@ -13233,7 +13233,7 @@ export const getDecrypted = () => ({
         "siteId": "61377941",
         "Band": "9",
         "longitude": "143.807192",
-        "Name": "Mobil Diesel Ballarat"
+        "Name": "Mobil Diesel Ballarat",
       },
       {
         "Address": "247-263 Greens Road",
@@ -13241,7 +13241,7 @@ export const getDecrypted = () => ({
         "siteId": "61377942",
         "Band": "9",
         "longitude": "145.195492",
-        "Name": "United Dandenong South"
+        "Name": "United Dandenong South",
       },
       {
         "Address": "928 Thompsons Road",
@@ -13249,7 +13249,7 @@ export const getDecrypted = () => ({
         "siteId": "61377943",
         "Band": "9",
         "longitude": "145.242563",
-        "Name": "Liberty Cranbourne West"
+        "Name": "Liberty Cranbourne West",
       },
       {
         "Address": " Cnr Karinie St and Murray Valley Hwy",
@@ -13257,7 +13257,7 @@ export const getDecrypted = () => ({
         "siteId": "61377944",
         "Band": "9",
         "longitude": "143.552193",
-        "Name": "United Swan Hill"
+        "Name": "United Swan Hill",
       },
       {
         "Address": "Cnr Scott & Murray Streets",
@@ -13265,7 +13265,7 @@ export const getDecrypted = () => ({
         "siteId": "61377945",
         "Band": "5",
         "longitude": "143.57890495337296",
-        "Name": "7-Eleven Colac"
+        "Name": "7-Eleven Colac",
       },
       {
         "Address": " Cnr Mt Derrimut Road & St Leonards Avenue",
@@ -13273,7 +13273,7 @@ export const getDecrypted = () => ({
         "siteId": "61377946",
         "Band": "4",
         "longitude": "144.772354",
-        "Name": "7-Eleven Derrimut"
+        "Name": "7-Eleven Derrimut",
       },
       {
         "Address": "1490 Bullarto Road",
@@ -13281,7 +13281,7 @@ export const getDecrypted = () => ({
         "siteId": "61377947",
         "Band": "2",
         "longitude": "145.323947",
-        "Name": "BP Clyde"
+        "Name": "BP Clyde",
       },
       {
         "Address": "825 Mickleham Road",
@@ -13289,7 +13289,7 @@ export const getDecrypted = () => ({
         "siteId": "61377948",
         "Band": "9",
         "longitude": "144.879932",
-        "Name": "Liberty Greenvale"
+        "Name": "Liberty Greenvale",
       },
       {
         "Address": "463-469 Deakin Avenue",
@@ -13297,7 +13297,7 @@ export const getDecrypted = () => ({
         "siteId": "61377949",
         "Band": "5",
         "longitude": "142.136212",
-        "Name": "OTR Mildura"
+        "Name": "OTR Mildura",
       },
       {
         "Address": "73 Sayers Road",
@@ -13305,7 +13305,7 @@ export const getDecrypted = () => ({
         "siteId": "61377950",
         "Band": "9",
         "longitude": "144.747616",
-        "Name": "BP Williams Landing"
+        "Name": "BP Williams Landing",
       },
       {
         "Address": "99-113 Melton High Street",
@@ -13313,7 +13313,7 @@ export const getDecrypted = () => ({
         "siteId": "61377951",
         "Band": "5",
         "longitude": "144.601274",
-        "Name": "Coles Express Melton High Street"
+        "Name": "Coles Express Melton High Street",
       },
       {
         "Address": "112-118 Hertford Street",
@@ -13321,7 +13321,7 @@ export const getDecrypted = () => ({
         "siteId": "61377952",
         "Band": "9",
         "longitude": "143.826815",
-        "Name": "Shell Sebastopol"
+        "Name": "Shell Sebastopol",
       },
       {
         "Address": "1235 Plenty Road",
@@ -13329,7 +13329,7 @@ export const getDecrypted = () => ({
         "siteId": "61377953",
         "Band": "6",
         "longitude": "145.092553",
-        "Name": "BP South Morang"
+        "Name": "BP South Morang",
       },
       {
         "Address": "910 Mickleham Road",
@@ -13337,7 +13337,7 @@ export const getDecrypted = () => ({
         "siteId": "61377954",
         "Band": "4",
         "longitude": "144.882132",
-        "Name": "BP Greenvale"
+        "Name": "BP Greenvale",
       },
       {
         "Address": "290 Leakes Rd",
@@ -13345,7 +13345,7 @@ export const getDecrypted = () => ({
         "siteId": "61377955",
         "Band": "9",
         "longitude": "144.74190366270443",
-        "Name": "Liberty Truganina"
+        "Name": "Liberty Truganina",
       },
       {
         "Address": "179-253 Exford Road",
@@ -13353,7 +13353,7 @@ export const getDecrypted = () => ({
         "siteId": "61377956",
         "Band": "5",
         "longitude": "144.572981",
-        "Name": "EG Ampol Melton South"
+        "Name": "EG Ampol Melton South",
       },
       {
         "Address": "109-111 Seventh Street",
@@ -13361,7 +13361,7 @@ export const getDecrypted = () => ({
         "siteId": "61377957",
         "Band": "9",
         "longitude": "142.165974",
-        "Name": "Mobil Mildura"
+        "Name": "Mobil Mildura",
       },
       {
         "Address": "2793 Eleventh Street",
@@ -13369,7 +13369,7 @@ export const getDecrypted = () => ({
         "siteId": "61377958",
         "Band": "9",
         "longitude": "142.183467",
-        "Name": "Liberty Irymple"
+        "Name": "Liberty Irymple",
       },
       {
         "Address": "9 Horsham Road",
@@ -13377,7 +13377,7 @@ export const getDecrypted = () => ({
         "siteId": "61377959",
         "Band": "9",
         "longitude": "142.752933",
-        "Name": "Endeavour Stawell OPT"
+        "Name": "Endeavour Stawell OPT",
       },
       {
         "Address": "1100 Koo Wee Rup Road",
@@ -13385,7 +13385,7 @@ export const getDecrypted = () => ({
         "siteId": "61377960",
         "Band": "9",
         "longitude": "145.489021",
-        "Name": "BP Pakenham South"
+        "Name": "BP Pakenham South",
       },
       {
         "Address": "1 Hall Road",
@@ -13393,7 +13393,7 @@ export const getDecrypted = () => ({
         "siteId": "61377961",
         "Band": "9",
         "longitude": "145.173803",
-        "Name": "United Carrum Downs"
+        "Name": "United Carrum Downs",
       },
       {
         "Address": "55 Nelson Street",
@@ -13401,7 +13401,7 @@ export const getDecrypted = () => ({
         "siteId": "61377962",
         "Band": "9",
         "longitude": "141.654471",
-        "Name": "Mobil Diesel Nhill"
+        "Name": "Mobil Diesel Nhill",
       },
       {
         "Address": "10 Drapers Road",
@@ -13409,7 +13409,7 @@ export const getDecrypted = () => ({
         "siteId": "61377963",
         "Band": "9",
         "longitude": "143.626316",
-        "Name": "BP Colac East"
+        "Name": "BP Colac East",
       },
       {
         "Address": "325A Nepean Highway",
@@ -13417,7 +13417,7 @@ export const getDecrypted = () => ({
         "siteId": "61377964",
         "Band": "9",
         "longitude": "145.125037",
-        "Name": "Ampol Frankston (Nepean Hwy)"
+        "Name": "Ampol Frankston (Nepean Hwy)",
       },
       {
         "Address": " Cnr O'Herns Rd & Gateway Blvd",
@@ -13425,7 +13425,7 @@ export const getDecrypted = () => ({
         "siteId": "61377965",
         "Band": "9",
         "longitude": "144.999116",
-        "Name": "Ampol Epping (O'Herns Rd)"
+        "Name": "Ampol Epping (O'Herns Rd)",
       },
       {
         "Address": "31 Bunker Road",
@@ -13433,7 +13433,7 @@ export const getDecrypted = () => ({
         "siteId": "61377967",
         "Band": "9",
         "longitude": "142.996881",
-        "Name": "Mobil Diesel Donald"
+        "Name": "Mobil Diesel Donald",
       },
       {
         "Address": "588 Napier St",
@@ -13441,7 +13441,7 @@ export const getDecrypted = () => ({
         "siteId": "61377968",
         "Band": "9",
         "longitude": "144.31267452149584",
-        "Name": "Mobil White Hills"
+        "Name": "Mobil White Hills",
       },
       {
         "Address": " 440 Craigeburn Rd East",
@@ -13449,7 +13449,7 @@ export const getDecrypted = () => ({
         "siteId": "61377969",
         "Band": "4",
         "longitude": "144.984129",
-        "Name": "BP Wollert"
+        "Name": "BP Wollert",
       },
       {
         "Address": "103 Ballarat -Carngham Road",
@@ -13457,7 +13457,7 @@ export const getDecrypted = () => ({
         "siteId": "61377970",
         "Band": "2",
         "longitude": "143.798589",
-        "Name": "EG Ampol Winter Valley"
+        "Name": "EG Ampol Winter Valley",
       },
       {
         "Address": "41-55 Leakes Road",
@@ -13465,7 +13465,7 @@ export const getDecrypted = () => ({
         "siteId": "61377971",
         "Band": "9",
         "longitude": "144.771446",
-        "Name": "United Laverton North"
+        "Name": "United Laverton North",
       },
       {
         "Address": "1/7 Horsham Road",
@@ -13473,7 +13473,7 @@ export const getDecrypted = () => ({
         "siteId": "61377972",
         "Band": "9",
         "longitude": "142.753975",
-        "Name": "United Petroleum Stawell"
+        "Name": "United Petroleum Stawell",
       },
       {
         "Address": "1244 Midland Highway",
@@ -13481,7 +13481,7 @@ export const getDecrypted = () => ({
         "siteId": "61377973",
         "Band": "9",
         "longitude": "144.237997",
-        "Name": "United Pie Face Gheringhap"
+        "Name": "United Pie Face Gheringhap",
       },
       {
         "Address": "1 Anzac Parade",
@@ -13489,7 +13489,7 @@ export const getDecrypted = () => ({
         "siteId": "61377974",
         "Band": "3",
         "longitude": "146.914064",
-        "Name": "7-Eleven East Wodonga"
+        "Name": "7-Eleven East Wodonga",
       },
       {
         "Address": "735 Derrimut Road",
@@ -13497,7 +13497,7 @@ export const getDecrypted = () => ({
         "siteId": "61377975",
         "Band": "3",
         "longitude": "144.692691",
-        "Name": "7-Eleven Tarneit North"
+        "Name": "7-Eleven Tarneit North",
       },
       {
         "Address": "85 Ashley Street",
@@ -13505,7 +13505,7 @@ export const getDecrypted = () => ({
         "siteId": "61377976",
         "Band": "3",
         "longitude": "144.863804",
-        "Name": "7-Eleven Braybrook"
+        "Name": "7-Eleven Braybrook",
       },
       {
         "Address": "620 Creswick Road",
@@ -13513,7 +13513,7 @@ export const getDecrypted = () => ({
         "siteId": "61377977",
         "Band": "9",
         "longitude": "143.850752",
-        "Name": "Ampol Soldiers Hill"
+        "Name": "Ampol Soldiers Hill",
       },
       {
         "Address": "315 Glenelg Highway",
@@ -13521,7 +13521,7 @@ export const getDecrypted = () => ({
         "siteId": "61377978",
         "Band": "2",
         "longitude": "143.805597",
-        "Name": "7-Eleven Delacombe"
+        "Name": "7-Eleven Delacombe",
       },
       {
         "Address": "Lot 168 Jungara St",
@@ -13529,7 +13529,7 @@ export const getDecrypted = () => ({
         "siteId": "61877053",
         "Band": "9",
         "longitude": "143.605765",
-        "Name": "Mirnirri Store"
+        "Name": "Mirnirri Store",
       },
       {
         "Address": "771-789 Barwon Heads Rd",
@@ -13537,7 +13537,7 @@ export const getDecrypted = () => ({
         "siteId": "61377979",
         "Band": "3",
         "longitude": "144.37433504547312",
-        "Name": "Ampol Foodary Armstrong Creek"
+        "Name": "Ampol Foodary Armstrong Creek",
       },
       {
         "Address": "228-238 Numurkah Road",
@@ -13545,7 +13545,7 @@ export const getDecrypted = () => ({
         "siteId": "61377980",
         "Band": "4",
         "longitude": "145.401306",
-        "Name": "7-Eleven Shepparton North"
+        "Name": "7-Eleven Shepparton North",
       },
       {
         "Address": "908 Burwood Highway",
@@ -13553,7 +13553,7 @@ export const getDecrypted = () => ({
         "siteId": "61377981",
         "Band": "9",
         "longitude": "145.282366",
-        "Name": "Liberty Ferntree Gully"
+        "Name": "Liberty Ferntree Gully",
       },
       {
         "Address": "86-90 Coleraine Road",
@@ -13561,7 +13561,7 @@ export const getDecrypted = () => ({
         "siteId": "61377982",
         "Band": "4",
         "longitude": "142.013897",
-        "Name": "OTR Hamilton"
+        "Name": "OTR Hamilton",
       },
       {
         "Address": "88 Derrimut Road",
@@ -13569,7 +13569,7 @@ export const getDecrypted = () => ({
         "siteId": "61377983",
         "Band": "3",
         "longitude": "144.682631",
-        "Name": "7-Eleven Hoppers Crossing"
+        "Name": "7-Eleven Hoppers Crossing",
       },
       {
         "Address": "Lot 6 Murray Valley Highway",
@@ -13577,7 +13577,7 @@ export const getDecrypted = () => ({
         "siteId": "61377984",
         "Band": "9",
         "longitude": "144.727918",
-        "Name": "BP Echuca"
+        "Name": "BP Echuca",
       },
       {
         "Address": "101 Gisborne Road",
@@ -13585,7 +13585,7 @@ export const getDecrypted = () => ({
         "siteId": "61377985",
         "Band": "4",
         "longitude": "144.437926",
-        "Name": "EG Ampol Bacchus Marsh"
+        "Name": "EG Ampol Bacchus Marsh",
       },
       {
         "Address": "1552-1572 Bellaring Highway",
@@ -13593,7 +13593,7 @@ export const getDecrypted = () => ({
         "siteId": "61377986",
         "Band": "4",
         "longitude": "144.543072",
-        "Name": "BP Wallington"
+        "Name": "BP Wallington",
       },
       {
         "Address": "2 Hartnett Way",
@@ -13601,7 +13601,7 @@ export const getDecrypted = () => ({
         "siteId": "61377987",
         "Band": "2",
         "longitude": "145.248947",
-        "Name": "7-Eleven Dandenong South"
+        "Name": "7-Eleven Dandenong South",
       },
       {
         "Address": "7A Mount Gambier Road",
@@ -13609,7 +13609,7 @@ export const getDecrypted = () => ({
         "siteId": "61377988",
         "Band": "9",
         "longitude": "141.390575",
-        "Name": "Top Shop Casterton"
+        "Name": "Top Shop Casterton",
       },
       {
         "Address": "533-551 Frankston - Dandenong Rd",
@@ -13617,7 +13617,7 @@ export const getDecrypted = () => ({
         "siteId": "61377989",
         "Band": "2",
         "longitude": "145.20699730092625",
-        "Name": "BP Dandenong South"
+        "Name": "BP Dandenong South",
       },
       {
         "Address": "5 Moorefield Park Dr",
@@ -13625,7 +13625,7 @@ export const getDecrypted = () => ({
         "siteId": "61377990",
         "Band": "3",
         "longitude": "146.85739229741532",
-        "Name": "OTR West Wodonga"
+        "Name": "OTR West Wodonga",
       },
       {
         "Address": "548 Clayton Rd",
@@ -13633,7 +13633,7 @@ export const getDecrypted = () => ({
         "siteId": "61377991",
         "Band": "9",
         "longitude": "145.11653357790985",
-        "Name": "BP Clayton Road"
+        "Name": "BP Clayton Road",
       },
       {
         "Address": "27 Golf Links Rd, Lakes Entrance VIC 3909, Australia",
@@ -13641,7 +13641,7 @@ export const getDecrypted = () => ({
         "siteId": "61377992",
         "Band": "9",
         "longitude": "148.01110025767213",
-        "Name": "Mobil Lakes Entrance"
+        "Name": "Mobil Lakes Entrance",
       },
       {
         "Address": "103 Ogilvie Ave",
@@ -13649,7 +13649,7 @@ export const getDecrypted = () => ({
         "siteId": "61377993",
         "Band": "9",
         "longitude": "144.76058604662705",
-        "Name": "Riordan Fuels Echuca"
+        "Name": "Riordan Fuels Echuca",
       },
       {
         "Address": "35C Cotters Rd",
@@ -13657,7 +13657,7 @@ export const getDecrypted = () => ({
         "siteId": "61377994",
         "Band": "3",
         "longitude": "145.00296586957396",
-        "Name": "EG Ampol Epping Cotters Road"
+        "Name": "EG Ampol Epping Cotters Road",
       },
       {
         "Address": "10-12 Coburns Rd",
@@ -13665,7 +13665,7 @@ export const getDecrypted = () => ({
         "siteId": "61377995",
         "Band": "5",
         "longitude": "144.56524420370488",
-        "Name": "7-Eleven Melton South"
+        "Name": "7-Eleven Melton South",
       },
       {
         "Address": "29 Railway Ave",
@@ -13673,7 +13673,7 @@ export const getDecrypted = () => ({
         "siteId": "61377996",
         "Band": "9",
         "longitude": "146.8445407248382",
-        "Name": "YCDCo"
+        "Name": "YCDCo",
       },
       {
         "Address": "81 Greenham St",
@@ -13681,7 +13681,7 @@ export const getDecrypted = () => ({
         "siteId": "61377997",
         "Band": "9",
         "longitude": "141.27733725909141",
-        "Name": "Dartmoor General Store"
+        "Name": "Dartmoor General Store",
       },
       {
         "Address": "7-11 Murray St",
@@ -13689,7 +13689,7 @@ export const getDecrypted = () => ({
         "siteId": "61377998",
         "Band": "9",
         "longitude": "144.96256132284057",
-        "Name": "Barmah Roadhouse"
+        "Name": "Barmah Roadhouse",
       },
       {
         "Address": "666 Main St",
@@ -13697,7 +13697,7 @@ export const getDecrypted = () => ({
         "siteId": "61377999",
         "Band": "9",
         "longitude": "147.59323060793457",
-        "Name": "Mobil Bairnsdale"
+        "Name": "Mobil Bairnsdale",
       },
       {
         "Address": "129-155 Cheltenham Road",
@@ -13705,7 +13705,7 @@ export const getDecrypted = () => ({
         "siteId": "61378000",
         "Band": "9",
         "longitude": "145.197399841793",
-        "Name": "United Dandenong"
+        "Name": "United Dandenong",
       },
       {
         "Address": "4134 Murray Valley Hwy",
@@ -13713,7 +13713,7 @@ export const getDecrypted = () => ({
         "siteId": "61378001",
         "Band": "9",
         "longitude": "145.59150445501709",
-        "Name": "Mobil Cobram"
+        "Name": "Mobil Cobram",
       },
       {
         "Address": "63/67 Tate Dr",
@@ -13721,7 +13721,7 @@ export const getDecrypted = () => ({
         "siteId": "61378002",
         "Band": "9",
         "longitude": "143.92726676821613",
-        "Name": "Endeavour Kerang"
+        "Name": "Endeavour Kerang",
       },
       {
         "Address": "9 Gregory St",
@@ -13729,7 +13729,7 @@ export const getDecrypted = () => ({
         "siteId": "61378003",
         "Band": "9",
         "longitude": "142.31551058011468",
-        "Name": "Metro Petroleum Ouyen"
+        "Name": "Metro Petroleum Ouyen",
       },
       {
         "Address": "38 Mill St",
@@ -13737,7 +13737,7 @@ export const getDecrypted = () => ({
         "siteId": "61378004",
         "Band": "9",
         "longitude": "142.58316276124168",
-        "Name": "Ampol Minyip"
+        "Name": "Ampol Minyip",
       },
       {
         "Address": "5948 Sunraysia Hwy",
@@ -13745,7 +13745,7 @@ export const getDecrypted = () => ({
         "siteId": "61378005",
         "Band": "6",
         "longitude": "143.26304664816493",
-        "Name": "Ampol St Arnaud"
+        "Name": "Ampol St Arnaud",
       },
       {
         "Address": "57 Great Ocean Rd",
@@ -13753,7 +13753,7 @@ export const getDecrypted = () => ({
         "siteId": "61378006",
         "Band": "9",
         "longitude": "143.38514518095357",
-        "Name": "Lavers Hill Roadhouse"
+        "Name": "Lavers Hill Roadhouse",
       },
       {
         "Address": "99 Ross St",
@@ -13761,7 +13761,7 @@ export const getDecrypted = () => ({
         "siteId": "61378007",
         "Band": "9",
         "longitude": "145.22239145544819",
-        "Name": "Metro Tatura"
+        "Name": "Metro Tatura",
       },
       {
         "Address": "44 Tullaroop Rd",
@@ -13769,7 +13769,7 @@ export const getDecrypted = () => ({
         "siteId": "61378008",
         "Band": "9",
         "longitude": "143.75153293042916",
-        "Name": "Maryborough Diesel Stop"
+        "Name": "Maryborough Diesel Stop",
       },
       {
         "Address": "218 Ison Road",
@@ -13777,7 +13777,7 @@ export const getDecrypted = () => ({
         "siteId": "61378009",
         "Band": "3",
         "longitude": "144.61389374892164",
-        "Name": "7-Eleven Harpley"
+        "Name": "7-Eleven Harpley",
       },
       {
         "Address": "17-25 Maroondah Hwy",
@@ -13785,7 +13785,7 @@ export const getDecrypted = () => ({
         "siteId": "61378010",
         "Band": "7",
         "longitude": "145.51125434425956",
-        "Name": "7-Eleven Healesville"
+        "Name": "7-Eleven Healesville",
       },
       {
         "Address": "345-365 Barwon Heads Rd",
@@ -13793,7 +13793,7 @@ export const getDecrypted = () => ({
         "siteId": "61378011",
         "Band": "3",
         "longitude": "144.36098831095183",
-        "Name": "7-Eleven Charlemont"
+        "Name": "7-Eleven Charlemont",
       },
       {
         "Address": "51 High St",
@@ -13801,7 +13801,7 @@ export const getDecrypted = () => ({
         "siteId": "61378012",
         "Band": "3",
         "longitude": "146.89064594577445",
-        "Name": "7-Eleven Wodonga Central"
+        "Name": "7-Eleven Wodonga Central",
       },
       {
         "Address": "7043 Goulburn Valley Highway",
@@ -13809,7 +13809,7 @@ export const getDecrypted = () => ({
         "siteId": "61378013",
         "Band": "9",
         "longitude": "145.57356796292604",
-        "Name": "Koonoomoo Store"
+        "Name": "Koonoomoo Store",
       },
       {
         "Address": "12 Happy Valley Road",
@@ -13817,7 +13817,7 @@ export const getDecrypted = () => ({
         "siteId": "61378014",
         "Band": "9",
         "longitude": "142.76650971519939",
-        "Name": "Happy Valley Store Robinvale"
+        "Name": "Happy Valley Store Robinvale",
       },
       {
         "Address": "Bungaree-Wallace Road",
@@ -13825,7 +13825,7 @@ export const getDecrypted = () => ({
         "siteId": "61378015",
         "Band": "9",
         "longitude": "144.00451698936621",
-        "Name": "Bungaree Store"
+        "Name": "Bungaree Store",
       },
       {
         "Address": "1 Nerrena Road",
@@ -13833,7 +13833,7 @@ export const getDecrypted = () => ({
         "siteId": "61378016",
         "Band": "9",
         "longitude": "146.09427909066915",
-        "Name": "MG Trading Dumbalk"
+        "Name": "MG Trading Dumbalk",
       },
       {
         "Address": "40 Great Ocean Road",
@@ -13841,7 +13841,7 @@ export const getDecrypted = () => ({
         "siteId": "61378017",
         "Band": "9",
         "longitude": "144.10698346309513",
-        "Name": "Aireys Inlet Licensed General Store"
+        "Name": "Aireys Inlet Licensed General Store",
       },
       {
         "Address": "20 High Street",
@@ -13849,7 +13849,7 @@ export const getDecrypted = () => ({
         "siteId": "61378018",
         "Band": "9",
         "longitude": "144.13293333408416",
-        "Name": "Marong Bulk Diesel"
+        "Name": "Marong Bulk Diesel",
       },
       {
         "Address": "1489 Shepparton-Katamatite Road",
@@ -13857,7 +13857,7 @@ export const getDecrypted = () => ({
         "siteId": "61378019",
         "Band": "9",
         "longitude": "145.58241461645693",
-        "Name": "Invergordon General Store"
+        "Name": "Invergordon General Store",
       },
       {
         "Address": "128 Main Neerim Rd, Neerim South VIC 3831, Australia",
@@ -13865,7 +13865,7 @@ export const getDecrypted = () => ({
         "siteId": "61378020",
         "Band": "9",
         "longitude": "145.95440076104609",
-        "Name": "Neerim South Supermarket"
+        "Name": "Neerim South Supermarket",
       },
       {
         "Address": "McIntyres Road",
@@ -13873,7 +13873,7 @@ export const getDecrypted = () => ({
         "siteId": "61378021",
         "Band": "9",
         "longitude": "142.62972896304052",
-        "Name": "Rupanyup Bulk Diesel"
+        "Name": "Rupanyup Bulk Diesel",
       },
       {
         "Address": "10-14 Cromie Street",
@@ -13881,7 +13881,7 @@ export const getDecrypted = () => ({
         "siteId": "61378022",
         "Band": "9",
         "longitude": "142.63086154441791",
-        "Name": "Emmets Garage"
+        "Name": "Emmets Garage",
       },
       {
         "Address": "86 Midland Highway",
@@ -13889,7 +13889,7 @@ export const getDecrypted = () => ({
         "siteId": "61378023",
         "Band": "9",
         "longitude": "144.99340871011671",
-        "Name": "Liberty Stanhope"
+        "Name": "Liberty Stanhope",
       },
       {
         "Address": "4252 Princes Highway",
@@ -13897,7 +13897,7 @@ export const getDecrypted = () => ({
         "siteId": "61378024",
         "Band": "9",
         "longitude": "142.06427024306663",
-        "Name": "Yambuk General Store"
+        "Name": "Yambuk General Store",
       },
       {
         "Address": "89 Goodlett Avenue",
@@ -13905,7 +13905,7 @@ export const getDecrypted = () => ({
         "siteId": "61378025",
         "Band": "9",
         "longitude": "147.60362024503112",
-        "Name": "BP Loch Sport"
+        "Name": "BP Loch Sport",
       },
       {
         "Address": "1921 Murray Valley Highway",
@@ -13913,7 +13913,7 @@ export const getDecrypted = () => ({
         "siteId": "61378026",
         "Band": "9",
         "longitude": "143.80187186019245",
-        "Name": "Lake Charm General Store"
+        "Name": "Lake Charm General Store",
       },
       {
         "Address": "5266 Midland Highway",
@@ -13921,7 +13921,7 @@ export const getDecrypted = () => ({
         "siteId": "61378027",
         "Band": "9",
         "longitude": "144.02867266152208",
-        "Name": "Elaine General Store & Post Office"
+        "Name": "Elaine General Store & Post Office",
       },
       {
         "Address": "50 Spry Street",
@@ -13929,7 +13929,7 @@ export const getDecrypted = () => ({
         "siteId": "61378028",
         "Band": "9",
         "longitude": "145.88175338164618",
-        "Name": "Riordan Tungamah"
+        "Name": "Riordan Tungamah",
       },
       {
         "Address": "54 Sandhurst Street",
@@ -13937,7 +13937,7 @@ export const getDecrypted = () => ({
         "siteId": "61378029",
         "Band": "9",
         "longitude": "144.20694752106985",
-        "Name": "Raywood Motors"
+        "Name": "Raywood Motors",
       },
       {
         "Address": "3554 Sunraysia Highway",
@@ -13945,7 +13945,7 @@ export const getDecrypted = () => ({
         "siteId": "61378030",
         "Band": "9",
         "longitude": "143.51482732579433",
-        "Name": "Lexton Automotive Service"
+        "Name": "Lexton Automotive Service",
       },
       {
         "Address": "2381 Midland Highway",
@@ -13953,7 +13953,7 @@ export const getDecrypted = () => ({
         "siteId": "61378031",
         "Band": "9",
         "longitude": "146.00114776727025",
-        "Name": "Metro Swanpool"
+        "Name": "Metro Swanpool",
       },
       {
         "Address": "2/4 Government Road",
@@ -13961,7 +13961,7 @@ export const getDecrypted = () => ({
         "siteId": "61378032",
         "Band": "9",
         "longitude": "147.56875936407641",
-        "Name": "Loch Sport General Store"
+        "Name": "Loch Sport General Store",
       },
       {
         "Address": "9 Perkins Street",
@@ -13969,7 +13969,7 @@ export const getDecrypted = () => ({
         "siteId": "61378033",
         "Band": "9",
         "longitude": "146.13710057141861",
-        "Name": "Jamieson River Automotives"
+        "Name": "Jamieson River Automotives",
       },
       {
         "Address": "3085 Princes Highway",
@@ -13977,7 +13977,7 @@ export const getDecrypted = () => ({
         "siteId": "61378034",
         "Band": "9",
         "longitude": "147.33552082591015",
-        "Name": "Billabong Roadhouse"
+        "Name": "Billabong Roadhouse",
       },
       {
         "Address": "26 Wallace Street",
@@ -13985,7 +13985,7 @@ export const getDecrypted = () => ({
         "siteId": "61378035",
         "Band": "9",
         "longitude": "144.07661881197103",
-        "Name": "Mortimer's Meredith Roadhouse"
+        "Name": "Mortimer's Meredith Roadhouse",
       },
       {
         "Address": "2969 Main Neerim Road",
@@ -13993,7 +13993,7 @@ export const getDecrypted = () => ({
         "siteId": "61378036",
         "Band": "9",
         "longitude": "145.96132313903124",
-        "Name": "Neerim Junction General Store"
+        "Name": "Neerim Junction General Store",
       },
       {
         "Address": "4561 Kiewa Valley Highway",
@@ -14001,7 +14001,7 @@ export const getDecrypted = () => ({
         "siteId": "61378037",
         "Band": "9",
         "longitude": "147.03050032017865",
-        "Name": "Dederang General Store"
+        "Name": "Dederang General Store",
       },
       {
         "Address": "63 Charles Street",
@@ -14009,7 +14009,7 @@ export const getDecrypted = () => ({
         "siteId": "61378038",
         "Band": "9",
         "longitude": "141.99167089947926",
-        "Name": "Mogas Jeparit"
+        "Name": "Mogas Jeparit",
       },
       {
         "Address": "1727-1805 Rokewood-Shelford Road",
@@ -14017,7 +14017,7 @@ export const getDecrypted = () => ({
         "siteId": "61378039",
         "Band": "9",
         "longitude": "143.80648060860716",
-        "Name": "Riordan Fuels Rokewood"
+        "Name": "Riordan Fuels Rokewood",
       },
       {
         "Address": "3478 Calder Highway",
@@ -14025,7 +14025,7 @@ export const getDecrypted = () => ({
         "siteId": "61378040",
         "Band": "9",
         "longitude": "142.27941575270972",
-        "Name": "The Hattah Lakes Store Roadhouse"
+        "Name": "The Hattah Lakes Store Roadhouse",
       },
       {
         "Address": "349 Belgrave-Gembrook Road",
@@ -14033,7 +14033,7 @@ export const getDecrypted = () => ({
         "siteId": "61378041",
         "Band": "9",
         "longitude": "145.444262",
-        "Name": "Auto Plus More"
+        "Name": "Auto Plus More",
       },
       {
         "Address": "118 Learmonth Street",
@@ -14041,7 +14041,7 @@ export const getDecrypted = () => ({
         "siteId": "61378042",
         "Band": "9",
         "longitude": "143.81111733117035",
-        "Name": "Ballarat Bulk Diesel"
+        "Name": "Ballarat Bulk Diesel",
       },
       {
         "Address": "264 Maroondah Highway",
@@ -14049,65 +14049,65 @@ export const getDecrypted = () => ({
         "siteId": "61378043",
         "Band": "9",
         "longitude": "145.63921768130015",
-        "Name": "Black Spur Roadhouse"
-      }
+        "Name": "Black Spur Roadhouse",
+      },
     ],
     "bands": [
       {
         "B": "null",
         "E": "174.18",
-        "I": "1"
+        "I": "1",
       },
       {
         "B": "174.19",
         "E": "179.18",
-        "I": "2"
+        "I": "2",
       },
       {
         "B": "179.19",
         "E": "184.18",
-        "I": "3"
+        "I": "3",
       },
       {
         "B": "184.19",
         "E": "189.18",
-        "I": "4"
+        "I": "4",
       },
       {
         "B": "189.19",
         "E": "194.18",
-        "I": "5"
+        "I": "5",
       },
       {
         "B": "194.19",
         "E": "199.18",
-        "I": "6"
+        "I": "6",
       },
       {
         "B": "199.19",
         "E": "204.18",
-        "I": "7"
+        "I": "7",
       },
       {
         "B": "204.19",
         "E": "null",
-        "I": "8"
+        "I": "8",
       },
       {
         "B": "null",
         "E": "null",
-        "I": "9"
-      }
-    ]
+        "I": "9",
+      },
+    ],
   },
   "DontBuyMoreThan": {
     "CustomRegion25PercentilePrices": [
       {
         "CustomRegionId": 44,
         "FuelId": 2,
-        "Price": 179.9
-      }
-    ]
+        "Price": 179.9,
+      },
+    ],
   },
   "TodaysPrice": {
     "CustomRegionsAvgHighLow": [
@@ -14118,9 +14118,9 @@ export const getDecrypted = () => ({
         "SiteFuelCount": 846,
         "LowPrice": 175.5,
         "HighPrice": 199.9,
-        "UtcDateTime": "2024-05-27T02:30:00.2525183Z"
-      }
-    ]
+        "UtcDateTime": "2024-05-27T02:30:00.2525183Z",
+      },
+    ],
   },
   "YesterdaysPrice": {
     "CustomRegionsAvgHighLow": [
@@ -14131,9 +14131,9 @@ export const getDecrypted = () => ({
         "SiteFuelCount": 738,
         "LowPrice": 169.7,
         "HighPrice": 199.9,
-        "UtcDateTime": "2023-12-10T12:30:00.1412524Z"
-      }
-    ]
+        "UtcDateTime": "2023-12-10T12:30:00.1412524Z",
+      },
+    ],
   },
   "GraphJSON": {
     "x1": [
@@ -14165,7 +14165,7 @@ export const getDecrypted = () => ({
       23,
       24,
       25,
-      26
+      26,
     ],
     "month": [
       3,
@@ -14196,7 +14196,7 @@ export const getDecrypted = () => ({
       4,
       4,
       4,
-      4
+      4,
     ],
     "retail": [
       "222.9",
@@ -14227,7 +14227,7 @@ export const getDecrypted = () => ({
       "186.4",
       "185.2",
       "184.3",
-      "183.8"
+      "183.8",
     ],
     "wholesale": [
       "",
@@ -14258,8 +14258,8 @@ export const getDecrypted = () => ({
       "176.95",
       "176.84",
       "176.69",
-      "176.69"
-    ]
+      "176.69",
+    ],
   },
-  "WholesaleTodayAveragePrice": "176.69"
+  "WholesaleTodayAveragePrice": "176.69",
 });

@@ -9,7 +9,7 @@ import stylisticJs from '@stylistic/eslint-plugin-js'
  */
 const globalIgnoreConfig = {
   ignores: [
-    'examples/',
+    'dist/',
   ],
 }
 
