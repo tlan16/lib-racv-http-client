@@ -1,0 +1,9 @@
+node_modules
+.dockerignore
+.gitignore
+.npmignore
+eslint.config.mjs
+index.ts
+tsconfig.build.json
+tsconfig.json
+tsup.config.ts

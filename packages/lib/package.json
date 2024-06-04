@@ -1,6 +1,6 @@
 {
   "name": "lib-racv-http-client",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "type": "module",
   "exports": {
     ".": {
@@ -14,14 +14,12 @@
     "directory": "packages/lib"
   },
   "scripts": {
-    "publish": "pnpm publish --access public",
-    "publish:dry-run": "pnpm publish --access public --dry-run",
+    "prepublishOnly": "pnpm run build",
     "build": "tsup",
     "test": "node --no-warnings=ExperimentalWarning --loader @swc-node/register/esm --test **/*.spec.ts",
     "lint": "./node_modules/.bin/eslint",
     "check-types": "./node_modules/.bin/tsc --noEmit"
   },
-  "main": "packages/lib/main.ts",
   "devDependencies": {
     "@eslint/js": "^9.3.0",
     "@stylistic/eslint-plugin-js": "^2.1.0",
