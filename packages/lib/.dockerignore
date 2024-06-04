@@ -8,5 +8,15 @@ node_modules
 # OS
 .DS_Store
 
+# Build
+/dist
+
+# Coverage
+coverages
+
 # Logs
 *.log
+
+# docker
+Dockerfile
+docker-compose.yml
