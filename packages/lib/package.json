@@ -1,13 +1,18 @@
 {
   "name": "lib-racv-http-client",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "type": "module",
   "exports": {
     ".": {
-      "require": "./dist/index.cjs",
-      "import": "./dist/index.js"
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.cjs"
     }
   },
+  "main": "./dist/index.cjs",
+  "types": "./dist/index.d.mts",
+  "files": [
+    "dist"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/tlan16/lib-racv-http-client.git",
@@ -15,7 +20,7 @@
   },
   "scripts": {
     "prepublishOnly": "pnpm run build",
-    "build": "tsup",
+    "build": "unbuild",
     "test": "node --no-warnings=ExperimentalWarning --loader @swc-node/register/esm --test **/*.spec.ts",
     "lint": "./node_modules/.bin/eslint",
     "check-types": "./node_modules/.bin/tsc --noEmit"
@@ -29,19 +34,19 @@
     "@swc/core": "^1.5.7",
     "@tsconfig/node22": "^22.0.0",
     "@tsconfig/strictest": "^2.0.5",
+    "@types/crypto-js": "^4.2.2",
     "@types/eslint": "^8.56.10",
     "@types/node": "^20.12.12",
+    "@types/user-agents": "^1.0.4",
     "eslint": "^9.3.0",
     "eslint-plugin-unused-imports": "^4.0.0",
     "typescript": "^5.4.5",
     "typescript-eslint": "^7.10.0",
-    "@types/user-agents": "^1.0.4",
-    "@types/crypto-js": "^4.2.2",
-    "tsup": "^8.1.0"
+    "unbuild": "^2.0.0"
   },
   "dependencies": {
-    "zod": "^3.23.8",
     "crypto-js": "^4.2.0",
-    "user-agents": "^1.1.216"
+    "user-agents": "^1.1.216",
+    "zod": "^3.23.8"
   }
 }
