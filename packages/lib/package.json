@@ -8,13 +8,18 @@
       "import": "./dist/index.js"
     }
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tlan16/lib-racv-http-client.git",
+    "directory": "packages/lib"
+  },
   "scripts": {
     "publish": "pnpm publish --access public",
     "publish:dry-run": "pnpm publish --access public --dry-run",
     "build": "tsup",
     "test": "node --no-warnings=ExperimentalWarning --loader @swc-node/register/esm --test **/*.spec.ts",
     "lint": "./node_modules/.bin/eslint",
-    "check-types": "./node_modules/.bin/tsc --noEmit"
+    "check-types": "./node_modules/.bin/tsc --noEmit",
   },
   "main": "packages/lib/main.ts",
   "devDependencies": {
