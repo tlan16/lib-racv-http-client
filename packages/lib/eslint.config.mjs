@@ -73,7 +73,7 @@ const typescriptConfigs = [
       '@stylistic/ts': stylisticTs,
     },
     rules: {
-      '@stylistic/js/no-trailing-spaces': ["error", { "skipBlankLines": true }],
+      '@stylistic/js/no-trailing-spaces': ["error"],
       '@stylistic/js/no-multiple-empty-lines': ["error", { "max": 2, "maxEOF": 0 }],
       '@stylistic/ts/object-curly-spacing': ["error", "always"],
       '@typescript-eslint/no-unsafe-return': 'off',

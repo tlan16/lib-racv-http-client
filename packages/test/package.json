@@ -3,7 +3,7 @@
   "type": "module",
   "private": true,
   "dependencies": {
-    "nodejs-library": "workspace:*"
+    "lib-racv-http-client": "workspace:*"
   },
   "scripts": {
     "start": "node --no-warnings=ExperimentalWarning --loader @swc-node/register/esm src/main.ts",

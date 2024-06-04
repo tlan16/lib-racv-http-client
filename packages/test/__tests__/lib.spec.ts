@@ -1,10 +1,11 @@
 import { describe, it } from "node:test";
 import * as assert from "node:assert";
-import { fetchData } from "nodejs-library";
+import { fetchFuelPrices } from "lib-racv-http-client";
 
-describe("fetchData", () => {
+describe("fetchFuelPrices", () => {
   it('should return expected data ', async () => {
-    const actual = await fetchData({ foo: "bar" });
-    assert.deepStrictEqual(actual, { foo: "bar" })
+    const actual = await fetchFuelPrices();
+    assert.ok(actual);
+    assert.ok(Object.keys(actual).length > 0);
   });
 })

@@ -1,3 +1,3 @@
-import { fetchData } from "nodejs-library";
+import { fetchFuelPrices } from "lib-racv-http-client";
 
-console.log(await fetchData({ foo: "bar" }))
+console.log(await fetchFuelPrices())
