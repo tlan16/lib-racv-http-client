@@ -1,6 +1,6 @@
 {
   "name": "lib-racv-http-client",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "type": "module",
   "exports": {
     ".": {
@@ -19,7 +19,7 @@
     "build": "tsup",
     "test": "node --no-warnings=ExperimentalWarning --loader @swc-node/register/esm --test **/*.spec.ts",
     "lint": "./node_modules/.bin/eslint",
-    "check-types": "./node_modules/.bin/tsc --noEmit",
+    "check-types": "./node_modules/.bin/tsc --noEmit"
   },
   "main": "packages/lib/main.ts",
   "devDependencies": {
