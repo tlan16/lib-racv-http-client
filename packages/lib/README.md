@@ -7,6 +7,8 @@ import { fetchFuelPrices } from "lib-racv-http-client";
 const prices = await fetchFuelPrices();
 ```
 
-Shape of the returned object may vary depends on RACV's implementation.
+Shape of the returned object may vary from time to time, depending on the data returned by the RACV's fuel price page.
+
+Best effort definition is here: [dataSources/schema.ts](dataSources/schema.ts)
 
 The library fetches and decrypted the fuel price data.
