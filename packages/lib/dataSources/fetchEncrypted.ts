@@ -22,4 +22,4 @@ export const fetchEncrypted = async () => {
     },
   });
   return await response.text();
-}
+};

@@ -6,5 +6,5 @@ describe('fetchEncrypted', () => {
   it("SHOULD fetch encrypted data", async () => {
     const actual = await fetchEncrypted();
     assert(actual.trim().length > 0, "Expected data to be fetched");
-  })
-})
+  });
+});

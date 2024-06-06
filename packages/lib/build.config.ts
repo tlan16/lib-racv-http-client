@@ -1,4 +1,4 @@
-import { BuildConfig } from "unbuild";
+import { type BuildConfig } from "unbuild";
 
 const config: BuildConfig = {
   entries: ["./index.ts"],

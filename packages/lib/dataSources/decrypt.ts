@@ -1,5 +1,5 @@
 import CryptoJS from "crypto-js";
-import { z } from "zod";
+import { type z } from "zod";
 import { schema } from "./schema";
 
 const secret = 'gUkXp2s5v8y/B?E(';
@@ -18,7 +18,7 @@ export const decrypt = (encrypted: string) => {
     },
   );
 
-  const decodedString = decodedObject.toString(CryptoJS.enc.Utf8)
+  const decodedString = decodedObject.toString(CryptoJS.enc.Utf8);
   const decodedJson: unknown = JSON.parse(decodedString);
   return schema.parse(decodedJson);
-}
+};

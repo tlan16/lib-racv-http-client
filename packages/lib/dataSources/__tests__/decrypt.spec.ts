@@ -8,4 +8,4 @@ describe("decrypt", () => {
     const actual = decrypt(encrypted);
     assert(JSON.stringify(actual) === JSON.stringify(getDecrypted()));
   });
-})
+});
